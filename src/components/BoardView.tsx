@@ -102,7 +102,11 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
     [visible],
   );
 
-  // D3 force simulation — runs once per visible-set change.
+  // Cluster toggle: when on, same-type nodes are pulled toward shared anchors
+  // so the eye can read regions instead of one undifferentiated cloud.
+  const [clusterByType, setClusterByType] = useState(true);
+
+  // D3 force simulation — runs once per visible-set change OR cluster toggle.
   // Deliberately does NOT depend on selectedId; a separate effect below
   // updates highlight state imperatively without rebuilding the layout.
   useEffect(() => {
@@ -123,12 +127,56 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       claim: c.claim,
     }));
 
+    // Degree per node (visual hierarchy: hubs render larger + always-labeled)
+    const degree = new Map<string, number>();
+    for (const n of simNodes) degree.set(n.id, 0);
+    for (const c of simLinks) {
+      const s = typeof c.source === "string" ? c.source : (c.source as SimNode).id;
+      const t = typeof c.target === "string" ? c.target : (c.target as SimNode).id;
+      degree.set(s, (degree.get(s) ?? 0) + 1);
+      degree.set(t, (degree.get(t) ?? 0) + 1);
+    }
+    const radiusOf = (id: string) =>
+      Math.min(14, 4 + Math.sqrt(degree.get(id) ?? 0) * 1.6);
+    const isHub = (id: string) => (degree.get(id) ?? 0) >= 4;
+
+    // Type-cluster anchors — 4x2 grid offset from canvas center. Strength is
+    // moderate so the simulation still respects edges; just nudges same-type
+    // nodes into shared regions for legibility.
+    const TYPE_GRID: Record<string, [number, number]> = {
+      Event:        [-0.30, -0.30],
+      Person:       [-0.10, -0.30],
+      Organization: [ 0.20, -0.30],
+      Faction:      [ 0.35,  0.00],
+      Place:        [ 0.20,  0.30],
+      Phenomenon:   [-0.10,  0.30],
+      Concept:      [-0.30,  0.30],
+      Artifact:     [-0.40,  0.00],
+    };
+    const anchorX = (n: SimNode): number => {
+      const off = TYPE_GRID[n.type]?.[0] ?? 0;
+      return width / 2 + off * width;
+    };
+    const anchorY = (n: SimNode): number => {
+      const off = TYPE_GRID[n.type]?.[1] ?? 0;
+      return height / 2 + off * height;
+    };
+
     const g = svg.append("g");
 
-    // Zoom / pan
-    const zoom = d3.zoom<SVGSVGElement, unknown>()
+    // Zoom / pan — also drives label visibility (below).
+    let currentZoom = 1;
+    const zoom = d3
+      .zoom<SVGSVGElement, unknown>()
       .scaleExtent([0.2, 4])
-      .on("zoom", (event) => g.attr("transform", event.transform.toString()));
+      .on("zoom", (event) => {
+        g.attr("transform", event.transform.toString());
+        currentZoom = event.transform.k;
+        g.selectAll<SVGTextElement, SimNode>("text.node-label")
+          .attr("display", (d) =>
+            currentZoom >= 1.5 || isHub(d.id) || d.id === selectedId ? null : "none",
+          );
+      });
     svg.call(zoom);
 
     // Edges
@@ -139,7 +187,7 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       .data(simLinks)
       .join("line")
       .attr("stroke-width", (d) => Math.max(0.5, d.confidence * 2))
-      .attr("stroke-opacity", (d) => (d.confidence < 0.5 ? 0.25 : 0.6))
+      .attr("stroke-opacity", (d) => (d.confidence < 0.5 ? 0.2 : 0.5))
       .attr("stroke-dasharray", (d) => (d.confidence < 0.5 ? "3,3" : null));
 
     link.append("title").text((d) =>
@@ -155,6 +203,14 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       .attr("cursor", "pointer")
       .attr("data-node-id", (d) => d.id)
       .on("click", (_, d) => setSelectedId(d.id))
+      .on("mouseover", function () {
+        d3.select(this).select("text.node-label").attr("display", null);
+      })
+      .on("mouseout", function (_, d) {
+        if (currentZoom < 1.5 && !isHub(d.id) && d.id !== selectedId) {
+          d3.select(this).select("text.node-label").attr("display", "none");
+        }
+      })
       .call(
         d3
           .drag<SVGGElement, SimNode>()
@@ -176,18 +232,21 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
 
     node
       .append("circle")
-      .attr("r", 6)
+      .attr("r", (d) => radiusOf(d.id))
       .attr("fill", (d) => TYPE_COLOR[d.type] ?? "#888")
       .attr("stroke", "#1f1f23")
       .attr("stroke-width", 1);
 
     node
       .append("text")
-      .attr("dx", 9)
+      .attr("class", "node-label")
+      .attr("dx", (d) => radiusOf(d.id) + 3)
       .attr("dy", 3)
-      .attr("font-size", 10)
+      .attr("font-size", (d) => (isHub(d.id) ? 11 : 10))
+      .attr("font-weight", (d) => (isHub(d.id) ? "600" : "400"))
       .attr("fill", "#d4d4d8")
       .attr("pointer-events", "none")
+      .attr("display", (d) => (isHub(d.id) ? null : "none"))
       .text((d) => d.name);
 
     node.append("title").text((d) => `${d.type}: ${d.name}`);
@@ -196,39 +255,69 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       .forceSimulation(simNodes)
       .force(
         "link",
-        d3.forceLink<SimNode, SimLink>(simLinks).id((d) => d.id).distance(80).strength(0.4),
+        d3
+          .forceLink<SimNode, SimLink>(simLinks)
+          .id((d) => d.id)
+          .distance(140)
+          .strength(0.5),
       )
-      .force("charge", d3.forceManyBody().strength(-180))
+      .force("charge", d3.forceManyBody().strength(-360))
       .force("center", d3.forceCenter(width / 2, height / 2))
-      .force("collide", d3.forceCollide(14))
-      .on("tick", () => {
-        link
-          .attr("x1", (d) => (d.source as SimNode).x ?? 0)
-          .attr("y1", (d) => (d.source as SimNode).y ?? 0)
-          .attr("x2", (d) => (d.target as SimNode).x ?? 0)
-          .attr("y2", (d) => (d.target as SimNode).y ?? 0);
-        node.attr("transform", (d) => `translate(${d.x ?? 0},${d.y ?? 0})`);
-      });
+      .force(
+        "collide",
+        d3.forceCollide<SimNode>().radius((d) => radiusOf(d.id) + 8),
+      );
+
+    if (clusterByType) {
+      sim
+        .force("clusterX", d3.forceX<SimNode>(anchorX).strength(0.08))
+        .force("clusterY", d3.forceY<SimNode>(anchorY).strength(0.08));
+    }
+
+    sim.on("tick", () => {
+      link
+        .attr("x1", (d) => (d.source as SimNode).x ?? 0)
+        .attr("y1", (d) => (d.source as SimNode).y ?? 0)
+        .attr("x2", (d) => (d.target as SimNode).x ?? 0)
+        .attr("y2", (d) => (d.target as SimNode).y ?? 0);
+      node.attr("transform", (d) => `translate(${d.x ?? 0},${d.y ?? 0})`);
+    });
 
     return () => {
       sim.stop();
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [scopeKey]);
+  }, [scopeKey, clusterByType]);
 
   // Selection highlight — imperative DOM update, no layout disturbance.
+  // Recompute degree-based base radius so the highlight bumps it up by a
+  // consistent amount instead of overwriting it.
   useEffect(() => {
     if (!svgRef.current) return;
     const svg = d3.select(svgRef.current);
+    const degree = new Map<string, number>();
+    for (const n of visible.nodes) degree.set(n.id, 0);
+    for (const c of visible.conns) {
+      degree.set(c.srcNodeId, (degree.get(c.srcNodeId) ?? 0) + 1);
+      degree.set(c.tgtNodeId, (degree.get(c.tgtNodeId) ?? 0) + 1);
+    }
+    const baseR = (id: string) =>
+      Math.min(14, 4 + Math.sqrt(degree.get(id) ?? 0) * 1.6);
+
     svg.selectAll<SVGGElement, SimNode>("g[data-node-id]").each(function (d) {
       const isSelected = d?.id === selectedId;
+      const r = baseR(d.id) + (isSelected ? 4 : 0);
       d3.select(this)
         .select("circle")
-        .attr("r", isSelected ? 10 : 6)
+        .attr("r", r)
         .attr("stroke", isSelected ? "#fff" : "#1f1f23")
-        .attr("stroke-width", isSelected ? 2 : 1);
+        .attr("stroke-width", isSelected ? 2.5 : 1);
+      // Ensure the selected node always shows its label
+      if (isSelected) {
+        d3.select(this).select("text.node-label").attr("display", null);
+      }
     });
-  }, [selectedId, scopeKey]);
+  }, [selectedId, scopeKey, visible.nodes, visible.conns]);
 
   const selected = selectedId ? nodeById.get(selectedId) ?? null : null;
 
@@ -267,6 +356,14 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
               <span className="text-zinc-400">around {nodeById.get(selectedId)?.name}</span>
             )}
           </div>
+
+          <button
+            onClick={() => setClusterByType((v) => !v)}
+            className={`px-1.5 py-0.5 border ${clusterByType ? "bg-zinc-100 text-black border-zinc-100" : "bg-zinc-900 text-zinc-400 border-zinc-700 hover:border-zinc-500"}`}
+            title="Pull same-type nodes toward shared anchor regions"
+          >
+            cluster
+          </button>
 
           <div className="flex items-center gap-1.5 flex-wrap">
             {allTypes.map((t) => {
