@@ -16,12 +16,14 @@
     "db:reset": "rm -f data/aurora.db && pnpm db:migrate && pnpm db:seed",
     "news:scrape": "tsx scripts/scrape-news.ts",
     "news:scrape:full": "tsx scripts/scrape-news.ts --full",
-    "news:load": "tsx scripts/seed.ts data/seeds/news_archive.json"
+    "news:load": "tsx scripts/seed.ts data/seeds/news_archive.json",
+    "resolver:audit": "tsx scripts/resolve.ts"
   },
   "dependencies": {
     "better-sqlite3": "^11.5.0",
     "d3": "^7.9.0",
     "drizzle-orm": "^0.36.0",
+    "fastest-levenshtein": "^1.0.16",
     "next": "^15.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

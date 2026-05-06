@@ -82,7 +82,7 @@
       "id": "src_news_jita_protests",
       "type": "Press Release",
       "publisher": "CCP Games \u2014 New Eden News",
-      "title": "Jita Citizens Protest State Response, Concord to Negotiate",
+      "title": "Jita Citizens Protest State Response, CONCORD to Negotiate",
       "url": "https://universe.eveonline.com/new-eden-news/jita-citizens-protest-state-response-concord-to-negotiate",
       "date": "2026-04-28",
       "license_tier": "ccp-fan-content",
@@ -1376,13 +1376,13 @@
     {
       "id": "evt_kantar_concord_speech",
       "type": "Event",
-      "name": "Kantar Yun's Concord Hypocrisy Speech",
-      "brief": "Mimitar ambassador called out Concord for protecting Amarr slavery. Pulled aside afterward and shown the secret Elder Fleet project.",
+      "name": "Kantar Yun's CONCORD Hypocrisy Speech",
+      "brief": "Mimitar ambassador called out CONCORD for protecting Amarr slavery. Pulled aside afterward and shown the secret Elder Fleet project.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Mimitar ambassador Kantar Yun called out Concord publicly for protecting Amarr slavery. After the speech, the Mimitar Elders pulled him aside and revealed the secret Elder Fleet project. The speech is the catalyst that converts him from diplomat to revolutionary fellow-traveler."
+      "master_summary": "Mimitar ambassador Kantar Yun called out CONCORD publicly for protecting Amarr slavery. After the speech, the Mimitar Elders pulled him aside and revealed the secret Elder Fleet project. The speech is the catalyst that converts him from diplomat to revolutionary fellow-traveler."
     },
     {
       "id": "evt_jamyl_drifter_assassination",
@@ -1543,23 +1543,23 @@
       "id": "per_kantar_yun",
       "type": "Person",
       "name": "Kantar Yun",
-      "brief": "Mimitar ambassador to Concord. Public hypocrisy speech triggered the chain that led the Mimitar Elders to reveal the Elder Fleet project to him.",
+      "brief": "Mimitar ambassador to CONCORD. Public hypocrisy speech triggered the chain that led the Mimitar Elders to reveal the Elder Fleet project to him.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Mimitar ambassador to Concord. His public hypocrisy speech triggered the chain that led the Mimitar Elders to reveal the secret Elder Fleet project to him. Continues to play diplomatic spoiler roles into the YC120 Kahah crisis."
+      "master_summary": "Mimitar ambassador to CONCORD. His public hypocrisy speech triggered the chain that led the Mimitar Elders to reveal the secret Elder Fleet project to him. Continues to play diplomatic spoiler roles into the YC120 Kahah crisis."
     },
     {
       "id": "per_karin_midular",
       "type": "Person",
       "name": "Karin Midular",
-      "brief": "Mimitar Sanmatar at the time of the Concord protest era. Pursued peace and appeasement with Amarr \u2014 controversial within the Republic for sidelining the still-enslaved.",
+      "brief": "Mimitar Sanmatar at the time of the CONCORD protest era. Pursued peace and appeasement with Amarr \u2014 controversial within the Republic for sidelining the still-enslaved.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Mimitar Sanmatar of the Concord-protest era. Pursued peace and appeasement with Amarr \u2014 controversial within the Republic because it sidelined the still-enslaved population. Her track was the structural backdrop the Elders worked around when building the Elder Fleet."
+      "master_summary": "Mimitar Sanmatar of the CONCORD-protest era. Pursued peace and appeasement with Amarr \u2014 controversial within the Republic because it sidelined the still-enslaved population. Her track was the structural backdrop the Elders worked around when building the Elder Fleet."
     },
     {
       "id": "per_alika_valkanir",
@@ -1763,12 +1763,12 @@
       "id": "cnc_emwpa",
       "type": "Concept",
       "name": "Emergency Militia War Powers Act",
-      "brief": "Concord act that established Faction Warfare. Cited by Kantar Yun in the YC120 Kahah crisis as having been violated repeatedly in highsec without consequence.",
+      "brief": "CONCORD act that established Faction Warfare. Cited by Kantar Yun in the YC120 Kahah crisis as having been violated repeatedly in highsec without consequence.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Emergency Militia War Powers Act. Concord act that established Faction Warfare. Cited by Kantar Yun in the YC120 Kahah crisis as having been violated repeatedly in highsec without consequence \u2014 the precedent CONCORD's Warpath failure now repeats at scale."
+      "master_summary": "Emergency Militia War Powers Act. CONCORD act that established Faction Warfare. Cited by Kantar Yun in the YC120 Kahah crisis as having been violated repeatedly in highsec without consequence \u2014 the precedent CONCORD's Warpath failure now repeats at scale."
     },
     {
       "id": "phn_vitoxin",
@@ -1814,7 +1814,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Rare ore reprocessed into both cerebral accelerators (legitimate) and Death Glow (illegal). The dual-use chemistry that lets the same supply chain feed Concord-sanctioned skill acceleration and weaponized chemical attacks."
+      "master_summary": "Rare ore reprocessed into both cerebral accelerators (legitimate) and Death Glow (illegal). The dual-use chemistry that lets the same supply chain feed CONCORD-sanctioned skill acceleration and weaponized chemical attacks."
     },
     {
       "id": "org_khanid_kingdom",
@@ -3441,7 +3441,7 @@
     "Mil-Campaign #2 region added 2026-05-06: 56 new nodes covering Old Wars / Imperian Age / YC120 Kahah / Lost Adama arcs. Bridges to existing Warpath corpus via per_maleatu_shakur, evt_tanu_dread_attack (= one of the YC123 dread assaults), per_catiz_i succession from Jamyl I, and the Insorum chain through Otro Gariushi's death.",
     "Fixed Tama \u2192 Tanu transcript artifact on evt_yc123_dread_assaults (auto-captions consistently mistranscribed; canonical name is Tanu).",
     "Master summary added to 152/152 nodes \u2014 synthesis of each node's role through its connections (spec \u00a76 Tier 3, persisted as curator data).",
-    "Financial-flow layer added 2026-05-06: 41 new edges using 5 new relation types (funds / revenue-from / launders-through / financially-exposed-to / supplies). Surfaces ISK pipelines: Quafe-Lai-Dai-Roden, Star-Seed-Ytiri-Ishukone, Concord-AIR-EDENCOM realignment, Intaki-Bank-Upwell exposure, Death-Glow-Blood-Raider supply, Vitoxin-as-economic-backbone.",
+    "Financial-flow layer added 2026-05-06: 41 new edges using 5 new relation types (funds / revenue-from / launders-through / financially-exposed-to / supplies). Surfaces ISK pipelines: Quafe-Lai-Dai-Roden, Star-Seed-Ytiri-Ishukone, CONCORD-AIR-EDENCOM realignment, Intaki-Bank-Upwell exposure, Death-Glow-Blood-Raider supply, Vitoxin-as-economic-backbone.",
     "Corpus expansion 2026-05-06: +18 canonical sources (7 New Eden News, 1 EVE Online announcement, 4 Chronicles, 2 novels, 1 Hoboleaks, 3 Ashterothi/Scope references). Wired 44 new node-to-source citations. All excerpts are curator-authored paraphrased synopses; no primary text reproduced.",
     "Phase 2 corpus targets (deferred): full Chronicle archive (~600 entries), full EVE book set (Empyrean Age / Burning Life / Templar One / Imperian Age), Scope video catalogue, broader Ashterothi catalogue, third-party wikis (eve-uniwiki, backstage forum). These need their own ingestion pipelines (spec \u00a711.1 Library).",
     "Typo audit 2026-05-06: renamed org_mortis_legion \u2192 org_mordus_legion (1 node, 1 edge references). Text fixes: 'Mortis Legion'\u2192'Mordu's Legion' (8x), 'Muria Moru'\u2192'Muryia Mordu' (4x)."
