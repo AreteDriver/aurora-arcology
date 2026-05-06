@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useMemo, useState } from "react";
 
 interface SuggestionItem {
   id: number;
@@ -38,42 +38,24 @@ const rationaleClass = (r: string | null) => {
   return RATIONALE_COLOR[r] ?? (r.startsWith("tf-frequency") ? "text-purple-400" : "text-zinc-500");
 };
 
-export default function SuggestionsList({ groups: initialGroups }: Props) {
-  const [groups, setGroups] = useState(initialGroups);
+export default function SuggestionsList({ groups }: Props) {
   const [open, setOpen] = useState<string | null>(null);
-  const [busy, setBusy] = useState<number | null>(null);
   const [rationaleFilter, setRationaleFilter] = useState<string | null>(null);
 
   // Group rationales for filter pills
-  const rationaleCounts = groups.reduce<Record<string, number>>((acc, g) => {
-    const key = g.rationale ?? "unknown";
-    acc[key] = (acc[key] ?? 0) + 1;
-    return acc;
-  }, {});
+  const rationaleCounts = useMemo(
+    () =>
+      groups.reduce<Record<string, number>>((acc, g) => {
+        const key = g.rationale ?? "unknown";
+        acc[key] = (acc[key] ?? 0) + 1;
+        return acc;
+      }, {}),
+    [groups],
+  );
 
   const visibleGroups = rationaleFilter
     ? groups.filter((g) => g.rationale === rationaleFilter)
     : groups;
-
-  async function resolve(id: number, action: "accept" | "reject") {
-    setBusy(id);
-    try {
-      const res = await fetch(`/api/suggestions/${id}`, {
-        method: "PATCH",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ action }),
-      });
-      if (!res.ok) throw new Error(await res.text());
-      // remove from local state
-      setGroups((gs) =>
-        gs
-          .map((g) => ({ ...g, items: g.items.filter((i) => i.id !== id), count: g.count - (g.items.find((i) => i.id === id) ? 1 : 0) }))
-          .filter((g) => g.items.length > 0),
-      );
-    } finally {
-      setBusy(null);
-    }
-  }
 
   if (groups.length === 0) {
     return (
@@ -135,7 +117,7 @@ export default function SuggestionsList({ groups: initialGroups }: Props) {
                 <li key={item.id} className="p-3 text-xs flex items-start gap-3">
                   <div className="flex-1">
                     <div className="font-mono text-zinc-500 mb-0.5">
-                      {item.sourceDate ?? "—"} · {item.sourcePublisher ?? ""}
+                      {item.sourceDate ?? "—"} · {item.sourcePublisher ?? ""} · #{item.id}
                     </div>
                     {item.sourceUrl ? (
                       <a
@@ -149,22 +131,6 @@ export default function SuggestionsList({ groups: initialGroups }: Props) {
                     ) : (
                       <span>{item.sourceTitle ?? item.sourceId}</span>
                     )}
-                  </div>
-                  <div className="flex gap-1 shrink-0">
-                    <button
-                      onClick={() => resolve(item.id, "accept")}
-                      disabled={busy === item.id}
-                      className="px-2 py-0.5 bg-green-900 hover:bg-green-800 text-green-100 font-mono text-xs disabled:opacity-50"
-                    >
-                      accept
-                    </button>
-                    <button
-                      onClick={() => resolve(item.id, "reject")}
-                      disabled={busy === item.id}
-                      className="px-2 py-0.5 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 font-mono text-xs disabled:opacity-50"
-                    >
-                      reject
-                    </button>
                   </div>
                 </li>
               ))}

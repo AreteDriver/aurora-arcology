@@ -47,8 +47,14 @@ export default async function SuggestionsPage() {
       <h1 className="text-2xl font-bold mb-2">Suggestions</h1>
       <p className="text-sm text-zinc-400 mb-4">
         NER-extracted candidate citations awaiting curator review. Pattern: spec §9
-        Phase 3 — auto-suggested, never auto-drawn. Accept to wire the source as a
-        citation on the existing node; reject to dismiss.
+        Phase 3 — auto-suggested, never auto-drawn.
+      </p>
+      <p className="text-xs text-zinc-500 mb-4 font-mono">
+        Curator workflow (local only):{" "}
+        <code className="text-zinc-300">pnpm admin suggestions accept-all</code> bulk-accepts
+        the safe class (gazetteer hits to existing nodes).{" "}
+        <code className="text-zinc-300">accept &lt;id&gt;</code> /{" "}
+        <code className="text-zinc-300">reject &lt;id&gt;</code> for individual review.
       </p>
       <p className="text-xs text-zinc-500 font-mono mb-6">
         {rows.length} pending across {groups.length} distinct candidates
