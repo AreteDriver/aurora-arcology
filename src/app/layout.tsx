@@ -17,6 +17,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <a href="/">boards</a>
             <a href="/sources">sources</a>
             <a href="/suggestions">suggestions</a>
+            <a href="/audit">audit</a>
           </nav>
         </header>
         <main className="px-6 py-6">{children}</main>
