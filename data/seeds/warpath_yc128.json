@@ -1,7 +1,7 @@
 {
   "_meta": {
     "board_id": "warpath_yc128",
-    "board_title": "Warpath / Syndicate Conquest \u2014 YC128 Q2",
+    "board_title": "Warpath / Syndicate Conquest — YC128 Q2",
     "curator": "ARETE",
     "created_at": "2026-05-06",
     "spec_version": "aurora-spec-v0.4",
@@ -70,7 +70,7 @@
     {
       "id": "src_news_jita_gates_damaged",
       "type": "Press Release",
-      "publisher": "CCP Games \u2014 New Eden News",
+      "publisher": "CCP Games — New Eden News",
       "title": "Gates into Jita Damaged As Tensions Between Empires Rise",
       "url": "https://universe.eveonline.com/new-eden-news/gates-into-jita-damaged-as-tensions-between-empires-rise",
       "date": "2026-04-21",
@@ -81,7 +81,7 @@
     {
       "id": "src_news_jita_protests",
       "type": "Press Release",
-      "publisher": "CCP Games \u2014 New Eden News",
+      "publisher": "CCP Games — New Eden News",
       "title": "Jita Citizens Protest State Response, CONCORD to Negotiate",
       "url": "https://universe.eveonline.com/new-eden-news/jita-citizens-protest-state-response-concord-to-negotiate",
       "date": "2026-04-28",
@@ -92,7 +92,7 @@
     {
       "id": "src_news_warpath_failure",
       "type": "Press Release",
-      "publisher": "CCP Games \u2014 New Eden News",
+      "publisher": "CCP Games — New Eden News",
       "title": "Warpath Protocol Failure Brings War To High-Sec",
       "url": "https://universe.eveonline.com/new-eden-news/warpath-protocol-failure-brings-war-to-high-sec",
       "date": "2026-04-30",
@@ -103,7 +103,7 @@
     {
       "id": "src_news_silphy_arrested",
       "type": "Press Release",
-      "publisher": "CCP Games \u2014 New Eden News",
+      "publisher": "CCP Games — New Eden News",
       "title": "Silphy en Diabel Arrested in Relation to Jita-gate Incident",
       "url": "https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident",
       "date": "2026-05-01",
@@ -114,7 +114,7 @@
     {
       "id": "src_news_caldari_conquers_syndicate",
       "type": "Press Release",
-      "publisher": "CCP Games \u2014 New Eden News",
+      "publisher": "CCP Games — New Eden News",
       "title": "Caldari State Conquers Syndicate, Breakout Expected",
       "url": "https://universe.eveonline.com/new-eden-news/caldari-state-conquers-syndicate-breakout-expected",
       "date": "2026-05-05",
@@ -125,7 +125,7 @@
     {
       "id": "src_news_moreau_elected",
       "type": "Press Release",
-      "publisher": "CCP Games \u2014 New Eden News",
+      "publisher": "CCP Games — New Eden News",
       "title": "Alix Moreau Elected President of Gallente Federation",
       "url": "https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation",
       "date": "2026-04-17",
@@ -136,7 +136,7 @@
     {
       "id": "src_news_drifter_warnings",
       "type": "Press Release",
-      "publisher": "CCP Games \u2014 New Eden News",
+      "publisher": "CCP Games — New Eden News",
       "title": "Warnings Raised Over Drifter Wormhole Experiments",
       "url": "https://universe.eveonline.com/new-eden-news/warnings-raised-over-drifter-wormhole-experiments",
       "date": "2025-10-30",
@@ -147,7 +147,7 @@
     {
       "id": "src_eve_capsuleer_day_xxiii",
       "type": "Press Release",
-      "publisher": "CCP Games \u2014 eveonline.com",
+      "publisher": "CCP Games — eveonline.com",
       "title": "Capsuleer Day XXIII: Warpath is Here",
       "url": "https://www.eveonline.com/news/view/capsuleer-day-xxiii-warpath-is-here",
       "date": "2026-04-30",
@@ -158,10 +158,10 @@
     {
       "id": "src_chronicle_silphy",
       "type": "Chronicle",
-      "publisher": "CCP Games \u2014 EVE Universe",
-      "title": "Silphy en Diabel (Chronicle)",
-      "url": "https://universe.eveonline.com/lore/chronicles",
-      "date": "2008",
+      "publisher": "CCP Games — EVE Universe",
+      "title": "Silphy (Chronicle)",
+      "url": "https://universe.eveonline.com/chronicles/silphy",
+      "date": "2001-08-06",
       "license_tier": "ccp-fan-content",
       "canonicity": "ccp-canon",
       "excerpt": "Curator synopsis: biographical chronicle of the Syndicate's de-facto leader. Covers her Sister of EVE upbringing, her engineered Pas station coup, her Sarpati-line collaboration, and her break with Sentona."
@@ -169,35 +169,13 @@
     {
       "id": "src_chronicle_ante",
       "type": "Chronicle",
-      "publisher": "CCP Games \u2014 EVE Universe",
+      "publisher": "CCP Games — EVE Universe",
       "title": "Ante (Chronicle)",
       "url": "https://universe.eveonline.com/chronicles/ante",
       "date": "2010-04-19",
       "license_tier": "ccp-fan-content",
       "canonicity": "ccp-canon",
-      "excerpt": "Curator synopsis: dramatized Sentona\u2013Silphy meeting on Intaki V. The Reverend Mother and the Syndicate Chair stage a public hostile exchange while a timing-falsified sensor log conceals their actual coordination. Reveals the Zephyr-telemetry data trade with Ishukone via the Lacante / Mens Reppola / Mordu's-Legion-aware channel. Title 'Ante' is canonical; the chronicle was informally referred to as 'Antagonists' in earlier curator labels."
-    },
-    {
-      "id": "src_chronicle_starkmanir",
-      "type": "Chronicle",
-      "publisher": "CCP Games \u2014 EVE Universe",
-      "title": "Starkmanir (Lost Tribe Chronicle)",
-      "url": "https://universe.eveonline.com/lore/chronicles",
-      "date": "2008",
-      "license_tier": "ccp-fan-content",
-      "canonicity": "ccp-canon",
-      "excerpt": "Curator synopsis: pre-Imperian-Age chronicle of the Starkmanir tribe \u2014 Arzad enslavement, Ardishapur succession, orbital bombardment, presumed extinction."
-    },
-    {
-      "id": "src_chronicle_nefantar",
-      "type": "Chronicle",
-      "publisher": "CCP Games \u2014 EVE Universe",
-      "title": "Nefantar / Ammatar Chronicle",
-      "url": "https://universe.eveonline.com/lore/chronicles",
-      "date": "2008",
-      "license_tier": "ccp-fan-content",
-      "canonicity": "ccp-canon",
-      "excerpt": "Curator synopsis: chronicle establishing the Nefantar's Day-of-Darkness defection, Damyas III's bestowal of the Ammatar honorific, and the long Mandate-era covert protection of Starkmanir survivors."
+      "excerpt": "Curator synopsis: dramatized Sentona–Silphy meeting on Intaki V. The Reverend Mother and the Syndicate Chair stage a public hostile exchange while a timing-falsified sensor log conceals their actual coordination. Reveals the Zephyr-telemetry data trade with Ishukone via the Lacante / Mens Reppola / Mordu's-Legion-aware channel. Title 'Ante' is canonical; the chronicle was informally referred to as 'Antagonists' in earlier curator labels."
     },
     {
       "id": "src_book_empyrean_age",
@@ -225,7 +203,7 @@
       "id": "src_hoboleaks_warpath",
       "type": "Patch Note",
       "publisher": "Hoboleaks (third-party)",
-      "title": "Hoboleaks \u2014 Warpath Cycle Items",
+      "title": "Hoboleaks — Warpath Cycle Items",
       "url": "https://sde.hoboleaks.space/",
       "date": "2026-04-30",
       "license_tier": "restricted",
@@ -242,30 +220,30 @@
       "license_tier": "permissioned-creator",
       "canonicity": "creator-interpretation",
       "excerpt": "Curator reference: deep-dive on the seven tribes (Starkmanir / Nefantar / Brutor / Krusual / Sebiestor / Vherokior / Thukker). Referenced in the Ammatar tourism stream. Deferred for full ingestion.",
-      "_note": "Deferred \u2014 placeholder for next extraction pass"
+      "_note": "Deferred — placeholder for next extraction pass"
     },
     {
       "id": "src_ash_deathless_lore",
       "type": "Stream Transcript",
       "publisher": "Ashterothi (YouTube)",
-      "title": "EVE Lore 2025 Part 1 \u2014 The Deathless",
+      "title": "EVE Lore 2025 Part 1 — The Deathless",
       "url": "https://www.youtube.com/watch?v=rL-fHzuQ5iE",
       "date": "2025",
       "license_tier": "permissioned-creator",
       "canonicity": "creator-interpretation",
       "excerpt": "Curator reference: covers the Deathless / Air / Archbine arc that the YC128 Warpath cycle's Pochven-adjacent threads connect to. Deferred for full ingestion.",
-      "_note": "Deferred \u2014 placeholder for next extraction pass"
+      "_note": "Deferred — placeholder for next extraction pass"
     },
     {
       "id": "src_scope_official",
       "type": "Scope Video",
-      "publisher": "CCP Games \u2014 The Scope",
+      "publisher": "CCP Games — The Scope",
       "title": "The Scope (CCP official lore video series)",
       "url": "https://www.youtube.com/@CCPGames",
       "date": "ongoing",
       "license_tier": "ccp-fan-content",
       "canonicity": "ccp-canon",
-      "excerpt": "Curator reference: CCP's official in-universe news broadcast format. As of YC128.05.05, no Scope video has been released for the Warpath cycle \u2014 Ashterothi notes this absence as conspicuous, attributing it to Fanfest-trailer prep load."
+      "excerpt": "Curator reference: CCP's official in-universe news broadcast format. As of YC128.05.05, no Scope video has been released for the Warpath cycle — Ashterothi notes this absence as conspicuous, attributing it to Fanfest-trailer prep load."
     },
     {
       "id": "src_ash_air_new_region",
@@ -288,6 +266,94 @@
       "license_tier": "permissioned-creator",
       "canonicity": "creator-interpretation",
       "local_path": "/tmp/ash_deathless_2025.txt"
+    },
+    {
+      "id": "src_chronicle_the-ammatars",
+      "type": "Chronicle",
+      "publisher": "CCP Games — EVE Universe",
+      "title": "The Ammatars",
+      "url": "https://universe.eveonline.com/chronicles/the-ammatars",
+      "date": "2000-12-18",
+      "license_tier": "ccp-fan-content",
+      "canonicity": "ccp-canon",
+      "excerpt": "Curator synopsis: founding chronicle of the Ammatar Mandate. Establishes the Nefantar tribe's Day-of-Darkness defection, Damyas III's bestowal of the Ammatar honorific, and the Mandate's later role as covert protector of Starkmanir survivors revealed in the Imperian Age."
+    },
+    {
+      "id": "src_chronicle_lost-stars",
+      "type": "Chronicle",
+      "publisher": "CCP Games — EVE Universe",
+      "title": "Lost Stars",
+      "url": "https://universe.eveonline.com/chronicles/lost-stars",
+      "date": "2010-06-28",
+      "license_tier": "ccp-fan-content",
+      "canonicity": "ccp-canon",
+      "excerpt": "Curator synopsis: chronicle relevant to Starkmanir-era Mimitar tribal history. Wired in place of the prior src_chronicle_starkmanir manual stub."
+    },
+    {
+      "id": "src_chronicle_the-sarpati-family",
+      "type": "Chronicle",
+      "publisher": "CCP Games — EVE Universe",
+      "title": "The Sarpati Family ",
+      "url": "https://universe.eveonline.com/chronicles/the-sarpati-family",
+      "date": "2001-05-14",
+      "license_tier": "ccp-fan-content",
+      "canonicity": "ccp-canon",
+      "excerpt": null
+    },
+    {
+      "id": "src_chronicle_mordus-legion",
+      "type": "Chronicle",
+      "publisher": "CCP Games — EVE Universe",
+      "title": "Mordu’s Legion",
+      "url": "https://universe.eveonline.com/chronicles/mordus-legion",
+      "date": "2001-10-01",
+      "license_tier": "ccp-fan-content",
+      "canonicity": "ccp-canon",
+      "excerpt": null
+    },
+    {
+      "id": "src_chronicle_sisters-of-eve",
+      "type": "Chronicle",
+      "publisher": "CCP Games — EVE Universe",
+      "title": "Sisters of EVE",
+      "url": "https://universe.eveonline.com/chronicles/sisters-of-eve",
+      "date": "2000-09-25",
+      "license_tier": "ccp-fan-content",
+      "canonicity": "ccp-canon",
+      "excerpt": null
+    },
+    {
+      "id": "src_chronicle_the-khanid-kingdom",
+      "type": "Chronicle",
+      "publisher": "CCP Games — EVE Universe",
+      "title": "The Khanid Kingdom",
+      "url": "https://universe.eveonline.com/chronicles/the-khanid-kingdom",
+      "date": "2000-08-21",
+      "license_tier": "ccp-fan-content",
+      "canonicity": "ccp-canon",
+      "excerpt": null
+    },
+    {
+      "id": "src_chronicle_the-blood-raiders",
+      "type": "Chronicle",
+      "publisher": "CCP Games — EVE Universe",
+      "title": "The Blood Raiders",
+      "url": "https://universe.eveonline.com/chronicles/the-blood-raiders",
+      "date": "2000-09-04",
+      "license_tier": "ccp-fan-content",
+      "canonicity": "ccp-canon",
+      "excerpt": null
+    },
+    {
+      "id": "src_chronicle_quafe",
+      "type": "Chronicle",
+      "publisher": "CCP Games — EVE Universe",
+      "title": "Quafe",
+      "url": "https://universe.eveonline.com/chronicles/quafe",
+      "date": "2000-03-01",
+      "license_tier": "ccp-fan-content",
+      "canonicity": "ccp-canon",
+      "excerpt": null
     }
   ],
   "nodes": [
@@ -318,7 +384,7 @@
         "src_ash_yc128_05_05",
         "src_news_jita_gates_damaged"
       ],
-      "master_summary": "The triggering catastrophe. Hyperspace fractures around all seven gates killed thousands and turned Jita into a politically untenable hub for the Caldari State. Crucially, the mechanism \u2014 manipulation of Drifter Hyperspace Network data layers \u2014 is only accessible to the five wormhole occupiers. That technical fact contradicts the Caldari accusation against the Gallente and forces the conspiracy outward toward Amarr / EDENCOM / Triglavian co-conspirators."
+      "master_summary": "The triggering catastrophe. Hyperspace fractures around all seven gates killed thousands and turned Jita into a politically untenable hub for the Caldari State. Crucially, the mechanism — manipulation of Drifter Hyperspace Network data layers — is only accessible to the five wormhole occupiers. That technical fact contradicts the Caldari accusation against the Gallente and forces the conspiracy outward toward Amarr / EDENCOM / Triglavian co-conspirators."
     },
     {
       "id": "evt_silphy_summons",
@@ -331,7 +397,7 @@
         "src_ash_warpath_news",
         "src_news_jita_protests"
       ],
-      "master_summary": "The diplomatic on-ramp to Silphy en Diabel's arrest. Three days before her detention, the Caldari summoned her to New Caldari for inquest. The summons signaled that the Syndicate\u2013Caldari constellation deal had collapsed and gave the State the procedural pretext to detain a foreign head of state."
+      "master_summary": "The diplomatic on-ramp to Silphy en Diabel's arrest. Three days before her detention, the Caldari summoned her to New Caldari for inquest. The summons signaled that the Syndicate–Caldari constellation deal had collapsed and gave the State the procedural pretext to detain a foreign head of state."
     },
     {
       "id": "evt_silphy_arrest",
@@ -371,12 +437,12 @@
       "sources": [
         "src_ash_yc128_05_05"
       ],
-      "master_summary": "The capsuleer-facing climax of the conquest. Three highsec constellation windows allow the Syndicate fugitive capitals \u2014 using captured high-sec cyno tech inherited from the YC123 dread assaults \u2014 to attempt escape. CCP-built escort intercept event, but lore-significant because the same tech links forward to next month's expansion."
+      "master_summary": "The capsuleer-facing climax of the conquest. Three highsec constellation windows allow the Syndicate fugitive capitals — using captured high-sec cyno tech inherited from the YC123 dread assaults — to attempt escape. CCP-built escort intercept event, but lore-significant because the same tech links forward to next month's expansion."
     },
     {
       "id": "evt_capsuleer_day_xxiii_warpath",
       "type": "Event",
-      "name": "Capsuleer Day XXIII \u2014 Warpath",
+      "name": "Capsuleer Day XXIII — Warpath",
       "date": "2026-05",
       "brief": "Live event encompassing Warpath cross-empire incursions, Syndicate conquest, capital breakout, capital-doomsday site rollout. Run-up to Fanfest YC128.",
       "canonicity": "ccp-canon",
@@ -406,7 +472,7 @@
       "type": "Event",
       "name": "Gallente Presidential Election YC128",
       "date": "2026-04-17",
-      "brief": "Alix Moreau (Autonomist) won 34.8% \u2014 narrowly beat Soraya Roden (Progressive). Lucas Tenzin third. One of the closest elections on record.",
+      "brief": "Alix Moreau (Autonomist) won 34.8% — narrowly beat Soraya Roden (Progressive). Lucas Tenzin third. One of the closest elections on record.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_yc128_05_05",
@@ -425,7 +491,7 @@
       "sources": [
         "src_ash_drifter_warning"
       ],
-      "master_summary": "The YC126 summit at Jita IV-4 where the five wormhole occupiers (Amarr, Caldari, EDENCOM, Minmatar, Triglavian) jointly committed to destructive testing of the Drifter hyperspace network. Direct ancestor of the Jita-gate weaponization \u2014 they collectively published the cookbook."
+      "master_summary": "The YC126 summit at Jita IV-4 where the five wormhole occupiers (Amarr, Caldari, EDENCOM, Minmatar, Triglavian) jointly committed to destructive testing of the Drifter hyperspace network. Direct ancestor of the Jita-gate weaponization — they collectively published the cookbook."
     },
     {
       "id": "evt_amp_warning",
@@ -461,22 +527,21 @@
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_yc128_05_05",
-        "src_chronicle_starkmanir",
-        "src_chronicle_nefantar"
+        "src_chronicle_the-ammatars"
       ],
-      "master_summary": "The YC110 Elder Fleet operation that liberated the Starkmanir from the Ammatar Mandate. Forms the historical bookend to the Mil-Campaign #2 region \u2014 the previous time CONCORD's framework failed to constrain inter-empire violence over the Mandate."
+      "master_summary": "The YC110 Elder Fleet operation that liberated the Starkmanir from the Ammatar Mandate. Forms the historical bookend to the Mil-Campaign #2 region — the previous time CONCORD's framework failed to constrain inter-empire violence over the Mandate."
     },
     {
       "id": "evt_yc123_dread_assaults",
       "type": "Event",
       "name": "YC123 Dread Assaults (Tanu / Junfaa)",
       "date": "2021",
-      "brief": "Mercenary fleets used illegal high-sec-authorized cyno beacons to land dread assaults at Tanu and Junfaa. Established canonical existence of empire-circumventing cyno tech. Tanu II is the capital of the Ammatar Mandate \u2014 the same site Ash predicts as Mil-Campaign #2 zone.",
+      "brief": "Mercenary fleets used illegal high-sec-authorized cyno beacons to land dread assaults at Tanu and Junfaa. Established canonical existence of empire-circumventing cyno tech. Tanu II is the capital of the Ammatar Mandate — the same site Ash predicts as Mil-Campaign #2 zone.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_yc128_05_05"
       ],
-      "master_summary": "The canonical precedent for high-sec-authorized illegal cyno beacons. Mercenary fleets used them to land dread assaults at Tanu and Junfaa. The same tech returns five years later for the Syndicate breakout \u2014 the inheritance is the load-bearing connection."
+      "master_summary": "The canonical precedent for high-sec-authorized illegal cyno beacons. Mercenary fleets used them to land dread assaults at Tanu and Junfaa. The same tech returns five years later for the Syndicate breakout — the inheritance is the load-bearing connection."
     },
     {
       "id": "evt_concord_failure_yc110",
@@ -495,62 +560,62 @@
       "type": "Event",
       "name": "Federation Seizure of Intaki",
       "date": "2022",
-      "brief": "Federation aggressively removed Intaki + two adjacent constellations from FW war zone, made them full Federation property. Triggered the 'Uprising' arc and the original Caldari\u2013Intaki Syndicate constellation deal.",
+      "brief": "Federation aggressively removed Intaki + two adjacent constellations from FW war zone, made them full Federation property. Triggered the 'Uprising' arc and the original Caldari–Intaki Syndicate constellation deal.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_silphy_2024"
       ],
-      "master_summary": "The YC124 Federation seizure of Intaki + two adjacent constellations. Triggered the Caldari\u2013Intaki Syndicate constellation deal that the YC128 conquest now invalidates. Reading the Caldari conquest as 'restoring' anything requires placing this earlier seizure as the original wound."
+      "master_summary": "The YC124 Federation seizure of Intaki + two adjacent constellations. Triggered the Caldari–Intaki Syndicate constellation deal that the YC128 conquest now invalidates. Reading the Caldari conquest as 'restoring' anything requires placing this earlier seizure as the original wound."
     },
     {
       "id": "evt_ishukone_intaki_dev_rights",
       "type": "Event",
       "name": "Ishukone Wins Intaki Development Rights",
       "date": "YC111",
-      "brief": "Following the Caldari system auction, Ishukone secured development rights to the Intaki system. Established the Ishukone\u2013Intaki anchoring that Silphy later exploits.",
+      "brief": "Following the Caldari system auction, Ishukone secured development rights to the Intaki system. Established the Ishukone–Intaki anchoring that Silphy later exploits.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_silphy_2024"
       ],
-      "master_summary": "YC111 Caldari system auction outcome. Ishukone won development rights to Intaki, anchoring the Ishukone\u2013Intaki structural relationship that Silphy later inherited and exploited via the Antagonists chronicle."
+      "master_summary": "YC111 Caldari system auction outcome. Ishukone won development rights to Intaki, anchoring the Ishukone–Intaki structural relationship that Silphy later inherited and exploited via the Antagonists chronicle."
     },
     {
       "id": "evt_otro_assassination",
       "type": "Event",
       "name": "Death of Otro Gariushi (Quantum Rise summit)",
       "date": "YC110",
-      "brief": "Caldari\u2013Federation summit attacked: a Nyx mothership collided with the station, framed as Alexander Noir's act. Station and ship safety protections were disabled \u2014 not the work of a normal pilot. Mens Reppola became Ishukone CEO afterward.",
+      "brief": "Caldari–Federation summit attacked: a Nyx mothership collided with the station, framed as Alexander Noir's act. Station and ship safety protections were disabled — not the work of a normal pilot. Mens Reppola became Ishukone CEO afterward.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_silphy_2024",
         "src_book_empyrean_age"
       ],
-      "master_summary": "The killing of Otro Gariushi at the YC110 Caldari\u2013Federation summit, when Alexander Noir's Nyx hit the station with safety protocols disabled. The 'broker' plot targeted Otro because Ishukone was developing Insorum, the Vitoxin antidote that threatened the structural basis of Amarr slavery. Mens Reppola inherited the CEO seat and the Insorum mandate."
+      "master_summary": "The killing of Otro Gariushi at the YC110 Caldari–Federation summit, when Alexander Noir's Nyx hit the station with safety protocols disabled. The 'broker' plot targeted Otro because Ishukone was developing Insorum, the Vitoxin antidote that threatened the structural basis of Amarr slavery. Mens Reppola inherited the CEO seat and the Insorum mandate."
     },
     {
       "id": "evt_zephyr_distribution",
       "type": "Event",
       "name": "Zephyr Ship Distribution (Apocrypha)",
       "date": "YC111",
-      "brief": "Polymath Valus en Diabel authorized Intaki Syndicate to mass-distribute the Zephyr \u2014 a sleeper-ignored exploration ship \u2014 to all registered capsuleers. Later revealed to carry covert telemetry/sensor packages funneling wormhole data back to Syndicate (and onward).",
+      "brief": "Polymath Valus en Diabel authorized Intaki Syndicate to mass-distribute the Zephyr — a sleeper-ignored exploration ship — to all registered capsuleers. Later revealed to carry covert telemetry/sensor packages funneling wormhole data back to Syndicate (and onward).",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_silphy_2024",
         "src_chronicle_ante"
       ],
-      "master_summary": "The YC111 mass distribution of the Zephyr exploration ship by the Intaki Syndicate. Sleeper-ignored, it allowed capsuleers to map wormhole space \u2014 and quietly funneled telemetry data back through the Syndicate to Ishukone. The Zephyr is the original instance of Syndicate-as-data-conduit, structurally identical to the data flows that later sit inside Upwell."
+      "master_summary": "The YC111 mass distribution of the Zephyr exploration ship by the Intaki Syndicate. Sleeper-ignored, it allowed capsuleers to map wormhole space — and quietly funneled telemetry data back through the Syndicate to Ishukone. The Zephyr is the original instance of Syndicate-as-data-conduit, structurally identical to the data flows that later sit inside Upwell."
     },
     {
       "id": "evt_innerbus_to_evermore",
       "type": "Event",
-      "name": "Innerbus \u2192 Evermore Transition",
+      "name": "Innerbus → Evermore Transition",
       "date": "~2024",
       "brief": "Innerbus chief had a fatal heart attack mid-Yulai dispute (Stellar Transmuters era, Amarr-aligned). Within days, the son installed a new leader who restructured the corp into Evermore and unveiled a pre-prepared AI assistant. Ash flags this as Amarr-targeting shenanigans.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_warpath_news"
       ],
-      "master_summary": "The corporate restructuring that produced Evermore. Innerbus's Amarr-aligned chief died of a heart attack mid-Stellar-Transmuters dispute; the son installed a new leader who immediately rolled out a pre-prepared AI assistant. Reads as a planned takeover targeting Amarr partnerships \u2014 Ducasse's later mediator role at Jita is the payoff."
+      "master_summary": "The corporate restructuring that produced Evermore. Innerbus's Amarr-aligned chief died of a heart attack mid-Stellar-Transmuters dispute; the son installed a new leader who immediately rolled out a pre-prepared AI assistant. Reads as a planned takeover targeting Amarr partnerships — Ducasse's later mediator role at Jita is the payoff."
     },
     {
       "id": "per_ashterothi",
@@ -562,13 +627,13 @@
         "src_ash_yc128_05_05",
         "src_scope_official"
       ],
-      "master_summary": "The curator-of-source for this entire board. Long-form EVE lore content creator running the Voice of New Eden show; has been mapping the Lai Dai vs Ishukone axis on stream for several weeks. His structural framework \u2014 Mountain+Ocean vs Forest, soft-drink-wars, SKIN-as-foreshadowing \u2014 is the synthesis layer this board is built to externalize."
+      "master_summary": "The curator-of-source for this entire board. Long-form EVE lore content creator running the Voice of New Eden show; has been mapping the Lai Dai vs Ishukone axis on stream for several weeks. His structural framework — Mountain+Ocean vs Forest, soft-drink-wars, SKIN-as-foreshadowing — is the synthesis layer this board is built to externalize."
     },
     {
       "id": "per_alix_moreau",
       "type": "Person",
       "name": "Alix Moreau",
-      "brief": "Gallente Federation President (YC128\u2013). Autonomist Party. Inaugurated under Jita-gate cloud. Issued amnesty to Syndicate descendants. Hawkish Senate factions concerned about her military inexperience.",
+      "brief": "Gallente Federation President (YC128–). Autonomist Party. Inaugurated under Jita-gate cloud. Issued amnesty to Syndicate descendants. Hawkish Senate factions concerned about her military inexperience.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_warpath_news",
@@ -589,7 +654,7 @@
         "src_ash_yc128_05_05",
         "src_news_capsuleers-influence-election-and-presidential-profile-soraya-roden"
       ],
-      "master_summary": "Election runner-up. Roden Shipyards heir; Quafe-sponsored; hawkish military posture. Would have been the predictable response to Caldari escalation \u2014 Moreau's election denied Lai Dai/Forest the Federation hawk they likely backed."
+      "master_summary": "Election runner-up. Roden Shipyards heir; Quafe-sponsored; hawkish military posture. Would have been the predictable response to Caldari escalation — Moreau's election denied Lai Dai/Forest the Federation hawk they likely backed."
     },
     {
       "id": "per_lucas_tenzin",
@@ -652,7 +717,7 @@
       "sources": [
         "src_ash_silphy_2024"
       ],
-      "master_summary": "Intaki polymath who designed the Zephyr as a minimalist demonstration. Authorized Syndicate mass distribution YC111 \u2014 the act that turned the Zephyr from art project into intelligence asset."
+      "master_summary": "Intaki polymath who designed the Zephyr as a minimalist demonstration. Authorized Syndicate mass distribution YC111 — the act that turned the Zephyr from art project into intelligence asset."
     },
     {
       "id": "per_sentona_sarpati",
@@ -664,9 +729,11 @@
         "src_ash_silphy_2024",
         "src_ash_yc128_05_05",
         "src_chronicle_ante",
-        "src_chronicle_silphy"
+        "src_chronicle_silphy",
+        "src_chronicle_the-sarpati-family",
+        "src_chronicle_sisters-of-eve"
       ],
-      "master_summary": "Reverend Mother / SoE CEO and Salvador Sarpati's sister. Once Silphy's closest ally, now her bitter rival; she mockingly calls Silphy 'Queen Silphy of the Syndicate.' Her absence from the YC128 news cycle \u2014 given her tie to Silphy \u2014 is itself a tell that there's a parallel storyline CCP isn't surfacing yet."
+      "master_summary": "Reverend Mother / SoE CEO and Salvador Sarpati's sister. Once Silphy's closest ally, now her bitter rival; she mockingly calls Silphy 'Queen Silphy of the Syndicate.' Her absence from the YC128 news cycle — given her tie to Silphy — is itself a tell that there's a parallel storyline CCP isn't surfacing yet."
     },
     {
       "id": "per_salvador_sarpati",
@@ -676,15 +743,16 @@
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_silphy_2024",
-        "src_chronicle_silphy"
+        "src_chronicle_silphy",
+        "src_chronicle_the-sarpati-family"
       ],
-      "master_summary": "Head of Serpentis Corporation. Sentona's brother. Silphy's collaborator during her black-market consolidation. The Sarpati siblings are the structural bridge between Sisters of Eve, Serpentis, and the Syndicate \u2014 the soft underbelly of the Federation's drug economy."
+      "master_summary": "Head of Serpentis Corporation. Sentona's brother. Silphy's collaborator during her black-market consolidation. The Sarpati siblings are the structural bridge between Sisters of Eve, Serpentis, and the Syndicate — the soft underbelly of the Federation's drug economy."
     },
     {
       "id": "per_otro_gariushi",
       "type": "Person",
       "name": "Otro Gariushi",
-      "brief": "Former Ishukone CEO. Gariushi (Guristas-aligned) pilot. Ousted Akelan in a corruption expos\u00e9 using Riley Rashemo and the Raven project. Killed at Caldari\u2013Federation summit (Quantum Rise) when a Nyx rammed the station.",
+      "brief": "Former Ishukone CEO. Gariushi (Guristas-aligned) pilot. Ousted Akelan in a corruption exposé using Riley Rashemo and the Raven project. Killed at Caldari–Federation summit (Quantum Rise) when a Nyx rammed the station.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_silphy_2024",
@@ -692,7 +760,7 @@
         "src_news_ishukone-statement-otro-gariushi-confirmed-dead",
         "src_news_otro-gariushi-defends-dark-amarr-deal-claims-chips-improve-slaves-lives"
       ],
-      "master_summary": "Former Ishukone CEO. Gariushi (Guristas-aligned) pilot. Rose to power by exposing Akelan's corruption via the Raven project \u2014 Miller and Riley Rashemo helped engineer the takeover. Killed at the YC110 Caldari\u2013Federation summit when Alexander Noir's Nyx struck the station. The 'broker' wanted him dead specifically because Ishukone was developing Insorum."
+      "master_summary": "Former Ishukone CEO. Gariushi (Guristas-aligned) pilot. Rose to power by exposing Akelan's corruption via the Raven project — Miller and Riley Rashemo helped engineer the takeover. Killed at the YC110 Caldari–Federation summit when Alexander Noir's Nyx struck the station. The 'broker' wanted him dead specifically because Ishukone was developing Insorum."
     },
     {
       "id": "per_mens_reppola",
@@ -738,13 +806,13 @@
       "id": "per_gable_lifegiver",
       "type": "Person",
       "name": "Gable (codename: Lifegiver)",
-      "brief": "Caldari-born scientist; converted to Amarrian faith. Treats the Templar prototype \u2014 the only patient with full hippocampus / thalamus cybernetic replacement. Ash identifies her as the 'Lifegiver' figure surfacing in YC128 events.",
+      "brief": "Caldari-born scientist; converted to Amarrian faith. Treats the Templar prototype — the only patient with full hippocampus / thalamus cybernetic replacement. Ash identifies her as the 'Lifegiver' figure surfacing in YC128 events.",
       "canonicity": "creator-interpretation",
       "sources": [
         "src_ash_silphy_2024",
         "src_book_templar_one"
       ],
-      "master_summary": "Caldari-born scientist; converted to Amarrian faith. Treats the Templar prototype \u2014 the only patient with full hippocampus / thalamus cybernetic replacement. Ash identifies her as the 'Lifegiver' figure surfacing in YC128 events. Her religious conversion makes her a structural bridge between Ishukone clone-tech and Amarr/Khanid theological politics."
+      "master_summary": "Caldari-born scientist; converted to Amarrian faith. Treats the Templar prototype — the only patient with full hippocampus / thalamus cybernetic replacement. Ash identifies her as the 'Lifegiver' figure surfacing in YC128 events. Her religious conversion makes her a structural bridge between Ishukone clone-tech and Amarr/Khanid theological politics."
     },
     {
       "id": "per_mr_lacante",
@@ -756,7 +824,7 @@
         "src_ash_silphy_2024",
         "src_chronicle_ante"
       ],
-      "master_summary": "Likely Thukker (facial tattoos). In Silphy's Antagonists chronicle he coordinates the Zephyr telemetry-data trade with Ishukone \u2014 'the kind of token Ishukone won't be able to resist.' The mechanism by which Syndicate intelligence gets monetized via the Mountain/Ocean axis."
+      "master_summary": "Likely Thukker (facial tattoos). In Silphy's Antagonists chronicle he coordinates the Zephyr telemetry-data trade with Ishukone — 'the kind of token Ishukone won't be able to resist.' The mechanism by which Syndicate intelligence gets monetized via the Mountain/Ocean axis."
     },
     {
       "id": "per_akimaka_saraki",
@@ -768,7 +836,7 @@
         "src_ash_warpath_news",
         "src_ash_yc128_05_05"
       ],
-      "master_summary": "CEP Chairman; Mountain Faction. Public face of the Caldari response across the Warpath cycle \u2014 pledged 'protection' of Syndicate Intaki against Syndicate leadership itself. Allied with Ocean against Forest in Ash's framework, which makes every action he takes structurally anti-Lai-Dai."
+      "master_summary": "CEP Chairman; Mountain Faction. Public face of the Caldari response across the Warpath cycle — pledged 'protection' of Syndicate Intaki against Syndicate leadership itself. Allied with Ocean against Forest in Ash's framework, which makes every action he takes structurally anti-Lai-Dai."
     },
     {
       "id": "per_haikoriggo",
@@ -786,12 +854,12 @@
       "id": "per_alexander_ducasse",
       "type": "Person",
       "name": "Alexander Ducasse",
-      "brief": "Evermore President. Mediator in the Caldari\u2013Jita-resident negotiations. Controls IMN media network. Per Ash, his rise to power and Evermore's restructuring suggest pre-prepared takeover targeting Amarr.",
+      "brief": "Evermore President. Mediator in the Caldari–Jita-resident negotiations. Controls IMN media network. Per Ash, his rise to power and Evermore's restructuring suggest pre-prepared takeover targeting Amarr.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_warpath_news"
       ],
-      "master_summary": "Evermore President. Mediator in the Caldari\u2013Jita-resident negotiations. Controls IMN media. The Innerbus \u2192 Evermore restructuring that put him in power reads as a planned takeover targeting Amarr partnerships, and his current alliance with Saraki produces an IMN coverage pattern that targets Forest-faction Jita managers."
+      "master_summary": "Evermore President. Mediator in the Caldari–Jita-resident negotiations. Controls IMN media. The Innerbus → Evermore restructuring that put him in power reads as a planned takeover targeting Amarr partnerships, and his current alliance with Saraki produces an IMN coverage pattern that targets Forest-faction Jita managers."
     },
     {
       "id": "per_catiz_i",
@@ -814,12 +882,12 @@
       "id": "per_celestis_aguard",
       "type": "Person",
       "name": "Celestis Aguard",
-      "brief": "Stargate Trailblazer figure. Built Kenninck\u2013Egghelende stargate now serving as the only contiguous Gallente connection after Syndicate annexation.",
+      "brief": "Stargate Trailblazer figure. Built Kenninck–Egghelende stargate now serving as the only contiguous Gallente connection after Syndicate annexation.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_yc128_05_05"
       ],
-      "master_summary": "Stargate Trailblazer figure who built the Kenninck\u2013Egghelende stargate. After the Caldari conquest of Syndicate, his stargate is the only contiguous Gallente connection \u2014 without him, Federation space splits and the State has structural transit leverage."
+      "master_summary": "Stargate Trailblazer figure who built the Kenninck–Egghelende stargate. After the Caldari conquest of Syndicate, his stargate is the only contiguous Gallente connection — without him, Federation space splits and the State has structural transit leverage."
     },
     {
       "id": "per_rio_talifo",
@@ -841,7 +909,7 @@
       "sources": [
         "src_ash_drifter_warning"
       ],
-      "master_summary": "Thukker chief who echoed AMP's concerns over Republic-backed experimentation in liberated Barbican. First cross-empire validation of the Drifter-tech risk warning \u2014 and a structural reminder that the Thukker speak independently of the Republic."
+      "master_summary": "Thukker chief who echoed AMP's concerns over Republic-backed experimentation in liberated Barbican. First cross-empire validation of the Drifter-tech risk warning — and a structural reminder that the Thukker speak independently of the Republic."
     },
     {
       "id": "per_ukumi_pol",
@@ -860,7 +928,7 @@
       "name": "Caldari State",
       "brief": "Eight mega-corp federation. Annexed Syndicate YC128.05.05.",
       "canonicity": "ccp-canon",
-      "master_summary": "Eight-mega-corp federation. Annexed Syndicate YC128.05.05 in the largest forcible nullsec acquisition in modern lore. Its internal politics \u2014 Mountain + Ocean vs Forest \u2014 drive every action of the Warpath cycle once you read past the empire-vs-empire surface.",
+      "master_summary": "Eight-mega-corp federation. Annexed Syndicate YC128.05.05 in the largest forcible nullsec acquisition in modern lore. Its internal politics — Mountain + Ocean vs Forest — drive every action of the Warpath cycle once you read past the empire-vs-empire surface.",
       "sources": [
         "src_news_caldari_conquers_syndicate",
         "src_news_caldari-state-conquers-syndicate-breakout-expected",
@@ -984,7 +1052,7 @@
       "name": "Intaki Syndicate",
       "brief": "Loose autonomous federation in Syndicate region. Founded by Caldari-sympathetic Intaki exiles after Caldari Rebellion. Each station autonomous; non-political officially.",
       "canonicity": "ccp-canon",
-      "master_summary": "Loose autonomous federation in the Syndicate region. Founded by Caldari-sympathetic Intaki exiles after the Caldari Rebellion; each station autonomous; non-political officially. The conquest YC128.05.05 ended its sovereignty but not its membership network \u2014 which now operates as a fugitive financial / smuggling structure with capital ships escaping into highsec."
+      "master_summary": "Loose autonomous federation in the Syndicate region. Founded by Caldari-sympathetic Intaki exiles after the Caldari Rebellion; each station autonomous; non-political officially. The conquest YC128.05.05 ended its sovereignty but not its membership network — which now operates as a fugitive financial / smuggling structure with capital ships escaping into highsec."
     },
     {
       "id": "org_ishukone",
@@ -992,7 +1060,7 @@
       "name": "Ishukone Corporation",
       "brief": "Caldari mega-corp. Mountain/Ocean faction-aligned. Original developer of subcranial nano controllers. Acquired Intaki development rights YC111. Deeply involved in clone-soldier / Templar program through Mens Reppola.",
       "canonicity": "ccp-canon",
-      "master_summary": "Caldari mega-corp, Mountain/Ocean-axis anchor. Original developer of subcranial nano controllers. Acquired Intaki development rights YC111. Co-developed Insorum (Vitoxin antidote) \u2014 the act that put a target on Otro Gariushi's back. Currently operating clone-soldier program through Mens Reppola, Raleigh, and Gable. Every Mountain/Ocean win in the Warpath cycle ultimately routes back to Ishukone revenue.",
+      "master_summary": "Caldari mega-corp, Mountain/Ocean-axis anchor. Original developer of subcranial nano controllers. Acquired Intaki development rights YC111. Co-developed Insorum (Vitoxin antidote) — the act that put a target on Otro Gariushi's back. Currently operating clone-soldier program through Mens Reppola, Raleigh, and Gable. Every Mountain/Ocean win in the Warpath cycle ultimately routes back to Ishukone revenue.",
       "sources": [
         "src_news_ishukone-corporation-establishes-disaster-relief-program"
       ]
@@ -1003,27 +1071,28 @@
       "name": "Lai Dai Corporation",
       "brief": "Caldari mega-corp. Forest-faction-aligned. Major beneficiary of Jita IV-4 renovations and Hypernet network. Stole Intaki mind-transfer tech ~YC119. Holds Khanid Amarr ties.",
       "canonicity": "ccp-canon",
-      "master_summary": "Caldari mega-corp, Forest-axis anchor. Major beneficiary of Jita IV-4 renovations and the Hypernet network \u2014 both of which the Warpath restrictions on Jita have just severely impaired. Stole Intaki mind-transfer tech ~YC119. Holds Khanid Amarr ties. The structural loser of the YC128 cycle so far."
+      "master_summary": "Caldari mega-corp, Forest-axis anchor. Major beneficiary of Jita IV-4 renovations and the Hypernet network — both of which the Warpath restrictions on Jita have just severely impaired. Stole Intaki mind-transfer tech ~YC119. Holds Khanid Amarr ties. The structural loser of the YC128 cycle so far."
     },
     {
       "id": "org_quafe",
       "type": "Organization",
       "name": "Quafe Company",
-      "brief": "Beverage corp. Originally Gallente. Strong Lai Dai contracts via Jita IV-4. Sponsored Roden in election. Major beneficiary of Syndicate annexation \u2014 new Quafe stations among first structures built in seized space.",
+      "brief": "Beverage corp. Originally Gallente. Strong Lai Dai contracts via Jita IV-4. Sponsored Roden in election. Major beneficiary of Syndicate annexation — new Quafe stations among first structures built in seized space.",
       "canonicity": "ccp-canon",
-      "master_summary": "Beverage corp. Originally Gallente; now operates strong Lai Dai contracts via Jita IV-4. Sponsored Roden in the election. Major beneficiary of Syndicate annexation \u2014 new Quafe stations are among the first structures built in seized space. Allegedly ran nanocontroller-laced soft drinks to influence Gallente senatorial elections (Ash self-flagged tinfoil).",
+      "master_summary": "Beverage corp. Originally Gallente; now operates strong Lai Dai contracts via Jita IV-4. Sponsored Roden in the election. Major beneficiary of Syndicate annexation — new Quafe stations are among the first structures built in seized space. Allegedly ran nanocontroller-laced soft drinks to influence Gallente senatorial elections (Ash self-flagged tinfoil).",
       "sources": [
         "src_news_quafe-company-receives-substantial-pre-tribunal-settlement-from-state-armed-forces-for-loss-of-convoy",
-        "src_news_quafe-company-accused-of-arms-running"
+        "src_news_quafe-company-accused-of-arms-running",
+        "src_chronicle_quafe"
       ]
     },
     {
       "id": "org_ytiri",
       "type": "Organization",
       "name": "Ytiri",
-      "brief": "Ninth-largest Caldari corp. Absorbed by Heth's Provost alliance. Founded Star Seed. Concession statement praised Otro Gariushi \u2014 places Ytiri in Ishukone axis.",
+      "brief": "Ninth-largest Caldari corp. Absorbed by Heth's Provost alliance. Founded Star Seed. Concession statement praised Otro Gariushi — places Ytiri in Ishukone axis.",
       "canonicity": "ccp-canon",
-      "master_summary": "Ninth-largest Caldari corp. Absorbed by Heth's Provost alliance. Founded Star Seed via its investment division. Concession statement praised Otro Gariushi explicitly \u2014 places Ytiri in the Ishukone axis structurally and gives Star Seed its Mountain/Ocean polarity."
+      "master_summary": "Ninth-largest Caldari corp. Absorbed by Heth's Provost alliance. Founded Star Seed via its investment division. Concession statement praised Otro Gariushi explicitly — places Ytiri in the Ishukone axis structurally and gives Star Seed its Mountain/Ocean polarity."
     },
     {
       "id": "org_star_seed",
@@ -1059,14 +1128,14 @@
       "id": "org_paragon_corp",
       "type": "Organization",
       "name": "Paragon Corporation",
-      "brief": "Evermore subsidiary. Operates the only non-Caldari station in Jita \u2014 the structural lever for Ducasse's mediator role.",
+      "brief": "Evermore subsidiary. Operates the only non-Caldari station in Jita — the structural lever for Ducasse's mediator role.",
       "canonicity": "ccp-canon",
-      "master_summary": "Evermore subsidiary. Operates the only non-Caldari station in Jita \u2014 the structural lever that lets Ducasse mediate between Saraki and Jita residents during the post-Jita-gate restrictions."
+      "master_summary": "Evermore subsidiary. Operates the only non-Caldari station in Jita — the structural lever that lets Ducasse mediate between Saraki and Jita residents during the post-Jita-gate restrictions."
     },
     {
       "id": "org_imn",
       "type": "Organization",
-      "name": "IMN \u2014 Interstellar Media Network",
+      "name": "IMN — Interstellar Media Network",
       "brief": "Evermore-controlled media. Ash flags its post-Jita-gate coverage as targeting Forest-faction (Lai Dai) Jita managers.",
       "canonicity": "ccp-canon",
       "master_summary": "Interstellar Media Network. Evermore-controlled. Its post-Jita-gate coverage targets Forest-faction (Lai Dai) Jita managers, advancing the Mountain/Ocean narrative under cover of impartial reporting."
@@ -1075,9 +1144,9 @@
       "id": "org_concord",
       "type": "Organization",
       "name": "CONCORD",
-      "brief": "Inter-empire peacekeeping authority. Warpath Protocol failed YC128.04.30 \u2014 first targeted system breach since Yulai YC110.",
+      "brief": "Inter-empire peacekeeping authority. Warpath Protocol failed YC128.04.30 — first targeted system breach since Yulai YC110.",
       "canonicity": "ccp-canon",
-      "master_summary": "Inter-empire peacekeeping authority. Warpath Protocol failed YC128.04.30 \u2014 first targeted system breach since Yulai YC110. Funding shifted toward AIR Labs (Ishukone-built) and away from EDENCOM (Upwell-built) reflects the same Mountain/Ocean realignment.",
+      "master_summary": "Inter-empire peacekeeping authority. Warpath Protocol failed YC128.04.30 — first targeted system breach since Yulai YC110. Funding shifted toward AIR Labs (Ishukone-built) and away from EDENCOM (Upwell-built) reflects the same Mountain/Ocean realignment.",
       "sources": [
         "src_news_jita_protests",
         "src_news_warpath_failure",
@@ -1211,7 +1280,8 @@
         "src_news_corruption-within-concord",
         "src_news_concord-comments-on-recent-security-breaches-in-empire-space",
         "src_news_concord-deploys-special-ops",
-        "src_news_concord-pirate-warning"
+        "src_news_concord-pirate-warning",
+        "src_chronicle_concord"
       ]
     },
     {
@@ -1251,7 +1321,7 @@
       "name": "Upwell Consortium",
       "brief": "Citadel-tech consortium. Includes Intaki Bank. Builds EDENCOM ships. Forest-faction / Lai Dai-anchored. Financial exposure to Syndicate collapse is the under-discussed angle per Ash.",
       "canonicity": "ccp-canon",
-      "master_summary": "Citadel-tech consortium. Includes Intaki Bank. Builds EDENCOM ships. Forest-faction / Lai Dai-anchored. Financial exposure to the Syndicate collapse cascades through Intaki Bank into Upwell \u2014 an angle CCP coverage has not surfaced and Ash is hammering on stream.",
+      "master_summary": "Citadel-tech consortium. Includes Intaki Bank. Builds EDENCOM ships. Forest-faction / Lai Dai-anchored. Financial exposure to the Syndicate collapse cascades through Intaki Bank into Upwell — an angle CCP coverage has not surfaced and Ash is hammering on stream.",
       "sources": [
         "src_news_rare-new-ores-discovered-by-deep-space-survey-group-of-upwell-consortium",
         "src_news_upwell-consortium-looks-forward-to-increased-profits-ahead-of-flex-product-line-launch",
@@ -1284,9 +1354,9 @@
       "id": "org_air_laboratories",
       "type": "Organization",
       "name": "AIR Laboratories",
-      "brief": "Ishukone-built research project. Major CONCORD funding shifted to AIR around the same time \u2014 a Mountain/Ocean win against Forest. Former SoE member among AIR leadership.",
+      "brief": "Ishukone-built research project. Major CONCORD funding shifted to AIR around the same time — a Mountain/Ocean win against Forest. Former SoE member among AIR leadership.",
       "canonicity": "ccp-canon",
-      "master_summary": "Ishukone-built research project. Major CONCORD funding shifted to AIR around the same time \u2014 a Mountain/Ocean win against Forest. A former Sister of Eve sits on its leadership; ties to SoE wormhole research are structural, not coincidental."
+      "master_summary": "Ishukone-built research project. Major CONCORD funding shifted to AIR around the same time — a Mountain/Ocean win against Forest. A former Sister of Eve sits on its leadership; ties to SoE wormhole research are structural, not coincidental."
     },
     {
       "id": "org_edencom",
@@ -1310,7 +1380,7 @@
       "name": "Mordu's Legion",
       "brief": "Mercenary group. Muryia Mordu leadership. Co-developer of clone-soldier / Templar tech with Ishukone. Granted full military access to Intaki under YC110-era assembly deal.",
       "canonicity": "ccp-canon",
-      "master_summary": "Mercenary group under Muryia Mordu. Co-developer of clone-soldier / Templar tech with Ishukone. Granted full military access to Intaki under the YC110-era assembly deal \u2014 the legal cover that lets Ishukone operate inside Federation space.",
+      "master_summary": "Mercenary group under Muryia Mordu. Co-developer of clone-soldier / Templar tech with Ishukone. Granted full military access to Intaki under the YC110-era assembly deal — the legal cover that lets Ishukone operate inside Federation space.",
       "sources": [
         "src_chronicle_ante",
         "src_book_templar_one",
@@ -1324,7 +1394,8 @@
         "src_news_mordus-legion-launches-flagship-vessel",
         "src_news_mordus-legion-clashes-in-syndicate",
         "src_news_mordus-legion-hunts-and-kills-serpentis-battleship",
-        "src_news_mordus-legion-and-guardian-angels-clash-in-fountain-region"
+        "src_news_mordus-legion-and-guardian-angels-clash-in-fountain-region",
+        "src_chronicle_mordus-legion"
       ]
     },
     {
@@ -1346,7 +1417,8 @@
         "src_news_special-report-sisters-of-eve-warn-of-possible-wormhole-formation-throughout-cluster",
         "src_news_sisters-of-eve-condemn-execution-of-eturrer",
         "src_news_servant-sisters-of-eve-urge-calm",
-        "src_news_sisters-of-eve-respond-to-malkalen-disaster"
+        "src_news_sisters-of-eve-respond-to-malkalen-disaster",
+        "src_chronicle_sisters-of-eve"
       ]
     },
     {
@@ -1357,7 +1429,8 @@
       "canonicity": "ccp-canon",
       "master_summary": "Salvador Sarpati's black-market / drug pipeline. Silphy's collaborator pre-arrest from SoE. Structural counterpart to the Blood Raiders for the southwestern New Eden map.",
       "sources": [
-        "src_news_serpentis-corporation-strikes-back-against-upwell-consortium"
+        "src_news_serpentis-corporation-strikes-back-against-upwell-consortium",
+        "src_chronicle_the-sarpati-family"
       ]
     },
     {
@@ -1376,7 +1449,8 @@
       "canonicity": "ccp-canon",
       "master_summary": "Restored Minmatar tribe. Hidden by Nefantar / Ammatar through the Old Wars. Subject of the new 'Starkmanir Strategic Wing' SKIN that pairs with 'Mandate of Faith' to tea-leaf the Mil-Campaign #2 zone.",
       "sources": [
-        "src_chronicle_starkmanir"
+        "src_chronicle_the-ammatars",
+        "src_chronicle_lost-stars"
       ]
     },
     {
@@ -1387,7 +1461,7 @@
       "canonicity": "ccp-canon",
       "master_summary": "Nefantar-administered Amarr buffer state between Amarr and Minmatar highsec. Mil-Campaign #2 candidate zone per Ash. The Mandate's existence depends on Damyas III's honorific and is structurally always one historical reveal away from being unmade.",
       "sources": [
-        "src_chronicle_nefantar",
+        "src_chronicle_the-ammatars",
         "src_news_governor-of-ammatar-mandate-elevated-to-holder-rank-ardishapur-and-sarum-houses-hold-summit-amidst-ceremonies",
         "src_news_new-governor-takes-up-duties-in-ammatar-mandate",
         "src_news_penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade",
@@ -1409,7 +1483,7 @@
       "sources": [
         "src_ash_warpath_news"
       ],
-      "master_summary": "Caldari political faction. Saraki's home faction. Allied with Ocean against Forest. Maps onto Ishukone-axis on Ash's whiteboard. The structural winner of the YC128 cycle so far \u2014 Saraki's posture, the Syndicate annexation, and the Jita restrictions all benefit Mountain."
+      "master_summary": "Caldari political faction. Saraki's home faction. Allied with Ocean against Forest. Maps onto Ishukone-axis on Ash's whiteboard. The structural winner of the YC128 cycle so far — Saraki's posture, the Syndicate annexation, and the Jita restrictions all benefit Mountain."
     },
     {
       "id": "org_ocean_faction",
@@ -1420,7 +1494,7 @@
       "sources": [
         "src_ash_warpath_news"
       ],
-      "master_summary": "Caldari political faction. Mountain ally. Ishukone-axis. The less-visible half of the dominant alliance \u2014 its quiet support is what makes Mountain's actions politically sustainable."
+      "master_summary": "Caldari political faction. Mountain ally. Ishukone-axis. The less-visible half of the dominant alliance — its quiet support is what makes Mountain's actions politically sustainable."
     },
     {
       "id": "org_forest_faction",
@@ -1439,7 +1513,7 @@
       "name": "Thukker Tribe",
       "brief": "Most distant Minmatar tribe. Operates in Great Wildlands. Wormhole-interested. Some clans defected to Deathless. Anar Abdul leads. Treated as Minmatar-side equivalent of Intaki Syndicate.",
       "canonicity": "ccp-canon",
-      "master_summary": "Most distant Minmatar tribe. Operates in Great Wildlands. Wormhole-interested. Some clans defected to Deathless. Anar Abdul leads. Treated as Minmatar-side equivalent of the Intaki Syndicate \u2014 independent, monetized, and structurally hard to govern.",
+      "master_summary": "Most distant Minmatar tribe. Operates in Great Wildlands. Wormhole-interested. Some clans defected to Deathless. Anar Abdul leads. Treated as Minmatar-side equivalent of the Intaki Syndicate — independent, monetized, and structurally hard to govern.",
       "sources": [
         "src_news_soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior",
         "src_news_thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath",
@@ -1458,7 +1532,7 @@
       "name": "Guristas Pirates",
       "brief": "Pirate faction. Historically used by Ishukone to expose Lai Dai corruption. Ash's lead candidate for Warpath message origin ('toys are meant to be played with').",
       "canonicity": "ccp-canon",
-      "master_summary": "Pirate faction. Historically used by Ishukone to expose Lai Dai corruption. Ash's lead candidate for the Warpath message origin \u2014 the 'toys are meant to be played with' tone reads as Guristas-flavored.",
+      "master_summary": "Pirate faction. Historically used by Ishukone to expose Lai Dai corruption. Ash's lead candidate for the Warpath message origin — the 'toys are meant to be played with' tone reads as Guristas-flavored.",
       "sources": [
         "src_news_the-scope-angel-cartel-and-guristas-pirates-insurgencies",
         "src_news_breaking-angel-cartel-and-guristas-pirates-forces-establish-forward",
@@ -1489,7 +1563,7 @@
       "name": "Poitot",
       "brief": "Syndicate's de-facto capital. Only named Syndicate system. Site of Silphy's seat and Caldari operation announcement.",
       "canonicity": "ccp-canon",
-      "master_summary": "Syndicate's de-facto capital. Only named Syndicate system. Site of Silphy's seat \u2014 Haikoriggo announced the operation from the Intaki Syndicate Bureau here. The symbolic and operational center of the conquest.",
+      "master_summary": "Syndicate's de-facto capital. Only named Syndicate system. Site of Silphy's seat — Haikoriggo announced the operation from the Intaki Syndicate Bureau here. The symbolic and operational center of the conquest.",
       "sources": [
         "src_news_caldari_conquers_syndicate"
       ]
@@ -1498,9 +1572,9 @@
       "id": "plc_jita",
       "type": "Place",
       "name": "Jita",
-      "brief": "New Eden's primary trade hub. All seven gates damaged YC128.04.21. Resident-identity survey: most identify as 'Jita first, Caldari second' \u2014 atypical within State.",
+      "brief": "New Eden's primary trade hub. All seven gates damaged YC128.04.21. Resident-identity survey: most identify as 'Jita first, Caldari second' — atypical within State.",
       "canonicity": "ccp-canon",
-      "master_summary": "New Eden's primary trade hub. All seven gates damaged YC128.04.21. Resident-identity survey: most identify as 'Jita first, Caldari second' \u2014 atypical within the State. Structurally too important to fail; structurally now political dynamite."
+      "master_summary": "New Eden's primary trade hub. All seven gates damaged YC128.04.21. Resident-identity survey: most identify as 'Jita first, Caldari second' — atypical within the State. Structurally too important to fail; structurally now political dynamite."
     },
     {
       "id": "plc_jita_iv_4",
@@ -1514,9 +1588,9 @@
       "id": "plc_solitude",
       "type": "Place",
       "name": "Solitude (region)",
-      "brief": "Gallente highsec island. Now reachable only via Kenninck\u2013Egghelende stargate (Aguard's project).",
+      "brief": "Gallente highsec island. Now reachable only via Kenninck–Egghelende stargate (Aguard's project).",
       "canonicity": "ccp-canon",
-      "master_summary": "Gallente highsec island. Now reachable only via Aguard's Kenninck\u2013Egghelende stargate. Strategic exposure: if that stargate is destabilized, Solitude detaches."
+      "master_summary": "Gallente highsec island. Now reachable only via Aguard's Kenninck–Egghelende stargate. Strategic exposure: if that stargate is destabilized, Solitude detaches."
     },
     {
       "id": "plc_pftac",
@@ -1532,7 +1606,7 @@
       "name": "Drifter Hyperspace Network",
       "brief": "Drifter-origin data-transfer / hyperspace infrastructure. Manipulated for Jita-gate attack. Access only through wormhole-occupier experimentation. Five occupiers: Amarr, Caldari, EDENCOM, Minmatar, Triglavians.",
       "canonicity": "ccp-canon",
-      "master_summary": "Drifter-origin data-transfer / hyperspace infrastructure. Manipulated for the Jita-gate attack. Access only via the five wormhole occupiers \u2014 the access list is what forces the Caldari Jita-gate accusation against Gallente outward toward a third-party co-conspirator."
+      "master_summary": "Drifter-origin data-transfer / hyperspace infrastructure. Manipulated for the Jita-gate attack. Access only via the five wormhole occupiers — the access list is what forces the Caldari Jita-gate accusation against Gallente outward toward a third-party co-conspirator."
     },
     {
       "id": "phn_highsec_cyno_tech",
@@ -1540,7 +1614,7 @@
       "name": "Highsec Cyno Beacon Technology",
       "brief": "Illegal/captured cyno tech bypassing empire jamming. Canon since YC123 dread assaults. Re-weaponized for Syndicate breakout.",
       "canonicity": "ccp-canon",
-      "master_summary": "Illegal/captured cyno-beacon tech that bypasses empire jamming. Canon since the YC123 dread assaults at Tanu and Junfaa. Re-weaponized for the YC128 Syndicate breakout \u2014 the single load-bearing piece of inheritance between the Old-Wars-era and the Warpath arc."
+      "master_summary": "Illegal/captured cyno-beacon tech that bypasses empire jamming. Canon since the YC123 dread assaults at Tanu and Junfaa. Re-weaponized for the YC128 Syndicate breakout — the single load-bearing piece of inheritance between the Old-Wars-era and the Warpath arc."
     },
     {
       "id": "phn_prismatic_sites",
@@ -1622,12 +1696,12 @@
       "id": "art_subcranial_nano",
       "type": "Artifact",
       "name": "Subcranial Nano Controllers",
-      "brief": "Original Ishukone mind-control tech. Banned and replaced \u2014 but Ishukone proceeded to bulk-sell trans-cranial microcontrollers to Amarr holders YC111 immediately before Intaki dev-rights win.",
+      "brief": "Original Ishukone mind-control tech. Banned and replaced — but Ishukone proceeded to bulk-sell trans-cranial microcontrollers to Amarr holders YC111 immediately before Intaki dev-rights win.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_silphy_2024"
       ],
-      "master_summary": "Original Ishukone mind-control tech. Banned and replaced \u2014 but Ishukone proceeded to bulk-sell trans-cranial microcontrollers to Amarr holders YC111 immediately before winning Intaki dev-rights. The product line that anchors Ishukone's political-economic leverage over the Amarr."
+      "master_summary": "Original Ishukone mind-control tech. Banned and replaced — but Ishukone proceeded to bulk-sell trans-cranial microcontrollers to Amarr holders YC111 immediately before winning Intaki dev-rights. The product line that anchors Ishukone's political-economic leverage over the Amarr."
     },
     {
       "id": "art_skin_state_regulator",
@@ -1686,7 +1760,7 @@
       "sources": [
         "src_ash_silphy_2024"
       ],
-      "master_summary": "Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-in for Consortium tractor blueprints. Ash's theory: ties to needle-jack filament technology potentially developed by rogue drones \u2014 graviton manipulation is the underlying physics of all Eve spacetime tech."
+      "master_summary": "Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-in for Consortium tractor blueprints. Ash's theory: ties to needle-jack filament technology potentially developed by rogue drones — graviton manipulation is the underlying physics of all Eve spacetime tech."
     },
     {
       "id": "evt_day_of_darkness",
@@ -1696,9 +1770,10 @@
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism",
-        "src_chronicle_nefantar"
+        "src_chronicle_the-ammatars",
+        "src_chronicle_the-day-of-darkness"
       ],
-      "master_summary": "The Amarr first-contact-and-conquest of Matar. Mythologized as a literal darkening of the sun; canonically the destruction of Matari space infrastructure followed by centuries of slavery. Origin point for every downstream Mimitar\u2013Amarr conflict including the YC128 Warpath cross-incursions."
+      "master_summary": "The Amarr first-contact-and-conquest of Matar. Mythologized as a literal darkening of the sun; canonically the destruction of Matari space infrastructure followed by centuries of slavery. Origin point for every downstream Mimitar–Amarr conflict including the YC128 Warpath cross-incursions."
     },
     {
       "id": "evt_starkmanir_genocide",
@@ -1708,9 +1783,9 @@
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism",
-        "src_chronicle_starkmanir"
+        "src_chronicle_lost-stars"
       ],
-      "master_summary": "Idonis Ardishapur's Tachyon orbital bombardment of Starkmanir Prime in retaliation for his father's death. Eradicated the largest Mimitar tribe \u2014 apparently. The genocide lit a 250-year fuse to the Great Rebellion and is the founding grievance of the modern Republic."
+      "master_summary": "Idonis Ardishapur's Tachyon orbital bombardment of Starkmanir Prime in retaliation for his father's death. Eradicated the largest Mimitar tribe — apparently. The genocide lit a 250-year fuse to the Great Rebellion and is the founding grievance of the modern Republic."
     },
     {
       "id": "evt_great_rebellion",
@@ -1745,7 +1820,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Empress Jamyl I deployed her then-secret superweapon to destroy one Elder Fleet strike group at Sarum Prime. The other two strike groups simultaneously rescued Starkmanir and defecting Nefantar from the Mandate. Established Jamyl's superweapon as canon \u2014 a precedent that informs the Catalyst-era doomsday site rollout."
+      "master_summary": "Empress Jamyl I deployed her then-secret superweapon to destroy one Elder Fleet strike group at Sarum Prime. The other two strike groups simultaneously rescued Starkmanir and defecting Nefantar from the Mandate. Established Jamyl's superweapon as canon — a precedent that informs the Catalyst-era doomsday site rollout."
     },
     {
       "id": "evt_ammatar_mass_defection",
@@ -1756,9 +1831,9 @@
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism",
-        "src_chronicle_nefantar"
+        "src_chronicle_the-ammatars"
       ],
-      "master_summary": "Anaras Ult enabled mass Ammatar defection back to the Republic during the Elder Fleet operation. Slave owners and Navy alike crossed over with their Starkmanir charges. Demonstrated that the Mandate's Nefantar leadership had been long-game protecting Starkmanir \u2014 partial redemption of the Ammatar treachery narrative."
+      "master_summary": "Anaras Ult enabled mass Ammatar defection back to the Republic during the Elder Fleet operation. Slave owners and Navy alike crossed over with their Starkmanir charges. Demonstrated that the Mandate's Nefantar leadership had been long-game protecting Starkmanir — partial redemption of the Ammatar treachery narrative."
     },
     {
       "id": "evt_kantar_concord_speech",
@@ -1787,12 +1862,12 @@
       "id": "evt_khanid_succession_failure",
       "type": "Event",
       "name": "Khanid II Forced to Sheal-Sin",
-      "brief": "After failing the Amarr championship a second time, Khanid II was forced to perform the ritual of sheal-sin \u2014 the ceremonial self-termination required of failed Amarr championship contenders.",
+      "brief": "After failing the Amarr championship a second time, Khanid II was forced to perform the ritual of sheal-sin — the ceremonial self-termination required of failed Amarr championship contenders.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Khanid II \u2014 who had previously avoided sheal-sin by defecting to form the Khanid Kingdom \u2014 lost the post-Jamyl championship and was finally forced to perform the ritual. Closes the centuries-long Khanid avoidance arc and structurally subordinates the Khanid Kingdom to Catiz's authority."
+      "master_summary": "Khanid II — who had previously avoided sheal-sin by defecting to form the Khanid Kingdom — lost the post-Jamyl championship and was finally forced to perform the ritual. Closes the centuries-long Khanid avoidance arc and structurally subordinates the Khanid Kingdom to Catiz's authority."
     },
     {
       "id": "evt_tanu_dread_attack",
@@ -1803,13 +1878,13 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "One of the YC123 dread assaults. Illegal high-sec cyno beacon enabled a dread fleet to land at the Ammatar Mandate's capital planet. The same tech precedent now powers the YC128 Syndicate breakout \u2014 the Tanu attack is the structural ancestor of the Catalyst-era doomsday rollout."
+      "master_summary": "One of the YC123 dread assaults. Illegal high-sec cyno beacon enabled a dread fleet to land at the Ammatar Mandate's capital planet. The same tech precedent now powers the YC128 Syndicate breakout — the Tanu attack is the structural ancestor of the Catalyst-era doomsday rollout."
     },
     {
       "id": "evt_kahah_chemical_attack",
       "type": "Event",
       "name": "Kahah Chemical Attacks (YC120)",
-      "brief": "Coordinated weaponized Death Glow + Insorum strike across Kahah III and other Kahah planets. Triggered slave revolts. Khanid response under Allar Chakaide killed 300K\u20139M people per varying estimates.",
+      "brief": "Coordinated weaponized Death Glow + Insorum strike across Kahah III and other Kahah planets. Triggered slave revolts. Khanid response under Allar Chakaide killed 300K–9M people per varying estimates.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism"
@@ -1836,7 +1911,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Intaki extremists assaulted the Khanid cruiser holding Eloa Enaro. Repulsed by the Royal Khanid Navy. Triggered the Federation\u2013Republic sanctions wave against the Empire. A precedent for civilian-religious-figure-as-pretext that echoes through the YC128 cycle."
+      "master_summary": "Intaki extremists assaulted the Khanid cruiser holding Eloa Enaro. Repulsed by the Royal Khanid Navy. Triggered the Federation–Republic sanctions wave against the Empire. A precedent for civilian-religious-figure-as-pretext that echoes through the YC128 cycle."
     },
     {
       "id": "evt_skarkon_angel_takeover",
@@ -1868,7 +1943,7 @@
         "src_news_empress-jamyl-i-makes-historic-emancipation-announcement",
         "src_news_empress-jamyl-i-begins-reign"
       ],
-      "master_summary": "Wielded the Sarum Prime superweapon against the Elder Fleet. Later murdered by Drifters. Catiz I succeeded her. Jamyl's superweapon is canonical proof that empires sit on weapons CONCORD can't constrain \u2014 the structural ancestor of the Catalyst-era doomsday site."
+      "master_summary": "Wielded the Sarum Prime superweapon against the Elder Fleet. Later murdered by Drifters. Catiz I succeeded her. Jamyl's superweapon is canonical proof that empires sit on weapons CONCORD can't constrain — the structural ancestor of the Catalyst-era doomsday site."
     },
     {
       "id": "per_khanid_ii",
@@ -1879,7 +1954,8 @@
       "sources": [
         "src_ash_ammatar_tourism",
         "src_news_empress-jamyl-i-meets-with-king-khanid-ii",
-        "src_news_king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr"
+        "src_news_king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr",
+        "src_chronicle_the-khanid-kingdom"
       ],
       "master_summary": "Defected from Amarr ~200+ years ago to avoid sheal-sin after his first championship loss; founded the Khanid Kingdom. Lost the post-Jamyl championship and was finally forced to perform the ritual. His arc closes the long-running Khanid-as-rebel-kingdom narrative."
     },
@@ -1892,7 +1968,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "The Amarr emperor who bestowed the 'Ammatar' honorific on the Nefantar tribe in recognition of their loyalty during the Mimitar enslavement era. The naming event that makes the Mandate possible \u2014 and the act that frames the Nefantar as both traitor and trusted vassal."
+      "master_summary": "The Amarr emperor who bestowed the 'Ammatar' honorific on the Nefantar tribe in recognition of their loyalty during the Mimitar enslavement era. The naming event that makes the Mandate possible — and the act that frames the Nefantar as both traitor and trusted vassal."
     },
     {
       "id": "per_archon_ardishapur",
@@ -1954,7 +2030,7 @@
       "id": "per_karin_midular",
       "type": "Person",
       "name": "Karin Midular",
-      "brief": "Mimitar Sanmatar at the time of the CONCORD protest era. Pursued peace and appeasement with Amarr \u2014 controversial within the Republic for sidelining the still-enslaved.",
+      "brief": "Mimitar Sanmatar at the time of the CONCORD protest era. Pursued peace and appeasement with Amarr — controversial within the Republic for sidelining the still-enslaved.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism",
@@ -1967,7 +2043,7 @@
         "src_news_former-minmatar-prime-minister-karin-midular-confirmed-among-caille-wounded",
         "src_news_report-karin-midular-dissolves-parliament-ousts-shakor-and-yun-from-government"
       ],
-      "master_summary": "Mimitar Sanmatar of the CONCORD-protest era. Pursued peace and appeasement with Amarr \u2014 controversial within the Republic because it sidelined the still-enslaved population. Her track was the structural backdrop the Elders worked around when building the Elder Fleet."
+      "master_summary": "Mimitar Sanmatar of the CONCORD-protest era. Pursued peace and appeasement with Amarr — controversial within the Republic because it sidelined the still-enslaved population. Her track was the structural backdrop the Elders worked around when building the Elder Fleet."
     },
     {
       "id": "per_alika_valkanir",
@@ -1978,7 +2054,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Chief of the restored Nefantar tribe (chosen YC115). Symbolic anchor of the post-Imperian-Age Nefantar reintegration \u2014 and the figure any future Mil-Campaign #2 narrative would have to either fold into Republic legitimacy or split off."
+      "master_summary": "Chief of the restored Nefantar tribe (chosen YC115). Symbolic anchor of the post-Imperian-Age Nefantar reintegration — and the figure any future Mil-Campaign #2 narrative would have to either fold into Republic legitimacy or split off."
     },
     {
       "id": "per_jamal_sarum",
@@ -2000,7 +2076,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Khanid Sebiros, Plenipotentiary, commander of the 19th Royal Uolans. Led the brutal YC120 Kahah pacification; openly hostile to the Ammatar; accused Sisters of Eve and Mimitar of orchestrating the chemical attacks. The Mimitar countered that he himself had Blood Raider ties \u2014 neither claim has been resolved canonically."
+      "master_summary": "Khanid Sebiros, Plenipotentiary, commander of the 19th Royal Uolans. Led the brutal YC120 Kahah pacification; openly hostile to the Ammatar; accused Sisters of Eve and Mimitar of orchestrating the chemical attacks. The Mimitar countered that he himself had Blood Raider ties — neither claim has been resolved canonically."
     },
     {
       "id": "per_eloa_enaro",
@@ -2011,7 +2087,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Intaki slave aboard the Pure Faith Harvest claimed by the Ida faith to be a reincarnated lost Adama from YC99. The MacGuffin around which the YC120 Intaki\u2013Khanid extremist cycle pivots."
+      "master_summary": "Intaki slave aboard the Pure Faith Harvest claimed by the Ida faith to be a reincarnated lost Adama from YC99. The MacGuffin around which the YC120 Intaki–Khanid extremist cycle pivots."
     },
     {
       "id": "per_negui_erlon",
@@ -2022,7 +2098,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Ida monk who claimed to discover the Lost Adama in YC120 aboard a Khanid cruiser. Catalyst figure \u2014 his claim turned a slave purchase dispute into a religious-extremist flashpoint."
+      "master_summary": "Ida monk who claimed to discover the Lost Adama in YC120 aboard a Khanid cruiser. Catalyst figure — his claim turned a slave purchase dispute into a religious-extremist flashpoint."
     },
     {
       "id": "per_atsa_kufair",
@@ -2055,7 +2131,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Capital planet of the Ammatar Mandate. Site of one of the YC123 dread attacks \u2014 the canonical precedent for the high-sec cyno tech now being reused for the Syndicate breakout. Currently hosts a memorial bookmark for Empress Catiz's Honor Guard."
+      "master_summary": "Capital planet of the Ammatar Mandate. Site of one of the YC123 dread attacks — the canonical precedent for the high-sec cyno tech now being reused for the Syndicate breakout. Currently hosts a memorial bookmark for Empress Catiz's Honor Guard."
     },
     {
       "id": "plc_hzeron",
@@ -2066,7 +2142,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Planet within the Ammatar Mandate where the Nefantar hid surviving Starkmanir for centuries. The geographic point where the Old Wars' biggest secret was kept \u2014 and revealed."
+      "master_summary": "Planet within the Ammatar Mandate where the Nefantar hid surviving Starkmanir for centuries. The geographic point where the Old Wars' biggest secret was kept — and revealed."
     },
     {
       "id": "plc_matar",
@@ -2105,7 +2181,7 @@
       "id": "plc_sarum_prime",
       "type": "Place",
       "name": "Sarum Prime",
-      "brief": "Adjacent to Amarr Prime. Site of the Elder Fleet's deepest strike \u2014 destroyed by Jamyl I's superweapon.",
+      "brief": "Adjacent to Amarr Prime. Site of the Elder Fleet's deepest strike — destroyed by Jamyl I's superweapon.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism",
@@ -2116,7 +2192,7 @@
         "src_news_report-imperial-navy-retreats-over-sarum-prime",
         "src_news_sarum-forces-amarr-navy-increase-presence-in-sarum-prime-security-status-change-imminent"
       ],
-      "master_summary": "Adjacent to Amarr Prime. Site of the Elder Fleet's deepest strike \u2014 destroyed by Jamyl I's superweapon. The system whose destruction proved Amarr could field weapons CONCORD couldn't constrain."
+      "master_summary": "Adjacent to Amarr Prime. Site of the Elder Fleet's deepest strike — destroyed by Jamyl I's superweapon. The system whose destruction proved Amarr could field weapons CONCORD couldn't constrain."
     },
     {
       "id": "plc_kahah",
@@ -2127,13 +2203,13 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Khanid Kingdom system. Site of the YC120 chemical attacks and subsequent mass-casualty pacification. The atrocity that hardened the Mimitar\u2013Khanid divide and gave Chakaide his profile."
+      "master_summary": "Khanid Kingdom system. Site of the YC120 chemical attacks and subsequent mass-casualty pacification. The atrocity that hardened the Mimitar–Khanid divide and gave Chakaide his profile."
     },
     {
       "id": "plc_skarkon",
       "type": "Place",
       "name": "Skarkon",
-      "brief": "Mimitar system that defected to the Angel Cartel ~YC110 \u2014 symbol of Republic governance weakness.",
+      "brief": "Mimitar system that defected to the Angel Cartel ~YC110 — symbol of Republic governance weakness.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism",
@@ -2143,7 +2219,7 @@
         "src_news_skarkon-citizens-speak-about-angel-referendum",
         "src_news_archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms"
       ],
-      "master_summary": "Mimitar system that defected to the Angel Cartel ~YC110 \u2014 symbol of Republic governance weakness and a cautionary precedent for what happens when an empire stops servicing a region."
+      "master_summary": "Mimitar system that defected to the Angel Cartel ~YC110 — symbol of Republic governance weakness and a cautionary precedent for what happens when an empire stops servicing a region."
     },
     {
       "id": "cnc_three_tier_amarr",
@@ -2152,9 +2228,10 @@
       "brief": "Amarr space divided into: Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each has distinct allegiance, governance, and tribal origin.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_ash_ammatar_tourism"
+        "src_ash_ammatar_tourism",
+        "src_chronicle_the-khanid-kingdom"
       ],
-      "master_summary": "Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each tier has distinct allegiance, governance, and tribal origin. The frame that makes the Mil-Campaign #2 prediction structurally legible \u2014 Mandate is the seam where Amarr internal politics is most exposed."
+      "master_summary": "Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each tier has distinct allegiance, governance, and tribal origin. The frame that makes the Mil-Campaign #2 prediction structurally legible — Mandate is the seam where Amarr internal politics is most exposed."
     },
     {
       "id": "cnc_seven_tribes",
@@ -2176,7 +2253,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Amarr ritual of ceremonial self-termination required of failed championship contenders. Khanid II's repeated avoidance of this ritual \u2014 first by defection, then by championship retry \u2014 defined Khanid Kingdom autonomy until Catiz's coronation forced him into it."
+      "master_summary": "Amarr ritual of ceremonial self-termination required of failed championship contenders. Khanid II's repeated avoidance of this ritual — first by defection, then by championship retry — defined Khanid Kingdom autonomy until Catiz's coronation forced him into it."
     },
     {
       "id": "cnc_emwpa",
@@ -2189,19 +2266,19 @@
         "src_news_concord-inner-circle-summit-breakthrough-on-emergency-militia-war-powers-act",
         "src_news_breaking-news-concord-announces-authorization-of-emergency-militia-war-powers-act"
       ],
-      "master_summary": "Emergency Militia War Powers Act. CONCORD act that established Faction Warfare. Cited by Kantar Yun in the YC120 Kahah crisis as having been violated repeatedly in highsec without consequence \u2014 the precedent CONCORD's Warpath failure now repeats at scale."
+      "master_summary": "Emergency Militia War Powers Act. CONCORD act that established Faction Warfare. Cited by Kantar Yun in the YC120 Kahah crisis as having been violated repeatedly in highsec without consequence — the precedent CONCORD's Warpath failure now repeats at scale."
     },
     {
       "id": "phn_vitoxin",
       "type": "Phenomenon",
       "name": "Vitoxin Slave-Control Chemistry",
-      "brief": "Amarr slave-control compound. Fatally addictive \u2014 withdrawal kills. Maintains slave dependence on Amarr supply.",
+      "brief": "Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains slave dependence on Amarr supply.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism",
         "src_book_templar_one"
       ],
-      "master_summary": "Amarr slave-control compound. Fatally addictive \u2014 withdrawal kills. Maintains slave dependence on Amarr supply. The pharmacological backbone of the Amarr economy; disrupting it threatens the entire Khanid agricultural base."
+      "master_summary": "Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains slave dependence on Amarr supply. The pharmacological backbone of the Amarr economy; disrupting it threatens the entire Khanid agricultural base."
     },
     {
       "id": "phn_insorum",
@@ -2227,9 +2304,10 @@
       "brief": "Hallucinogenic illegal booster derived from chronodynamic-tricaroxal. Weaponized in the YC120 Kahah attacks. Linked to Blood Raider supply chains.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_ash_ammatar_tourism"
+        "src_ash_ammatar_tourism",
+        "src_chronicle_the-blood-raiders"
       ],
-      "master_summary": "Hallucinogenic illegal booster derived from chronodynamic-tricaroxal. Weaponized in the YC120 Kahah attacks. Linked to Blood Raider supply chains \u2014 and to the Death Glow Hunters who appear as Crimson Harvest enemies year after year."
+      "master_summary": "Hallucinogenic illegal booster derived from chronodynamic-tricaroxal. Weaponized in the YC120 Kahah attacks. Linked to Blood Raider supply chains — and to the Death Glow Hunters who appear as Crimson Harvest enemies year after year."
     },
     {
       "id": "phn_chronodynamic_tricaroxal",
@@ -2261,7 +2339,8 @@
         "src_news_khanid-kingdom-stands-down-navy-mordu-follows-suit",
         "src_news_khanid-kingdom-fortifies-borders",
         "src_news_khanid-kingdom-strenuously-denies-ill-treatment-of-slaves",
-        "src_news_ishukone-and-khanid-kingdom-sign-multitrillion-trade-deal-on-transcranial-microcontrollers"
+        "src_news_ishukone-and-khanid-kingdom-sign-multitrillion-trade-deal-on-transcranial-microcontrollers",
+        "src_chronicle_the-khanid-kingdom"
       ],
       "master_summary": "Third tier of Amarr space. Defected ~200 years ago under Khanid II. Hosts the brutal 19th Royal Uolans. Strong Lai Dai ties per Ash. Its tier-three status makes it the political wedge Lai Dai works through inside the Empire."
     },
@@ -2298,7 +2377,8 @@
       "sources": [
         "src_ash_ammatar_tourism",
         "src_news_blood-raider-covenant-calls-on-sani-sabik-cultists-to-rise-up-and-raid-military-cloning-facilities",
-        "src_news_insorum-imbroglio-puts-focus-on-capsuleers-as-eyes-turn-toward-blood-raider-covenant"
+        "src_news_insorum-imbroglio-puts-focus-on-capsuleers-as-eyes-turn-toward-blood-raider-covenant",
+        "src_chronicle_the-blood-raiders"
       ],
       "master_summary": "Heretical Amarr blood-cult faction. Tied to early Insorum chemical attacks (pre-YC120) and Death Glow harvesting. Allar Chakaide accused them and the Ammatar of conspiring against the Khanid; the Mimitar accused him in return."
     },
@@ -2311,7 +2391,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Intaki religion. Believes in reincarnation; Adamas reincarnate without technology. The structural source of Intaki political-cultural distinctiveness inside the Federation \u2014 and the cause that radicalized Intaki extremists in YC120."
+      "master_summary": "Intaki religion. Believes in reincarnation; Adamas reincarnate without technology. The structural source of Intaki political-cultural distinctiveness inside the Federation — and the cause that radicalized Intaki extremists in YC120."
     },
     {
       "id": "org_19th_royal_uolans",
@@ -2352,7 +2432,7 @@
       "name": "Exordium Charter (Yulai Accord Amendment)",
       "date": "2026-04-13",
       "brief": "CONCORD Inner Circle + AIR Laboratories signed an amendment to the Yulai Accords establishing the new region of Exordium with no-violence security protocols. Public ceremony held in orbit around Yulai 8.",
-      "master_summary": "The constitutional event for the Exordium region. CCP's first canonical move toward a deconfliction zone \u2014 CONCORD and AIR jointly chartered a 50-system region with capsuleer-side safety enforced by Yulai Accord amendment. Connects directly to AIR Labs' rising profile in the Mountain/Ocean realignment, and to the Drifter-experimentation policy thread (the CONCORD-funded research that would otherwise have flowed to EDENCOM).",
+      "master_summary": "The constitutional event for the Exordium region. CCP's first canonical move toward a deconfliction zone — CONCORD and AIR jointly chartered a 50-system region with capsuleer-side safety enforced by Yulai Accord amendment. Connects directly to AIR Labs' rising profile in the Mountain/Ocean realignment, and to the Drifter-experimentation policy thread (the CONCORD-funded research that would otherwise have flowed to EDENCOM).",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_air_new_region"
@@ -2363,7 +2443,7 @@
       "type": "Place",
       "name": "Exordium",
       "brief": "New region of 50+ star systems linked by newly constructed stargates. Single two-way connection to Yulai (under construction); four one-way shipcasters into each empire's sovereign space via embassy constellations.",
-      "master_summary": "Aurora's first canonical neutral space. Strategic significance: the only region in New Eden with capsuleer-violence protocols structurally enforced. Hosts AIR's relocated capsuleer training program, which positions Exordium as the new front door for new pilots \u2014 a structural shift away from the Caldari/Ishukone training pipeline that has historically held that role.",
+      "master_summary": "Aurora's first canonical neutral space. Strategic significance: the only region in New Eden with capsuleer-violence protocols structurally enforced. Hosts AIR's relocated capsuleer training program, which positions Exordium as the new front door for new pilots — a structural shift away from the Caldari/Ishukone training pipeline that has historically held that role.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_air_new_region"
@@ -2374,7 +2454,7 @@
       "type": "Concept",
       "name": "Yulai Accords",
       "brief": "Foundational CONCORD treaty that gave rise to faction warfare's emergency war powers framework and now the Exordium Charter amendment.",
-      "master_summary": "The constitutional document of CONCORD-era New Eden. Every multi-empire structural framework \u2014 EMWPA, Exordium charter, Warpath Protocol \u2014 extends or amends the Yulai Accords. Warpath Protocol Failure is, in this reading, a breach of the same accords being amended to create Exordium two weeks earlier.",
+      "master_summary": "The constitutional document of CONCORD-era New Eden. Every multi-empire structural framework — EMWPA, Exordium charter, Warpath Protocol — extends or amends the Yulai Accords. Warpath Protocol Failure is, in this reading, a breach of the same accords being amended to create Exordium two weeks earlier.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_air_new_region"
@@ -2385,7 +2465,7 @@
       "type": "Person",
       "name": "Aldeya Balasharian",
       "brief": "AIR Laboratories CEO. Public face of the Exordium charter and AIR's super-stable warp drive technology.",
-      "master_summary": "AIR's leadership face during the Exordium era. Announced AIR's super-stable warp drive \u2014 the technical primitive that made building a new region in years rather than decades possible. Ties AIR Labs to a named principal that connects upward to the Mountain/Ocean realignment Ash mapped on his whiteboard.",
+      "master_summary": "AIR's leadership face during the Exordium era. Announced AIR's super-stable warp drive — the technical primitive that made building a new region in years rather than decades possible. Ties AIR Labs to a named principal that connects upward to the Mountain/Ocean realignment Ash mapped on his whiteboard.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_air_new_region"
@@ -2407,7 +2487,7 @@
       "type": "Phenomenon",
       "name": "AIR Super-Stable Warp Drive",
       "brief": "Proprietary AIR technology allowing colony ships to maintain warp between stars. Cut Exordium construction from decades to years.",
-      "master_summary": "The technical primitive that made Exordium feasible in human-scale time. Signals AIR Labs has crossed into proprietary deep-tech (vs pure research) \u2014 a positioning that puts it on the same axis as Ishukone's Templar/clone program. Likely candidate for the next wave of capsuleer-relevant ship modules.",
+      "master_summary": "The technical primitive that made Exordium feasible in human-scale time. Signals AIR Labs has crossed into proprietary deep-tech (vs pure research) — a positioning that puts it on the same axis as Ishukone's Templar/clone program. Likely candidate for the next wave of capsuleer-relevant ship modules.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_air_new_region"
@@ -2419,7 +2499,7 @@
       "name": "Capsuleer Training Relocation to Exordium",
       "date": "2026-04",
       "brief": "AIR-managed training programs (which AIR took over in YC123) relocated to Exordium. New capsuleers will be born in the no-violence region.",
-      "master_summary": "Structural shift in the new-pilot pipeline. From day one of their career, capsuleers will be physically in AIR-managed CONCORD-protected space \u2014 not the Caldari corp-state milieu. Long-tail consequences: changes the cultural baseline of new pilots, weakens the Caldari training-as-recruitment lever the State has historically exploited.",
+      "master_summary": "Structural shift in the new-pilot pipeline. From day one of their career, capsuleers will be physically in AIR-managed CONCORD-protected space — not the Caldari corp-state milieu. Long-tail consequences: changes the cultural baseline of new pilots, weakens the Caldari training-as-recruitment lever the State has historically exploited.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_air_new_region"
@@ -2431,7 +2511,7 @@
       "name": "Eve Gate Collapse",
       "date": "861-AD",
       "brief": "Wormhole connecting New Eden to Earth/Sol collapsed ~861 AD (in-universe), severing the colonies from humanity's origin and triggering civilizational collapse across the cluster.",
-      "master_summary": "The break point between proto-history and modern New Eden. Every modern faction descends from a colony cut off by this event. Sisters of Eve research is fundamentally an attempt to understand and possibly reopen the gate. The Drifters' hyperspace network \u2014 the same one weaponized for Jita-gate \u2014 is structurally the heir to whatever made the original Eve gate work.",
+      "master_summary": "The break point between proto-history and modern New Eden. Every modern faction descends from a colony cut off by this event. Sisters of Eve research is fundamentally an attempt to understand and possibly reopen the gate. The Drifters' hyperspace network — the same one weaponized for Jita-gate — is structurally the heir to whatever made the original Eve gate work.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_deathless_2025"
@@ -2442,7 +2522,7 @@
       "type": "Faction",
       "name": "Yan Jung",
       "brief": "Pre-collapse civilization in the Dor region (modern Gallente space). Masters of gravitonic and force-field technology. Records end ~9000 AD.",
-      "master_summary": "One of three pre-collapse civilizations. Yan Jung gravitonic technology is the structural ancestor of every stargate, warp drive, and cyno beacon in modern New Eden \u2014 including the Drone Graviton Emitter the rogue drones are now manufacturing in the Catalyst-era event. Their disappearance ~9000 AD remains canonically unexplained.",
+      "master_summary": "One of three pre-collapse civilizations. Yan Jung gravitonic technology is the structural ancestor of every stargate, warp drive, and cyno beacon in modern New Eden — including the Drone Graviton Emitter the rogue drones are now manufacturing in the Catalyst-era event. Their disappearance ~9000 AD remains canonically unexplained.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_deathless_2025"
@@ -2453,7 +2533,7 @@
       "type": "Faction",
       "name": "Talocan",
       "brief": "Pre-collapse civilization. Remains found primarily in Anoikis (wormhole space). Fell from power around the same era as the Yan Jung.",
-      "master_summary": "Pre-collapse civilization whose remnants seed modern Anoikis. Their collapse coincides with the Yan Jung's \u2014 suggesting a common cause that current EVE lore has not surfaced. Talocan structures are the anchor points for modern wormhole-occupier Drifter tech research.",
+      "master_summary": "Pre-collapse civilization whose remnants seed modern Anoikis. Their collapse coincides with the Yan Jung's — suggesting a common cause that current EVE lore has not surfaced. Talocan structures are the anchor points for modern wormhole-occupier Drifter tech research.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_deathless_2025"
@@ -2464,7 +2544,7 @@
       "type": "Faction",
       "name": "First Jove Empire",
       "brief": "Earliest documented Jove polity. Collapsed when 'elders' suppressed biological experimentation by other Jovians.",
-      "master_summary": "First of three Jove empires. Its collapse is the foundational political-philosophy split inside Jove civilization \u2014 engineered restraint vs biological license. The same axis returns in the Second Empire (Boore) and informs the Jovian Disease emergence.",
+      "master_summary": "First of three Jove empires. Its collapse is the foundational political-philosophy split inside Jove civilization — engineered restraint vs biological license. The same axis returns in the Second Empire (Boore) and informs the Jovian Disease emergence.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_deathless_2025"
@@ -2497,7 +2577,7 @@
       "type": "Phenomenon",
       "name": "Jovian Disease",
       "brief": "Engineered biological defect in Jovian DNA. Causes melancholy, madness, and eventual death across all Jovians on a sufficiently long timeline.",
-      "master_summary": "The chronic existential crisis of the Jove. Every Jovian arc \u2014 turning to the Construct, the Sleeper transition, eventual Drifter emergence \u2014 is a response to this defect. Insorum's structural analog: Vitoxin is to the Mimitar what Jovian Disease is to the Jove, except the Jove engineered theirs themselves.",
+      "master_summary": "The chronic existential crisis of the Jove. Every Jovian arc — turning to the Construct, the Sleeper transition, eventual Drifter emergence — is a response to this defect. Insorum's structural analog: Vitoxin is to the Mimitar what Jovian Disease is to the Jove, except the Jove engineered theirs themselves.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_deathless_2025",
@@ -2509,7 +2589,7 @@
       "type": "Phenomenon",
       "name": "The Construct",
       "brief": "Jovian VR / simulated environment. Used time dilation to advance Jove civilization beyond physical-world limits. Eventually rewired to use connected biological brains as computational substrate.",
-      "master_summary": "The Construct is the Jovian deep state \u2014 every Jove who matters has spent significant subjective time inside it. The 'one body, one mind' law is the constitutional safeguard around it. The Sleeper civilization is what happens when Jove-bound consciousnesses commit fully to the Construct and never come out. The Drifter emergence is canonically tied to whatever happened to those consciousnesses afterward.",
+      "master_summary": "The Construct is the Jovian deep state — every Jove who matters has spent significant subjective time inside it. The 'one body, one mind' law is the constitutional safeguard around it. The Sleeper civilization is what happens when Jove-bound consciousnesses commit fully to the Construct and never come out. The Drifter emergence is canonically tied to whatever happened to those consciousnesses afterward.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_deathless_2025"
@@ -2545,7 +2625,7 @@
       "type": "Organization",
       "name": "Deathless Network",
       "brief": "Distribution arm of the Deathless. Seeds intel and resources to pirate factions; documented role in distributing capsuleer-grade resources stolen by Esri-class operations to other pirate groups.",
-      "master_summary": "The Deathless Network is the operational layer between the Deathless himself and the pirate ecosystem. Functions as a black-market intel exchange \u2014 same shape as the Antagonists-chronicle Sentona/Lacante/Ishukone data trade, but with the Deathless rather than Ishukone as the terminal recipient. Where Intaki Bank's counter-insurgency is aimed.",
+      "master_summary": "The Deathless Network is the operational layer between the Deathless himself and the pirate ecosystem. Functions as a black-market intel exchange — same shape as the Antagonists-chronicle Sentona/Lacante/Ishukone data trade, but with the Deathless rather than Ishukone as the terminal recipient. Where Intaki Bank's counter-insurgency is aimed.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_deathless_2025"
@@ -2556,23 +2636,27 @@
       "type": "Place",
       "name": "Thera",
       "brief": "Wormhole-space (Anoikis) system. Sisters of EVE's secret research base, revealed publicly during the Drifter-era reveal. Staging point for SoE / Drifter / Triglavian research.",
-      "master_summary": "The Sisters of EVE's deep-research base, hidden in Anoikis until externally discovered. Sentona Sarpati's organization runs its non-humanitarian work from here. Structurally adjacent to every Drifter / Sleeper / hyperspace-network thread \u2014 the SoE-AIR-EDENCOM research pipeline runs through this site. Silphy's SoE training era likely intersected the Thera operation, though the published chronicles don't place her there directly.",
+      "master_summary": "The Sisters of EVE's deep-research base, hidden in Anoikis until externally discovered. Sentona Sarpati's organization runs its non-humanitarian work from here. Structurally adjacent to every Drifter / Sleeper / hyperspace-network thread — the SoE-AIR-EDENCOM research pipeline runs through this site. Silphy's SoE training era likely intersected the Thera operation, though the published chronicles don't place her there directly.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_chronicle_silphy",
-        "src_chronicle_ante"
+        "src_chronicle_ante",
+        "src_chronicle_sisters-of-eve"
       ]
     },
     {
       "id": "per_muryia_mordu",
       "type": "Person",
       "name": "Muryia Mordu",
-      "brief": "Founder of Mordu's Legion. Implicit referent in the Antagonists chronicle's 'mercenaries' line \u2014 the unnamed commander Silphy works around in her Ishukone data trade.",
-      "master_summary": "Mordu's Legion's founder. Independent mercenary commander operating outside the four-empire structure. Antagonists-chronicle subtext: the 'mercenaries' Silphy negotiates around when offering her Zephyr-telemetry data to Ishukone \u2014 Mens won't take the deal directly while Mordu's people are in the way. Mordu's Legion's separate relationship to Ishukone via the Templar One clone-soldier program ties him structurally to the Mens-Reppola axis.",
+      "brief": "Founder of Mordu's Legion. Implicit referent in the Antagonists chronicle's 'mercenaries' line — the unnamed commander Silphy works around in her Ishukone data trade.",
+      "master_summary": "Mordu's Legion's founder. Independent mercenary commander operating outside the four-empire structure. Antagonists-chronicle subtext: the 'mercenaries' Silphy negotiates around when offering her Zephyr-telemetry data to Ishukone — Mens won't take the deal directly while Mordu's people are in the way. Mordu's Legion's separate relationship to Ishukone via the Templar One clone-soldier program ties him structurally to the Mens-Reppola axis.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_chronicle_ante",
-        "src_book_templar_one"
+        "src_book_templar_one",
+        "src_chronicle_mordus-legion",
+        "src_news_muryia-mordu-issues-operation-highlander-decoration",
+        "src_news_muryia-mordu-arrives-safely-at-his-headquarters-region-in-uproar"
       ]
     }
   ],
@@ -2645,7 +2729,7 @@
       "tgt": "evt_yc123_dread_assaults",
       "rel": "descends-from",
       "conf": 0.9,
-      "claim": "Established canon \u2014 empire-friendly cyno beacons since YC123"
+      "claim": "Established canon — empire-friendly cyno beacons since YC123"
     },
     {
       "src": "evt_syndicate_capital_breakout",
@@ -3048,7 +3132,7 @@
       "tgt": "per_silphy_en_diabel",
       "rel": "opposed-to",
       "conf": 0.4,
-      "claim": "Ash: Syndicate financial collapse cascades into Upwell \u2014 angle CCP isn't covering"
+      "claim": "Ash: Syndicate financial collapse cascades into Upwell — angle CCP isn't covering"
     },
     {
       "src": "org_intaki_bank",
@@ -3083,7 +3167,7 @@
       "tgt": "org_gallente_federation",
       "rel": "aligned-with",
       "conf": 0.9,
-      "claim": "Kenninck\u2013Egghelende stargate now sole contiguous Gallente connection"
+      "claim": "Kenninck–Egghelende stargate now sole contiguous Gallente connection"
     },
     {
       "src": "plc_solitude",
@@ -3238,7 +3322,7 @@
       "tgt": "org_intaki_syndicate",
       "rel": "caused-by",
       "conf": 0.9,
-      "claim": "Federation Intaki seizure \u2192 Caldari-Syndicate constellation deal as buffer"
+      "claim": "Federation Intaki seizure → Caldari-Syndicate constellation deal as buffer"
     },
     {
       "src": "evt_intaki_seizure_uprising",
@@ -3585,7 +3669,7 @@
       "tgt": "per_allar_chakaide",
       "rel": "participated-in",
       "conf": 1,
-      "claim": "Led the brutal pacification \u2014 300K-9M civilian casualties"
+      "claim": "Led the brutal pacification — 300K-9M civilian casualties"
     },
     {
       "src": "per_allar_chakaide",
@@ -3619,7 +3703,7 @@
       "rel": "opposed-to",
       "conf": 0.55,
       "claim": "Officially opposed; Mimitar accused him of secret Blood Raider ties",
-      "contested-by": "Mimitar counter-accusation only \u2014 no CCP confirmation"
+      "contested-by": "Mimitar counter-accusation only — no CCP confirmation"
     },
     {
       "src": "evt_lost_adama_discovery",
@@ -3750,7 +3834,7 @@
       "tgt": "org_ammatar_mandate",
       "rel": "parallels",
       "conf": 0.6,
-      "claim": "Predicted Mil-Campaign #2 zone \u2014 Starkmanir vs Nefantar tribal rematch"
+      "claim": "Predicted Mil-Campaign #2 zone — Starkmanir vs Nefantar tribal rematch"
     },
     {
       "src": "evt_skarkon_angel_takeover",
@@ -3823,7 +3907,7 @@
       "tgt": "org_quafe",
       "rel": "funds",
       "conf": 0.8,
-      "claim": "Quafe operates major contracts at Jita IV-4 \u2014 the Quafe-Lai-Dai revenue tie"
+      "claim": "Quafe operates major contracts at Jita IV-4 — the Quafe-Lai-Dai revenue tie"
     },
     {
       "src": "org_quafe",
@@ -3865,7 +3949,7 @@
       "tgt": "org_ishukone",
       "rel": "funds",
       "conf": 0.6,
-      "claim": "Ytiri concession-era support for Ishukone \u2014 Gariushi-line invocation in concession statement"
+      "claim": "Ytiri concession-era support for Ishukone — Gariushi-line invocation in concession statement"
     },
     {
       "src": "org_concord",
@@ -3985,7 +4069,7 @@
       "tgt": "per_salvador_sarpati",
       "rel": "launders-through",
       "conf": 0.7,
-      "claim": "Black-market dominance achieved via Serpentis collaboration \u2014 exposed her with the SoE"
+      "claim": "Black-market dominance achieved via Serpentis collaboration — exposed her with the SoE"
     },
     {
       "src": "org_serpentis",
@@ -4027,7 +4111,7 @@
       "tgt": "plc_jita",
       "rel": "revenue-from",
       "conf": 0.85,
-      "claim": "Only non-Caldari station in Jita \u2014 captive monopoly position"
+      "claim": "Only non-Caldari station in Jita — captive monopoly position"
     },
     {
       "src": "org_thukker_tribe",
@@ -4076,7 +4160,7 @@
       "tgt": "org_lai_dai",
       "rel": "financially-exposed-to",
       "conf": 0.55,
-      "claim": "IMN coverage targets Forest-faction Jita managers \u2014 earned-media damage rather than direct ISK",
+      "claim": "IMN coverage targets Forest-faction Jita managers — earned-media damage rather than direct ISK",
       "contested-by": "Ash self-flagged tinfoil"
     },
     {
@@ -4198,7 +4282,7 @@
       "tgt": "evt_warpath_protocol_failure",
       "rel": "parallels",
       "conf": 0.7,
-      "claim": "Two consecutive multi-empire signatures bracketing the Warpath cycle \u2014 one creating, one breaking"
+      "claim": "Two consecutive multi-empire signatures bracketing the Warpath cycle — one creating, one breaking"
     },
     {
       "src": "org_concord",
@@ -4358,7 +4442,7 @@
       "src": "per_muryia_mordu",
       "tgt": "org_mordus_legion",
       "rel": "descends-from",
-      "conf": 1.0,
+      "conf": 1,
       "claim": "Founder"
     },
     {
@@ -4387,28 +4471,29 @@
       "tgt": "plc_thera",
       "rel": "parallels",
       "conf": 0.45,
-      "claim": "Silphy's SoE training era likely intersected Thera operations \u2014 chronicles don't place her there directly",
+      "claim": "Silphy's SoE training era likely intersected Thera operations — chronicles don't place her there directly",
       "contested-by": "Curator inference; not in published chronicle text"
     }
   ],
   "_curation_notes": [
-    "Phase 0 success metric is 30 nodes / 50 connections in 2 hours. This corpus delivers 56 / 78 \u2014 extraction took ~3 hours across five transcripts. Adjust scope-vs-time before next pass.",
-    "Lai-Dai-vs-Ishukone axis is the densest region (12 organizations, 9 cross-axis connections). This is the demo region \u2014 load this on the Board view first.",
-    "Confidence \u2264 0.5 connections all carry contested-by tags \u2014 most cite Ash self-flagging 'tinfoil'. Filter \u2265 0.7 for the 'I'd defend on stream' view.",
+    "Phase 0 success metric is 30 nodes / 50 connections in 2 hours. This corpus delivers 56 / 78 — extraction took ~3 hours across five transcripts. Adjust scope-vs-time before next pass.",
+    "Lai-Dai-vs-Ishukone axis is the densest region (12 organizations, 9 cross-axis connections). This is the demo region — load this on the Board view first.",
+    "Confidence ≤ 0.5 connections all carry contested-by tags — most cite Ash self-flagging 'tinfoil'. Filter ≥ 0.7 for the 'I'd defend on stream' view.",
     "Ammatar tourism transcript (40K words) was pulled but deferred. Run a second extraction pass to reinforce the Mil-Campaign #2 prediction region.",
     "Open canon questions left unresolved: (1) origin of Warpath message, (2) Lifegiver=Gable confidence, (3) extent of Quafe nanocontroller allegation, (4) Ducasse-Saraki coordination, (5) Sentona Sarpati current whereabouts.",
-    "Fix-on-import: per_akimaka_saraki member-of org_lai_dai was an error in the previous pass \u2014 corrected here to org_mountain_faction (Ishukone-axis). Check no other axis assignments inverted.",
-    "Drifter-tech access list is hard canon: Amarr / Caldari / EDENCOM / Minmatar / Triglavians ONLY. This rules out Gallente as direct Jita-gate operator \u2014 chained-cause connection to Caldari accusation is structurally weak.",
+    "Fix-on-import: per_akimaka_saraki member-of org_lai_dai was an error in the previous pass — corrected here to org_mountain_faction (Ishukone-axis). Check no other axis assignments inverted.",
+    "Drifter-tech access list is hard canon: Amarr / Caldari / EDENCOM / Minmatar / Triglavians ONLY. This rules out Gallente as direct Jita-gate operator — chained-cause connection to Caldari accusation is structurally weak.",
     "Mil-Campaign #2 region added 2026-05-06: 56 new nodes covering Old Wars / Imperian Age / YC120 Kahah / Lost Adama arcs. Bridges to existing Warpath corpus via per_maleatu_shakur, evt_tanu_dread_attack (= one of the YC123 dread assaults), per_catiz_i succession from Jamyl I, and the Insorum chain through Otro Gariushi's death.",
-    "Fixed Tama \u2192 Tanu transcript artifact on evt_yc123_dread_assaults (auto-captions consistently mistranscribed; canonical name is Tanu).",
-    "Master summary added to 152/152 nodes \u2014 synthesis of each node's role through its connections (spec \u00a76 Tier 3, persisted as curator data).",
+    "Fixed Tama → Tanu transcript artifact on evt_yc123_dread_assaults (auto-captions consistently mistranscribed; canonical name is Tanu).",
+    "Master summary added to 152/152 nodes — synthesis of each node's role through its connections (spec §6 Tier 3, persisted as curator data).",
     "Financial-flow layer added 2026-05-06: 41 new edges using 5 new relation types (funds / revenue-from / launders-through / financially-exposed-to / supplies). Surfaces ISK pipelines: Quafe-Lai-Dai-Roden, Star-Seed-Ytiri-Ishukone, CONCORD-AIR-EDENCOM realignment, Intaki-Bank-Upwell exposure, Death-Glow-Blood-Raider supply, Vitoxin-as-economic-backbone.",
     "Corpus expansion 2026-05-06: +18 canonical sources (7 New Eden News, 1 EVE Online announcement, 4 Chronicles, 2 novels, 1 Hoboleaks, 3 Ashterothi/Scope references). Wired 44 new node-to-source citations. All excerpts are curator-authored paraphrased synopses; no primary text reproduced.",
-    "Phase 2 corpus targets (deferred): full Chronicle archive (~600 entries), full EVE book set (Empyrean Age / Burning Life / Templar One / Imperian Age), Scope video catalogue, broader Ashterothi catalogue, third-party wikis (eve-uniwiki, backstage forum). These need their own ingestion pipelines (spec \u00a711.1 Library).",
-    "Typo audit 2026-05-06: renamed org_mortis_legion \u2192 org_mordus_legion (1 node, 1 edge references). Text fixes: 'Mordu's Legion'\u2192'Mordu's Legion' (8x), 'Muria Moru'\u2192'Muryia Mordu' (4x).",
+    "Phase 2 corpus targets (deferred): full Chronicle archive (~600 entries), full EVE book set (Empyrean Age / Burning Life / Templar One / Imperian Age), Scope video catalogue, broader Ashterothi catalogue, third-party wikis (eve-uniwiki, backstage forum). These need their own ingestion pipelines (spec §11.1 Library).",
+    "Typo audit 2026-05-06: renamed org_mortis_legion → org_mordus_legion (1 node, 1 edge references). Text fixes: 'Mordu's Legion'→'Mordu's Legion' (8x), 'Muria Moru'→'Muryia Mordu' (4x).",
     "Ashterothi extension 2026-05-06: +18 nodes / +33 connections covering Exordium charter (YC128.04.13) and pre-collapse Jove deep history (Eve Gate collapse, Yan Jung, Talocan, First/Second Jove Empires, Construct, Jovian Disease) plus the Deathless / Deathless Network thread anchor.",
     "Auto-curate pass 2026-05-06T13:00:00Z: rejected 0 noise suggestions, accepted 0 citations on existing nodes, created 0 stub nodes (canonicity='curator-review-pending') with 0 new citations. Stubs need curator review for type confirmation, brief authoring, and connection wiring.",
-    "Silphy/SoE region extension 2026-05-06: +2 nodes (Thera, Muryia Mordu), +8 connections drawing the Antagonists-chronicle data-trade edges directly and adding the Thera SoE base. Khanid connection from the user's prompt deferred \u2014 no chronicle reference in the extracted material; awaiting source.",
-    "Source ID 2026-05-06: renamed src_chronicle_antagonists \u2192 src_chronicle_ante. The canonical CCP chronicle title is 'Ante' (published 2010-04-19); my earlier label 'Antagonists' was informal. URL fixed to canonical chronicle path."
+    "Silphy/SoE region extension 2026-05-06: +2 nodes (Thera, Muryia Mordu), +8 connections drawing the Antagonists-chronicle data-trade edges directly and adding the Thera SoE base. Khanid connection from the user's prompt deferred — no chronicle reference in the extracted material; awaiting source.",
+    "Source ID 2026-05-06: renamed src_chronicle_antagonists → src_chronicle_ante. The canonical CCP chronicle title is 'Ante' (published 2010-04-19); my earlier label 'Antagonists' was informal. URL fixed to canonical chronicle path.",
+    "Chronicle reconciliation 2026-05-06: fixed Silphy date 2008→2001-08-06; renamed src_chronicle_nefantar → src_chronicle_the-ammatars (canonical CCP slug, affecting 4 nodes); dropped orphan src_chronicle_starkmanir, replaced by src_chronicle_lost-stars (affecting 3 nodes); wired 17 canonical-chronicle citations across 10 chronicle sources."
   ]
 }
