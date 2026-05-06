@@ -83,6 +83,9 @@ export default async function BoardPage({ params }: Props) {
           <a href={`/boards/${id}/timeline`} className="text-zinc-400 hover:text-zinc-100">
             timeline ↗
           </a>
+          <a href={`/boards/${id}/matrix`} className="text-zinc-400 hover:text-zinc-100">
+            matrix ↗
+          </a>
         </nav>
       </header>
 

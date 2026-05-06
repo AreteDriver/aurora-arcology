@@ -4,6 +4,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import * as d3 from "d3";
 import type { Node, Connection, Source } from "@db/schema";
 import NodeInspector from "./NodeInspector";
+import { LENSES, type Lens } from "@/data/lenses";
 
 const TYPE_COLOR: Record<string, string> = {
   Event: "#e85d75",
@@ -36,6 +37,7 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
   const [hops, setHops] = useState(0); // 0 = show all
   const [minConfidence, setMinConfidence] = useState(0); // 0 = show all incl. tinfoil
   const [hiddenTypes, setHiddenTypes] = useState<Set<string>>(new Set());
+  const [lensId, setLensId] = useState<string | null>(null);
 
   const nodeById = useMemo(() => new Map(nodes.map((n) => [n.id, n])), [nodes]);
   const allTypes = useMemo(
@@ -54,10 +56,19 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
     return adj;
   }, [nodes, connections]);
 
-  // Visible-set computation: type filter + confidence + n-hop neighborhood
+  // Visible-set computation: lens + type filter + confidence + n-hop neighborhood
+  const lens: Lens | null = useMemo(
+    () => (lensId ? LENSES.find((l) => l.id === lensId) ?? null : null),
+    [lensId],
+  );
+
   const visible = useMemo(() => {
+    const lensSet = lens ? new Set(lens.nodeIds) : null;
     let visibleNodeIds = new Set(
-      nodes.filter((n) => !hiddenTypes.has(n.type)).map((n) => n.id),
+      nodes
+        .filter((n) => !hiddenTypes.has(n.type))
+        .filter((n) => !lensSet || lensSet.has(n.id))
+        .map((n) => n.id),
     );
     let visibleConns = connections.filter(
       (c) =>
@@ -91,7 +102,7 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       nodes: nodes.filter((n) => visibleNodeIds.has(n.id)),
       conns: visibleConns,
     };
-  }, [nodes, connections, hiddenTypes, minConfidence, selectedId, hops, adjacency]);
+  }, [nodes, connections, hiddenTypes, minConfidence, selectedId, hops, adjacency, lens]);
 
   // Stable scope key — sim only rebuilds when the actual visible set changes,
   // not when selection alone changes. Prevents the D3 layout from spinning
@@ -364,6 +375,23 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
           >
             cluster
           </button>
+
+          <div className="flex items-center gap-1.5">
+            <span className="text-zinc-500">lens</span>
+            <select
+              value={lensId ?? ""}
+              onChange={(e) => setLensId(e.target.value || null)}
+              className="bg-zinc-900 border border-zinc-700 px-1 py-0.5 max-w-[16rem]"
+              title={lens?.description ?? "Curator-authored sub-board lenses"}
+            >
+              <option value="">full corpus</option>
+              {LENSES.map((l) => (
+                <option key={l.id} value={l.id}>
+                  {l.title}
+                </option>
+              ))}
+            </select>
+          </div>
 
           <div className="flex items-center gap-1.5 flex-wrap">
             {allTypes.map((t) => {
