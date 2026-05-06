@@ -47,6 +47,10 @@ export const nodes = sqliteTable("nodes", {
   // Synthesis paragraph (spec §6 Tier 3 view, persisted form). Explains the
   // node's role in the universe via its connections. Curator-authored.
   masterSummary: text("master_summary"),
+  // In-universe or real-world date. Free-form to accept ISO ("2026-04-30"),
+  // EVE YC notation ("YC110"), or imprecise era markers. Timeline view
+  // normalizes for sort.
+  date: text("date"),
   canonicity: text("canonicity").notNull(),
   createdBy: text("created_by").notNull(),
   createdAt: text("created_at").notNull(),

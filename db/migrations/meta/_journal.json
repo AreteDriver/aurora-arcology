@@ -15,6 +15,13 @@
       "when": 1778064394933,
       "tag": "0001_square_sway",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1778065598414,
+      "tag": "0002_happy_solo",
+      "breakpoints": true
     }
   ]
 }

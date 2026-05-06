@@ -47,8 +47,8 @@ const insertSource = sqlite.prepare(`
   VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
 `);
 const insertNode = sqlite.prepare(`
-  INSERT OR REPLACE INTO nodes (id, name, type, brief, master_summary, canonicity, created_by, created_at)
-  VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+  INSERT OR REPLACE INTO nodes (id, name, type, brief, master_summary, date, canonicity, created_by, created_at)
+  VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
 `);
 const insertNodeSource = sqlite.prepare(
   "INSERT OR IGNORE INTO node_sources (node_id, source_id) VALUES (?, ?)",
@@ -100,6 +100,7 @@ const ingest = sqlite.transaction(() => {
       n.type,
       n.brief ?? null,
       n.master_summary ?? null,
+      n.date ?? null,
       n.canonicity,
       curator,
       now,
