@@ -83,5 +83,25 @@ export async function publish(type: EventType, data: Record<string, unknown>): P
       subscribers.delete(writer);
     }
   }
+
+  // Fan out to webhook subscribers — fire and forget, don't block SSE
+  fanWebhooks(event).catch(() => {});
+
   return delivered;
+}
+
+// Webhook fan-out — hook is dynamically resolved to break the circular dep
+// between events.ts and the DB layer (db.ts pulls in schema, schema doesn't
+// reach events.ts but bundlers can be picky). resolveWebhookSender is set
+// once at server boot.
+type WebhookSender = (event: AuroraEvent) => Promise<void>;
+let webhookSender: WebhookSender | null = null;
+
+export function registerWebhookSender(sender: WebhookSender): void {
+  webhookSender = sender;
+}
+
+async function fanWebhooks(event: AuroraEvent): Promise<void> {
+  if (!webhookSender) return;
+  await webhookSender(event);
 }

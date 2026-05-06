@@ -155,6 +155,54 @@ export const suggestions = sqliteTable("suggestions", {
 export type Suggestion = typeof suggestions.$inferSelect;
 
 // ============================================================================
+// API keys — Phase 2 multi-curator auth. Lifted from Overwatch's API key model.
+// Plain key returned to curator at creation; only the SHA-256 hash persists.
+// Scope ladder: read < write < admin.
+// ============================================================================
+
+export const apiKeys = sqliteTable("api_keys", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
+  keyHash: text("key_hash").notNull().unique(), // sha256(plaintext) hex
+  scope: text("scope").notNull(), // read | write | admin
+  label: text("label").notNull(),
+  createdAt: text("created_at").notNull(),
+  lastUsedAt: text("last_used_at"),
+  revokedAt: text("revoked_at"),
+});
+
+// ============================================================================
+// Webhook subscriptions — push board events to external listeners.
+// HMAC-SHA256 signature over the body, header X-Aurora-Signature.
+// Pattern from Overwatch/overwatch/events.py + api/routes.py webhook block.
+// ============================================================================
+
+export const webhookSubscriptions = sqliteTable("webhook_subscriptions", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
+  url: text("url").notNull(),
+  eventTypes: text("event_types").notNull(), // comma-sep or "*"
+  secretHash: text("secret_hash").notNull(), // sha256(secret) — signing secret returned at create
+  label: text("label").notNull(),
+  status: text("status").notNull().default("active"), // active | paused | disabled
+  failureCount: integer("failure_count").notNull().default(0),
+  createdAt: text("created_at").notNull(),
+  lastDeliveryAt: text("last_delivery_at"),
+});
+
+// Per-delivery audit
+export const webhookDeliveries = sqliteTable("webhook_deliveries", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
+  subscriptionId: integer("subscription_id").notNull().references(() => webhookSubscriptions.id),
+  eventType: text("event_type").notNull(),
+  statusCode: integer("status_code"), // null = network error / timeout
+  attemptedAt: text("attempted_at").notNull(),
+  latencyMs: integer("latency_ms"),
+  error: text("error"),
+});
+
+export type ApiKey = typeof apiKeys.$inferSelect;
+export type WebhookSubscription = typeof webhookSubscriptions.$inferSelect;
+
+// ============================================================================
 // Type exports for downstream code
 // ============================================================================
 

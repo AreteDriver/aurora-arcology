@@ -19,6 +19,7 @@
     "news:load": "tsx scripts/seed.ts data/seeds/news_archive.json",
     "resolver:audit": "tsx scripts/resolve.ts",
     "ner:extract": "tsx scripts/ner-extract.ts",
+    "admin": "tsx scripts/admin.ts",
     "vercel:build": "pnpm db:reset && pnpm news:load && pnpm ner:extract && next build"
   },
   "dependencies": {
