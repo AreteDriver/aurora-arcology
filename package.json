@@ -17,7 +17,8 @@
     "news:scrape": "tsx scripts/scrape-news.ts",
     "news:scrape:full": "tsx scripts/scrape-news.ts --full",
     "news:load": "tsx scripts/seed.ts data/seeds/news_archive.json",
-    "resolver:audit": "tsx scripts/resolve.ts"
+    "resolver:audit": "tsx scripts/resolve.ts",
+    "ner:extract": "tsx scripts/ner-extract.ts"
   },
   "dependencies": {
     "better-sqlite3": "^11.5.0",

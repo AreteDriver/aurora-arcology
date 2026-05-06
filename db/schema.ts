@@ -134,6 +134,27 @@ export const auditLog = sqliteTable("audit_log", {
 });
 
 // ============================================================================
+// Suggestions — NER auto-extracted candidate entities awaiting curator review
+// (spec §9 Phase 3 "auto-suggested-but-never-auto-drawn"). Lifted from
+// Dossier's NER pattern; gazetteer match in v0.
+// ============================================================================
+
+export const suggestions = sqliteTable("suggestions", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
+  sourceId: text("source_id").notNull().references(() => sources.id),
+  matchedText: text("matched_text").notNull(), // the substring that triggered the suggestion
+  candidateType: text("candidate_type").notNull(), // Event | Person | Organization | …
+  existingNodeId: text("existing_node_id").references(() => nodes.id), // null = new entity
+  rationale: text("rationale"), // gazetteer | fuzzy | regex | heuristic
+  status: text("status").notNull().default("pending"), // pending | accepted | rejected
+  curator: text("curator").notNull(),
+  createdAt: text("created_at").notNull(),
+  resolvedAt: text("resolved_at"),
+});
+
+export type Suggestion = typeof suggestions.$inferSelect;
+
+// ============================================================================
 // Type exports for downstream code
 // ============================================================================
 
