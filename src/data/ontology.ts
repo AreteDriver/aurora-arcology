@@ -24,4 +24,12 @@ export const DEFAULT_RELATION_TYPES = [
   { id: "replaced-by",     name: "replaced-by",     description: "Person | Concept → Person | Concept" },
   { id: "parallels",       name: "parallels",       description: "any → any (soft connection: thematic or structural)" },
   { id: "referenced-in",   name: "referenced-in",   description: "any → Source" },
+
+  // Financial layer (spec §5 — vocabulary is data; extending in v0).
+  // Surfaces the ISK / capital / laundering flows that drive faction realignment.
+  { id: "funds",                  name: "funds",                  description: "Funder → recipient. Revenue, sponsorship, subsidy, contract" },
+  { id: "revenue-from",           name: "revenue-from",           description: "Recipient → income source (inverse of funds, used when source is the structural fact)" },
+  { id: "launders-through",       name: "launders-through",       description: "Source of dirty ISK → laundering vector (legitimate-looking cover)" },
+  { id: "financially-exposed-to", name: "financially-exposed-to", description: "Entity → counterparty whose collapse / disruption directly damages it" },
+  { id: "supplies",               name: "supplies",               description: "Producer → consumer (material / chemical / hardware pipeline)" },
 ] as const;

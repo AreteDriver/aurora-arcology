@@ -47,6 +47,7 @@ export const SeedNode = z.object({
   name: z.string(),
   date: z.string().optional(),
   brief: z.string().optional(),
+  master_summary: z.string().optional(),
   canonicity: z.string(),
   sources: z.array(z.string()).optional(),
 });

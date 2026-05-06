@@ -44,6 +44,9 @@ export const nodes = sqliteTable("nodes", {
   name: text("name").notNull(),
   type: text("type").notNull().references(() => nodeTypes.id),
   brief: text("brief"),
+  // Synthesis paragraph (spec §6 Tier 3 view, persisted form). Explains the
+  // node's role in the universe via its connections. Curator-authored.
+  masterSummary: text("master_summary"),
   canonicity: text("canonicity").notNull(),
   createdBy: text("created_by").notNull(),
   createdAt: text("created_at").notNull(),

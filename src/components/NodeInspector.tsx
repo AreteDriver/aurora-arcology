@@ -41,6 +41,15 @@ export default function NodeInspector({ node, nodeById, connections, onSelect, o
 
       {node.brief && <p className="text-zinc-300 text-xs leading-relaxed">{node.brief}</p>}
 
+      {node.masterSummary && (
+        <section className="border-l-2 border-zinc-700 pl-3">
+          <h3 className="text-xs font-mono text-zinc-400 uppercase tracking-wide mb-1">
+            Synthesis
+          </h3>
+          <p className="text-zinc-300 text-xs leading-relaxed">{node.masterSummary}</p>
+        </section>
+      )}
+
       <div className="text-xs font-mono text-zinc-500 space-y-0.5">
         <div>id: {node.id}</div>
         <div>canonicity: {node.canonicity}</div>
