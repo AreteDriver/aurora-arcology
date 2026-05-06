@@ -4,11 +4,10 @@ const nextConfig = {
     serverComponentsExternalPackages: ["better-sqlite3"],
   },
   // Vercel serverless functions are minimal — we have to tell Next to ship
-  // the SQLite file (built by `pnpm vercel:build`) alongside every server
-  // function that reads from it. Without this, runtime opens fail with
-  // "unable to open database file" because data/aurora.db isn't traced.
+  // the SQLite file alongside every server function that reads from it.
+  // Keys are matched against route paths; '*' is a wildcard catch-all.
   outputFileTracingIncludes: {
-    "/**/*": ["./data/aurora.db"],
+    "*": ["./data/aurora.db"],
   },
 };
 
