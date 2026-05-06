@@ -25,10 +25,35 @@ interface Props {
   groups: SuggestionGroup[];
 }
 
+const RATIONALE_COLOR: Record<string, string> = {
+  "gazetteer-existing-node": "text-green-400",
+  "gazetteer-new-entity": "text-yellow-400",
+  "regex-yc-date": "text-blue-400",
+  "regex-system-name": "text-blue-400",
+  "regex-polity": "text-blue-400",
+  "heuristic-multi-word": "text-zinc-500",
+};
+const rationaleClass = (r: string | null) => {
+  if (!r) return "text-zinc-500";
+  return RATIONALE_COLOR[r] ?? (r.startsWith("tf-frequency") ? "text-purple-400" : "text-zinc-500");
+};
+
 export default function SuggestionsList({ groups: initialGroups }: Props) {
   const [groups, setGroups] = useState(initialGroups);
   const [open, setOpen] = useState<string | null>(null);
   const [busy, setBusy] = useState<number | null>(null);
+  const [rationaleFilter, setRationaleFilter] = useState<string | null>(null);
+
+  // Group rationales for filter pills
+  const rationaleCounts = groups.reduce<Record<string, number>>((acc, g) => {
+    const key = g.rationale ?? "unknown";
+    acc[key] = (acc[key] ?? 0) + 1;
+    return acc;
+  }, {});
+
+  const visibleGroups = rationaleFilter
+    ? groups.filter((g) => g.rationale === rationaleFilter)
+    : groups;
 
   async function resolve(id: number, action: "accept" | "reject") {
     setBusy(id);
@@ -60,8 +85,27 @@ export default function SuggestionsList({ groups: initialGroups }: Props) {
   }
 
   return (
+    <>
+      <div className="flex flex-wrap gap-2 mb-3 text-xs font-mono">
+        <span className="text-zinc-500">rationale:</span>
+        <button
+          onClick={() => setRationaleFilter(null)}
+          className={`px-1.5 py-0.5 ${rationaleFilter === null ? "bg-zinc-100 text-black" : "bg-zinc-800 hover:bg-zinc-700"}`}
+        >
+          all ({groups.length})
+        </button>
+        {Object.entries(rationaleCounts).map(([r, n]) => (
+          <button
+            key={r}
+            onClick={() => setRationaleFilter(r)}
+            className={`px-1.5 py-0.5 ${rationaleFilter === r ? "bg-zinc-100 text-black" : "bg-zinc-800 hover:bg-zinc-700"} ${rationaleClass(r)}`}
+          >
+            {r} ({n})
+          </button>
+        ))}
+      </div>
     <ul className="space-y-2">
-      {groups.map((g) => (
+      {visibleGroups.map((g) => (
         <li key={g.key} className="border border-zinc-800">
           <button
             onClick={() => setOpen(open === g.key ? null : g.key)}
@@ -69,6 +113,9 @@ export default function SuggestionsList({ groups: initialGroups }: Props) {
           >
             <span className="font-bold text-sm">{g.matchedText}</span>
             <span className="text-xs font-mono text-zinc-500">{g.candidateType}</span>
+            <span className={`text-xs font-mono ${rationaleClass(g.rationale)}`}>
+              {g.rationale}
+            </span>
             {g.existingNodeId ? (
               <span className="text-xs font-mono text-green-400">
                 → {g.existingNodeId}
@@ -126,5 +173,6 @@ export default function SuggestionsList({ groups: initialGroups }: Props) {
         </li>
       ))}
     </ul>
+    </>
   );
 }
