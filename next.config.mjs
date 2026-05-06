@@ -1,14 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {
-    serverComponentsExternalPackages: ["better-sqlite3"],
-  },
-  // Vercel serverless functions are minimal — we have to tell Next to ship
-  // the SQLite file alongside every server function that reads from it.
-  // Keys are matched against route paths; '*' is a wildcard catch-all.
-  outputFileTracingIncludes: {
-    "*": ["./data/aurora.db"],
-  },
+  // Static export. The deployed view is read-only by design — every page
+  // gets pre-rendered at build time with all data baked in. No serverless
+  // functions, no runtime DB. Curator workflow runs locally.
+  output: "export",
+  images: { unoptimized: true },
+  serverExternalPackages: ["better-sqlite3"],
 };
 
 export default nextConfig;

@@ -1,64 +1,59 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import LiveFeed from "@/components/LiveFeed";
+import { useEffect, useMemo, useState } from "react";
 
-interface SearchResult {
+interface ManifestRow {
   id: string;
   title: string;
   publisher: string;
-  url: string | null;
   date: string | null;
+  url: string | null;
   type: string;
-  rank: number;
 }
 
 export default function SourcesPage() {
+  const [manifest, setManifest] = useState<ManifestRow[] | null>(null);
   const [q, setQ] = useState("");
-  const [results, setResults] = useState<SearchResult[]>([]);
-  const [total, setTotal] = useState(0);
-  const [loading, setLoading] = useState(false);
-  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    if (q.trim().length < 2) {
-      setResults([]);
-      setTotal(0);
-      return;
-    }
-    const t = setTimeout(async () => {
-      setLoading(true);
-      setError(null);
-      try {
-        const res = await fetch(`/api/sources/search?q=${encodeURIComponent(q)}`);
-        const data = await res.json();
-        if (data.error) {
-          setError(data.error);
-          setResults([]);
-        } else {
-          setResults(data.results);
-          setTotal(data.total);
+    fetch("/sources-manifest.json")
+      .then((r) => r.json())
+      .then(setManifest)
+      .catch(() => setManifest([]));
+  }, []);
+
+  const results = useMemo(() => {
+    if (!manifest) return [];
+    if (q.trim().length < 2) return [];
+    const needle = q.trim().toLowerCase();
+    const tokens = needle.split(/\s+/);
+    const hits: { row: ManifestRow; score: number }[] = [];
+    for (const row of manifest) {
+      const hay = `${row.title} ${row.publisher} ${row.id}`.toLowerCase();
+      let score = 0;
+      let matchAll = true;
+      for (const t of tokens) {
+        const i = hay.indexOf(t);
+        if (i === -1) {
+          matchAll = false;
+          break;
         }
-      } catch (e) {
-        setError((e as Error).message);
-      } finally {
-        setLoading(false);
+        // earlier match in title scores higher
+        score += Math.max(0, 100 - i) + (row.title.toLowerCase().includes(t) ? 50 : 0);
       }
-    }, 200);
-    return () => clearTimeout(t);
-  }, [q]);
+      if (matchAll) hits.push({ row, score });
+    }
+    return hits.sort((a, b) => b.score - a.score).slice(0, 50);
+  }, [manifest, q]);
 
   return (
     <div className="max-w-4xl">
       <h1 className="text-2xl font-bold mb-2">Sources</h1>
       <p className="text-sm text-zinc-400 mb-4">
-        Full-text search across the source corpus. Title + publisher + curator-authored
-        excerpt are indexed. Article bodies are not stored.
+        Full-text search across the source corpus. Title + publisher are indexed
+        client-side. Article bodies are not stored — click through to the canonical
+        URL for the full text.
       </p>
-
-      <div className="mb-4">
-        <LiveFeed />
-      </div>
 
       <input
         type="search"
@@ -67,21 +62,24 @@ export default function SourcesPage() {
         onChange={(e) => setQ(e.target.value)}
         placeholder="search… (try: Tanu, Silphy, Drifter, Kahah)"
         className="w-full bg-zinc-900 border border-zinc-700 px-3 py-2 font-mono text-sm focus:outline-none focus:border-zinc-500"
+        disabled={!manifest}
       />
 
       <div className="text-xs text-zinc-500 font-mono mt-2 mb-4">
-        {loading && "searching…"}
-        {!loading && q.trim().length >= 2 && (
+        {!manifest && "loading manifest…"}
+        {manifest && q.trim().length < 2 && (
+          <span>{manifest.length.toLocaleString()} sources indexed</span>
+        )}
+        {manifest && q.trim().length >= 2 && (
           <span>
-            {total} match{total === 1 ? "" : "es"}
-            {total > results.length && ` (showing first ${results.length})`}
+            {results.length} match{results.length === 1 ? "" : "es"}
+            {results.length === 50 && " (showing first 50)"}
           </span>
         )}
-        {error && <span className="text-red-400">{error}</span>}
       </div>
 
       <ul className="space-y-2">
-        {results.map((r) => (
+        {results.map(({ row: r }) => (
           <li key={r.id} className="border border-zinc-800 p-3 hover:border-zinc-600">
             <div className="flex items-baseline gap-2 mb-1">
               <span className="text-xs font-mono text-zinc-500">{r.date ?? "—"}</span>

@@ -7,6 +7,11 @@ interface Props {
   params: Promise<{ id: string }>;
 }
 
+export async function generateStaticParams() {
+  // One static board for now; if more land, query the boards table here
+  return [{ id: "warpath_yc128" }];
+}
+
 export default async function BoardPage({ params }: Props) {
   const { id } = await params;
   const board = db.select().from(schema.boards).where(eq(schema.boards.id, id)).get();

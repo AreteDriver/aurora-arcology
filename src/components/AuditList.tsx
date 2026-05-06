@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useMemo, useState } from "react";
 
 interface Row {
   id: number;
@@ -14,14 +14,11 @@ interface Row {
 
 interface Props {
   rows: Row[];
-  page: number;
-  totalPages: number;
-  total: number;
-  currentEntity: string | null;
-  currentAction: string | null;
   typeCounts: Record<string, number>;
   actionCounts: Record<string, number>;
 }
+
+const PAGE_SIZE = 50;
 
 const ACTION_COLOR: Record<string, string> = {
   create: "text-green-400",
@@ -36,66 +33,69 @@ const ENTITY_COLOR: Record<string, string> = {
   board: "text-node-event",
 };
 
-function buildHref(entity: string | null, action: string | null, page: number): string {
-  const params = new URLSearchParams();
-  if (entity) params.set("entity", entity);
-  if (action) params.set("action", action);
-  if (page > 1) params.set("page", String(page));
-  const q = params.toString();
-  return q ? `/audit?${q}` : "/audit";
-}
-
-export default function AuditList({
-  rows,
-  page,
-  totalPages,
-  total,
-  currentEntity,
-  currentAction,
-  typeCounts,
-  actionCounts,
-}: Props) {
+export default function AuditList({ rows, typeCounts, actionCounts }: Props) {
+  const [entity, setEntity] = useState<string | null>(null);
+  const [action, setAction] = useState<string | null>(null);
+  const [page, setPage] = useState(1);
   const [expandedId, setExpandedId] = useState<number | null>(null);
+
+  const filtered = useMemo(() => {
+    return rows.filter((r) => {
+      if (entity && r.entityType !== entity) return false;
+      if (action && r.action !== action) return false;
+      return true;
+    });
+  }, [rows, entity, action]);
+
+  const total = filtered.length;
+  const totalPages = Math.max(1, Math.ceil(total / PAGE_SIZE));
+  const visible = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
+
+  const setFilter = (kind: "entity" | "action", value: string | null) => {
+    if (kind === "entity") setEntity(value);
+    else setAction(value);
+    setPage(1);
+  };
 
   return (
     <div className="space-y-3">
       <div className="flex flex-wrap gap-2 text-xs font-mono border border-zinc-800 p-2">
         <span className="text-zinc-500">entity:</span>
-        <a
-          href={buildHref(null, currentAction, 1)}
-          className={`px-1.5 py-0.5 ${currentEntity === null ? "bg-zinc-100 text-black" : "bg-zinc-800 hover:bg-zinc-700"}`}
+        <button
+          onClick={() => setFilter("entity", null)}
+          className={`px-1.5 py-0.5 ${entity === null ? "bg-zinc-100 text-black" : "bg-zinc-800 hover:bg-zinc-700"}`}
         >
-          all ({total})
-        </a>
+          all ({rows.length})
+        </button>
         {Object.entries(typeCounts).map(([t, n]) => (
-          <a
+          <button
             key={t}
-            href={buildHref(t, currentAction, 1)}
-            className={`px-1.5 py-0.5 ${currentEntity === t ? "bg-zinc-100 text-black" : "bg-zinc-800 hover:bg-zinc-700"}`}
+            onClick={() => setFilter("entity", t)}
+            className={`px-1.5 py-0.5 ${entity === t ? "bg-zinc-100 text-black" : "bg-zinc-800 hover:bg-zinc-700"}`}
           >
             {t} ({n})
-          </a>
+          </button>
         ))}
         <span className="ml-4 text-zinc-500">action:</span>
-        <a
-          href={buildHref(currentEntity, null, 1)}
-          className={`px-1.5 py-0.5 ${currentAction === null ? "bg-zinc-100 text-black" : "bg-zinc-800 hover:bg-zinc-700"}`}
+        <button
+          onClick={() => setFilter("action", null)}
+          className={`px-1.5 py-0.5 ${action === null ? "bg-zinc-100 text-black" : "bg-zinc-800 hover:bg-zinc-700"}`}
         >
           all
-        </a>
+        </button>
         {Object.entries(actionCounts).map(([a, n]) => (
-          <a
+          <button
             key={a}
-            href={buildHref(currentEntity, a, 1)}
-            className={`px-1.5 py-0.5 ${currentAction === a ? "bg-zinc-100 text-black" : "bg-zinc-800 hover:bg-zinc-700"}`}
+            onClick={() => setFilter("action", a)}
+            className={`px-1.5 py-0.5 ${action === a ? "bg-zinc-100 text-black" : "bg-zinc-800 hover:bg-zinc-700"}`}
           >
             {a} ({n})
-          </a>
+          </button>
         ))}
       </div>
 
       <ul className="border border-zinc-800 divide-y divide-zinc-800">
-        {rows.map((r) => (
+        {visible.map((r) => (
           <li key={r.id}>
             <button
               onClick={() => setExpandedId(expandedId === r.id ? null : r.id)}
@@ -129,22 +129,20 @@ export default function AuditList({
             page {page} of {totalPages} · {total.toLocaleString()} entries
           </span>
           <div className="flex gap-2">
-            {page > 1 && (
-              <a
-                href={buildHref(currentEntity, currentAction, page - 1)}
-                className="px-2 py-0.5 bg-zinc-800 hover:bg-zinc-700"
-              >
-                ← prev
-              </a>
-            )}
-            {page < totalPages && (
-              <a
-                href={buildHref(currentEntity, currentAction, page + 1)}
-                className="px-2 py-0.5 bg-zinc-800 hover:bg-zinc-700"
-              >
-                next →
-              </a>
-            )}
+            <button
+              onClick={() => setPage((p) => Math.max(1, p - 1))}
+              disabled={page === 1}
+              className="px-2 py-0.5 bg-zinc-800 hover:bg-zinc-700 disabled:opacity-30"
+            >
+              ← prev
+            </button>
+            <button
+              onClick={() => setPage((p) => Math.min(totalPages, p + 1))}
+              disabled={page >= totalPages}
+              className="px-2 py-0.5 bg-zinc-800 hover:bg-zinc-700 disabled:opacity-30"
+            >
+              next →
+            </button>
           </div>
         </div>
       )}

@@ -2,8 +2,6 @@ import { db, schema } from "@/lib/db";
 import { eq, and, desc } from "drizzle-orm";
 import SuggestionsList from "@/components/SuggestionsList";
 
-export const dynamic = "force-dynamic";
-
 export default async function SuggestionsPage() {
   // Pending suggestions joined with source + (optional) existing node
   const rows = db

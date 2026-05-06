@@ -1,8 +1,6 @@
 import { db, schema } from "@/lib/db";
 import { analyze } from "@/lib/graph-analysis";
 
-export const dynamic = "force-dynamic";
-
 const TYPE_COLOR: Record<string, string> = {
   Event: "bg-node-event",
   Person: "bg-node-person",
