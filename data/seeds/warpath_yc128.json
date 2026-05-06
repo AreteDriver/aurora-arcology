@@ -8,8 +8,8 @@
     "phase": 0,
     "license_mode": "L3-user-paste",
     "extraction_source": "Five Ashterothi transcripts (auto-captions pulled via yt-dlp). Curator-owned annotation; not a republication of source material. Mil-Campaign #2 region (Ammatar / Starkmanir / Old Wars / Tanu dread attack) extracted from ash_ammatar_tourism transcript.",
-    "node_count": 170,
-    "connection_count": 256
+    "node_count": 172,
+    "connection_count": 264
   },
   "sources": [
     {
@@ -2550,6 +2550,30 @@
       "sources": [
         "src_ash_deathless_2025"
       ]
+    },
+    {
+      "id": "plc_thera",
+      "type": "Place",
+      "name": "Thera",
+      "brief": "Wormhole-space (Anoikis) system. Sisters of EVE's secret research base, revealed publicly during the Drifter-era reveal. Staging point for SoE / Drifter / Triglavian research.",
+      "master_summary": "The Sisters of EVE's deep-research base, hidden in Anoikis until externally discovered. Sentona Sarpati's organization runs its non-humanitarian work from here. Structurally adjacent to every Drifter / Sleeper / hyperspace-network thread \u2014 the SoE-AIR-EDENCOM research pipeline runs through this site. Silphy's SoE training era likely intersected the Thera operation, though the published chronicles don't place her there directly.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_chronicle_silphy",
+        "src_chronicle_antagonists"
+      ]
+    },
+    {
+      "id": "per_muryia_mordu",
+      "type": "Person",
+      "name": "Muryia Mordu",
+      "brief": "Founder of Mordu's Legion. Implicit referent in the Antagonists chronicle's 'mercenaries' line \u2014 the unnamed commander Silphy works around in her Ishukone data trade.",
+      "master_summary": "Mordu's Legion's founder. Independent mercenary commander operating outside the four-empire structure. Antagonists-chronicle subtext: the 'mercenaries' Silphy negotiates around when offering her Zephyr-telemetry data to Ishukone \u2014 Mens won't take the deal directly while Mordu's people are in the way. Mordu's Legion's separate relationship to Ishukone via the Templar One clone-soldier program ties him structurally to the Mens-Reppola axis.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_chronicle_antagonists",
+        "src_book_templar_one"
+      ]
     }
   ],
   "connections": [
@@ -4304,6 +4328,67 @@
       "rel": "opposed-to",
       "conf": 0.7,
       "claim": "Counter-insurgency posture documented in the Antagonists-era thread"
+    },
+    {
+      "src": "per_silphy_en_diabel",
+      "tgt": "per_mens_reppola",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "Antagonists chronicle: Silphy's Zephyr-telemetry data trade target via the Lacante/Sentona channel. Mens is the named end-recipient.",
+      "supporting_sources": [
+        "src_chronicle_antagonists"
+      ]
+    },
+    {
+      "src": "per_silphy_en_diabel",
+      "tgt": "org_mordus_legion",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "Antagonists chronicle: Silphy's pitch references the 'mercenaries' Mens won't move on; Ash reads as Mordu's Legion in context",
+      "contested-by": "Curator interpretation; chronicle doesn't name them explicitly"
+    },
+    {
+      "src": "per_silphy_en_diabel",
+      "tgt": "org_caldari_state",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Syndicate-Caldari constellation deal positioned Silphy as effective State counterparty for ~5 years pre-conquest; the YC128.05.05 conquest is the structural reversal"
+    },
+    {
+      "src": "per_muryia_mordu",
+      "tgt": "org_mordus_legion",
+      "rel": "descends-from",
+      "conf": 1.0,
+      "claim": "Founder"
+    },
+    {
+      "src": "plc_thera",
+      "tgt": "org_sisters_of_eve",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "SoE's secret Anoikis research base; canonical staging point for the order's non-humanitarian work"
+    },
+    {
+      "src": "plc_thera",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Anoikis access point; structurally adjacent to every Drifter / Sleeper research thread"
+    },
+    {
+      "src": "per_sentona_sarpati",
+      "tgt": "plc_thera",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "SoE CEO oversees the Thera-anchored research operation"
+    },
+    {
+      "src": "per_silphy_en_diabel",
+      "tgt": "plc_thera",
+      "rel": "parallels",
+      "conf": 0.45,
+      "claim": "Silphy's SoE training era likely intersected Thera operations \u2014 chronicles don't place her there directly",
+      "contested-by": "Curator inference; not in published chronicle text"
     }
   ],
   "_curation_notes": [
@@ -4322,6 +4407,7 @@
     "Phase 2 corpus targets (deferred): full Chronicle archive (~600 entries), full EVE book set (Empyrean Age / Burning Life / Templar One / Imperian Age), Scope video catalogue, broader Ashterothi catalogue, third-party wikis (eve-uniwiki, backstage forum). These need their own ingestion pipelines (spec \u00a711.1 Library).",
     "Typo audit 2026-05-06: renamed org_mortis_legion \u2192 org_mordus_legion (1 node, 1 edge references). Text fixes: 'Mordu's Legion'\u2192'Mordu's Legion' (8x), 'Muria Moru'\u2192'Muryia Mordu' (4x).",
     "Ashterothi extension 2026-05-06: +18 nodes / +33 connections covering Exordium charter (YC128.04.13) and pre-collapse Jove deep history (Eve Gate collapse, Yan Jung, Talocan, First/Second Jove Empires, Construct, Jovian Disease) plus the Deathless / Deathless Network thread anchor.",
-    "Auto-curate pass 2026-05-06T13:00:00Z: rejected 0 noise suggestions, accepted 0 citations on existing nodes, created 0 stub nodes (canonicity='curator-review-pending') with 0 new citations. Stubs need curator review for type confirmation, brief authoring, and connection wiring."
+    "Auto-curate pass 2026-05-06T13:00:00Z: rejected 0 noise suggestions, accepted 0 citations on existing nodes, created 0 stub nodes (canonicity='curator-review-pending') with 0 new citations. Stubs need curator review for type confirmation, brief authoring, and connection wiring.",
+    "Silphy/SoE region extension 2026-05-06: +2 nodes (Thera, Muryia Mordu), +8 connections drawing the Antagonists-chronicle data-trade edges directly and adding the Thera SoE base. Khanid connection from the user's prompt deferred \u2014 no chronicle reference in the extracted material; awaiting source."
   ]
 }
