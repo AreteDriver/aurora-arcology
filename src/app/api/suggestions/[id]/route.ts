@@ -1,12 +1,20 @@
 import { NextRequest, NextResponse } from "next/server";
 import { db, schema } from "@/lib/db";
 import { eq } from "drizzle-orm";
+import { isReadOnly } from "@/lib/readonly";
 
 interface Props {
   params: Promise<{ id: string }>;
 }
 
 export async function PATCH(req: NextRequest, { params }: Props) {
+  if (isReadOnly()) {
+    return NextResponse.json(
+      { error: "deployment is read-only; run locally to mutate" },
+      { status: 405 },
+    );
+  }
+
   const { id } = await params;
   const body = await req.json();
   const action = body.action as "accept" | "reject";

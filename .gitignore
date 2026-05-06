@@ -35,7 +35,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Aurora — local SQLite store. Curator regenerates from data/seeds/*.json
+# Aurora — local SQLite store. Curator regenerates from data/seeds/*.json.
+# Vercel build also regenerates via `pnpm vercel:build` so the deployed
+# read-only DB is always in sync with seeds at build time.
 data/aurora.db
 data/aurora.db-journal
 data/aurora.db-shm

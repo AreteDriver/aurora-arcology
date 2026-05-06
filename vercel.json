@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "pnpm vercel:build",
+  "framework": "nextjs",
+  "env": {
+    "AURORA_READONLY": "1"
+  }
+}

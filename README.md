@@ -62,6 +62,30 @@ curator-authored claim text drawn from publicly-available CCP material and creat
 content under L3 user-paste licensing — Aurora itself does not redistribute creator
 transcripts. See spec §10 for the licensing arc.
 
+## Deploy (Vercel)
+
+Public read-only view. Curator-write features (suggestions accept/reject) are
+disabled on the deployed build; run locally to mutate.
+
+```bash
+# one-time
+vercel link
+vercel env add AURORA_READONLY production    # value: 1
+vercel env add NEXT_PUBLIC_AURORA_READONLY production    # value: 1
+
+# deploy
+vercel --prod
+```
+
+Build command (set in `vercel.json`): `pnpm vercel:build` runs migrations,
+seeds the warpath board, ingests the news archive, runs NER extraction,
+then builds Next. The resulting `data/aurora.db` is baked into the build.
+
+For curator work, run locally:
+```bash
+pnpm db:reset && pnpm news:load && pnpm ner:extract && pnpm dev
+```
+
 ## Spec
 
 The full design document is `aurora-spec-v0.4.md` (root). The Phase 0 execution doc is
