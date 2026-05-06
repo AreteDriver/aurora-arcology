@@ -20,7 +20,8 @@
     "resolver:audit": "tsx scripts/resolve.ts",
     "ner:extract": "tsx scripts/ner-extract.ts",
     "admin": "tsx scripts/admin.ts",
-    "vercel:build": "pnpm db:reset && pnpm news:load && pnpm ner:extract && next build"
+    "embed:db": "tsx scripts/embed-db.ts",
+    "vercel:build": "pnpm db:reset && pnpm news:load && pnpm ner:extract && pnpm embed:db && next build"
   },
   "dependencies": {
     "better-sqlite3": "^11.5.0",

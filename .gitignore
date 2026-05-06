@@ -50,3 +50,8 @@ data/raw/
 *.vtt
 *.srt
 .vercel
+
+# Aurora — generated DB blob for Vercel function packaging.
+# Refreshed by `pnpm embed:db` from data/aurora.db; ships only inside the
+# Vercel build artifact, never tracked.
+src/lib/db-blob.ts
