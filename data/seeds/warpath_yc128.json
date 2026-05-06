@@ -175,7 +175,7 @@
       "date": "2010",
       "license_tier": "ccp-fan-content",
       "canonicity": "ccp-canon",
-      "excerpt": "Curator synopsis: dramatized Sentona\u2013Silphy meeting on Intaki V. Reveals the Zephyr telemetry data trade with Ishukone via the Lacante / Mortis Legion / Mens Reppola channel."
+      "excerpt": "Curator synopsis: dramatized Sentona\u2013Silphy meeting on Intaki V. Reveals the Zephyr telemetry data trade with Ishukone via the Lacante / Mordu's Legion / Mens Reppola channel."
     },
     {
       "id": "src_chronicle_starkmanir",
@@ -219,7 +219,7 @@
       "date": "2012",
       "license_tier": "ccp-fan-content",
       "canonicity": "ccp-canon",
-      "excerpt": "Curator reference: Mens Reppola, Mortis Legion clone-soldier program, the broker plot, Vince's recovery, and Insorum's role in Vitoxin liberation. Primary source for the Ishukone-axis biology."
+      "excerpt": "Curator reference: Mens Reppola, Mordu's Legion clone-soldier program, the broker plot, Vince's recovery, and Insorum's role in Vitoxin liberation. Primary source for the Ishukone-axis biology."
     },
     {
       "id": "src_hoboleaks_warpath",
@@ -665,14 +665,14 @@
       "id": "per_mens_reppola",
       "type": "Person",
       "name": "Mens Reppola",
-      "brief": "Ishukone CEO since Otro's death. Ash's stream centers him as Ishukone-axis anchor. Working with Mortis Legion (Muria Moru) on clone-soldier development. Heavily drone-protected; in semi-hiding by Templar 1's end.",
+      "brief": "Ishukone CEO since Otro's death. Ash's stream centers him as Ishukone-axis anchor. Working with Mordu's Legion (Muryia Mordu) on clone-soldier development. Heavily drone-protected; in semi-hiding by Templar 1's end.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_silphy_2024",
         "src_book_templar_one",
         "src_chronicle_antagonists"
       ],
-      "master_summary": "Ishukone CEO since Otro's death. The structural anchor of the Ishukone axis on Ash's whiteboard. Working with Mortis Legion (Muria Moru) on clone-soldier development; in semi-hiding behind heavy drone protection by Templar 1's end. Every major Ishukone-axis claim about the YC128 cycle eventually routes through him."
+      "master_summary": "Ishukone CEO since Otro's death. The structural anchor of the Ishukone axis on Ash's whiteboard. Working with Mordu's Legion (Muryia Mordu) on clone-soldier development; in semi-hiding behind heavy drone protection by Templar 1's end. Every major Ishukone-axis claim about the YC128 cycle eventually routes through him."
     },
     {
       "id": "per_miller_reppola",
@@ -981,12 +981,12 @@
       "master_summary": "Inter-empire defensive coalition. Ships built by Upwell. Drifter wormhole occupier (one of five). Partnered with Upwell on Sentinel-MZ research. Lost CONCORD funding to AIR Labs in the Mountain/Ocean realignment."
     },
     {
-      "id": "org_mortis_legion",
+      "id": "org_mordus_legion",
       "type": "Organization",
-      "name": "Mortis Legion",
-      "brief": "Mercenary group. Muria Moru leadership. Co-developer of clone-soldier / Templar tech with Ishukone. Granted full military access to Intaki under YC110-era assembly deal.",
+      "name": "Mordu's Legion",
+      "brief": "Mercenary group. Muryia Mordu leadership. Co-developer of clone-soldier / Templar tech with Ishukone. Granted full military access to Intaki under YC110-era assembly deal.",
       "canonicity": "ccp-canon",
-      "master_summary": "Mercenary group under Muria Moru. Co-developer of clone-soldier / Templar tech with Ishukone. Granted full military access to Intaki under the YC110-era assembly deal \u2014 the legal cover that lets Ishukone operate inside Federation space."
+      "master_summary": "Mercenary group under Muryia Mordu. Co-developer of clone-soldier / Templar tech with Ishukone. Granted full military access to Intaki under the YC110-era assembly deal \u2014 the legal cover that lets Ishukone operate inside Federation space."
     },
     {
       "id": "org_sisters_of_eve",
@@ -1189,13 +1189,13 @@
       "id": "cnc_lai_dai_vs_ishukone_axis",
       "type": "Concept",
       "name": "Lai Dai vs Ishukone Axis",
-      "brief": "Ash's whiteboard: durable rivalry running through 20+ years of Caldari political realignment. Mountain+Ocean faction cluster on Ishukone side; Forest on Lai Dai side. Subordinate alignments: SoE / Mountain / Mortis Legion / Ytiri / Star Seed (Ishukone) vs NOH / CBD / Forest / Quafe / Sarpati (Lai Dai).",
+      "brief": "Ash's whiteboard: durable rivalry running through 20+ years of Caldari political realignment. Mountain+Ocean faction cluster on Ishukone side; Forest on Lai Dai side. Subordinate alignments: SoE / Mountain / Mordu's Legion / Ytiri / Star Seed (Ishukone) vs NOH / CBD / Forest / Quafe / Sarpati (Lai Dai).",
       "canonicity": "creator-interpretation",
       "sources": [
         "src_ash_yc128_05_05",
         "src_ash_warpath_news"
       ],
-      "master_summary": "The whiteboard. Durable rivalry running through 20+ years of Caldari political realignment. Mountain+Ocean cluster on Ishukone side; Forest on Lai Dai side. SoE / Mortis Legion / Ytiri / Star Seed map to Ishukone; NOH / CBD / Forest / Quafe / Sarpati line maps to Lai Dai. Without this frame the Warpath beats look like empire-vs-empire; with it they look like a hostile takeover."
+      "master_summary": "The whiteboard. Durable rivalry running through 20+ years of Caldari political realignment. Mountain+Ocean cluster on Ishukone side; Forest on Lai Dai side. SoE / Mordu's Legion / Ytiri / Star Seed map to Ishukone; NOH / CBD / Forest / Quafe / Sarpati line maps to Lai Dai. Without this frame the Warpath beats look like empire-vs-empire; with it they look like a hostile takeover."
     },
     {
       "id": "cnc_warpath_message",
@@ -1891,7 +1891,7 @@
       "sources": [
         "src_ash_ammatar_tourism"
       ],
-      "master_summary": "Capsuleer raider group. Attacked the SoE-Mortis Legion relief convoy bound for Rashard V (YC108). Independent enough to act against an SoE convoy, structured enough to coordinate with capital weaponry."
+      "master_summary": "Capsuleer raider group. Attacked the SoE-Mordu's Legion relief convoy bound for Rashard V (YC108). Independent enough to act against an SoE convoy, structured enough to coordinate with capital weaponry."
     },
     {
       "id": "art_khoumak",
@@ -3417,7 +3417,7 @@
     },
     {
       "src": "org_ishukone",
-      "tgt": "org_mortis_legion",
+      "tgt": "org_mordus_legion",
       "rel": "funds",
       "conf": 0.8,
       "claim": "Co-development of clone-soldier program; Ishukone capital + Mortis muscle"
@@ -3443,6 +3443,7 @@
     "Master summary added to 152/152 nodes \u2014 synthesis of each node's role through its connections (spec \u00a76 Tier 3, persisted as curator data).",
     "Financial-flow layer added 2026-05-06: 41 new edges using 5 new relation types (funds / revenue-from / launders-through / financially-exposed-to / supplies). Surfaces ISK pipelines: Quafe-Lai-Dai-Roden, Star-Seed-Ytiri-Ishukone, Concord-AIR-EDENCOM realignment, Intaki-Bank-Upwell exposure, Death-Glow-Blood-Raider supply, Vitoxin-as-economic-backbone.",
     "Corpus expansion 2026-05-06: +18 canonical sources (7 New Eden News, 1 EVE Online announcement, 4 Chronicles, 2 novels, 1 Hoboleaks, 3 Ashterothi/Scope references). Wired 44 new node-to-source citations. All excerpts are curator-authored paraphrased synopses; no primary text reproduced.",
-    "Phase 2 corpus targets (deferred): full Chronicle archive (~600 entries), full EVE book set (Empyrean Age / Burning Life / Templar One / Imperian Age), Scope video catalogue, broader Ashterothi catalogue, third-party wikis (eve-uniwiki, backstage forum). These need their own ingestion pipelines (spec \u00a711.1 Library)."
+    "Phase 2 corpus targets (deferred): full Chronicle archive (~600 entries), full EVE book set (Empyrean Age / Burning Life / Templar One / Imperian Age), Scope video catalogue, broader Ashterothi catalogue, third-party wikis (eve-uniwiki, backstage forum). These need their own ingestion pipelines (spec \u00a711.1 Library).",
+    "Typo audit 2026-05-06: renamed org_mortis_legion \u2192 org_mordus_legion (1 node, 1 edge references). Text fixes: 'Mortis Legion'\u2192'Mordu's Legion' (8x), 'Muria Moru'\u2192'Muryia Mordu' (4x)."
   ]
 }
