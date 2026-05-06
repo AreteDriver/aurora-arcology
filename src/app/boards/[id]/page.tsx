@@ -32,6 +32,34 @@ export default async function BoardPage({ params }: Props) {
     (c) => idSet.has(c.srcNodeId) && idSet.has(c.tgtNodeId),
   );
 
+  // Build a per-node citation list: nodeId → [{id, title, url, date, type, publisher}]
+  const nodeSourceRows = nodeIds.length
+    ? db
+        .select()
+        .from(schema.nodeSources)
+        .where(inArray(schema.nodeSources.nodeId, nodeIds))
+        .all()
+    : [];
+  const citedSourceIds = Array.from(new Set(nodeSourceRows.map((r) => r.sourceId)));
+  const sourceRows = citedSourceIds.length
+    ? db
+        .select()
+        .from(schema.sources)
+        .where(inArray(schema.sources.id, citedSourceIds))
+        .all()
+    : [];
+  const sourceById = new Map(sourceRows.map((s) => [s.id, s]));
+  const citationsByNode: Record<string, typeof sourceRows> = {};
+  for (const r of nodeSourceRows) {
+    const src = sourceById.get(r.sourceId);
+    if (!src) continue;
+    (citationsByNode[r.nodeId] ??= []).push(src);
+  }
+  // Sort each node's citations by date descending
+  for (const list of Object.values(citationsByNode)) {
+    list.sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""));
+  }
+
   const summary = {
     nodes: nodes.length,
     connections: visibleConns.length,
@@ -58,7 +86,11 @@ export default async function BoardPage({ params }: Props) {
         </nav>
       </header>
 
-      <BoardView nodes={nodes} connections={visibleConns} />
+      <BoardView
+        nodes={nodes}
+        connections={visibleConns}
+        citationsByNode={citationsByNode}
+      />
     </div>
   );
 }

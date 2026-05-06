@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import * as d3 from "d3";
-import type { Node, Connection } from "@db/schema";
+import type { Node, Connection, Source } from "@db/schema";
 import NodeInspector from "./NodeInspector";
 
 const TYPE_COLOR: Record<string, string> = {
@@ -19,6 +19,7 @@ const TYPE_COLOR: Record<string, string> = {
 interface Props {
   nodes: Node[];
   connections: Connection[];
+  citationsByNode?: Record<string, Source[]>;
 }
 
 interface SimNode extends Node, d3.SimulationNodeDatum {}
@@ -29,7 +30,7 @@ interface SimLink extends d3.SimulationLinkDatum<SimNode> {
   claim: string | null;
 }
 
-export default function BoardView({ nodes, connections }: Props) {
+export default function BoardView({ nodes, connections, citationsByNode = {} }: Props) {
   const svgRef = useRef<SVGSVGElement>(null);
   const [selectedId, setSelectedId] = useState<string | null>(null);
   const [hops, setHops] = useState(0); // 0 = show all
@@ -310,6 +311,7 @@ export default function BoardView({ nodes, connections }: Props) {
         node={selected}
         nodeById={nodeById}
         connections={connections}
+        citations={selected ? citationsByNode[selected.id] ?? [] : []}
         onSelect={setSelectedId}
         onClear={() => setSelectedId(null)}
       />

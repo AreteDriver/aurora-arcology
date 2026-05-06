@@ -1,16 +1,24 @@
 "use client";
 
-import type { Node, Connection } from "@db/schema";
+import type { Node, Connection, Source } from "@db/schema";
 
 interface Props {
   node: Node | null;
   nodeById: Map<string, Node>;
   connections: Connection[];
+  citations?: Source[];
   onSelect: (id: string) => void;
   onClear: () => void;
 }
 
-export default function NodeInspector({ node, nodeById, connections, onSelect, onClear }: Props) {
+export default function NodeInspector({
+  node,
+  nodeById,
+  connections,
+  citations = [],
+  onSelect,
+  onClear,
+}: Props) {
   if (!node) {
     return (
       <aside className="border border-zinc-800 p-4 text-zinc-500 text-sm font-mono">
@@ -101,6 +109,34 @@ export default function NodeInspector({ node, nodeById, connections, onSelect, o
                   {c.claim && <div className="text-zinc-500 ml-3 mt-0.5 normal-case">{c.claim}</div>}
                 </li>
               ))}
+          </ul>
+        </section>
+      )}
+
+      {citations.length > 0 && (
+        <section>
+          <h3 className="text-xs font-mono text-zinc-400 uppercase tracking-wide mb-1">
+            Cited in ({citations.length})
+          </h3>
+          <ul className="space-y-1 font-mono text-xs">
+            {citations.map((s) => (
+              <li key={s.id} className="leading-tight">
+                <span className="text-zinc-500">{s.date ?? "—"}</span>{" "}
+                <span className="text-zinc-600">[{s.type}]</span>{" "}
+                {s.url ? (
+                  <a
+                    href={s.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-zinc-200 hover:text-blue-400 normal-case"
+                  >
+                    {s.title} ↗
+                  </a>
+                ) : (
+                  <span className="text-zinc-200 normal-case">{s.title}</span>
+                )}
+              </li>
+            ))}
           </ul>
         </section>
       )}
