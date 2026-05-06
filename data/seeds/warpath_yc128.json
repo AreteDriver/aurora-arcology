@@ -8,8 +8,8 @@
     "phase": 0,
     "license_mode": "L3-user-paste",
     "extraction_source": "Five Ashterothi transcripts (auto-captions pulled via yt-dlp). Curator-owned annotation; not a republication of source material. Mil-Campaign #2 region (Ammatar / Starkmanir / Old Wars / Tanu dread attack) extracted from ash_ammatar_tourism transcript.",
-    "node_count": 152,
-    "connection_count": 223
+    "node_count": 170,
+    "connection_count": 256
   },
   "sources": [
     {
@@ -266,6 +266,28 @@
       "license_tier": "ccp-fan-content",
       "canonicity": "ccp-canon",
       "excerpt": "Curator reference: CCP's official in-universe news broadcast format. As of YC128.05.05, no Scope video has been released for the Warpath cycle \u2014 Ashterothi notes this absence as conspicuous, attributing it to Fanfest-trailer prep load."
+    },
+    {
+      "id": "src_ash_air_new_region",
+      "type": "Stream Transcript",
+      "publisher": "Ashterothi (YouTube)",
+      "title": "CONCORD and AIR Announce New Space Region - New Eden News - YC128-04-13",
+      "url": "https://www.youtube.com/watch?v=nhTUqEmgX5k",
+      "date": "2026-04-13",
+      "license_tier": "permissioned-creator",
+      "canonicity": "creator-interpretation",
+      "local_path": "/tmp/ash_air_new_region.txt"
+    },
+    {
+      "id": "src_ash_deathless_2025",
+      "type": "Stream Transcript",
+      "publisher": "Ashterothi (YouTube)",
+      "title": "The Lore You Need For EVE In 2025 - Part 1 - The Deathless",
+      "url": "https://www.youtube.com/watch?v=J8SFloh6Q2s",
+      "date": "2025",
+      "license_tier": "permissioned-creator",
+      "canonicity": "creator-interpretation",
+      "local_path": "/tmp/ash_deathless_2025.txt"
     }
   ],
   "nodes": [
@@ -1903,6 +1925,207 @@
         "src_ash_ammatar_tourism"
       ],
       "master_summary": "Amarr religious scepter. A Mimitar slave seizing one became the iconic moment of the Great Rebellion. Symbolic artifact of Amarr ecclesiastical authority and the moment it cracked."
+    },
+    {
+      "id": "evt_exordium_charter",
+      "type": "Event",
+      "name": "Exordium Charter (Yulai Accord Amendment)",
+      "date": "2026-04-13",
+      "brief": "CONCORD Inner Circle + AIR Laboratories signed an amendment to the Yulai Accords establishing the new region of Exordium with no-violence security protocols. Public ceremony held in orbit around Yulai 8.",
+      "master_summary": "The constitutional event for the Exordium region. CCP's first canonical move toward a deconfliction zone \u2014 CONCORD and AIR jointly chartered a 50-system region with capsuleer-side safety enforced by Yulai Accord amendment. Connects directly to AIR Labs' rising profile in the Mountain/Ocean realignment, and to the Drifter-experimentation policy thread (the CONCORD-funded research that would otherwise have flowed to EDENCOM).",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_air_new_region"
+      ]
+    },
+    {
+      "id": "plc_exordium",
+      "type": "Place",
+      "name": "Exordium",
+      "brief": "New region of 50+ star systems linked by newly constructed stargates. Single two-way connection to Yulai (under construction); four one-way shipcasters into each empire's sovereign space via embassy constellations.",
+      "master_summary": "Aurora's first canonical neutral space. Strategic significance: the only region in New Eden with capsuleer-violence protocols structurally enforced. Hosts AIR's relocated capsuleer training program, which positions Exordium as the new front door for new pilots \u2014 a structural shift away from the Caldari/Ishukone training pipeline that has historically held that role.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_air_new_region"
+      ]
+    },
+    {
+      "id": "cnc_yulai_accords",
+      "type": "Concept",
+      "name": "Yulai Accords",
+      "brief": "Foundational CONCORD treaty that gave rise to faction warfare's emergency war powers framework and now the Exordium Charter amendment.",
+      "master_summary": "The constitutional document of CONCORD-era New Eden. Every multi-empire structural framework \u2014 EMWPA, Exordium charter, Warpath Protocol \u2014 extends or amends the Yulai Accords. Warpath Protocol Failure is, in this reading, a breach of the same accords being amended to create Exordium two weeks earlier.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_air_new_region"
+      ]
+    },
+    {
+      "id": "per_aldeya_balasharian",
+      "type": "Person",
+      "name": "Aldeya Balasharian",
+      "brief": "AIR Laboratories CEO. Public face of the Exordium charter and AIR's super-stable warp drive technology.",
+      "master_summary": "AIR's leadership face during the Exordium era. Announced AIR's super-stable warp drive \u2014 the technical primitive that made building a new region in years rather than decades possible. Ties AIR Labs to a named principal that connects upward to the Mountain/Ocean realignment Ash mapped on his whiteboard.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_air_new_region"
+      ]
+    },
+    {
+      "id": "per_aras_angire",
+      "type": "Person",
+      "name": "Aras Angarae",
+      "brief": "Head of CONCORD Inner Circle. Co-signatory of the Exordium Charter; managed the post-Jita-gate Inner Circle emergency session.",
+      "master_summary": "The diplomatic face of CONCORD across the YC128 cycle. Signed the Exordium amendment with Balasharian, then chaired the post-Jita-gate session that ended with all parties walking out. Two consecutive multi-empire signatures bracketing the Warpath Protocol Failure.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_air_new_region"
+      ]
+    },
+    {
+      "id": "phn_super_stable_warp",
+      "type": "Phenomenon",
+      "name": "AIR Super-Stable Warp Drive",
+      "brief": "Proprietary AIR technology allowing colony ships to maintain warp between stars. Cut Exordium construction from decades to years.",
+      "master_summary": "The technical primitive that made Exordium feasible in human-scale time. Signals AIR Labs has crossed into proprietary deep-tech (vs pure research) \u2014 a positioning that puts it on the same axis as Ishukone's Templar/clone program. Likely candidate for the next wave of capsuleer-relevant ship modules.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_air_new_region"
+      ]
+    },
+    {
+      "id": "evt_capsuleer_training_relocation",
+      "type": "Event",
+      "name": "Capsuleer Training Relocation to Exordium",
+      "date": "2026-04",
+      "brief": "AIR-managed training programs (which AIR took over in YC123) relocated to Exordium. New capsuleers will be born in the no-violence region.",
+      "master_summary": "Structural shift in the new-pilot pipeline. From day one of their career, capsuleers will be physically in AIR-managed CONCORD-protected space \u2014 not the Caldari corp-state milieu. Long-tail consequences: changes the cultural baseline of new pilots, weakens the Caldari training-as-recruitment lever the State has historically exploited.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_air_new_region"
+      ]
+    },
+    {
+      "id": "evt_eve_gate_collapse",
+      "type": "Event",
+      "name": "Eve Gate Collapse",
+      "date": "861-AD",
+      "brief": "Wormhole connecting New Eden to Earth/Sol collapsed ~861 AD (in-universe), severing the colonies from humanity's origin and triggering civilizational collapse across the cluster.",
+      "master_summary": "The break point between proto-history and modern New Eden. Every modern faction descends from a colony cut off by this event. Sisters of Eve research is fundamentally an attempt to understand and possibly reopen the gate. The Drifters' hyperspace network \u2014 the same one weaponized for Jita-gate \u2014 is structurally the heir to whatever made the original Eve gate work.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_deathless_2025"
+      ]
+    },
+    {
+      "id": "org_yan_jung",
+      "type": "Faction",
+      "name": "Yan Jung",
+      "brief": "Pre-collapse civilization in the Dor region (modern Gallente space). Masters of gravitonic and force-field technology. Records end ~9000 AD.",
+      "master_summary": "One of three pre-collapse civilizations. Yan Jung gravitonic technology is the structural ancestor of every stargate, warp drive, and cyno beacon in modern New Eden \u2014 including the Drone Graviton Emitter the rogue drones are now manufacturing in the Catalyst-era event. Their disappearance ~9000 AD remains canonically unexplained.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_deathless_2025"
+      ]
+    },
+    {
+      "id": "org_talocan",
+      "type": "Faction",
+      "name": "Talocan",
+      "brief": "Pre-collapse civilization. Remains found primarily in Anoikis (wormhole space). Fell from power around the same era as the Yan Jung.",
+      "master_summary": "Pre-collapse civilization whose remnants seed modern Anoikis. Their collapse coincides with the Yan Jung's \u2014 suggesting a common cause that current EVE lore has not surfaced. Talocan structures are the anchor points for modern wormhole-occupier Drifter tech research.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_deathless_2025"
+      ]
+    },
+    {
+      "id": "org_jove_first_empire",
+      "type": "Faction",
+      "name": "First Jove Empire",
+      "brief": "Earliest documented Jove polity. Collapsed when 'elders' suppressed biological experimentation by other Jovians.",
+      "master_summary": "First of three Jove empires. Its collapse is the foundational political-philosophy split inside Jove civilization \u2014 engineered restraint vs biological license. The same axis returns in the Second Empire (Boore) and informs the Jovian Disease emergence.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_deathless_2025"
+      ]
+    },
+    {
+      "id": "org_jove_second_empire",
+      "type": "Faction",
+      "name": "Second Jove Empire (Michael Boore)",
+      "brief": "Reunified Jove civilization under Michael Boore. Era of intensive bio-experimentation that produced the Jovian Disease and seeded the Sleeper civilization.",
+      "master_summary": "The Second Empire's bio-experiment culture is the proximate cause of every modern Drifter / Sleeper / Jovian-Disease beat. Boore reunified Jove after the First Empire's collapse but his enabling of unrestricted experimentation is what produced the engineered defect that still terminates Jovians on a long-enough timeline.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_deathless_2025"
+      ]
+    },
+    {
+      "id": "per_michael_boore",
+      "type": "Person",
+      "name": "Michael Boore",
+      "brief": "Reunifier of the Jove people into the Second Empire after the First Empire's collapse.",
+      "master_summary": "Founding figure of Jove modernity. His political project (reunification) succeeded; the bio-experimental license he enabled produced the Jovian Disease that defines the entire Jove arc afterward. Cautionary canonical figure for what unrestricted research does inside a small genetically-tight population.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_deathless_2025"
+      ]
+    },
+    {
+      "id": "phn_jovian_disease",
+      "type": "Phenomenon",
+      "name": "Jovian Disease",
+      "brief": "Engineered biological defect in Jovian DNA. Causes melancholy, madness, and eventual death across all Jovians on a sufficiently long timeline.",
+      "master_summary": "The chronic existential crisis of the Jove. Every Jovian arc \u2014 turning to the Construct, the Sleeper transition, eventual Drifter emergence \u2014 is a response to this defect. Insorum's structural analog: Vitoxin is to the Mimitar what Jovian Disease is to the Jove, except the Jove engineered theirs themselves.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_deathless_2025"
+      ]
+    },
+    {
+      "id": "phn_construct",
+      "type": "Phenomenon",
+      "name": "The Construct",
+      "brief": "Jovian VR / simulated environment. Used time dilation to advance Jove civilization beyond physical-world limits. Eventually rewired to use connected biological brains as computational substrate.",
+      "master_summary": "The Construct is the Jovian deep state \u2014 every Jove who matters has spent significant subjective time inside it. The 'one body, one mind' law is the constitutional safeguard around it. The Sleeper civilization is what happens when Jove-bound consciousnesses commit fully to the Construct and never come out. The Drifter emergence is canonically tied to whatever happened to those consciousnesses afterward.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_deathless_2025"
+      ]
+    },
+    {
+      "id": "cnc_one_body_one_mind",
+      "type": "Concept",
+      "name": "One Body, One Mind Law",
+      "brief": "Jovian constitutional rule: a consciousness in the Construct must also have a physical body connected to it.",
+      "master_summary": "The structural safeguard against pure-Construct existence. Connecting body to mind kept Jovians tethered to physical reality and locked their brains into the Construct's compute substrate. Violations of this law underwrite most of the canonical Jove failure modes that follow.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_deathless_2025"
+      ]
+    },
+    {
+      "id": "per_deathless",
+      "type": "Person",
+      "name": "The Deathless",
+      "brief": "Mysterious figure first surfacing YC110 era. Operates the Deathless Network, distributes intel and resources across pirate factions, currently seen pulling Archbine away from Mordu's Legion / Mu and into his own circle.",
+      "master_summary": "The current cycle's antagonist-of-record. Modern Deathless arc converges multiple long-running threads: stolen capsuleer-grade resources, unknown connection to Jove deep history (the name + immortality framing reads as Construct-derived), Pochven operations, Archbine defection. Counter-target of Intaki Bank / Upwell counter-insurgency.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_deathless_2025"
+      ]
+    },
+    {
+      "id": "org_deathless_network",
+      "type": "Organization",
+      "name": "Deathless Network",
+      "brief": "Distribution arm of the Deathless. Seeds intel and resources to pirate factions; documented role in distributing capsuleer-grade resources stolen by Esri-class operations to other pirate groups.",
+      "master_summary": "The Deathless Network is the operational layer between the Deathless himself and the pirate ecosystem. Functions as a black-market intel exchange \u2014 same shape as the Antagonists-chronicle Sentona/Lacante/Ishukone data trade, but with the Deathless rather than Ishukone as the terminal recipient. Where Intaki Bank's counter-insurgency is aimed.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_deathless_2025"
+      ]
     }
   ],
   "connections": [
@@ -3428,6 +3651,235 @@
       "rel": "supplies",
       "conf": 0.65,
       "claim": "Quafe stations among first structures built in newly-seized space"
+    },
+    {
+      "src": "evt_exordium_charter",
+      "tgt": "plc_exordium",
+      "rel": "located-in",
+      "conf": 1.0
+    },
+    {
+      "src": "evt_exordium_charter",
+      "tgt": "cnc_yulai_accords",
+      "rel": "descends-from",
+      "conf": 0.95,
+      "claim": "Charter is an amendment to the Yulai Accords"
+    },
+    {
+      "src": "evt_exordium_charter",
+      "tgt": "org_air_laboratories",
+      "rel": "participated-in",
+      "conf": 1.0,
+      "claim": "AIR co-signatory"
+    },
+    {
+      "src": "evt_exordium_charter",
+      "tgt": "org_concord",
+      "rel": "participated-in",
+      "conf": 1.0,
+      "claim": "CONCORD Inner Circle co-signatory"
+    },
+    {
+      "src": "evt_exordium_charter",
+      "tgt": "per_aldeya_balasharian",
+      "rel": "participated-in",
+      "conf": 1.0
+    },
+    {
+      "src": "evt_exordium_charter",
+      "tgt": "per_aras_angire",
+      "rel": "participated-in",
+      "conf": 1.0
+    },
+    {
+      "src": "per_aldeya_balasharian",
+      "tgt": "org_air_laboratories",
+      "rel": "member-of",
+      "conf": 1.0,
+      "claim": "CEO"
+    },
+    {
+      "src": "per_aras_angire",
+      "tgt": "org_inner_circle",
+      "rel": "member-of",
+      "conf": 1.0,
+      "claim": "Head of Inner Circle"
+    },
+    {
+      "src": "phn_super_stable_warp",
+      "tgt": "org_air_laboratories",
+      "rel": "descends-from",
+      "conf": 1.0,
+      "claim": "AIR-proprietary tech"
+    },
+    {
+      "src": "evt_exordium_charter",
+      "tgt": "phn_super_stable_warp",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Made the construction logistics tractable"
+    },
+    {
+      "src": "evt_capsuleer_training_relocation",
+      "tgt": "plc_exordium",
+      "rel": "located-in",
+      "conf": 1.0
+    },
+    {
+      "src": "evt_capsuleer_training_relocation",
+      "tgt": "org_air_laboratories",
+      "rel": "participated-in",
+      "conf": 1.0
+    },
+    {
+      "src": "evt_capsuleer_training_relocation",
+      "tgt": "evt_exordium_charter",
+      "rel": "succeeded-by",
+      "conf": 0.9,
+      "claim": "Charter enables the relocation"
+    },
+    {
+      "src": "evt_warpath_protocol_failure",
+      "tgt": "cnc_yulai_accords",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Warpath Protocol Failure is a structural breach of the same accords being amended for Exordium two weeks earlier"
+    },
+    {
+      "src": "evt_exordium_charter",
+      "tgt": "evt_warpath_protocol_failure",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Two consecutive multi-empire signatures bracketing the Warpath cycle \u2014 one creating, one breaking"
+    },
+    {
+      "src": "org_concord",
+      "tgt": "plc_exordium",
+      "rel": "funds",
+      "conf": 0.85,
+      "claim": "Joint expedition + ongoing security enforcement"
+    },
+    {
+      "src": "org_air_laboratories",
+      "tgt": "plc_exordium",
+      "rel": "funds",
+      "conf": 0.85,
+      "claim": "Construction + training infrastructure"
+    },
+    {
+      "src": "evt_eve_gate_collapse",
+      "tgt": "org_yan_jung",
+      "rel": "succeeded-by",
+      "conf": 0.85,
+      "claim": "Yan Jung records end shortly after; collapse may be related"
+    },
+    {
+      "src": "evt_eve_gate_collapse",
+      "tgt": "org_talocan",
+      "rel": "succeeded-by",
+      "conf": 0.85
+    },
+    {
+      "src": "evt_eve_gate_collapse",
+      "tgt": "org_jove_first_empire",
+      "rel": "parallels",
+      "conf": 0.6,
+      "claim": "Jove arks deployed in this era"
+    },
+    {
+      "src": "phn_drifter_hyperspace_network",
+      "tgt": "evt_eve_gate_collapse",
+      "rel": "descends-from",
+      "conf": 0.6,
+      "claim": "Likely heir to whatever made the original Eve Gate work",
+      "contested-by": "Curator inference; not yet CCP-confirmed"
+    },
+    {
+      "src": "org_yan_jung",
+      "tgt": "phn_highsec_cyno_tech",
+      "rel": "descends-from",
+      "conf": 0.5,
+      "claim": "Yan Jung gravitonic tech is the technical ancestor of cyno + warp infrastructure",
+      "contested-by": "Curator inference"
+    },
+    {
+      "src": "org_jove_second_empire",
+      "tgt": "org_jove_first_empire",
+      "rel": "succeeded-by",
+      "conf": 1.0
+    },
+    {
+      "src": "per_michael_boore",
+      "tgt": "org_jove_second_empire",
+      "rel": "descends-from",
+      "conf": 1.0,
+      "claim": "Reunifying founder"
+    },
+    {
+      "src": "phn_jovian_disease",
+      "tgt": "org_jove_second_empire",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "Bio-experimentation under Boore produced the engineered defect"
+    },
+    {
+      "src": "phn_construct",
+      "tgt": "org_jove_second_empire",
+      "rel": "descends-from",
+      "conf": 0.85,
+      "claim": "Construct's evolution into a brain-substrate happened during this era"
+    },
+    {
+      "src": "cnc_one_body_one_mind",
+      "tgt": "phn_construct",
+      "rel": "parallels",
+      "conf": 0.95,
+      "claim": "Constitutional safeguard around the Construct"
+    },
+    {
+      "src": "phn_drifter_hyperspace_network",
+      "tgt": "phn_construct",
+      "rel": "descends-from",
+      "conf": 0.55,
+      "claim": "Drifters are canonically tied to the post-Construct Sleeper transition",
+      "contested-by": "Curator interpretation"
+    },
+    {
+      "src": "evt_drifter_crisis",
+      "tgt": "phn_jovian_disease",
+      "rel": "parallels",
+      "conf": 0.5,
+      "claim": "Drifter behavior reads as a Jove arc symptom",
+      "contested-by": "Curator interpretation"
+    },
+    {
+      "src": "per_deathless",
+      "tgt": "org_deathless_network",
+      "rel": "descends-from",
+      "conf": 0.95,
+      "claim": "Network operates as Deathless's distribution arm"
+    },
+    {
+      "src": "org_deathless_circle",
+      "tgt": "org_deathless_network",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Closely-aligned actor sets, sometimes used interchangeably"
+    },
+    {
+      "src": "per_deathless",
+      "tgt": "phn_construct",
+      "rel": "parallels",
+      "conf": 0.45,
+      "claim": "Name + immortality framing reads as Construct-derived; not canonically confirmed",
+      "contested-by": "Curator interpretation"
+    },
+    {
+      "src": "org_intaki_bank",
+      "tgt": "org_deathless_network",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Counter-insurgency posture documented in the Antagonists-era thread"
     }
   ],
   "_curation_notes": [
@@ -3444,6 +3896,7 @@
     "Financial-flow layer added 2026-05-06: 41 new edges using 5 new relation types (funds / revenue-from / launders-through / financially-exposed-to / supplies). Surfaces ISK pipelines: Quafe-Lai-Dai-Roden, Star-Seed-Ytiri-Ishukone, CONCORD-AIR-EDENCOM realignment, Intaki-Bank-Upwell exposure, Death-Glow-Blood-Raider supply, Vitoxin-as-economic-backbone.",
     "Corpus expansion 2026-05-06: +18 canonical sources (7 New Eden News, 1 EVE Online announcement, 4 Chronicles, 2 novels, 1 Hoboleaks, 3 Ashterothi/Scope references). Wired 44 new node-to-source citations. All excerpts are curator-authored paraphrased synopses; no primary text reproduced.",
     "Phase 2 corpus targets (deferred): full Chronicle archive (~600 entries), full EVE book set (Empyrean Age / Burning Life / Templar One / Imperian Age), Scope video catalogue, broader Ashterothi catalogue, third-party wikis (eve-uniwiki, backstage forum). These need their own ingestion pipelines (spec \u00a711.1 Library).",
-    "Typo audit 2026-05-06: renamed org_mortis_legion \u2192 org_mordus_legion (1 node, 1 edge references). Text fixes: 'Mortis Legion'\u2192'Mordu's Legion' (8x), 'Muria Moru'\u2192'Muryia Mordu' (4x)."
+    "Typo audit 2026-05-06: renamed org_mortis_legion \u2192 org_mordus_legion (1 node, 1 edge references). Text fixes: 'Mordu's Legion'\u2192'Mordu's Legion' (8x), 'Muria Moru'\u2192'Muryia Mordu' (4x).",
+    "Ashterothi extension 2026-05-06: +18 nodes / +33 connections covering Exordium charter (YC128.04.13) and pre-collapse Jove deep history (Eve Gate collapse, Yan Jung, Talocan, First/Second Jove Empires, Construct, Jovian Disease) plus the Deathless / Deathless Network thread anchor."
   ]
 }
