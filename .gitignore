@@ -49,3 +49,4 @@ data/aurora.db-wal
 data/raw/
 *.vtt
 *.srt
+.vercel
