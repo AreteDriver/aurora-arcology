@@ -35,7 +35,7 @@ export const SeedSource = z.object({
   title: z.string(),
   url: z.string().url().optional(),
   date: z.string().optional(),
-  excerpt: z.string().optional(),
+  excerpt: z.string().nullable().optional(),
   license_tier: z.string(),
   canonicity: z.string().optional(),
   local_path: z.string().optional(),
@@ -76,8 +76,8 @@ export const SeedBoard = z.object({
     connection_count: z.number().optional(),
   }),
   sources: z.array(SeedSource),
-  nodes: z.array(SeedNode),
-  connections: z.array(SeedConnection),
+  nodes: z.array(SeedNode).optional().default([]),
+  connections: z.array(SeedConnection).optional().default([]),
   _curation_notes: z.array(z.string()).optional(),
 });
 
