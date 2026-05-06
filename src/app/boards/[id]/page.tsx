@@ -1,5 +1,5 @@
 import { db, schema } from "@/lib/db";
-import { eq } from "drizzle-orm";
+import { eq, inArray } from "drizzle-orm";
 import { notFound } from "next/navigation";
 import BoardView from "@/components/BoardView";
 
@@ -9,21 +9,22 @@ interface Props {
 
 export default async function BoardPage({ params }: Props) {
   const { id } = await params;
-  const board = await db.select().from(schema.boards).where(eq(schema.boards.id, id)).get();
+  const board = db.select().from(schema.boards).where(eq(schema.boards.id, id)).get();
   if (!board) return notFound();
 
-  const memberRows = await db
+  const memberRows = db
     .select()
     .from(schema.boardNodes)
     .where(eq(schema.boardNodes.boardId, id))
     .all();
   const nodeIds = memberRows.map((r) => r.nodeId);
   const nodes = nodeIds.length
-    ? await db.select().from(schema.nodes).all().then((all) => all.filter((n) => nodeIds.includes(n.id)))
+    ? db.select().from(schema.nodes).where(inArray(schema.nodes.id, nodeIds)).all()
     : [];
-  const connections = await db.select().from(schema.connections).all();
-  const visibleConns = connections.filter(
-    (c) => nodeIds.includes(c.srcNodeId) && nodeIds.includes(c.tgtNodeId),
+  const idSet = new Set(nodeIds);
+  const allConnections = db.select().from(schema.connections).all();
+  const visibleConns = allConnections.filter(
+    (c) => idSet.has(c.srcNodeId) && idSet.has(c.tgtNodeId),
   );
 
   const summary = {

@@ -8,8 +8,8 @@
     "phase": 0,
     "license_mode": "L3-user-paste",
     "extraction_source": "Five Ashterothi transcripts (auto-captions pulled via yt-dlp). Curator-owned annotation; not a republication of source material.",
-    "node_count": 56,
-    "connection_count": 78
+    "node_count": 98,
+    "connection_count": 98
   },
 
   "sources": [
