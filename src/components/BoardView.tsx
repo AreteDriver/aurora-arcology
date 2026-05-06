@@ -92,7 +92,18 @@ export default function BoardView({ nodes, connections }: Props) {
     };
   }, [nodes, connections, hiddenTypes, minConfidence, selectedId, hops, adjacency]);
 
-  // D3 force simulation — runs once per visible-set change
+  // Stable scope key — sim only rebuilds when the actual visible set changes,
+  // not when selection alone changes. Prevents the D3 layout from spinning
+  // every time the user clicks a node.
+  const scopeKey = useMemo(
+    () =>
+      visible.nodes.map((n) => n.id).join("|") + ";;" + visible.conns.map((c) => c.id).join("|"),
+    [visible],
+  );
+
+  // D3 force simulation — runs once per visible-set change.
+  // Deliberately does NOT depend on selectedId; a separate effect below
+  // updates highlight state imperatively without rebuilding the layout.
   useEffect(() => {
     if (!svgRef.current) return;
     const svg = d3.select(svgRef.current);
@@ -141,6 +152,7 @@ export default function BoardView({ nodes, connections }: Props) {
       .data(simNodes)
       .join("g")
       .attr("cursor", "pointer")
+      .attr("data-node-id", (d) => d.id)
       .on("click", (_, d) => setSelectedId(d.id))
       .call(
         d3
@@ -163,10 +175,10 @@ export default function BoardView({ nodes, connections }: Props) {
 
     node
       .append("circle")
-      .attr("r", (d) => (d.id === selectedId ? 10 : 6))
+      .attr("r", 6)
       .attr("fill", (d) => TYPE_COLOR[d.type] ?? "#888")
-      .attr("stroke", (d) => (d.id === selectedId ? "#fff" : "#1f1f23"))
-      .attr("stroke-width", (d) => (d.id === selectedId ? 2 : 1));
+      .attr("stroke", "#1f1f23")
+      .attr("stroke-width", 1);
 
     node
       .append("text")
@@ -200,7 +212,22 @@ export default function BoardView({ nodes, connections }: Props) {
     return () => {
       sim.stop();
     };
-  }, [visible, selectedId]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [scopeKey]);
+
+  // Selection highlight — imperative DOM update, no layout disturbance.
+  useEffect(() => {
+    if (!svgRef.current) return;
+    const svg = d3.select(svgRef.current);
+    svg.selectAll<SVGGElement, SimNode>("g[data-node-id]").each(function (d) {
+      const isSelected = d?.id === selectedId;
+      d3.select(this)
+        .select("circle")
+        .attr("r", isSelected ? 10 : 6)
+        .attr("stroke", isSelected ? "#fff" : "#1f1f23")
+        .attr("stroke-width", isSelected ? 2 : 1);
+    });
+  }, [selectedId, scopeKey]);
 
   const selected = selectedId ? nodeById.get(selectedId) ?? null : null;
 
