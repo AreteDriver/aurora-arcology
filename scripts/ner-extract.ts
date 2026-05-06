@@ -81,11 +81,25 @@ for (const n of nodeRows) {
   terms.push({ text: n.name, type: n.type, existingNodeId: n.id });
 }
 
-// Canonical-name gazetteer (no existing node yet — new-entity candidates)
+// Canonical-name gazetteer. For each canonical, check whether any existing
+// node's name word-bounded-contains it (e.g. canonical "Ishukone" → node name
+// "Ishukone Corporation"). If so, treat the canonical as referring to that
+// node — the citation gets wired on accept instead of dropping into the
+// new-entity pile.
+const escForMatch = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+function findNodeByCanonical(canonical: string, type: string): string | null {
+  const re = new RegExp(`(?<![a-z0-9])${escForMatch(canonical.toLowerCase())}(?![a-z0-9])`, "i");
+  for (const n of nodeRows) {
+    if (re.test(n.name.toLowerCase()) && n.type === type) return n.id;
+  }
+  return null;
+}
+
 for (const e of canonicalGaz.entries) {
   if (seen.has(e.canonical.toLowerCase())) continue;
   seen.add(e.canonical.toLowerCase());
-  terms.push({ text: e.canonical, type: e.type, existingNodeId: null });
+  const existingNodeId = findNodeByCanonical(e.canonical, e.type);
+  terms.push({ text: e.canonical, type: e.type, existingNodeId });
 }
 
 // Quality filter: drop terms shorter than 4 chars (too noisy) or single-token
