@@ -167,15 +167,15 @@
       "excerpt": "Curator synopsis: biographical chronicle of the Syndicate's de-facto leader. Covers her Sister of EVE upbringing, her engineered Pas station coup, her Sarpati-line collaboration, and her break with Sentona."
     },
     {
-      "id": "src_chronicle_antagonists",
+      "id": "src_chronicle_ante",
       "type": "Chronicle",
       "publisher": "CCP Games \u2014 EVE Universe",
-      "title": "Antagonists (Chronicle)",
-      "url": "https://universe.eveonline.com/lore/chronicles",
-      "date": "2010",
+      "title": "Ante (Chronicle)",
+      "url": "https://universe.eveonline.com/chronicles/ante",
+      "date": "2010-04-19",
       "license_tier": "ccp-fan-content",
       "canonicity": "ccp-canon",
-      "excerpt": "Curator synopsis: dramatized Sentona\u2013Silphy meeting on Intaki V. Reveals the Zephyr telemetry data trade with Ishukone via the Lacante / Mordu's Legion / Mens Reppola channel."
+      "excerpt": "Curator synopsis: dramatized Sentona\u2013Silphy meeting on Intaki V. The Reverend Mother and the Syndicate Chair stage a public hostile exchange while a timing-falsified sensor log conceals their actual coordination. Reveals the Zephyr-telemetry data trade with Ishukone via the Lacante / Mens Reppola / Mordu's-Legion-aware channel. Title 'Ante' is canonical; the chronicle was informally referred to as 'Antagonists' in earlier curator labels."
     },
     {
       "id": "src_chronicle_starkmanir",
@@ -344,7 +344,7 @@
         "src_ash_yc128_05_05",
         "src_news_silphy_arrested",
         "src_chronicle_silphy",
-        "src_chronicle_antagonists"
+        "src_chronicle_ante"
       ],
       "master_summary": "The pivot point between Jita-gate and the Syndicate conquest. Two Syndicate agents convicted in March named Silphy under plea, giving the Caldari Navy the legal cover to detain her in New Caldari and frame the broader Syndicate as compromised. Without this arrest, the conquest framing would not have held diplomatically."
     },
@@ -536,7 +536,7 @@
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_silphy_2024",
-        "src_chronicle_antagonists"
+        "src_chronicle_ante"
       ],
       "master_summary": "The YC111 mass distribution of the Zephyr exploration ship by the Intaki Syndicate. Sleeper-ignored, it allowed capsuleers to map wormhole space \u2014 and quietly funneled telemetry data back through the Syndicate to Ishukone. The Zephyr is the original instance of Syndicate-as-data-conduit, structurally identical to the data flows that later sit inside Upwell."
     },
@@ -613,7 +613,7 @@
         "src_ash_silphy_2024",
         "src_ash_yc128_05_05",
         "src_chronicle_silphy",
-        "src_chronicle_antagonists",
+        "src_chronicle_ante",
         "src_news_silphy_arrested",
         "src_news_silphy-en-diabel-arrested-in-relation-to-jita-gate-incident"
       ],
@@ -663,7 +663,7 @@
       "sources": [
         "src_ash_silphy_2024",
         "src_ash_yc128_05_05",
-        "src_chronicle_antagonists",
+        "src_chronicle_ante",
         "src_chronicle_silphy"
       ],
       "master_summary": "Reverend Mother / SoE CEO and Salvador Sarpati's sister. Once Silphy's closest ally, now her bitter rival; she mockingly calls Silphy 'Queen Silphy of the Syndicate.' Her absence from the YC128 news cycle \u2014 given her tie to Silphy \u2014 is itself a tell that there's a parallel storyline CCP isn't surfacing yet."
@@ -703,7 +703,7 @@
       "sources": [
         "src_ash_silphy_2024",
         "src_book_templar_one",
-        "src_chronicle_antagonists",
+        "src_chronicle_ante",
         "src_news_federation-policymakers-exhibit-muted-reactions-to-mens-reppola-appointment",
         "src_news_mens-reppola-made-ishukone-ceo-charts-future-course",
         "src_news_mens-reppola-announces-5-stake-in-ishukone"
@@ -754,7 +754,7 @@
       "canonicity": "creator-interpretation",
       "sources": [
         "src_ash_silphy_2024",
-        "src_chronicle_antagonists"
+        "src_chronicle_ante"
       ],
       "master_summary": "Likely Thukker (facial tattoos). In Silphy's Antagonists chronicle he coordinates the Zephyr telemetry-data trade with Ishukone \u2014 'the kind of token Ishukone won't be able to resist.' The mechanism by which Syndicate intelligence gets monetized via the Mountain/Ocean axis."
     },
@@ -1312,7 +1312,7 @@
       "canonicity": "ccp-canon",
       "master_summary": "Mercenary group under Muryia Mordu. Co-developer of clone-soldier / Templar tech with Ishukone. Granted full military access to Intaki under the YC110-era assembly deal \u2014 the legal cover that lets Ishukone operate inside Federation space.",
       "sources": [
-        "src_chronicle_antagonists",
+        "src_chronicle_ante",
         "src_book_templar_one",
         "src_news_vanguard-clash-with-mordus-legion-planetside",
         "src_news_mordus-legion-command-announces-departure-from-caldari-prime",
@@ -1614,7 +1614,7 @@
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_silphy_2024",
-        "src_chronicle_antagonists"
+        "src_chronicle_ante"
       ],
       "master_summary": "Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by the Syndicate to all capsuleers. Carried covert telemetry/sensor packages funneling wormhole data into Ishukone via the Antagonists-chronicle pipeline. The original instance of capsuleers being unwitting data-collection agents."
     },
@@ -2560,7 +2560,7 @@
       "canonicity": "ccp-canon",
       "sources": [
         "src_chronicle_silphy",
-        "src_chronicle_antagonists"
+        "src_chronicle_ante"
       ]
     },
     {
@@ -2571,7 +2571,7 @@
       "master_summary": "Mordu's Legion's founder. Independent mercenary commander operating outside the four-empire structure. Antagonists-chronicle subtext: the 'mercenaries' Silphy negotiates around when offering her Zephyr-telemetry data to Ishukone \u2014 Mens won't take the deal directly while Mordu's people are in the way. Mordu's Legion's separate relationship to Ishukone via the Templar One clone-soldier program ties him structurally to the Mens-Reppola axis.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_chronicle_antagonists",
+        "src_chronicle_ante",
         "src_book_templar_one"
       ]
     }
@@ -4336,7 +4336,7 @@
       "conf": 0.85,
       "claim": "Antagonists chronicle: Silphy's Zephyr-telemetry data trade target via the Lacante/Sentona channel. Mens is the named end-recipient.",
       "supporting_sources": [
-        "src_chronicle_antagonists"
+        "src_chronicle_ante"
       ]
     },
     {
@@ -4408,6 +4408,7 @@
     "Typo audit 2026-05-06: renamed org_mortis_legion \u2192 org_mordus_legion (1 node, 1 edge references). Text fixes: 'Mordu's Legion'\u2192'Mordu's Legion' (8x), 'Muria Moru'\u2192'Muryia Mordu' (4x).",
     "Ashterothi extension 2026-05-06: +18 nodes / +33 connections covering Exordium charter (YC128.04.13) and pre-collapse Jove deep history (Eve Gate collapse, Yan Jung, Talocan, First/Second Jove Empires, Construct, Jovian Disease) plus the Deathless / Deathless Network thread anchor.",
     "Auto-curate pass 2026-05-06T13:00:00Z: rejected 0 noise suggestions, accepted 0 citations on existing nodes, created 0 stub nodes (canonicity='curator-review-pending') with 0 new citations. Stubs need curator review for type confirmation, brief authoring, and connection wiring.",
-    "Silphy/SoE region extension 2026-05-06: +2 nodes (Thera, Muryia Mordu), +8 connections drawing the Antagonists-chronicle data-trade edges directly and adding the Thera SoE base. Khanid connection from the user's prompt deferred \u2014 no chronicle reference in the extracted material; awaiting source."
+    "Silphy/SoE region extension 2026-05-06: +2 nodes (Thera, Muryia Mordu), +8 connections drawing the Antagonists-chronicle data-trade edges directly and adding the Thera SoE base. Khanid connection from the user's prompt deferred \u2014 no chronicle reference in the extracted material; awaiting source.",
+    "Source ID 2026-05-06: renamed src_chronicle_antagonists \u2192 src_chronicle_ante. The canonical CCP chronicle title is 'Ante' (published 2010-04-19); my earlier label 'Antagonists' was informal. URL fixed to canonical chronicle path."
   ]
 }
