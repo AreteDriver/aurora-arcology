@@ -62,6 +62,9 @@ const has = (name: string) => args.includes(name);
 const PAGES = has("--full") ? 999 : parseInt(flag("--pages", "1") ?? "1", 10);
 const START_PAGE = parseInt(flag("--start-page", "1") ?? "1", 10);
 const CACHE_HTML = has("--cache-html");
+const NOTIFY_URL = has("--notify")
+  ? (flag("--notify") ?? "http://localhost:3000/api/events")
+  : null;
 
 // ---------------------------------------------------------------------------
 // Helpers
@@ -167,7 +170,7 @@ function saveSeed(seed: ReturnType<typeof loadSeed>): void {
         skipped++;
         continue;
       }
-      seed.sources.push({
+      const newSource = {
         id: `src_news_${a.slug}`,
         type: "Press Release",
         publisher: "CCP Games — New Eden News",
@@ -177,10 +180,23 @@ function saveSeed(seed: ReturnType<typeof loadSeed>): void {
         license_tier: "ccp-fan-content",
         canonicity: "ccp-canon",
         excerpt: null,
-      });
+      };
+      seed.sources.push(newSource);
       existingSlugs.add(a.slug);
       pageAdded++;
       added++;
+
+      if (NOTIFY_URL) {
+        // Fire-and-forget; failures shouldn't break the scrape
+        fetch(NOTIFY_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            type: "source.added",
+            data: { id: newSource.id, title: newSource.title, date: newSource.date },
+          }),
+        }).catch(() => {});
+      }
 
       if (CACHE_HTML) {
         await cacheArticleHtml(a.slug);

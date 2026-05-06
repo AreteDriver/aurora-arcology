@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import LiveFeed from "@/components/LiveFeed";
 
 interface SearchResult {
   id: string;
@@ -54,6 +55,10 @@ export default function SourcesPage() {
         Full-text search across the source corpus. Title + publisher + curator-authored
         excerpt are indexed. Article bodies are not stored.
       </p>
+
+      <div className="mb-4">
+        <LiveFeed />
+      </div>
 
       <input
         type="search"
