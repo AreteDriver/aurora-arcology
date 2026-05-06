@@ -1,0 +1,49 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+
+# testing
+coverage/
+
+# next.js
+.next/
+out/
+build/
+
+# production
+dist/
+
+# misc
+.DS_Store
+*.pem
+.idea/
+.vscode/
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files
+.env
+.env*.local
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Aurora — local SQLite store. Curator regenerates from data/seeds/*.json
+data/aurora.db
+data/aurora.db-journal
+data/aurora.db-shm
+data/aurora.db-wal
+
+# Aurora — local raw source material under L3 user-paste licensing.
+# Transcripts, captions, and downloaded creator content stay out of git.
+# Only curator-authored seed JSON (data/seeds/*.json) is tracked.
+data/raw/
+*.vtt
+*.srt
