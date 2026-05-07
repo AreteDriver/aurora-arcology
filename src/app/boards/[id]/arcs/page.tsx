@@ -1,7 +1,8 @@
 import { db, schema } from "@/lib/db";
 import { eq, inArray } from "drizzle-orm";
 import { notFound } from "next/navigation";
-import MatrixView from "@/components/MatrixView";
+import ArcsView from "@/components/ArcsView";
+import { LENSES } from "@/data/lenses";
 
 interface Props {
   params: Promise<{ id: string }>;
@@ -11,26 +12,18 @@ export async function generateStaticParams() {
   return [{ id: "warpath_yc128" }];
 }
 
-export default async function BoardMatrixPage({ params }: Props) {
+export default async function BoardArcsPage({ params }: Props) {
   const { id } = await params;
   const board = db.select().from(schema.boards).where(eq(schema.boards.id, id)).get();
   if (!board) return notFound();
 
-  const memberRows = db
-    .select()
-    .from(schema.boardNodes)
-    .where(eq(schema.boardNodes.boardId, id))
-    .all();
-  const nodeIds = memberRows.map((r) => r.nodeId);
-  const nodes = nodeIds.length
-    ? db.select().from(schema.nodes).where(inArray(schema.nodes.id, nodeIds)).all()
+  // Pull only nodes that appear in at least one lens — that's the corpus
+  // the subway view operates on. The other ~50 nodes have no narrative
+  // anchor; they live in the board view but don't get a station here.
+  const lensedIds = Array.from(new Set(LENSES.flatMap((l) => l.nodeIds)));
+  const nodes = lensedIds.length
+    ? db.select().from(schema.nodes).where(inArray(schema.nodes.id, lensedIds)).all()
     : [];
-  const idSet = new Set(nodeIds);
-  const connections = db
-    .select()
-    .from(schema.connections)
-    .all()
-    .filter((c) => idSet.has(c.srcNodeId) && idSet.has(c.tgtNodeId));
 
   return (
     <div>
@@ -38,7 +31,7 @@ export default async function BoardMatrixPage({ params }: Props) {
         <div>
           <h1 className="text-2xl font-bold">{board.title}</h1>
           <p className="text-xs text-zinc-500 font-mono mt-1">
-            curator: {board.curator} · adjacency-matrix lens
+            curator: {board.curator} · narrative-arc / subway map
           </p>
         </div>
         <nav className="flex gap-3 font-mono text-sm">
@@ -48,14 +41,14 @@ export default async function BoardMatrixPage({ params }: Props) {
           <a href={`/boards/${id}/timeline`} className="text-zinc-400 hover:text-zinc-100">
             timeline ↗
           </a>
-          <span className="text-zinc-100">matrix</span>
-          <a href={`/boards/${id}/arcs`} className="text-zinc-400 hover:text-zinc-100">
-            arcs ↗
+          <a href={`/boards/${id}/matrix`} className="text-zinc-400 hover:text-zinc-100">
+            matrix ↗
           </a>
+          <span className="text-zinc-100">arcs</span>
         </nav>
       </header>
 
-      <MatrixView nodes={nodes} connections={connections} />
+      <ArcsView boardId={id} nodes={nodes} />
     </div>
   );
 }

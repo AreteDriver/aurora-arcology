@@ -8,8 +8,8 @@
     "phase": 0,
     "license_mode": "L3-user-paste",
     "extraction_source": "Five Ashterothi transcripts (auto-captions pulled via yt-dlp). Curator-owned annotation; not a republication of source material. Mil-Campaign #2 region (Ammatar / Starkmanir / Old Wars / Tanu dread attack) extracted from ash_ammatar_tourism transcript.",
-    "node_count": 172,
-    "connection_count": 264
+    "node_count": 182,
+    "connection_count": 297
   },
   "sources": [
     {
@@ -2810,6 +2810,282 @@
         "src_news_muryia-mordu-issues-operation-highlander-decoration",
         "src_news_muryia-mordu-arrives-safely-at-his-headquarters-region-in-uproar"
       ]
+    },
+    {
+      "id": "plc_caldari_prime",
+      "type": "Place",
+      "name": "Caldari Prime",
+      "date": "pre-empire",
+      "brief": "Original Caldari homeworld in the Luminaire system. Orbitally bombarded by Gallente during the Caldari Rebellion; the surviving exiles founded New Caldari Prime. Recovered by Tibus Heth's Provost coup; later re-administered under Federation oversight.",
+      "master_summary": "The lost homeworld at the heart of the Caldari-Gallente schism. Cyclically contested across centuries — bombarded by Gallente in the Rebellion, abandoned by surviving Caldari, reclaimed by Heth in the Empyrean Age, then re-administered diplomatically. Caldari Prime is the symbolic counterweight to New Caldari Prime: one is the lost mother, the other the chosen successor. Every Caldari–Gallente political beat references this duality. Heth's coup gave him the political capital to absorb Ytiri and reshape mega-corp alignment; without Caldari Prime there is no Provost era and no Mountain-vs-Forest realignment.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_breaking-explosion-reported-at-cep-spire-in-landfall-city-on-new-caldari-prime",
+        "src_news_mordus-legion-command-announces-departure-from-caldari-prime",
+        "src_news_general-akuras-to-oversee-legion-forces-on-caldari-prime",
+        "src_news_status-of-caldari-prime-in-election-spotlight-as-shaileen-ramnev-speaks",
+        "src_news_caldari-prime-administrators-unveil-operation-highlander-monument",
+        "src_news_ishukone-meets-with-gallente-senate-on-caldari-prime",
+        "src_news_body-of-disgraced-caldari-navy-officer-found-on-caldari-prime",
+        "src_news_caldari-prime-salvage-plans-announced",
+        "src_news_clashes-on-caldari-prime-quelled-by-mordus-legion",
+        "src_news_mordus-legion-announces-full-control-of-caldari-prime",
+        "src_news_cep-and-caldari-navy-to-investigate-caldari-prime-events",
+        "src_news_nugoeihuvi-visits-caldari-prime-reports-significant-progress",
+        "src_news_final-details-of-caldari-prime-dmz-announced",
+        "src_news_tibus-heth-angrily-denounces-caldari-prime-dmz-blasts-ishukone-and-suvee-participation",
+        "src_news_fed-navy-releases-caldari-prime-details-citizens-react",
+        "src_news_caldari-prime-agreement-reached-militants-to-depart",
+        "src_news_ishukone-relief-convoy-safely-makes-it-to-caldari-prime-after-attempted-capsuleer-interdiction",
+        "src_news_ishukone-access-to-caldari-prime-approved-full-negotiations-still-ongoing",
+        "src_news_caldari-prime-relief-effort-continues-ishukone-request-access-to-devastated-planet",
+        "src_news_widespread-destruction-hampers-caldari-prime-relief-effort",
+        "src_news_shiigeru-wreckage-impacts-caldari-prime-surface-situation-unclear",
+        "src_news_contact-lost-with-caldari-prime-massive-surface-offensive-underway",
+        "src_news_caldari-prime-tension-reaches-boiling-point-shiigeru-deployed-to-low-orbit",
+        "src_news_caldari-prime-unrest-escalates-further-provist-response-called-into-question",
+        "src_news_federation-navy-releases-caldari-prime-status-report-after-stand-off-with-shiigeru",
+        "src_news_admiral-yanala-gives-first-weekly-address-from-orbit-of-caldari-prime",
+        "src_news_unrest-on-caldari-prime-results-in-bombing-of-provist-headquarters",
+        "src_news_civil-unrest-intensifies-on-caldari-prime",
+        "src_news_breaking-news-ground-fighting-erupts-on-caldari-prime",
+        "src_news_ishukone-watch-ceo-speaks-out-about-caldari-prime",
+        "src_news_wiyrkomi-peace-corps-increases-caldari-prime-commitment",
+        "src_news_controversy-surrounds-caldari-prime-memorial",
+        "src_news_casualties-continue-to-mount-on-caldari-prime-d-day-plus-60",
+        "src_news_caldari-prime-d-day-plus-10",
+        "src_news_as-the-dust-settles-countless-gallenteans-dead-on-caldari-prime",
+        "src_news_breaking-news-tibus-heth-conquers-caldari-prime-foiritan-cedes-control",
+        "src_news_breaking-news-caldari-navy-bombards-caldari-prime-dropships-land-on-surface",
+        "src_news_president-foiritan-declares-martial-law-on-caldari-prime",
+        "src_news_violence-on-caldari-prime-continues-as-gallentean-expatriates-flee-caldari-state",
+        "src_news_vigil-at-landfall-shrine-as-caldari-prime-violence-continues",
+        "src_news_ethnic-rioting-shakes-caldari-prime-deaths-reported",
+        "src_news_ethnic-violence-vandalism-shocks-caldari-prime"
+      ]
+    },
+    {
+      "id": "per_tibus_heth",
+      "type": "Person",
+      "name": "Tibus Heth",
+      "date": "YC108–YC115",
+      "brief": "Caldari populist Provost. Rose from Kaalakiota blue-collar leadership to lead the coup that reclaimed Caldari Prime, then forged the Provost alliance that absorbed Ytiri and remade Caldari mega-corp politics for ~5 years.",
+      "master_summary": "The most disruptive Caldari political figure of the modern era. Heth's reclamation of Caldari Prime turned populist anger into a cross-corp alliance — the Provost — that swept aside the post-rebellion mega-corp consensus. Under Heth, Ytiri was absorbed into the alliance (taking Star Seed onto the Ishukone-axis side), Sukuuvestaa pushed back, and the State briefly operated as a single political bloc. His fall ~YC115 left a power vacuum that the Mountain + Ocean factions filled, completing the Lai-Dai-vs-Ishukone realignment Ash now diagrams.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_breaking-news-tibus-heth-denounced-by-cep-to-be-ousted-as-kk-ceo",
+        "src_news_breaking-news-provists-seize-haatamo-station-tibus-heth-leading",
+        "src_news_tibus-heths-yanala-speech-cut-short-by-riot",
+        "src_news_tibus-heth-denounces-federation-offers-condolences-to-republic",
+        "src_news_tibus-heth-declares-plan-to-nationalize-megacorps-kk-revealed-to-be-in-financial-straits",
+        "src_news_tibus-heth-offer-of-caldari-aid-to-sebiestor-tribe-rejected",
+        "src_news_tibus-heth-proclaims-vision-for-single-solidified-state",
+        "src_news_tibus-heth-attacks-federation-in-speech",
+        "src_news_tibus-heth-angrily-denounces-caldari-prime-dmz-blasts-ishukone-and-suvee-participation",
+        "src_news_tibus-heth-names-unrest-in-the-federation-as-security-threat-to-state",
+        "src_news_tibus-heth-denounces-blaques-rally-speech",
+        "src_news_tibus-heth-shot-by-mystery-assailant-at-new-caldari-political-rally-condition-unknown",
+        "src_news_tibus-heth-creates-state-loyalty-tribunal",
+        "src_news_tibus-heth-awards-caldari-militia-with-national-distinction",
+        "src_news_breaking-news-tibus-heth-conquers-caldari-prime-foiritan-cedes-control",
+        "src_news_breaking-news-ishukone-ceo-pleads-for-calm-denounces-tibus-heth",
+        "src_news_inspired-by-tibus-heth-revolts-break-out-in-caldari-state",
+        "src_news_breaking-news-tibus-heth-acquires-majority-ownership-of-caldari-constructions-disgraced-ceo-torkebaira-shutsu-takes-his-own-life",
+        "src_news_tibus-heth-obtains-nationwide-broadcast-feed-addresses-nation",
+        "src_book_empyrean_age"
+      ]
+    },
+    {
+      "id": "org_kaalakiota",
+      "type": "Organization",
+      "name": "Kaalakiota Corporation",
+      "brief": "Caldari mega-corp specializing in heavy industry and weapons manufacturing. Tibus Heth's home corporation; the Provost alliance's industrial spine.",
+      "master_summary": "One of the eight Caldari mega-corps. Kaalakiota's manufacturing base was the political launching pad for the Provost alliance — Heth used the corp's blue-collar workforce as a populist constituency. Post-Heth, Kaalakiota settled into the Mountain-faction realignment alongside Ishukone. Its weapons output makes it the State's primary military-industrial supplier, structurally similar to Lai Dai's commercial position but with a more austere internal culture.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_kaalakiota-backs-sukuuvestaa-over-lai-dai-in-ghost-ship-tussle",
+        "src_news_new-caldari-ishukone-erection-3-meters-taller-than-kaalakiota-erection",
+        "src_news_suvee-quafe-joint-venture-secures-outside-contract-with-kaalakiota",
+        "src_news_hyasyoda-and-kaalakiota-enter-echelon-acquisition-talks",
+        "src_news_formal-identification-of-remains-found-in-kyonoke-pit-implicates-kaalakiota-and-home-guard",
+        "src_news_caldari-megacorps-lead-military-cloning-efforts-as-kaalakiota-and-sukuuvestaa-provide-support-to-caldari-navy",
+        "src_news_caldari-funds-unlimited-to-invest-heavily-in-kaalakiota",
+        "src_news_oiritsuu-appointed-interim-ceo-in-kaalakiota-press-release",
+        "src_news_kaalakiota-sells-further-echelon-assets",
+        "src_news_kaalakiota-to-sell-echelon-entertainment-assets-to-cover-debt",
+        "src_news_reports-of-unrest-among-kaalakiota-factory-workers",
+        "src_news_kaalakiota-currency-board-devalues-scrip-by-2",
+        "src_news_kaalakiota-corporate-bank-may-devalue-scrip",
+        "src_news_kaalakiota-unveils-black-rise-survey-program",
+        "src_news_heth-announces-kaalakiota-takeover-declares-quarantine-of-gallentean-expatriates",
+        "src_news_terrorists-strike-kaalakiota-security",
+        "src_news_kaalakiota-declare-kassigainen-iv-situation-under-control-amid-harsh-criticism-from-international-parties",
+        "src_news_kaalakiota-nugoeihuvi-qualifiers-rife-with-violence-as-masses-cheer"
+      ]
+    },
+    {
+      "id": "org_sukuuvestaa",
+      "type": "Organization",
+      "name": "Sukuuvestaa Corporation",
+      "brief": "Largest Caldari mega-corp by revenue. Insurance, heavy industry, and agricultural conglomerate. Politically conservative; Heth-era resistor of Provost absorption.",
+      "master_summary": "The Caldari State's economic backbone. Sukuuvestaa runs the largest civilian workforce of any Caldari corporation, which gives it political weight without needing Provost-style coalitions. Resisted Heth's absorption attempts; emerged from the Provost era institutionally intact, which made it the natural anchor of the post-Heth Mountain faction. Insurance arm is the State's structural memory — Sukuuvestaa records every claim made against every other mega-corp's operations.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_kaalakiota-backs-sukuuvestaa-over-lai-dai-in-ghost-ship-tussle",
+        "src_news_sukuuvestaa-awarded-myrskaa-reconstruction-contract-after-city-is-razed-on-schedule",
+        "src_news_caldari-megacorps-lead-military-cloning-efforts-as-kaalakiota-and-sukuuvestaa-provide-support-to-caldari-navy",
+        "src_news_lai-dai-sukuuvestaa-facing-sanctions-for-unlawful-anti-competitive-measures",
+        "src_news_caldari-business-tribunal-in-special-hearing-of-sukuuvestaa-lai-dai",
+        "src_news_caldari-business-tribunal-launches-enquiry-into-sukuuvestaa-attacks",
+        "src_news_further-attacks-against-sukuuvestaa-assets-revealed-corporation-to-increase-defense-spending",
+        "src_news_explosions-strike-sukuuvestaa-corporation-production-plant",
+        "src_news_nugoeihuvi-shipping-scandal-exposes-sukuuvestaa-ceo-to-criticism",
+        "src_news_industrial-accident-at-sukuuvestaa-plant-in-hatakani-kills-57-injures-over-1200",
+        "src_news_sukuuvestaa-play-down-sabotage-link",
+        "src_news_gallente-citizens-voice-concerns-with-sukuuvestaa-deal"
+      ]
+    },
+    {
+      "id": "org_hyasyoda",
+      "type": "Organization",
+      "name": "Hyasyoda Corporation",
+      "brief": "Caldari mega-corp specializing in agriculture, biotech, and consumer goods. Forest-faction-aligned per Ash's whiteboard.",
+      "master_summary": "The State's agricultural and biotech anchor. Less politically visible than Ishukone or Lai Dai, but holds the food-supply leverage that becomes critical when border restrictions tighten — which is exactly what happened during the Jita-gate post-incident curfews. Forest-faction-aligned, making Hyasyoda a Lai Dai-axis sister-corp on Ash's structural read of Caldari politics.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_ishukone-and-hyasyoda-call-for-tribunal-to-open-case-over-claims-of-noh-and-cbd-smuggling",
+        "src_news_hyasyoda-and-kaalakiota-enter-echelon-acquisition-talks",
+        "src_news_hyasyoda-seven-sleepers-sentenced",
+        "src_news_hyasyoda-executives-charged-with-industrial-espionage",
+        "src_news_poor-sales-reports-for-hyasyoda-executive-vanishes",
+        "src_news_hyasyoda-returns-to-bargaining-table-after-reppola-intervenes",
+        "src_news_hyasyoda-walks-out-on-negotiations-with-zainou",
+        "src_news_information-on-hyasyoda-explosion-released-company-announces-restructuring-plan",
+        "src_news_explosions-reported-at-hyasyoda-refinery",
+        "src_news_hyasyoda-corporation-announces-aid-for-ishukone",
+        "src_news_tennen-blight-contained-hyasyoda-says-no-plans-to-file-suit",
+        "src_news_blight-strikes-crops-on-hyasyoda-colony-world"
+      ]
+    },
+    {
+      "id": "org_wiyrkomi",
+      "type": "Organization",
+      "name": "Wiyrkomi Corporation",
+      "brief": "Caldari mega-corp specializing in shipbuilding and naval engineering. Builds the Wyvern supercarrier and other State flagships.",
+      "master_summary": "The Caldari Navy's primary capital-ship builder. Wiyrkomi's Wyvern-class line is the structural anchor of the State's super-fleet doctrine; loss of a Wiyrkomi yard is a strategic event. Mountain-faction-aligned and tightly coordinated with Kaalakiota's munitions output — the two together form the Mountain/Ocean military-industrial cluster that the Forest faction (Lai Dai-led commercial trade) doesn't have a direct counter for.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_bakkomolu-productions-dissolved-amidst-nohwiyrkomi-row",
+        "src_news_nugoeihuvi-and-wiyrkomi-clash-over-comedy-holodrama",
+        "src_news_wiyrkomi-announce-new-khanid-contract",
+        "src_news_wiyrkomi-peace-corps-increases-caldari-prime-commitment",
+        "src_news_seituoda-family-condemns-gallentean-hinpas-and-calls-wiyrkomi-board-meeting",
+        "src_news_cbd-chief-attended-social-augmentation-conference-with-wiyrkomi-ceo",
+        "src_news_seituoda-family-concerned-by-slow-growth-at-wiyrkomi",
+        "src_news_wiyrkomi-lai-dai-add-to-teams-as-second-round-of-qualifiers-kicks-off"
+      ]
+    },
+    {
+      "id": "plc_tash_murkon_region",
+      "type": "Place",
+      "name": "Tash-Murkon (region)",
+      "brief": "Amarr region under House Tash-Murkon's stewardship. Youngest of the five royal-house regions. Adjacent to the Khanid Kingdom and Aridia.",
+      "master_summary": "The most progressive Amarr royal region — House Tash-Murkon is the only Udorian-bloodline royal house and is structurally less conservative on slave reform than Sarum, Kor-Azor, Kador, or Ardishapur. The region's geography puts it adjacent to Khanid (the defected kingdom) and Aridia (the lawless border), which historically positions Tash-Murkon as the empire's softest political edge. Mordu's Legion runs significant operations here.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_tash-murkon-celebrates-as-cluster-fights-back",
+        "src_news_catiz-tash-murkon-to-be-crowned-empress-of-amarr-as-champion-kelon-darklight-and-team-triumph-in-final-trials",
+        "src_news_aritcio-kor-azor-and-catiz-tash-murkon-meet-with-championship-teams-amidst-final-preparations-for-imperial-succession-trials",
+        "src_news_house-tash-murkon-dominates-in-imperial-succession-trials-finals-set-against-house-kor-azor",
+        "src_news_report-tash-murkon-may-back-sarums-calls",
+        "src_news_tash-murkon-holder-to-move-to-ammatar-mandate",
+        "src_news_tash-murkon-holder-charges-neighbor-with-heresy-for-employing-transcranial-microcontrollers",
+        "src_news_king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr",
+        "src_news_tash-murkon-delegation-visits-imperial-palace",
+        "src_news_caldari-trade-mission-visits-khanid-kingdom-meets-with-tash-murkon",
+        "src_news_tash-murkon-family-receives-khanid-innovation-delegation",
+        "src_news_tash-murkon-family-assumes-minority-stake-in-carthum-conglomerate",
+        "src_news_tash-murkon-state-visit-cut-short-naval-forces-placed-on-alert",
+        "src_news_unannounced-military-training-exercise-detected-in-tash-murkon-region",
+        "src_news_catiz-tash-murkon-moves-forward-visit-to-kador-prime",
+        "src_news_tash-murkon-navy-officers-honored-by-khanid-kingdom",
+        "src_news_ardishapur-family-issues-thanks-to-tash-murkon-intervention",
+        "src_news_tash-murkon-family-meets-with-theology-council",
+        "src_news_khanid-convoy-rescued-by-tash-murkon-patrol",
+        "src_news_tash-murkon-economy-soars-in-the-midst-of-cluster-wide-turmoil",
+        "src_news_catiz-tash-murkon-sparks-controversy-over-cathedral-renovation-plan"
+      ]
+    },
+    {
+      "id": "org_sebiestor_tribe",
+      "type": "Faction",
+      "name": "Sebiestor Tribe",
+      "brief": "One of the seven Mimitar tribes. Engineering-focused; the Republic's industrial backbone. The Sebiestor Tribe corporation is the political face within Republic governance.",
+      "master_summary": "The Mimitar's engineering tribe — produces the bulk of Republic naval shipwrights, capsule technologists, and infrastructure engineers. Less mystically-inclined than the Vherokior, less martial than the Brutor or Krusual; the structural counterweight inside the Tribal Council that keeps the Republic's industrial pipeline running. Most likely candidate for a Mimitar-side Mil-Campaign zone after Starkmanir, given its visibility in the Republic's modern self-image.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_minmatar-tribal-assembly-resumes-with-new-sebiestor-chief",
+        "src_news_sebiestor-tribe-selects-acassa-midular-as-new-chief",
+        "src_news_broteau-found-guilty-and-executed-by-sebiestor-tribe",
+        "src_news_sebiestor-tribe-to-monitor-broteaus-trial",
+        "src_news_tibus-heth-offer-of-caldari-aid-to-sebiestor-tribe-rejected",
+        "src_news_sebiestor-tribe-issues-update-on-midulars-condition",
+        "src_news_mercenary-raid-on-starkmanir-colony-of-vard-vii-repelled-by-independent-mercs-hired-by-sebiestor-field-sappers",
+        "src_news_khumaak-motion-passed-sebiestor-councilman-resigns-amid-flurry-of-allegations",
+        "src_news_sebiestor-demands-ban-on-khumaak-prompting-fierce-tribal-opposition",
+        "src_news_sebiestor-majority-in-question-krusual-tribal-leaders-agitating-for-change-of-pm",
+        "src_ash_seven_tribes"
+      ]
+    },
+    {
+      "id": "org_angel_cartel",
+      "type": "Organization",
+      "name": "Angel Cartel",
+      "brief": "Major pirate faction operating from Curse, Great Wildlands, and Stain-adjacent space. Loose criminal alliance with deep ties to Mordu's Legion's founding personnel.",
+      "master_summary": "Southern New Eden's enduring pirate organization. Angel Cartel financing has been documented in multiple Caldari–Gallente political destabilization events; the four-empire posture toward them is performatively hostile, structurally tolerant. Mordu's Legion's founding membership came from Angel Cartel deserters — the relationship between the two is more genealogical than antagonistic. Skarkon's defection to Cartel administration ~YC110 is the canonical demonstration of how an empire-region falls when the Republic stops servicing it.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_the-scope-angel-cartel-and-guristas-pirates-insurgencies",
+        "src_news_breaking-angel-cartel-and-guristas-pirates-forces-establish-forward",
+        "src_news_the-scope-brutal-hijack-of-ore-ship-by-angel-cartel-confirmed",
+        "src_news_angel-cartel-hijack-mining-research-ship-in-raid-on-ore-testing-station",
+        "src_news_angel-cartel-feels-pressure-in-molden-heath",
+        "src_news_mordus-legion-and-angel-cartel-join-guristas-in-offering-to-aid-caldari-targets",
+        "src_news_angel-cartel-executes-second-planetary-strike-in-two-days",
+        "src_news_angel-cartel-conduct-planetary-attack-in-oddelulf-hundreds-dead",
+        "src_news_angel-cartel-opens-ties-with-capsuleer-alliances",
+        "src_news_sanshas-nation-forces-move-on-angel-cartel-territory",
+        "src_news_scavenger-hunt-hijacked-by-angel-cartel"
+      ]
+    },
+    {
+      "id": "fac_intaki",
+      "type": "Faction",
+      "name": "Intaki",
+      "brief": "Federation-member people; one of the founding Gallente bloodlines. Distinct from the Intaki Syndicate (the dissident exile group that retained the name in nullsec). Religious tradition: Ida faith with reincarnation belief.",
+      "master_summary": "The original Intaki bloodline — peaceful, philosophical, religiously distinct via the Ida faith's reincarnation cosmology. Founding members of the Federation, but always retained cultural autonomy that produced both the Caldari-sympathetic exile (the Syndicate) and the Lost-Adama religious arc (Eloa Enaro / Negui Erlon, YC120). The Federation's seizure of Intaki in YC124 — what triggered the Syndicate–Caldari constellation deal — was an act against this people, not against the Syndicate. Moreau's amnesty offer post-conquest is structurally an attempt to reach the Intaki proper, not the Syndicate fugitives.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_new-intaki-stargate-opens-as-federation-and-state-consolidate-positions",
+        "src_news_breaking-president-celes-aguard-addresses-federation-on-liberation-of-intaki",
+        "src_news_breaking-massive-invasion-of-intaki-and-placid-systems-by-federation-navy",
+        "src_news_intaki-claim-lost-idama-discovered-in-khanid-kingdom",
+        "src_news_intaki-assembly-requests-fdu-ceasefire",
+        "src_news_federal-navy-turned-back-at-intaki-stargate",
+        "src_news_gallente-capsuleer-corporations-continue-to-offer-support-for-intaki-prime-relief",
+        "src_news_police-standoff-on-intaki-prime-ends-peacefully",
+        "src_news_breaking-news-ishukone-wins-development-rights-to-intaki-system",
+        "src_news_farming-community-on-intaki-prime-involved-in-police-standoff",
+        "src_news_panic-on-intaki-prime-as-word-of-memorandum-spreads",
+        "src_news_confusion-shortages-spreading-on-intaki-prime",
+        "src_news_violence-on-intaki-prime-as-caldari-occupy-system",
+        "src_news_report-intaki-station-in-syndicate-struck-by-major-radiological-pulse",
+        "src_news_spate-of-drug-murders-attributed-to-intaki-death-cult",
+        "src_news_intaki-bank-secures-funding-for-syndicate-rd-program",
+        "src_news_intaki-spiritual-leader-to-resign-caille-position",
+        "src_news_intaki-spiritual-leader-announces-marriage",
+        "src_chronicle_ante"
+      ]
     }
   ],
   "connections": [
@@ -4625,6 +4901,232 @@
       "conf": 0.45,
       "claim": "Silphy's SoE training era likely intersected Thera operations — chronicles don't place her there directly",
       "contested-by": "Curator inference; not in published chronicle text"
+    },
+    {
+      "src": "plc_caldari_prime",
+      "tgt": "org_caldari_state",
+      "rel": "located-in",
+      "conf": 1,
+      "claim": "Original Caldari homeworld"
+    },
+    {
+      "src": "plc_caldari_prime",
+      "tgt": "org_gallente_federation",
+      "rel": "opposed-to",
+      "conf": 0.9,
+      "claim": "Site of the Caldari Rebellion bombardment; cyclically contested"
+    },
+    {
+      "src": "plc_caldari_prime",
+      "tgt": "per_tibus_heth",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "Heth's coup reclaimed it ~YC110"
+    },
+    {
+      "src": "per_tibus_heth",
+      "tgt": "plc_caldari_prime",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Caldari Prime's lost-homeworld status was the political fuel for Heth's rise"
+    },
+    {
+      "src": "per_tibus_heth",
+      "tgt": "org_kaalakiota",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "Home corporation; Heth was Kaalakiota production-line foreman before the Provost rise"
+    },
+    {
+      "src": "per_tibus_heth",
+      "tgt": "org_ytiri",
+      "rel": "succeeded-by",
+      "conf": 0.85,
+      "claim": "Provost-era absorption of Ytiri into the Heth alliance — Star Seed pivoted onto the Ishukone axis"
+    },
+    {
+      "src": "per_tibus_heth",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "per_tibus_heth",
+      "tgt": "cnc_lai_dai_vs_ishukone_axis",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Heth's fall created the power vacuum that Mountain/Ocean filled — completing the realignment"
+    },
+    {
+      "src": "org_kaalakiota",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "One of the eight mega-corps"
+    },
+    {
+      "src": "org_kaalakiota",
+      "tgt": "org_mountain_faction",
+      "rel": "aligned-with",
+      "conf": 0.75,
+      "claim": "Post-Heth realignment per Ash's whiteboard"
+    },
+    {
+      "src": "org_kaalakiota",
+      "tgt": "org_wiyrkomi",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Mountain-faction military-industrial cluster"
+    },
+    {
+      "src": "org_sukuuvestaa",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "org_sukuuvestaa",
+      "tgt": "org_mountain_faction",
+      "rel": "aligned-with",
+      "conf": 0.75,
+      "claim": "Post-Heth Mountain anchor; resisted Provost absorption"
+    },
+    {
+      "src": "org_sukuuvestaa",
+      "tgt": "per_tibus_heth",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Resisted Provost-era absorption attempts"
+    },
+    {
+      "src": "org_hyasyoda",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "org_hyasyoda",
+      "tgt": "org_forest_faction",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Forest-axis per Ash; Lai Dai-sister anchor"
+    },
+    {
+      "src": "org_hyasyoda",
+      "tgt": "evt_jita_gate_incident",
+      "rel": "financially-exposed-to",
+      "conf": 0.55,
+      "claim": "Border-restriction food-supply leverage during post-Jita curfew"
+    },
+    {
+      "src": "org_wiyrkomi",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "org_wiyrkomi",
+      "tgt": "org_mountain_faction",
+      "rel": "aligned-with",
+      "conf": 0.7
+    },
+    {
+      "src": "plc_tash_murkon_region",
+      "tgt": "org_amarr_empire",
+      "rel": "located-in",
+      "conf": 1,
+      "claim": "Amarr royal-house region"
+    },
+    {
+      "src": "plc_tash_murkon_region",
+      "tgt": "org_khanid_kingdom",
+      "rel": "located-in",
+      "conf": 0.6,
+      "claim": "Adjacent regions; Tash-Murkon is the empire's softest border with the defected Kingdom"
+    },
+    {
+      "src": "plc_tash_murkon_region",
+      "tgt": "org_mordus_legion",
+      "rel": "parallels",
+      "conf": 0.65,
+      "claim": "Mordu's Legion runs significant southern operations here"
+    },
+    {
+      "src": "org_sebiestor_tribe",
+      "tgt": "org_minmatar_republic",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "One of the seven tribes"
+    },
+    {
+      "src": "org_sebiestor_tribe",
+      "tgt": "cnc_seven_tribes",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "org_sebiestor_tribe",
+      "tgt": "cnc_military_campaigns",
+      "rel": "parallels",
+      "conf": 0.4,
+      "claim": "Likely candidate for a future Mimitar-side Mil-Campaign zone after Ammatar/Starkmanir",
+      "contested-by": "Ash speculation; not confirmed"
+    },
+    {
+      "src": "org_angel_cartel",
+      "tgt": "org_mordus_legion",
+      "rel": "descends-from",
+      "conf": 0.75,
+      "claim": "Mordu's Legion's founding personnel came from Angel Cartel deserters"
+    },
+    {
+      "src": "org_angel_cartel",
+      "tgt": "evt_skarkon_angel_takeover",
+      "rel": "participated-in",
+      "conf": 1,
+      "claim": "The Cartel administered Skarkon after the YC110 defection"
+    },
+    {
+      "src": "fac_intaki",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "Founding bloodline of the Federation"
+    },
+    {
+      "src": "fac_intaki",
+      "tgt": "org_intaki_syndicate",
+      "rel": "succeeded-by",
+      "conf": 0.8,
+      "claim": "Caldari-sympathetic exiles split off as the Syndicate, retaining the bloodline name"
+    },
+    {
+      "src": "fac_intaki",
+      "tgt": "org_ida_faith",
+      "rel": "parallels",
+      "conf": 0.95,
+      "claim": "Religious-cultural identity"
+    },
+    {
+      "src": "fac_intaki",
+      "tgt": "evt_intaki_seizure_uprising",
+      "rel": "opposed-to",
+      "conf": 0.9,
+      "claim": "YC124 Federation seizure was an act against the Intaki people, not just the Syndicate"
+    },
+    {
+      "src": "fac_intaki",
+      "tgt": "per_alix_moreau",
+      "rel": "aligned-with",
+      "conf": 0.6,
+      "claim": "Moreau's amnesty offer structurally targets the Intaki proper, not the Syndicate"
+    },
+    {
+      "src": "fac_intaki",
+      "tgt": "per_eloa_enaro",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "Lost-Adama arc was an Intaki religious-cultural event"
     }
   ],
   "_curation_notes": [
@@ -4646,6 +5148,7 @@
     "Auto-curate pass 2026-05-06T13:00:00Z: rejected 0 noise suggestions, accepted 0 citations on existing nodes, created 0 stub nodes (canonicity='curator-review-pending') with 0 new citations. Stubs need curator review for type confirmation, brief authoring, and connection wiring.",
     "Silphy/SoE region extension 2026-05-06: +2 nodes (Thera, Muryia Mordu), +8 connections drawing the Antagonists-chronicle data-trade edges directly and adding the Thera SoE base. Khanid connection from the user's prompt deferred — no chronicle reference in the extracted material; awaiting source.",
     "Source ID 2026-05-06: renamed src_chronicle_antagonists → src_chronicle_ante. The canonical CCP chronicle title is 'Ante' (published 2010-04-19); my earlier label 'Antagonists' was informal. URL fixed to canonical chronicle path.",
-    "Chronicle reconciliation 2026-05-06: fixed Silphy date 2008→2001-08-06; renamed src_chronicle_nefantar → src_chronicle_the-ammatars (canonical CCP slug, affecting 4 nodes); dropped orphan src_chronicle_starkmanir, replaced by src_chronicle_lost-stars (affecting 3 nodes); wired 17 canonical-chronicle citations across 10 chronicle sources."
+    "Chronicle reconciliation 2026-05-06: fixed Silphy date 2008→2001-08-06; renamed src_chronicle_nefantar → src_chronicle_the-ammatars (canonical CCP slug, affecting 4 nodes); dropped orphan src_chronicle_starkmanir, replaced by src_chronicle_lost-stars (affecting 3 nodes); wired 17 canonical-chronicle citations across 10 chronicle sources.",
+    "Canonical promotions 2026-05-07: +10 nodes (Caldari Prime, Tibus Heth, Kaalakiota, Sukuuvestaa, Hyasyoda, Wiyrkomi, Tash-Murkon region, Sebiestor Tribe, Angel Cartel, Intaki faction) with curator-authored briefs + master_summary. +33 structural edges anchoring them into the existing graph. Citations will surface on the next NER pass via the gazetteer→node containment match."
   ]
 }

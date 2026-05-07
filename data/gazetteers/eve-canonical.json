@@ -68,7 +68,7 @@
     {"canonical": "Chief Executive Panel", "type": "Organization", "variants": ["Caldari CEP"], "_note": "CEP is the canonical short-form abbreviation, not a typo — both 'Chief Executive Panel' and 'CEP' are valid in seed text."},
     {"canonical": "House of Records",   "type": "Organization", "variants": ["Caldari House of Records"]},
     {"canonical": "Caldari Business Tribunal", "type": "Organization", "variants": ["CBT", "Business Tribunal"]},
-    {"canonical": "Provost Marshal",    "type": "Concept",      "variants": ["the Provost", "Provost-Marshal"]},
+    {"canonical": "Provost Marshal",    "type": "Concept",      "variants": ["Provost-Marshal"], "_note": "'the Provost' is canonical phrasing for the office holder, not a typo."},
     {"canonical": "Domain",             "type": "Place",        "variants": ["the Domain"]},
     {"canonical": "Heimatar",           "type": "Place",        "variants": ["the Heimatar region"]},
     {"canonical": "Molden Heath",       "type": "Place",        "variants": ["Molden-Heath"]},
