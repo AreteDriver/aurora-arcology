@@ -3402,6 +3402,53 @@
         "src_news_zarzakh-report-consequences-and-the-deathless",
         "src_news_zarzakh-report-hrada-oki-memorial"
       ]
+    },
+    {
+      "id": "org_provists",
+      "type": "Organization",
+      "name": "Provists (Caldari Provist regime)",
+      "brief": "Tibus Heth's authoritarian faction that seized control of the Caldari State after the Malkalen Disaster. Brutal labor / militaristic ideology; rebranded the State along Mountain-faction lines.",
+      "master_summary": "Tibus Heth's authoritarian faction that seized de-facto control of the Caldari State after the Malkalen Disaster (YC110). Built around Kaalakiota labor militancy and Mountain-faction ideology, the Provists ran the State through the YC112 invasion of Caldari Prime, the YC115 Caldari\u2013Federation conflict resolution, and into the Empyrean Age. Their downfall \u2014 the rise of Akimaka Saraki and the post-Heth consolidation \u2014 is the proximate cause of the current Lai-Dai-vs-Ishukone axis.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_anti-provist-rally-sparks-civil-unrest-on-malkalen-v",
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "id": "evt_caldari_invasion_yc112",
+      "type": "Event",
+      "name": "Caldari Invasion of Caldari Prime",
+      "date": "YC112",
+      "brief": "Massive Caldari State military operation that retook Caldari Prime from Federation control. Heth's signature war, justified as restitution for Malkalen.",
+      "master_summary": "The YC112 Caldari State invasion of Caldari Prime \u2014 the retaking of the homeworld lost during the Caldari Rebellion. Tibus Heth justified the operation as restitution for the Malkalen Disaster (YC110). Mordu's Legion participated under contract, then later announced departure. The invasion locked in Heth's Provist regime and established the modern Caldari claim on Caldari Prime that the YC128 conflict is once again contesting.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_book_templar_one",
+        "src_news_mordus-legion-announces-full-control-of-caldari-prime",
+        "src_news_clashes-on-caldari-prime-quelled-by-mordus-legion"
+      ]
+    },
+    {
+      "id": "per_alexander_noir",
+      "type": "Person",
+      "name": "Alexander Noir",
+      "date": "YC110 (deceased / framed)",
+      "brief": "Capsuleer pilot of the Nyx mothership that struck Ishukone Headquarters at Malkalen. Officially named the perpetrator; broker plot evidence suggests he was framed and the safety protocols were disabled by other parties.",
+      "master_summary": "Capsuleer pilot of the Nyx mothership that struck Ishukone Headquarters at Malkalen, killing Otro Gariushi and tens of thousands. Officially named the perpetrator of the Malkalen Disaster, but the broker plot evidence \u2014 station and ship safety protocols disabled at the same time \u2014 suggests he was set up to take the blame for the Insorum-targeted assassination. The structural ambiguity around Noir is what makes Malkalen 'Disaster' canonically rather than 'Attack.'",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "id": "per_aldrith_shutaq",
+      "type": "Person",
+      "name": "Aldrith Shutaq",
+      "brief": "Khanid noble and Provost-Marshal-era figure mentioned in the Heth coverage. Royal Khanid Navy lineage.",
+      "master_summary": "Khanid noble in the Provost-Marshal-era news cycle. Royal Khanid Navy lineage. Frequently surfaces as a Khanid voice in the Pure Faith Harvest / Lost Adama era and the post-Allar-Chakaide Khanid succession.",
+      "canonicity": "ccp-canon",
+      "sources": []
     }
   ],
   "connections": [
@@ -6358,6 +6405,175 @@
       "rel": "caused-by",
       "conf": 0.85,
       "claim": "The disaster directly precipitated the YC112 State invasion of Caldari Prime.",
+      "supporting_sources": [
+        "src_news_anti-provist-rally-sparks-civil-unrest-on-malkalen-v"
+      ]
+    },
+    {
+      "src": "per_tibus_heth",
+      "tgt": "org_provists",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Provost / leader of the Provist regime.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "org_provists",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "De-facto governing faction of the State during the Heth era.",
+      "supporting_sources": [
+        "src_news_anti-provist-rally-sparks-civil-unrest-on-malkalen-v"
+      ]
+    },
+    {
+      "src": "org_provists",
+      "tgt": "org_kaalakiota",
+      "rel": "aligned-with",
+      "conf": 0.9,
+      "claim": "Provist support base built on Kaalakiota labor militancy.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "per_akimaka_saraki",
+      "tgt": "org_provists",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Saraki's post-Heth consolidation broke Provist dominance and reset State governance.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_invasion_yc112",
+      "tgt": "per_tibus_heth",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Heth's signature operation; the Provist justification cycle ran on Malkalen reciprocity.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "evt_caldari_invasion_yc112",
+      "tgt": "plc_caldari_prime",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Operation took place at Caldari Prime.",
+      "supporting_sources": [
+        "src_news_mordus-legion-announces-full-control-of-caldari-prime"
+      ]
+    },
+    {
+      "src": "evt_caldari_invasion_yc112",
+      "tgt": "evt_malkalen_disaster",
+      "rel": "caused-by",
+      "conf": 0.92,
+      "claim": "Heth used the Malkalen Disaster as the proximate justification for the YC112 invasion.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "org_mordus_legion",
+      "tgt": "evt_caldari_invasion_yc112",
+      "rel": "participated-in",
+      "conf": 0.92,
+      "claim": "Mordu's Legion took full control of Caldari Prime during the operation, then later announced departure.",
+      "supporting_sources": [
+        "src_news_mordus-legion-announces-full-control-of-caldari-prime",
+        "src_news_mordus-legion-command-announces-departure-from-caldari-prime"
+      ]
+    },
+    {
+      "src": "evt_caldari_invasion_yc112",
+      "tgt": "org_caldari_state",
+      "rel": "participated-in",
+      "conf": 0.99,
+      "claim": "State military operation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_invasion_yc112",
+      "tgt": "org_gallente_federation",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Caldari Prime was under Federation control until the YC112 invasion.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_alexander_noir",
+      "tgt": "evt_malkalen_disaster",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "Officially-named pilot of the Nyx that struck Ishukone HQ; the framing question is the canonical ambiguity.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "per_alexander_noir",
+      "tgt": "per_otro_gariushi",
+      "rel": "caused-by",
+      "conf": 0.65,
+      "claim": "Officially the cause-of-death of Otro Gariushi; whether Noir was the actual operator is contested by the broker-plot evidence.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "per_aldrith_shutaq",
+      "tgt": "org_khanid_kingdom",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Khanid noble lineage.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_catiz_i",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Current Empress of the Amarr Empire.",
+      "supporting_sources": [
+        "src_news_empress-catiz-i-revokes-heideran-decree-and-announces-sweeping-territorial-and-military-reorganization"
+      ]
+    },
+    {
+      "src": "per_catiz_i",
+      "tgt": "per_heideran_vii",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Catiz revoked Heideran's decree and announced sweeping territorial and military reorganization \u2014 symbolically rejecting the Heideran-era settlement.",
+      "supporting_sources": [
+        "src_news_empress-catiz-i-revokes-heideran-decree-and-announces-sweeping-territorial-and-military-reorganization"
+      ]
+    },
+    {
+      "src": "per_catiz_i",
+      "tgt": "plc_exordium",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Catiz authorized the Exordium charter and the AIR Labs / capsuleer-training arc.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_tibus_heth",
+      "tgt": "plc_caldari_prime",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Heth's invasion was framed as restitution for the loss of Caldari Prime in the Caldari Rebellion.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_tibus_heth",
+      "tgt": "evt_malkalen_disaster",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Heth's political rise crystallized around the Malkalen Disaster \u2014 he weaponized it for the Provist takeover.",
       "supporting_sources": [
         "src_news_anti-provist-rally-sparks-civil-unrest-on-malkalen-v"
       ]
