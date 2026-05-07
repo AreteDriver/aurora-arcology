@@ -1,6 +1,8 @@
 import { db, schema } from "@/lib/db";
 import { inArray } from "drizzle-orm";
 import { notFound } from "next/navigation";
+import fs from "node:fs";
+import path from "node:path";
 import { LENSES, lensById } from "@/data/lenses";
 import { buildSynthesis, renderMarkdown } from "@/lib/synthesis";
 import SynthesisView from "@/components/SynthesisView";
@@ -61,5 +63,14 @@ export default async function LensSynthesisPage({ params }: Props) {
   });
   const markdown = renderMarkdown(doc);
 
-  return <SynthesisView doc={doc} markdown={markdown} />;
+  // Read polished LLM-rendered prose if the curator has run
+  // `pnpm synthesize:polish` and committed the output. File is
+  // committed under data/syntheses/<lens-id>.md.
+  const polishedPath = path.join(process.cwd(), "data/syntheses", `${id}.md`);
+  let polishedMarkdown: string | null = null;
+  if (fs.existsSync(polishedPath)) {
+    polishedMarkdown = fs.readFileSync(polishedPath, "utf-8");
+  }
+
+  return <SynthesisView doc={doc} markdown={markdown} polishedMarkdown={polishedMarkdown} />;
 }

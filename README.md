@@ -62,6 +62,30 @@ curator-authored claim text drawn from publicly-available CCP material and creat
 content under L3 user-paste licensing — Aurora itself does not redistribute creator
 transcripts. See spec §10 for the licensing arc.
 
+## Synthesis polish (optional, curator-side)
+
+Each lens has a deterministic synthesis at `/lens/<lens-id>/synthesis` —
+source-grounded research outline organized by entity type. To produce LLM-polished
+prose for any lens:
+
+```bash
+ANTHROPIC_API_KEY=sk-ant-... pnpm synthesize:polish              # all 13 lenses
+ANTHROPIC_API_KEY=sk-ant-... pnpm synthesize:polish --lens warpath-current
+pnpm synthesize:polish --dry-run                                  # show sizes, no API call
+```
+
+Outputs land in `data/syntheses/<lens-id>.md`. **Review each file for factual
+drift before committing** — the system prompt constrains the model to no-new-claims
+and exact citation preservation, but verification is on the curator. Once committed
+and pushed, the deploy bakes polished prose into the static export. Pages show
+polished by default with a "curator" toggle to drop back to the deterministic outline.
+
+Cost: ~$0.30–$1.00 per full pass with Sonnet 4.6.
+
+Provenance: polished output is tagged `llm-rendered-prose` per spec §5. Inputs are
+curator-authored fields only (brief, master_summary, lens descriptions); no source
+material reaches the API call.
+
 ## Deploy (Vercel)
 
 Public read-only view. Curator-write features (suggestions accept/reject) are

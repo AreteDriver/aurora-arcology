@@ -1,19 +1,26 @@
 "use client";
 
 import { useState } from "react";
+import ReactMarkdown from "react-markdown";
 import type { SynthesisDoc } from "@/lib/synthesis";
 
 interface Props {
   doc: SynthesisDoc;
   markdown: string;
+  polishedMarkdown?: string | null;
 }
 
-export default function SynthesisView({ doc, markdown }: Props) {
-  const [mode, setMode] = useState<"reading" | "markdown">("reading");
+type Mode = "polished" | "reading" | "markdown";
+
+export default function SynthesisView({ doc, markdown, polishedMarkdown }: Props) {
+  const hasPolished = !!polishedMarkdown;
+  const [mode, setMode] = useState<Mode>(hasPolished ? "polished" : "reading");
   const [copied, setCopied] = useState(false);
 
+  const activeText = mode === "polished" ? polishedMarkdown ?? markdown : markdown;
+
   const handleCopy = () => {
-    navigator.clipboard.writeText(markdown).then(() => {
+    navigator.clipboard.writeText(activeText).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 1500);
     });
@@ -25,26 +32,42 @@ export default function SynthesisView({ doc, markdown }: Props) {
         <div>
           <h1 className="text-2xl font-bold">{doc.lensTitle}</h1>
           <p className="text-xs text-zinc-500 font-mono mt-1">
-            synthesis · spec §6 Tier 3 · curator-authored, source-grounded
+            synthesis · spec §6 Tier 3 ·{" "}
+            {mode === "polished" ? (
+              <span className="text-purple-400">llm-rendered-prose · curator-reviewed</span>
+            ) : (
+              <span>curator-authored · source-grounded</span>
+            )}
           </p>
         </div>
         <nav className="flex gap-3 font-mono text-sm">
+          {hasPolished && (
+            <button
+              onClick={() => setMode("polished")}
+              className={mode === "polished" ? "text-zinc-100" : "text-zinc-400 hover:text-zinc-100"}
+              title="LLM-polished prose, curator-reviewed before publish"
+            >
+              polished
+            </button>
+          )}
           <button
             onClick={() => setMode("reading")}
             className={mode === "reading" ? "text-zinc-100" : "text-zinc-400 hover:text-zinc-100"}
+            title="Curator's deterministic source-grounded outline"
           >
-            reading
+            curator
           </button>
           <button
             onClick={() => setMode("markdown")}
             className={mode === "markdown" ? "text-zinc-100" : "text-zinc-400 hover:text-zinc-100"}
+            title="Raw markdown for copy-paste"
           >
             markdown
           </button>
           <button
             onClick={handleCopy}
             className="text-zinc-400 hover:text-zinc-100"
-            title="Copy markdown to clipboard"
+            title="Copy current view's markdown to clipboard"
           >
             {copied ? "copied ✓" : "copy"}
           </button>
@@ -59,12 +82,21 @@ export default function SynthesisView({ doc, markdown }: Props) {
         {doc.sections.reduce((s, sec) => s + sec.entries.length, 0)} entities ·{" "}
         {doc.citations.length} unique sources cited ·{" "}
         {doc.citations.reduce((s, c) => s + c.refCount, 0)} citations total
+        {hasPolished && mode === "polished" && (
+          <span className="text-purple-400 ml-3">
+            · LLM-paraphrased from curator notes; reviewed before publish
+          </span>
+        )}
       </p>
 
       {mode === "markdown" ? (
         <pre className="bg-zinc-950 border border-zinc-800 p-4 text-xs text-zinc-300 overflow-x-auto whitespace-pre-wrap font-mono">
-          {markdown}
+          {activeText}
         </pre>
+      ) : mode === "polished" ? (
+        <article className="prose prose-invert prose-sm max-w-none prose-headings:font-bold prose-h2:border-b prose-h2:border-zinc-800 prose-h2:pb-1 prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline">
+          <ReactMarkdown>{polishedMarkdown ?? markdown}</ReactMarkdown>
+        </article>
       ) : (
         <article className="space-y-8">
           {doc.sections.map((sec) => (
