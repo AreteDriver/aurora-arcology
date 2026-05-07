@@ -82,6 +82,7 @@ Gallente Federation Faction Warfare militia. The Federation's volunteer / capsul
 ### Federation Senate
 
 Federation governance body. Hawkish vs Autonomist factional split surfaces in the Moreau era — hawks worry the Autonomist president is unable to direct the Federation Navy firmly. Senate operates from Caille; presidential candidate rallies (Aguard, Roden, Moreau) are oriented to Senate-faction politics.
+**Cited in:** [Federation Senate petitions CONCORD over Evaulon incident (YC 114)](http://community.eveonline.com/news/news-channels/world-news/federal-senate-petitions-concord-in-the-wake-of-evaulon-incident/) · [Federation Senate condemns death of &#34;war hero&#34; Admiral Yanala (YC 115)](http://community.eveonline.com/news/news-channels/world-news/federation-senate-condemns-death-of-war-hero-admiral-yanala/) · [Federation Senate condemns death of “war hero” Admiral Yanala](https://universe.eveonline.com/new-eden-news/federation-senate-condemns-death-of-war-hero-admiral-yanala)
 
 ### Ida Faith / Ida Monastery
 
@@ -203,6 +204,7 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [Presidential Candidate Aguard Holds Political Rally for Jin-Mei (2009-10-30)](https://universe.eveonline.com/new-eden-news/presidential-candidate-aguard-holds-political-rally-for-jin-mei)
 - **1×** [Federal Navy Turned Back at Intaki Stargate (2010-03-04)](https://universe.eveonline.com/new-eden-news/federal-navy-turned-back-at-intaki-stargate)
 - **1×** [Intaki Assembly Requests FDU Ceasefire (2010-03-04)](https://universe.eveonline.com/new-eden-news/intaki-assembly-requests-fdu-ceasefire)
+- **1×** [Federation Senate condemns death of “war hero” Admiral Yanala (2013-05-26)](https://universe.eveonline.com/new-eden-news/federation-senate-condemns-death-of-war-hero-admiral-yanala)
 - **1×** [Mercenary Corporations Withdraw from Chandeille as Jin-Mei Civil Conflict Enters Ceasefire Following Capsuleer Aid Efforts (2016-06-01)](https://universe.eveonline.com/new-eden-news/mercenary-corporations-withdraw-from-chandeille-as-jin-mei-civil-conflict-enters-ceasefire-following-capsuleer-aid-efforts)
 - **1×** [Intaki Claim "Lost Idama" Discovered in Khanid Kingdom (2018-08-31)](https://universe.eveonline.com/new-eden-news/intaki-claim-lost-idama-discovered-in-khanid-kingdom)
 - **1×** [BREAKING - Massive Invasion of Intaki and Placid Systems by Federation Navy (2022-11-08)](https://universe.eveonline.com/new-eden-news/breaking-massive-invasion-of-intaki-and-placid-systems-by-federation-navy)
@@ -235,4 +237,6 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [Federal Navy turned back at Intaki stargate (YC 112) (YC112)](http://community.eveonline.com/news/news-channels/world-news/federal-navy-turned-back-at-intaki-stargate/ http://community.eveonline.com/news/news-channels/world-news/intaki-assembly-requests-fdu-ceasefire/"",""label"":""News 2""},{""url"":""http://evemaps.dotlan.net/map/Placid/Intaki"",""label"":""Intaki""}])
 - **1×** [Intaki Liberation Front Declare Trade Hub a Success (YC 112) (YC112)](https://community.eveonline.com/news/news-channels/eve-online-news/intaki-liberation-front-declare-trade-hub-a-success/)
 - **1×** [Trade hub continues to grow for Intaki Liberation Front (YC 113) (YC113)](https://community.eveonline.com/news/news-channels/eve-online-news/trade-hub-continues-to-grow-for-intaki-liberation-front/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Placid/Intaki"",""label"":""Intaki""}])
+- **1×** [Federation Senate petitions CONCORD over Evaulon incident (YC 114) (YC114)](http://community.eveonline.com/news/news-channels/world-news/federal-senate-petitions-concord-in-the-wake-of-evaulon-incident/)
+- **1×** [Federation Senate condemns death of &#34;war hero&#34; Admiral Yanala (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/federation-senate-condemns-death-of-war-hero-admiral-yanala/)
 - **1×** [Intaki claim &#34;lost Idama&#34; found in Khanid Kingdom (YC 120) (YC120)](https://community.eveonline.com/news/news-channels/world-news/intaki-claim-lost-idama-discovered-in-khanid-kingdom/)

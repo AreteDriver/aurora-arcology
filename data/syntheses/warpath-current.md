@@ -188,6 +188,7 @@ Gallente Federation military fleet. Conducted the YC124 invasion of Intaki + adj
 ### Federation Senate
 
 Federation governance body. Hawkish vs Autonomist factional split surfaces in the Moreau era — hawks worry the Autonomist president is unable to direct the Federation Navy firmly. Senate operates from Caille; presidential candidate rallies (Aguard, Roden, Moreau) are oriented to Senate-faction politics.
+**Cited in:** [Federation Senate petitions CONCORD over Evaulon incident (YC 114)](http://community.eveonline.com/news/news-channels/world-news/federal-senate-petitions-concord-in-the-wake-of-evaulon-incident/) · [Federation Senate condemns death of &#34;war hero&#34; Admiral Yanala (YC 115)](http://community.eveonline.com/news/news-channels/world-news/federation-senate-condemns-death-of-war-hero-admiral-yanala/) · [Federation Senate condemns death of “war hero” Admiral Yanala](https://universe.eveonline.com/new-eden-news/federation-senate-condemns-death-of-war-hero-admiral-yanala)
 
 ### Imperial Court
 
@@ -260,7 +261,7 @@ Citadel-tech consortium. Includes Intaki Bank. Builds EDENCOM ships. Forest-fact
 ### Zainou Biotech
 
 Caldari biotech corp. YC107 security breach; YC121 Semiki biohazard containment failure — Lai Dai under suspicion in the contamination cycle. Operates the Caldari capsuleer-implant supply chain. Zainou implants are mainstays of capsuleer fitting markets.
-**Cited in:** [Breach of security at Zainou Biotech (YC 107)](http://community.eveonline.com/news/news-channels/world-news/breach-threatens-biotech-companys-reputation-stock-value/) · [Hyasyoda walks out on negotiations with Zainou (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/hyasyoda-walks-out-on-negotiations-with-zainou-1/) · [Semiki Zainou biohazard containment compromised (YC 121)](https://community.eveonline.com/news/news-channels/world-news/semiki-zainou-biohazard-containment-compromised/"",""label"":""17JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/semiki-situation-deteriorates-ishukone-watch-releases-initial-findings/"",""label"":""24JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials/"",""label"":""12FEB121""}])
+**Cited in:** [Breach of security at Zainou Biotech (YC 107)](http://community.eveonline.com/news/news-channels/world-news/breach-threatens-biotech-companys-reputation-stock-value/) · [Hyasyoda walks out on negotiations with Zainou (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/hyasyoda-walks-out-on-negotiations-with-zainou-1/) · [Semiki Zainou biohazard containment compromised (YC 121)](https://community.eveonline.com/news/news-channels/world-news/semiki-zainou-biohazard-containment-compromised/"",""label"":""17JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/semiki-situation-deteriorates-ishukone-watch-releases-initial-findings/"",""label"":""24JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials/"",""label"":""12FEB121""}]) · [Tukoss Disavowed By Zainou Biotech](https://universe.eveonline.com/new-eden-news/tukoss-disavowed-by-zainou-biotech)
 
 ## Factions
 
@@ -437,6 +438,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **2×** [Friction mounts between CONCORD and Caldari State (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/friction-mounts-between-concord-and-caldari-state/)
 - **2×** [Mens Reppola made Ishukone CEO, Charts Future Course (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/mens-reppola-made-ishukone-ceo-charts-future-course-1/)
 - **2×** [Internal conflict strikes Caldari State Protectorate (YC 112) (YC112)](https://community.eveonline.com/news/news-channels/eve-online-news/internal-conflict-strikes-caldari-state-protectorate/)
+- **2×** [Federation Senate petitions CONCORD over Evaulon incident (YC 114) (YC114)](http://community.eveonline.com/news/news-channels/world-news/federal-senate-petitions-concord-in-the-wake-of-evaulon-incident/)
 - **2×** [Ishukone executives called to Chief Executive Panel hearing (YC 116) (YC116)](http://community.eveonline.com/news/news-channels/world-news/ishukone-executives-called-to-chief-executive-panel-hearing/)
 - **2×** [Capsuleers refuse CONCORD demands (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/capsuleers-refuse-tukoss-handover-situation-intensifies/"",""label"":""News""},{""url"":""http://web.ccpgamescdn.com/newssystem/media/67333/1/DED_RELEASE_-_1170626-OR6645019921.pdf"",""label"":""Report""}])
 - **2×** [Serpentis corporation strikes back against Upwell Consortium (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/serpentis-corporation-strikes-back-against-upwell-consortium/)
@@ -653,6 +655,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Mordu's Legion announces full control of Caldari Prime (2013-05-11)](https://universe.eveonline.com/new-eden-news/mordus-legion-announces-full-control-of-caldari-prime)
 - **1×** [Wreckage of Shiigeru to be examined by Ishukone and Zainou (2013-05-15)](https://universe.eveonline.com/new-eden-news/wreckage-of-shiigeru-to-be-examined-by-ishukone-and-zainou)
 - **1×** [Caldari Navy publicly acknowledges efficacy of cloned soldiers (2013-05-19)](https://universe.eveonline.com/new-eden-news/caldari-navy-publicly-acknowledges-efficacy-of-cloned-soldiers)
+- **1×** [Federation Senate condemns death of “war hero” Admiral Yanala (2013-05-26)](https://universe.eveonline.com/new-eden-news/federation-senate-condemns-death-of-war-hero-admiral-yanala)
 - **1×** [Federation Navy increases Tripwire presence on Caldari border (2013-05-30)](https://universe.eveonline.com/new-eden-news/federation-navy-increases-tripwire-presence-on-caldari-border)
 - **1×** [Caldari Navy storms Haatomo station; location of Heth unknown (2013-06-19)](https://universe.eveonline.com/new-eden-news/caldari-navy-storms-haatomo-station-location-of-heth-unknown)
 - **1×** [Caldari Navy Report: Heth assumed alive (2013-07-11)](https://universe.eveonline.com/new-eden-news/caldari-navy-report-heth-assumed-alive)
@@ -677,6 +680,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Sisters of EVE "Wormhole Colony Lost"; Sanctuary Scientist Goes Public (2014-12-09)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-wormhole-colony-lost-sanctuary-scientist-goes-public)
 - **1×** [CONCORD Assembly Places Genesis Fleet and DED On High Alert (2015-02-17)](https://universe.eveonline.com/new-eden-news/concord-assembly-places-genesis-fleet-and-ded-on-high-alert)
 - **1×** [CONCORD Assembly Lowers Alert Status as Capsuleer Encounters with "Drifters" Raise Questions (2015-02-18)](https://universe.eveonline.com/new-eden-news/concord-assembly-lowers-alert-status-as-capsuleer-encounters-with-drifters-raise-questions)
+- **1×** [Tukoss Disavowed By Zainou Biotech (2015-03-06)](https://universe.eveonline.com/new-eden-news/tukoss-disavowed-by-zainou-biotech)
 - **1×** [Caldari Navy Hands Impounded Serpentis Vessel To Propel Dynamics (2015-04-17)](https://universe.eveonline.com/new-eden-news/caldari-navy-hands-impounded-serpentis-vessel-to-propel-dynamics)
 - **1×** [Tukoss fate confirmed – Capsuleers recognized by DED (2015-06-08)](https://universe.eveonline.com/new-eden-news/tukoss-fate-confirmed-capsuleers-recognized-by-ded)
 - **1×** [Capsuleers Refuse Tukoss Handover – Situation Intensifies (2015-06-26)](https://universe.eveonline.com/new-eden-news/capsuleers-refuse-tukoss-handover-situation-intensifies)
@@ -951,7 +955,6 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Strange capsuleers hurl snowballs (YC 114) (YC114)](http://community.eveonline.com/news/news-channels/world-news/snowball-fights/)
 - **1×** [CONCORD enacts landmark bounty hunting legislation (YC 114) (YC114)](http://community.eveonline.com/news/news-channels/world-news/concord-enacts-landmark/)
 - **1×** [CONCORD investigation continues (YC 114) (YC114)](http://community.eveonline.com/news/news-channels/world-news/concord-investigation-into-federal-border-security-continues/)
-- **1×** [Federation Senate petitions CONCORD over Evaulon incident (YC 114) (YC114)](http://community.eveonline.com/news/news-channels/world-news/federal-senate-petitions-concord-in-the-wake-of-evaulon-incident/)
 - **1×** [Federation Navy confirms court martial (YC 114) (YC114)](http://community.eveonline.com/news/news-channels/world-news/federation-navy-confirms-courts-martial-of-two-tripwire-officers/)
 - **1×** [Caldari Navy publicly acknowledges cloned solider ifficacy (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/caldari-navy-publicly-acknowledges-efficacy-of-cloned-soldiers/)
 - **1×** [Caldari Navy report: Heth assumed alive (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/caldari-navy-report-heth-assumed-alive/)
@@ -967,6 +970,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Federation Navy releases Caldari Prime details (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/fed-navy-releases-caldari-prime-details-citizens-react/)
 - **1×** [Federation Navy releases Caldari Prime status report (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/federation-navy-releases-caldari-prime-status-report-after-stand-off-with-shiigeru/)
 - **1×** [Republic Security Services stand off with Federation Navy (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/republic-security-services-stand-off-with-federation-navy-over-shooter/ http://community.eveonline.com/news/news-channels/world-news/karin-midular-in-coma-republic-demands-transfer/"",""label"":""News 2""},{""url"":""http://evemaps.dotlan.net/map/Sinq_Laison/Colelie"",""label"":""Colelie""}])
+- **1×** [Federation Senate condemns death of &#34;war hero&#34; Admiral Yanala (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/federation-senate-condemns-death-of-war-hero-admiral-yanala/)
 - **1×** [Ishukone access to Caldari Prime approved (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/ishukone-access-to-caldari-prime-approved-full-negotiations-still-ongoing/)
 - **1×** [Ishukone relief convoy arrives safely  at Caldari Prime (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/ishukone-relief-convoy-safely-makes-it-to-caldari-prime-after-attempted-capsuleer-interdiction/"",""label"":""News""},{""url"":""https://wiki.eveonline.com/en/wiki/Caldari_Prime"",""label"":""Caldari Prime""}])
 - **1×** [Ishukone requests access to devastated planet as relief continues (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/caldari-prime-relief-effort-continues-ishukone-request-access-to-devastated-planet/)

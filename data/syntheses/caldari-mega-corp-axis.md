@@ -14,7 +14,7 @@ YC105 Federation–State joint research project announced as a milestone in inte
 ### Innovaatio Varustukset Scandal *(YC109)*
 
 YC109 Caldari military-development corp scandal ending with sale and ruin. Multi-corp bidding war (Kaalakiota / Wiyrkomi / Sukuuvestaa) that exposed the Heth-era Provist consolidation pattern of state-favored megacorp absorption.
-**Cited in:** [Innovaatio sale halted by last minute scandal(YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-sells-to-ishukone-for-surprising-sum/ http://forum.battleclinic.com/index.php?topic=9716.0;wap) · [Innovaatio Varustukset laboratory robbed (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-varustukset-laboratory-robbed/) · [Innovaatio Varustukset scientists rescued after kidnapping (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-varustukset-scientists-kidnapped-rescued/)
+**Cited in:** [Innovaatio sale halted by last minute scandal(YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-sells-to-ishukone-for-surprising-sum/ http://forum.battleclinic.com/index.php?topic=9716.0;wap) · [Innovaatio Varustukset laboratory robbed (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-varustukset-laboratory-robbed/) · [Innovaatio Varustukset scandal ends with sale and ruin (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/espionage-scandal-causes-innva-ruin/) · [Innovaatio Varustukset scientists rescued after kidnapping (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-varustukset-scientists-kidnapped-rescued/)
 
 ### Caldari Constructions Workers Revolt *(YC110)*
 
@@ -73,12 +73,12 @@ Caldari electronics company founded YC54. Upwell Consortium founding member. The
 ### Eifyr & Co
 
 Inter-empire biotech. Tukoss-research partnership — issued the YC116 messaging response to Hilen Tukoss communications. Chemal Tech collaboration raised suspicions YC109 (cross-corp tech transfer). Operates between the four-empire industrial sphere — analog of Inner Zone Shipping for biotech.
-**Cited in:** [Chemal Tech collaboration raises suspicions (YC 109)](http://forum.battleclinic.com/index.php?topic=10136.0;wap) · [State concerns vindicated as Chemal Tech implicated (YC 109)](http://forum.battleclinic.com/index.php?topic=10372.0;wap) · [Eifyr &amp; Co respond to Tukoss messaging (YC 116)](http://community.eveonline.com/news/news-channels/world-news/eifyr-co-respond-to-tukoss-messaging/)
+**Cited in:** [Chemal Tech collaboration raises suspicions (YC 109)](http://forum.battleclinic.com/index.php?topic=10136.0;wap) · [State concerns vindicated as Chemal Tech implicated (YC 109)](http://forum.battleclinic.com/index.php?topic=10372.0;wap) · [Eifyr &amp; Co respond to Tukoss messaging (YC 116)](http://community.eveonline.com/news/news-channels/world-news/eifyr-co-respond-to-tukoss-messaging/) · [Eifyr & Co respond to Tukoss messaging](https://universe.eveonline.com/new-eden-news/eifyr-co-respond-to-tukoss-messaging)
 
 ### GenoTech Systems
 
 Caldari biotech subsidiary. YC110 drug trial horror admission — the State pharma scandal that demonstrated the unaccountability of corporate research within the Heth-era Provist regime. Wiyrkomi-aligned per the YC110 industry coverage.
-**Cited in:** [GenoTech Systems admits drug trial horror (YC 110)](https://community.eveonline.com/news/news-channels/eve-online-news/genotech-systems-admits-drug-trial-horror/)
+**Cited in:** [GenoTech Systems admits drug trial horror (YC 110)](https://community.eveonline.com/news/news-channels/eve-online-news/genotech-systems-admits-drug-trial-horror/) · [GenoTech Systems Admits Drug Trial Horror](https://universe.eveonline.com/new-eden-news/genotech-systems-admits-drug-trial-horror)
 
 ### Hyasyoda Corporation
 
@@ -141,7 +141,7 @@ Ninth-largest Caldari corp. Absorbed by Heth's Provost alliance. Founded Star Se
 ### Zainou Biotech
 
 Caldari biotech corp. YC107 security breach; YC121 Semiki biohazard containment failure — Lai Dai under suspicion in the contamination cycle. Operates the Caldari capsuleer-implant supply chain. Zainou implants are mainstays of capsuleer fitting markets.
-**Cited in:** [Breach of security at Zainou Biotech (YC 107)](http://community.eveonline.com/news/news-channels/world-news/breach-threatens-biotech-companys-reputation-stock-value/) · [Hyasyoda walks out on negotiations with Zainou (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/hyasyoda-walks-out-on-negotiations-with-zainou-1/) · [Semiki Zainou biohazard containment compromised (YC 121)](https://community.eveonline.com/news/news-channels/world-news/semiki-zainou-biohazard-containment-compromised/"",""label"":""17JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/semiki-situation-deteriorates-ishukone-watch-releases-initial-findings/"",""label"":""24JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials/"",""label"":""12FEB121""}])
+**Cited in:** [Breach of security at Zainou Biotech (YC 107)](http://community.eveonline.com/news/news-channels/world-news/breach-threatens-biotech-companys-reputation-stock-value/) · [Hyasyoda walks out on negotiations with Zainou (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/hyasyoda-walks-out-on-negotiations-with-zainou-1/) · [Semiki Zainou biohazard containment compromised (YC 121)](https://community.eveonline.com/news/news-channels/world-news/semiki-zainou-biohazard-containment-compromised/"",""label"":""17JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/semiki-situation-deteriorates-ishukone-watch-releases-initial-findings/"",""label"":""24JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials/"",""label"":""12FEB121""}]) · [Tukoss Disavowed By Zainou Biotech](https://universe.eveonline.com/new-eden-news/tukoss-disavowed-by-zainou-biotech)
 
 ## Factions
 
@@ -272,6 +272,7 @@ Caldari political faction. Mountain ally. Ishukone-axis. The less-visible half o
 - **1×** [Caldari Navy Claims a Heavy Blow (2007-08-28)](https://universe.eveonline.com/new-eden-news/caldari-navy-claims-a-heavy-blow)
 - **1×** [Lai Dai Introduces the Kitsune (2008-02-13)](https://universe.eveonline.com/new-eden-news/lai-dai-introduces-the-kitsune)
 - **1×** [Blight Strikes Crops on Hyasyoda Colony World (2008-04-08)](https://universe.eveonline.com/new-eden-news/blight-strikes-crops-on-hyasyoda-colony-world)
+- **1×** [GenoTech Systems Admits Drug Trial Horror (2008-04-12)](https://universe.eveonline.com/new-eden-news/genotech-systems-admits-drug-trial-horror)
 - **1×** [Lai Dai, CBD Corporation Considering Further Foreign Investment (2008-04-13)](https://universe.eveonline.com/new-eden-news/lai-dai-cbd-corporation-considering-further-foreign-investment)
 - **1×** [Tennen Blight Contained; Hyasyoda Says “No Plans to File Suit” (2008-04-16)](https://universe.eveonline.com/new-eden-news/tennen-blight-contained-hyasyoda-says-no-plans-to-file-suit)
 - **1×** [Industrial Accident at Sukuuvestaa Plant in Hatakani Kills 57, Injures Over 1200 (2008-04-19)](https://universe.eveonline.com/new-eden-news/industrial-accident-at-sukuuvestaa-plant-in-hatakani-kills-57-injures-over-1200)
@@ -384,6 +385,8 @@ Caldari political faction. Mountain ally. Ishukone-axis. The less-visible half o
 - **1×** [Caldari Navy distributes bounties for destruction of Provists (2014-04-25)](https://universe.eveonline.com/new-eden-news/caldari-navy-distributes-bounties-for-destruction-of-provists)
 - **1×** [Ishukone re-opens flagship station (2014-06-03)](https://universe.eveonline.com/new-eden-news/ishukone-re-opens-flagship-station)
 - **1×** [Ishukone Accepts Formal Handover Of Arcurio (2014-07-01)](https://universe.eveonline.com/new-eden-news/ishukone-accepts-formal-handover-of-arcurio)
+- **1×** [Eifyr & Co respond to Tukoss messaging (2014-11-07)](https://universe.eveonline.com/new-eden-news/eifyr-co-respond-to-tukoss-messaging)
+- **1×** [Tukoss Disavowed By Zainou Biotech (2015-03-06)](https://universe.eveonline.com/new-eden-news/tukoss-disavowed-by-zainou-biotech)
 - **1×** [Caldari Navy Hands Impounded Serpentis Vessel To Propel Dynamics (2015-04-17)](https://universe.eveonline.com/new-eden-news/caldari-navy-hands-impounded-serpentis-vessel-to-propel-dynamics)
 - **1×** [ORE Membership of Upwell Consortium Confirmed by Yani Sar Arteu in Aftermath of Station Seizures (2015-11-30)](https://universe.eveonline.com/new-eden-news/ore-membership-of-upwell-consortium-confirmed-by-yani-sar-arteu-in-aftermath-of-station-seizures)
 - **1×** [Caldari Navy intercepts Guristas convoy in Black Rise (2016-03-16)](https://universe.eveonline.com/new-eden-news/caldari-navy-intercepts-guristas-convoy-in-black-rise)
@@ -424,6 +427,7 @@ Caldari political faction. Mountain ally. Ishukone-axis. The less-visible half o
 - **1×** [Kaalakiota declares Kassigainen 'Under Control' (YC 108) (YC108)](http://community.eveonline.com/news/news-channels/world-news/kaalakiota-declare-kassigainen-iv-situation-under-control-amid-harsh-criticism-from-international-parties/)
 - **1×** [Terrorists strike Kaalakiota security (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/terrorists-strike-kaalakiota-security/)
 - **1×** [Sukuuvestaa play down sabotage link (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/sukuuvestaa-play-down-sabotage-link/)
+- **1×** [Innovaatio Varustukset scandal ends with sale and ruin (YC 109) (YC109)](https://community.eveonline.com/news/news-channels/eve-online-news/espionage-scandal-causes-innva-ruin/)
 - **1×** [Caldari Navy claims a heavy blow (YC 108) (YC109)](https://community.eveonline.com/news/news-channels/eve-online-news/caldari-navy-claims-a-heavy-blow/)
 - **1×** [Chemal Tech collaboration raises suspicions (YC 109) (YC109)](http://forum.battleclinic.com/index.php?topic=10136.0;wap)
 - **1×** [State concerns vindicated as Chemal Tech implicated (YC 109) (YC109)](http://forum.battleclinic.com/index.php?topic=10372.0;wap)

@@ -82,7 +82,7 @@ Inter-empire defensive coalition. Ships built by Upwell. Drifter wormhole occupi
 ### Eifyr & Co
 
 Inter-empire biotech. Tukoss-research partnership — issued the YC116 messaging response to Hilen Tukoss communications. Chemal Tech collaboration raised suspicions YC109 (cross-corp tech transfer). Operates between the four-empire industrial sphere — analog of Inner Zone Shipping for biotech.
-**Cited in:** [Chemal Tech collaboration raises suspicions (YC 109)](http://forum.battleclinic.com/index.php?topic=10136.0;wap) · [State concerns vindicated as Chemal Tech implicated (YC 109)](http://forum.battleclinic.com/index.php?topic=10372.0;wap) · [Eifyr &amp; Co respond to Tukoss messaging (YC 116)](http://community.eveonline.com/news/news-channels/world-news/eifyr-co-respond-to-tukoss-messaging/)
+**Cited in:** [Chemal Tech collaboration raises suspicions (YC 109)](http://forum.battleclinic.com/index.php?topic=10136.0;wap) · [State concerns vindicated as Chemal Tech implicated (YC 109)](http://forum.battleclinic.com/index.php?topic=10372.0;wap) · [Eifyr &amp; Co respond to Tukoss messaging (YC 116)](http://community.eveonline.com/news/news-channels/world-news/eifyr-co-respond-to-tukoss-messaging/) · [Eifyr & Co respond to Tukoss messaging](https://universe.eveonline.com/new-eden-news/eifyr-co-respond-to-tukoss-messaging)
 
 ### CONCORD Inner Circle
 
@@ -340,6 +340,7 @@ The constitutional document of CONCORD-era New Eden. Every multi-empire structur
 - **1×** [CONCORD vessel destroyed by Caldari Navy in Luminaire (2013-03-22)](https://universe.eveonline.com/new-eden-news/concord-vessel-destroyed-by-caldari-navy-in-luminaire)
 - **1×** [Minmatar Republic acknowledges stability brought by mercenaries (2013-05-20)](https://universe.eveonline.com/new-eden-news/minmatar-republic-acknowledges-stability-brought-by-mercenaries)
 - **1×** [Tsatei Uppas killed by capsuleers in Samanuni (2014-04-14)](https://universe.eveonline.com/new-eden-news/tsatei-uppas-killed-by-capsuleers-in-samanuni)
+- **1×** [Eifyr & Co respond to Tukoss messaging (2014-11-07)](https://universe.eveonline.com/new-eden-news/eifyr-co-respond-to-tukoss-messaging)
 - **1×** [Stellar Anomaly Detected By Capsuleers; Scientists Baffled By Superluminal Effects (2014-11-27)](https://universe.eveonline.com/new-eden-news/stellar-anomaly-detected-by-capsuleers-scientists-baffled-by-superluminal-effects)
 - **1×** [CONCORD Assembly Places Genesis Fleet and DED On High Alert (2015-02-17)](https://universe.eveonline.com/new-eden-news/concord-assembly-places-genesis-fleet-and-ded-on-high-alert)
 - **1×** [CONCORD Assembly Lowers Alert Status as Capsuleer Encounters with "Drifters" Raise Questions (2015-02-18)](https://universe.eveonline.com/new-eden-news/concord-assembly-lowers-alert-status-as-capsuleer-encounters-with-drifters-raise-questions)

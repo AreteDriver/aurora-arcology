@@ -125,7 +125,7 @@ Inter-empire defensive coalition. Ships built by Upwell. Drifter wormhole occupi
 ### Eifyr & Co
 
 Inter-empire biotech. Tukoss-research partnership — issued the YC116 messaging response to Hilen Tukoss communications. Chemal Tech collaboration raised suspicions YC109 (cross-corp tech transfer). Operates between the four-empire industrial sphere — analog of Inner Zone Shipping for biotech.
-**Cited in:** [Chemal Tech collaboration raises suspicions (YC 109)](http://forum.battleclinic.com/index.php?topic=10136.0;wap) · [State concerns vindicated as Chemal Tech implicated (YC 109)](http://forum.battleclinic.com/index.php?topic=10372.0;wap) · [Eifyr &amp; Co respond to Tukoss messaging (YC 116)](http://community.eveonline.com/news/news-channels/world-news/eifyr-co-respond-to-tukoss-messaging/)
+**Cited in:** [Chemal Tech collaboration raises suspicions (YC 109)](http://forum.battleclinic.com/index.php?topic=10136.0;wap) · [State concerns vindicated as Chemal Tech implicated (YC 109)](http://forum.battleclinic.com/index.php?topic=10372.0;wap) · [Eifyr &amp; Co respond to Tukoss messaging (YC 116)](http://community.eveonline.com/news/news-channels/world-news/eifyr-co-respond-to-tukoss-messaging/) · [Eifyr & Co respond to Tukoss messaging](https://universe.eveonline.com/new-eden-news/eifyr-co-respond-to-tukoss-messaging)
 
 ### Sleeper Civilization
 
@@ -306,6 +306,7 @@ Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121 (
 - **1×** [Intertribal Tensions Plague Resettled Thukker (2010-09-15)](https://universe.eveonline.com/new-eden-news/intertribal-tensions-plague-resettled-thukker)
 - **1×** [Thukker Tribe invites cloned mercenaries to police Molden Heath (2013-05-14)](https://universe.eveonline.com/new-eden-news/thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath)
 - **1×** [SCC set to increase prices on sleeper components (2014-10-29)](https://universe.eveonline.com/new-eden-news/scc-set-to-increase-prices-on-sleeper-components)
+- **1×** [Eifyr & Co respond to Tukoss messaging (2014-11-07)](https://universe.eveonline.com/new-eden-news/eifyr-co-respond-to-tukoss-messaging)
 - **1×** [CONCORD Inner Circle Statement on "Caroline's Star" and the "Thera" System (2014-12-12)](https://universe.eveonline.com/new-eden-news/concord-inner-circle-statement-on-carolines-star-and-the-thera-system)
 - **1×** [Sisters of EVE Release Statement on Caroline's Star, Thera Incident and CONCORD (2015-02-20)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord)
 - **1×** [The Fourth Seyllin Conference (2015-03-25)](https://universe.eveonline.com/new-eden-news/the-fourth-seyllin-conference)

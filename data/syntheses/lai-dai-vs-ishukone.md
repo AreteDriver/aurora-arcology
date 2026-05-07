@@ -14,7 +14,7 @@ YC105 Federation–State joint research project announced as a milestone in inte
 ### Innovaatio Varustukset Scandal *(YC109)*
 
 YC109 Caldari military-development corp scandal ending with sale and ruin. Multi-corp bidding war (Kaalakiota / Wiyrkomi / Sukuuvestaa) that exposed the Heth-era Provist consolidation pattern of state-favored megacorp absorption.
-**Cited in:** [Innovaatio sale halted by last minute scandal(YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-sells-to-ishukone-for-surprising-sum/ http://forum.battleclinic.com/index.php?topic=9716.0;wap) · [Innovaatio Varustukset laboratory robbed (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-varustukset-laboratory-robbed/) · [Innovaatio Varustukset scientists rescued after kidnapping (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-varustukset-scientists-kidnapped-rescued/)
+**Cited in:** [Innovaatio sale halted by last minute scandal(YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-sells-to-ishukone-for-surprising-sum/ http://forum.battleclinic.com/index.php?topic=9716.0;wap) · [Innovaatio Varustukset laboratory robbed (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-varustukset-laboratory-robbed/) · [Innovaatio Varustukset scandal ends with sale and ruin (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/espionage-scandal-causes-innva-ruin/) · [Innovaatio Varustukset scientists rescued after kidnapping (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/innovaatio-varustukset-scientists-kidnapped-rescued/)
 
 ### Caldari Constructions Workers Revolt *(YC110)*
 
@@ -118,7 +118,7 @@ Caldari electronics company founded YC54. Upwell Consortium founding member. The
 ### GenoTech Systems
 
 Caldari biotech subsidiary. YC110 drug trial horror admission — the State pharma scandal that demonstrated the unaccountability of corporate research within the Heth-era Provist regime. Wiyrkomi-aligned per the YC110 industry coverage.
-**Cited in:** [GenoTech Systems admits drug trial horror (YC 110)](https://community.eveonline.com/news/news-channels/eve-online-news/genotech-systems-admits-drug-trial-horror/)
+**Cited in:** [GenoTech Systems admits drug trial horror (YC 110)](https://community.eveonline.com/news/news-channels/eve-online-news/genotech-systems-admits-drug-trial-horror/) · [GenoTech Systems Admits Drug Trial Horror](https://universe.eveonline.com/new-eden-news/genotech-systems-admits-drug-trial-horror)
 
 ### Innovaatio Varustukset (defunct)
 
@@ -176,7 +176,7 @@ Ninth-largest Caldari corp. Absorbed by Heth's Provost alliance. Founded Star Se
 ### Zainou Biotech
 
 Caldari biotech corp. YC107 security breach; YC121 Semiki biohazard containment failure — Lai Dai under suspicion in the contamination cycle. Operates the Caldari capsuleer-implant supply chain. Zainou implants are mainstays of capsuleer fitting markets.
-**Cited in:** [Breach of security at Zainou Biotech (YC 107)](http://community.eveonline.com/news/news-channels/world-news/breach-threatens-biotech-companys-reputation-stock-value/) · [Hyasyoda walks out on negotiations with Zainou (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/hyasyoda-walks-out-on-negotiations-with-zainou-1/) · [Semiki Zainou biohazard containment compromised (YC 121)](https://community.eveonline.com/news/news-channels/world-news/semiki-zainou-biohazard-containment-compromised/"",""label"":""17JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/semiki-situation-deteriorates-ishukone-watch-releases-initial-findings/"",""label"":""24JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials/"",""label"":""12FEB121""}])
+**Cited in:** [Breach of security at Zainou Biotech (YC 107)](http://community.eveonline.com/news/news-channels/world-news/breach-threatens-biotech-companys-reputation-stock-value/) · [Hyasyoda walks out on negotiations with Zainou (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/hyasyoda-walks-out-on-negotiations-with-zainou-1/) · [Semiki Zainou biohazard containment compromised (YC 121)](https://community.eveonline.com/news/news-channels/world-news/semiki-zainou-biohazard-containment-compromised/"",""label"":""17JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/semiki-situation-deteriorates-ishukone-watch-releases-initial-findings/"",""label"":""24JAN121""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials/"",""label"":""12FEB121""}]) · [Tukoss Disavowed By Zainou Biotech](https://universe.eveonline.com/new-eden-news/tukoss-disavowed-by-zainou-biotech)
 
 ## Factions
 
@@ -312,6 +312,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [CreoDron Investments Turn Sour? (2007-11-27)](https://universe.eveonline.com/new-eden-news/creodron-investments-turn-sour)
 - **1×** [CreoDron Unveil 'Revolutionary' Innovations (2007-12-04)](https://universe.eveonline.com/new-eden-news/creodron-unveil-revolutionary-innovations)
 - **1×** [Lai Dai Introduces the Kitsune (2008-02-13)](https://universe.eveonline.com/new-eden-news/lai-dai-introduces-the-kitsune)
+- **1×** [GenoTech Systems Admits Drug Trial Horror (2008-04-12)](https://universe.eveonline.com/new-eden-news/genotech-systems-admits-drug-trial-horror)
 - **1×** [Lai Dai, CBD Corporation Considering Further Foreign Investment (2008-04-13)](https://universe.eveonline.com/new-eden-news/lai-dai-cbd-corporation-considering-further-foreign-investment)
 - **1×** [Breaking News: Ishukone CEO Pleads for Calm, Denounces Tibus Heth (2008-05-12)](https://universe.eveonline.com/new-eden-news/breaking-news-ishukone-ceo-pleads-for-calm-denounces-tibus-heth)
 - **1×** [BREAKING NEWS: EXPLOSIONS REPORTED, CONTACT WITH ISHUKONE HEADQUARTERS STATION LOST (2008-05-15)](https://universe.eveonline.com/new-eden-news/breaking-news-explosions-reported-contact-with-ishukone-headquarters-station-lost)
@@ -395,6 +396,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Sisters of EVE release sleeper research findings (2014-10-06)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-release-sleeper-research-findings)
 - **1×** [Sisters of EVE "Wormhole Colony Lost"; Sanctuary Scientist Goes Public (2014-12-09)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-wormhole-colony-lost-sanctuary-scientist-goes-public)
 - **1×** [Sisters of EVE Release Statement on Caroline's Star, Thera Incident and CONCORD (2015-02-20)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord)
+- **1×** [Tukoss Disavowed By Zainou Biotech (2015-03-06)](https://universe.eveonline.com/new-eden-news/tukoss-disavowed-by-zainou-biotech)
 - **1×** [Serpentis Corporation Strikes Back Against Upwell Consortium (2015-12-16)](https://universe.eveonline.com/new-eden-news/serpentis-corporation-strikes-back-against-upwell-consortium)
 - **1×** [Sisters of EVE Flotilla Spotted In Drifter Hive Systems (2016-02-09)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-flotilla-spotted-in-drifter-hive-systems)
 - **1×** [Ishukone CEO Derided At CEP Session After Offering Assistance To Both Federation And State (2017-02-28)](https://universe.eveonline.com/new-eden-news/ishukone-ceo-derided-at-cep-session-after-offering-assistance-to-both-federation-and-state)
@@ -440,6 +442,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Breach of security at Zainou Biotech (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/world-news/breach-threatens-biotech-companys-reputation-stock-value/)
 - **1×** [Gallenteans speak out over Insorum Crisis (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/gallenteans-speak-out-over-insorum-crisis/)
 - **1×** [The “Insorum Imbroglio&#34; and catastrophe on Mabnen I - from a CAIN point of view (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/the-insorum-imbroglio-and-catastrophe-on-mabnen-i-from-a-cain-point-of-view/)
+- **1×** [Innovaatio Varustukset scandal ends with sale and ruin (YC 109) (YC109)](https://community.eveonline.com/news/news-channels/eve-online-news/espionage-scandal-causes-innva-ruin/)
 - **1×** [CreoDron investments go poorly (YC 109) (YC109)](https://community.eveonline.com/news/news-channels/eve-online-news/creodron-investments-turn-sour/)
 - **1×** [CreoDron unveil innovations (YC 109) (YC109)](https://community.eveonline.com/news/news-channels/eve-online-news/creodron-unveil-revolutionary-innovations/)
 - **1×** [Mordu's Legion launches Flagship vessel (YC 109) (YC109)](http://forum.battleclinic.com/index.php?topic=9727.0;wap)
