@@ -144,6 +144,14 @@ Khanid Kingdom's autonomous military fleet, separate from the Imperial Navy. Car
 
 ## Factions
 
+### Amarr (bloodline)
+
+Amarr humans — Holder caste under Imperial doctrine. Theological-imperial cultural foundation; the Reclaiming-bound bloodline whose philosophical apparatus produced Pax Amarria. Stratified into Royal Houses (Sarum/Tash-Murkon/Kor-Azor/Kador/Ardishapur) and the Khanid sub-bloodline. The Empire's identity derives from this bloodline's mission.
+
+### Khanid (Amarr sub-bloodline)
+
+Amarr sub-bloodline. Aristocratic-militaristic culture. Founded the Khanid Kingdom secession from the Empire (Khanid II). Operationally autonomous within the Amarr civilizational sphere; runs the Royal Khanid Navy and Provost-Marshal Office.
+
 ### Amarr Empire
 
 Catiz I throne. Cast blame on the Republic during Warpath. The 'Mandate of Faith' SKIN suggests Catiz personally is the rallying figure for an emerging Amarr-side Mil-Campaign in the Ammatar Mandate.
@@ -187,6 +195,11 @@ The most progressive Amarr royal region — House Tash-Murkon is the only Udoria
 
 The doctrinal Amarr-Empire structure of five Royal Houses (Sarum, Tash-Murkon, Kor-Azor, Kador, Ardishapur), each providing a Heir candidate for the throne under the championship-and-succession rules. The Heideran VII → Doriam II → Karsoth-subverted-Sarum → Jamyl I → Catiz I succession ran through this structure. The Three-Layer Amarr concept (Empire / Houses / Provost-Marshal frontier) interlocks with the Five Heirs.
 
+### Pax Amarria Doctrine
+
+Heideran VII's theological-political consensus from his YC105 book Pax Amarria — a tolerant Reclaiming and reformist Empire posture. Established the Heideran-era Amarr Empire's relationship with the Federation and the Republic. Catiz I's territorial reorganization partially repudiated the doctrine; the Cult of Tetrimon opposed it on orthodox-purity grounds. Modern Amarr political debates reference the Pax Amarria-vs-orthodoxy axis.
+**Cited in:** [Heideran VII's much appraised book 'Pax Amarria' published (YC 105)](https://www.eveonline.com/article/heideran-viis-much-appraised-book-pax-amarria-published-1)
+
 ### Sheal-Sin
 
 Amarr ritual of ceremonial self-termination required of failed championship contenders. Khanid II's repeated avoidance of this ritual — first by defection, then by championship retry — defined Khanid Kingdom autonomy until Catiz's coronation forced him into it.
@@ -198,6 +211,11 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Khanid Kingdom](https://universe.eveonline.com/chronicles/the-khanid-kingdom)
 
 ## Artifacts
+
+### Avatar-class Titan (Amarr)
+
+Amarr Empire's Titan-class capital ship. Honor-guard role at imperial successions (Avatars escorted Succession Trials champions YC118) and major ceremonial events. Class deployed in Reclaiming-era operations; canonical Amarr capital-tier asset.
+**Cited in:** [Arrival of Succession Trials champions anticipated by honor guard of Avatar titans (YC 118)](https://community.eveonline.com/news/news-channels/world-news/arrival-of-succession-trials-champions-anticipated-by-honor-guard-of-avatar-titans/)
 
 ### Imperial Armageddon (capsuleer trophy) *(YC107)*
 
@@ -220,6 +238,7 @@ Amarr battleship captured by the Ushra'Khan capsuleer alliance in YC107. The cap
 - **2×** [Amarr Empire Celebrates the Reign of Empress Jamyl I with State Funeral (2015-09-20)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-the-reign-of-empress-jamyl-i-with-state-funeral)
 - **2×** [Amarr Empire Looks Forward to First Jubilee of Coronation of Empress Catiz I (2017-09-22)](https://universe.eveonline.com/new-eden-news/amarr-empire-looks-forward-to-first-jubilee-of-coronation-of-empress-catiz-i)
 - **2×** [Amarr Empire Celebrates Catiz I's Second Year as Empress with Military Parade (2018-09-27)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-catiz-is-second-year-as-empress-with-military-parade)
+- **2×** [Heideran VII's much appraised book 'Pax Amarria' published (YC 105) (YC105)](https://www.eveonline.com/article/heideran-viis-much-appraised-book-pax-amarria-published-1)
 - **2×** [St. Tetrimon Edict lifted – Order allowed to return to Amarr Empire (YC 108) (YC108)](http://community.eveonline.com/news/news-channels/eve-online-news/st.-tetrimon-edict-lifted-order-allowed-to-return-to-amarr-empire/)
 - **2×** [Minmatar Elders launch invasion of Amarr Empire (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/report-minmatar-thukker-armada-invades-ammatar-mandate/ https://community.eveonline.com/news/news-channels/eve-online-news/minmatar-populace-takes-to-the-streets/"",""label"":""News 2""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/mandate-technician-speaks-of-jarizza-assault/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/breaking-news-minmatar-thukker-ragnarok-titan-jumps-into-jarizza-dropships-reportedly-landing-on-halturzhan/"",""label"":""News 4""}])
 - **2×** [Penal Brigade drawn from Ammatar Mandate sent to support 24th Imperial Crusade (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade-1/)
@@ -331,7 +350,6 @@ Amarr battleship captured by the Ushra'Khan capsuleer alliance in YC107. The cap
 - **1×** [Doriam Kor-Azor Inaugurated Emperor of Amarr (YC 105) (YC105)](https://www.eveonline.com/article/amarr-imperial-fleet-on-alert-as-inauguration-draws-closer-miner-executed-1 https://www.eveonline.com/article/tight-security-surrounds-emperor-inauguration-as-applications-pile-up-for-attendance-1"",""label"":""News 2""},{""url"":""https://www.eveonline.com/article/doriam-kor-azor-inaugurated-as-other-heirs-commit-shatholsyn-ceremony-disturbed"",""label"":""News 3""},{""url"":""https://www.eveonline.com/article/inauguration-assassination-plot-thwarted-sarum-empire-decapitated-as-kor-azor-ascends-to-power"",""label"":""News 4""}])
 - **1×** [Doriam Kor-Azor renames planets to commemorate Champion (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/doriam-kor-azor-renames-planets-to-commemorate-champion-pirate-violence-on-the-rise-1/)
 - **1×** [Doriam Kor-Azor will be the next emperor (YC 105) (YC105)](https://www.eveonline.com/article/doriam-kor-azor-will-be-the-next-emperor https://www.eveonline.com/article/amarr-imperial-succession-committee-declares-doriam-kor-azor-emperor-doriam-reaction-humble-and-exultant)
-- **1×** [Heideran VII's much appraised book 'Pax Amarria' published (YC 105) (YC105)](https://www.eveonline.com/article/heideran-viis-much-appraised-book-pax-amarria-published-1)
 - **1×** [Idonis Ardishapur: &#34;No undeserving creature can represent us&#34; - Journalist missing (YC 105) (YC105)](https://www.eveonline.com/article/idonis-ardishapur-no-undeserving-creature-can-represent-us-journalist-missing)
 - **1×** [Stavros Acknowledges Bid for Amarr Throne (YC 105) (YC105)](https://www.eveonline.com/article/stavros-acknowledges-bid-for-amarr-throne https://www.eveonline.com/article/amarrian-commitee-of-moral-purity-and-elimination-of-vice-regrets-stavros-claim-to-throne-condemns-his-actions-as-heretical-1)
 - **1×** [Ishukone Vessel Missing in Domain Region, Reward Offered (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/ishukone-vessel-missing-in-domain-region-reward-offered/)
@@ -378,6 +396,7 @@ Amarr battleship captured by the Ushra'Khan capsuleer alliance in YC107. The cap
 - **1×** [Amarr Empire releases new technology (YC 117) (YC117)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [State Funeral for Empress Jamyl I announced (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/state-funeral-of-empress-jamyl-i-announced-by-court-chamberlain/)
 - **1×** [Drifter fleet engages capsuleers in Sarum Prime (YC 117) (YC117)](https://forums.eveonline.com/default.aspx?g=posts&t=431824&find=unread"",""label"":""Forum""},{""url"":""http://evemaps.dotlan.net/map/Domain/Sarum_Prime"",""label"":""Map""}])
+- **1×** [Arrival of Succession Trials champions anticipated by honor guard of Avatar titans (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/arrival-of-succession-trials-champions-anticipated-by-honor-guard-of-avatar-titans/)
 - **1×** [Amarr Empire enters new era as Imperial authorities convene following coronation week (YC 111) (YC118)](https://community.eveonline.com/news/news-channels/world-news/amarr-empire-enters-new-era-as-imperial-authorities-convene-following-coronation-week/)
 - **1×** [Coronation of Empress Catiz I  (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/coronation-of-empress-catiz-i-to-take-place-tomorrow-in-dam-torsad/ https://community.eveonline.com/news/news-channels/world-news/breaking-news-sanmatar-shakor-crosses-imperial-border-in-surprise-visit-to-amarr/"",""label"":""News 2""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/catiz-i-addresses-capsuleers-and-imperial-guard-after-historic-day-in-dam-torsad/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/imperial-coronation-week-ends-with-rite-of-shatholsyn-and-confirmation-of-new-royal-heirs/"",""label"":""News 4""}])
 - **1×** [Monuments to martyrs of Amarr Empire nearing completion (YC 119) (YC119)](https://community.eveonline.com/news/news-channels/world-news/monuments-to-martyrs-of-the-amarr-empire-near-completion-as-station-renovations-proceed-apace/)

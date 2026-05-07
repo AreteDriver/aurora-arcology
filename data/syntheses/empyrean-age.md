@@ -49,6 +49,10 @@ The YC112 Caldari State invasion of Caldari Prime — the retaking of the homewo
 
 The YC115 capitulation theater that ended the Caldari–Federation conflict at Caldari Prime, concluding the Heth-era invasion cycle that began with the YC112 retake. The terms preserved Caldari sovereignty over Caldari Prime — the settlement the YC128 Syndicate conquest is structurally challenging.
 
+### Caldari Liberation Day (annual) *(annual)*
+
+Annual Caldari State holiday commemorating Tovil-Toba's sacrifice — the capsuleer who crashed her Raven into Caldari Prime to liberate the homeworld. Cultural anchor of the State; CEP and Caldari Navy use the day for major proclamations. The Hueromont casualties from her strike are commemorated alongside the liberation.
+
 ## Persons
 
 ### Mens Reppola
@@ -122,6 +126,18 @@ Ninth-largest Caldari corp. Absorbed by Heth's Provost alliance. Founded Star Se
 
 ## Factions
 
+### Caldari (bloodline)
+
+Caldari humans — the Civire (warrior-pragmatic) and Deteis (mercantile-philosophical) sub-bloodlines under Achura (spiritual-monastic) ancillary integration. Cultural foundation of the Caldari State; descendant of the original colonists who became culturally distinct from Gallente during the pre-Rebellion era. Tovil-Toba's sacrifice made her a structural ancestor of the modern bloodline-State alignment.
+
+### Civire (Caldari sub-bloodline)
+
+Caldari sub-bloodline. Warrior-pragmatic culture; the State's military caste origin. Most Caldari Navy personnel and State Protectorate FW militia members are Civire. Tibus Heth's labor-militancy template tracks Civire cultural assumptions.
+
+### Deteis (Caldari sub-bloodline)
+
+Caldari sub-bloodline. Mercantile-philosophical culture; the State's executive and corporate caste origin. Most CEP members and megacorp executives (Otro / Mens / Tibus Heth's eventual rivals) are Deteis. The Lai-Dai-vs-Ishukone axis is structurally a Deteis-internal philosophical split.
+
 ### Caldari State
 
 Eight-mega-corp federation. Annexed Syndicate YC128.05.05 in the largest forcible nullsec acquisition in modern lore. Its internal politics — Mountain + Ocean vs Forest — drive every action of the Warpath cycle once you read past the empire-vs-empire surface.
@@ -167,9 +183,21 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 
 ## Concepts
 
+### The Empyrean Age (era)
+
+The YC105+ era of capsuleer political dominance — opens with Pax Amarria publication, Crielere Project announcement, and the rise of Tibus Heth at Caldari Constructions; runs through the Malkalen Disaster, YC112 Caldari Prime invasion, the Drifter Crisis, the Triglavian Invasion, and the YC128 Warpath cycle. The era defines the four-empire system as it currently exists. Tony Gonzales's Templar One book is set in the early Empyrean Age.
+**Cited in:** [The Empyrean Age (YC 105 -)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+
 ### Mountain / Ocean / Forest factional split (Caldari)
 
 The three Caldari political factions inside the State: Mountain (state-loyalist militants — Heth/Provists/Saraki), Ocean (corporate cooperationists — Otro/Mens/Ishukone), Forest (industrial-traditionalist neutrals — Hyasyoda/Lai Dai). The Crielere Project YC105 was the Ocean-faction signature initiative; its collapse marked Mountain ascendancy. The current YC128 Saraki consolidation is structurally a Mountain reassertion against Ocean tendencies.
+
+## Artifacts
+
+### Nyx-class Mothership (Gallente)
+
+Gallente Federation Mothership-class capital ship. The Malkalen-strike vessel piloted by Alexander Noir in the YC110 disaster that killed Otro Gariushi. Federation Mothership stolen YC108 in a CONCORD-shipping incident — the prefigure for the broker plot's Noir vessel acquisition.
+**Cited in:** [Federation Mothership Stolen, CONCORD Ships Destroyed (YC 108)](https://community.eveonline.com/news/news-channels/eve-online-news/federation-mothership-stolen-concord-ships-destroyed/)
 
 ---
 
@@ -371,6 +399,7 @@ The three Caldari political factions inside the State: Mountain (state-loyalist 
 - **1×** [Alix Moreau Elected President of Gallente Federation (2026-04-17)](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation)
 - **1×** [Caldari State Conquers Syndicate, Breakout Expected (2026-05-05)](https://universe.eveonline.com/new-eden-news/caldari-state-conquers-syndicate-breakout-expected)
 - **1×** [Caldari State Conquers Syndicate, Breakout Expected (2026-05-05)](https://universe.eveonline.com/new-eden-news/caldari-state-conquers-syndicate-breakout-expected)
+- **1×** [The Empyrean Age (YC 105 -) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Caldari and Gallente dignitaries attend conference at Crielere - Foiritan causes stir (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/caldari-and-gallente-dignitaries-attend-conference-at-crielere-foiritan-causes-stir/)
 - **1×** [Caldari police forces in Crielere under investigation after accusations (YC 105) (YC105)](https://www.eveonline.com/article/caldari-police-forces-in-crielere-are-currently-under-investigation-after-serious-accusations.)
 - **1×** [Crielere Project announced (YC105) (YC105)](https://www.eveonline.com/article/the-state-and-federation-open-new-research-center-1 https://fiction.eveonline.com/new-eden/lore/crielere-research-laboratories)
@@ -386,6 +415,7 @@ The three Caldari political factions inside the State: Mountain (state-loyalist 
 - **1×** [Minmatar Republic and Gallente Federation fight smuggling (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/world-news/federation-and-republic-join-forces-in-fight-against-smuggling/)
 - **1×** [Gallenteans speak out over Insorum Crisis (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/gallenteans-speak-out-over-insorum-crisis/)
 - **1×** [The “Insorum Imbroglio&#34; and catastrophe on Mabnen I - from a CAIN point of view (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/the-insorum-imbroglio-and-catastrophe-on-mabnen-i-from-a-cain-point-of-view/)
+- **1×** [Federation Mothership Stolen, CONCORD Ships Destroyed (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/federation-mothership-stolen-concord-ships-destroyed/)
 - **1×** [Guristas Pirates strike against Caldari Navy convoy (YC 108) (YC108)](http://forum.battleclinic.com/index.php?topic=7174.0;wap)
 - **1×** [Election day in the Gallente Federation (YC 108) (YC108)](http://community.eveonline.com/news/news-channels/world-news/election-day-in-the-federation/ http://community.eveonline.com/news/news-channels/world-news/blaque-in-lead-early-numbers-suggest/"",""label"":""News 2""},{""url"":""http://community.eveonline.com/news/news-channels/world-news/race-tightens-as-border-region-vote-weighs-in/"",""label"":""News 3""},{""url"":""http://community.eveonline.com/news/news-channels/world-news/foiritan-triumphs-in-close-race/"",""label"":""News 4""}])
 - **1×** [Presidential Candidate remembers Hueromont dead (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/presidential-candidate-remembers-hueromont-dead-1/)

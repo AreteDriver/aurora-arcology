@@ -52,6 +52,11 @@ YC ~80s slave revolt that broke Amarr rule over the Minmatar peoples and founded
 Idonis Ardishapur's Tachyon orbital bombardment of Starkmanir Prime in retaliation for his father's death. Eradicated the largest Mimitar tribe — apparently. The genocide lit a 250-year fuse to the Great Rebellion and is the founding grievance of the modern Republic.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [Lost Stars](https://universe.eveonline.com/chronicles/lost-stars)
 
+### Federation Day (annual) *(YC0+)*
+
+Annual Gallente Federation founding holiday. Cultural anchor of Federation identity; presidential addresses traditionally fall during the Federation Day cycle. Structural complement to Caldari Liberation Day and Republic Liberation Day.
+**Cited in:** [Federation celebrates Federation Day (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/gallente-federation-celebrates-federation-day/) · [Federation day (YC 114)](http://community.eveonline.com/news/news-channels/world-news/federation-day-yc114/ http://community.eveonline.com/news/news-channels/world-news/federation-day-yc114-concludes/) · [Galactic Hour News Roundup: Gallente Federation Day (YC 122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-gallente-federation-day-yc122-edition/)
+
 ### Aidonis Award to Heideran VII *(YC104)*
 
 YC104 Aidonis (peace-prize) award to Heideran VII — controversial Federation honor for an Amarr Emperor whose Empire still practiced slavery. The award sparked a cycle of murder and mayhem that exposed Empire–Federation civilizational tensions. Heideran's tolerance of the Pax Amarria reformist position grew from this period.
@@ -139,6 +144,15 @@ The YC115 capitulation theater that ended the Caldari–Federation conflict at C
 
 YC117 Amarr–Minmatar capital-fleet engagement above Floseswin IV — pitched dreadnought-class warfare. Triggered the Drifter assassination of Empress Jamyl I (Drifters intervened to kill her during the battle). Floseswin marks the moment when the Drifter conflict went from background phenomenon to direct intervention in empire politics.
 **Cited in:** [BREAKING: Amarr Dreadnoughts Destroyed in Pitched Amarr-Minmatar Battle over Floseswin IV](https://universe.eveonline.com/new-eden-news/breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv)
+
+### Caldari Liberation Day (annual) *(annual)*
+
+Annual Caldari State holiday commemorating Tovil-Toba's sacrifice — the capsuleer who crashed her Raven into Caldari Prime to liberate the homeworld. Cultural anchor of the State; CEP and Caldari Navy use the day for major proclamations. The Hueromont casualties from her strike are commemorated alongside the liberation.
+
+### Republic Liberation Day (annual) *(annual)*
+
+Annual Minmatar Republic holiday commemorating the original Minmatar Rebellion. The Republic stands still for the day — schools, government, and tribal-council operations all pause. Cultural anchor parallel to Federation Day and Caldari Liberation Day; Tribal Council uses the day for major proclamations.
+**Cited in:** [Republic stands still for Liberation Day (YC 119)](https://community.eveonline.com/news/news-channels/world-news/republic-stands-still-as-trillions-prepare-for-liberation-day-celebrations/) · [Sanmatar Shakor address Liberation Day crowds (YC 120)](https://community.eveonline.com/news/news-channels/world-news/sanmatar-maleatu-shakor-addresses-minmatar-liberation-day-crowds/) · [Galactic Hour News Roundup: Liberation Day (YC 122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-liberation-day-yc122-edition/)
 
 ## Persons
 
@@ -261,6 +275,26 @@ One of the seven Minmatar tribes restored by the Elder War cycle. Spiritual / my
 
 ## Factions
 
+### Amarr (bloodline)
+
+Amarr humans — Holder caste under Imperial doctrine. Theological-imperial cultural foundation; the Reclaiming-bound bloodline whose philosophical apparatus produced Pax Amarria. Stratified into Royal Houses (Sarum/Tash-Murkon/Kor-Azor/Kador/Ardishapur) and the Khanid sub-bloodline. The Empire's identity derives from this bloodline's mission.
+
+### Caldari (bloodline)
+
+Caldari humans — the Civire (warrior-pragmatic) and Deteis (mercantile-philosophical) sub-bloodlines under Achura (spiritual-monastic) ancillary integration. Cultural foundation of the Caldari State; descendant of the original colonists who became culturally distinct from Gallente during the pre-Rebellion era. Tovil-Toba's sacrifice made her a structural ancestor of the modern bloodline-State alignment.
+
+### Gallente (bloodline)
+
+Gallente humans — the Federation's founding bloodline. Liberal-democratic cultural foundation; integrated with Intaki, Mannar, and Jin-Mei sub-bloodlines into the Federation. The bloodline's cultural-Gallente integration policy was the trigger for the Caldari Rebellion. Federal Defense Union and Federation Navy operate under Gallente cultural assumptions.
+
+### Khanid (Amarr sub-bloodline)
+
+Amarr sub-bloodline. Aristocratic-militaristic culture. Founded the Khanid Kingdom secession from the Empire (Khanid II). Operationally autonomous within the Amarr civilizational sphere; runs the Royal Khanid Navy and Provost-Marshal Office.
+
+### Minmatar (bloodline)
+
+Minmatar humans — seven-tribes cultural structure (Brutor / Sebiestor / Krusual / Vherokior / Nefantar / Starkmanir / Thukker). Republic cultural foundation; the people that the Amarr Reclaiming subjugated and the Minmatar Rebellion freed. Tribal Council is the modern political surface of the bloodline's pre-Empire structure.
+
 ### Ammatar Mandate
 
 Nefantar-administered Amarr buffer state between Amarr and Minmatar highsec. Mil-Campaign #2 candidate zone per Ash. The Mandate's existence depends on Damyas III's honorific and is structurally always one historical reveal away from being unmade.
@@ -351,10 +385,30 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 
 ## Artifacts
 
+### Avatar-class Titan (Amarr)
+
+Amarr Empire's Titan-class capital ship. Honor-guard role at imperial successions (Avatars escorted Succession Trials champions YC118) and major ceremonial events. Class deployed in Reclaiming-era operations; canonical Amarr capital-tier asset.
+**Cited in:** [Arrival of Succession Trials champions anticipated by honor guard of Avatar titans (YC 118)](https://community.eveonline.com/news/news-channels/world-news/arrival-of-succession-trials-champions-anticipated-by-honor-guard-of-avatar-titans/)
+
+### Erebus-class Titan (Gallente)
+
+Gallente Federation Titan-class capital ship. Class destroyed in the YC110 Goonswarm Titan-destruction incident in Etherium Reach — an early demonstration of capsuleer-alliance capital-tier capability surpassing empire militaries.
+**Cited in:** [Goonswarm Titan Destroyed in Etherium Reach (YC 110)](https://community.eveonline.com/news/news-channels/eve-online-news/goonswarm-titan-destroyed-in-etherium-reach/) · [The Star Fraction launches Erebus-class Titan (YC 110)](https://community.eveonline.com/news/news-channels/eve-online-news/the-star-fraction-launches-erebus-class-titan/)
+
 ### Khoumak (Amarr religious scepter)
 
 Amarr religious scepter. A Mimitar slave seizing one became the iconic moment of the Great Rebellion. Symbolic artifact of Amarr ecclesiastical authority and the moment it cracked.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Nyx-class Mothership (Gallente)
+
+Gallente Federation Mothership-class capital ship. The Malkalen-strike vessel piloted by Alexander Noir in the YC110 disaster that killed Otro Gariushi. Federation Mothership stolen YC108 in a CONCORD-shipping incident — the prefigure for the broker plot's Noir vessel acquisition.
+**Cited in:** [Federation Mothership Stolen, CONCORD Ships Destroyed (YC 108)](https://community.eveonline.com/news/news-channels/eve-online-news/federation-mothership-stolen-concord-ships-destroyed/)
+
+### Ragnarok-class Titan (Minmatar)
+
+Minmatar Republic Titan-class capital ship. Mercenary Coalition Titan destroyed YC109 — capsuleer-era Titan-combat precedent. The Elder Fleet's deepest strikes during the Minmatar Elders Invasion deployed Ragnarok-class assets.
+**Cited in:** [Mercenary Coalition Titan destroyed (YC 109)](http://forum.battleclinic.com/index.php?topic=12763.0;wap)
 
 ### Imperial Armageddon (capsuleer trophy) *(YC107)*
 
@@ -541,7 +595,12 @@ Amarr battleship captured by the Ushra'Khan capsuleer alliance in YC107. The cap
 - **1×** [Ushra'Khan leader offers trade for Imperial Cross (Yc 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/imperial-cross-located-hamish-trading-it-for-mamet-500/)
 - **1×** [Ushra’Khan restore their pride in Istodard (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/ushrakhan-restore-their-pride-in-istodard/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Molden_Heath/Istodard"",""label"":""Istodard""}])
 - **1×** [Ushra’Khan under assault from new foe (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/ushrakhan-under-assault-from-new-foe/)
+- **1×** [Federation Mothership Stolen, CONCORD Ships Destroyed (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/federation-mothership-stolen-concord-ships-destroyed/)
 - **1×** [Presidential Candidate remembers Hueromont dead (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/presidential-candidate-remembers-hueromont-dead-1/)
+- **1×** [Mercenary Coalition Titan destroyed (YC 109) (YC109)](http://forum.battleclinic.com/index.php?topic=12763.0;wap)
+- **1×** [Federation celebrates Federation Day (YC 109) (YC109)](https://community.eveonline.com/news/news-channels/eve-online-news/gallente-federation-celebrates-federation-day/)
+- **1×** [Goonswarm Titan Destroyed in Etherium Reach (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/goonswarm-titan-destroyed-in-etherium-reach/)
+- **1×** [The Star Fraction launches Erebus-class Titan (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/the-star-fraction-launches-erebus-class-titan/)
 - **1×** [Admiral Alexander Noir receives the Aidonis (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/admiral-alexander-noir-receives-the-aidonis/)
 - **1×** [In the wake of battle, disaster strikes Mekhios (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/in-the-wake-of-battle-disaster-strikes-mekhios/)
 - **1×** [Caldari State Invades the Luminaire system (YC110) (YC110)](http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-task-force-crosses-federation-border-invades-gallente-space/ http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-task-force-locks-down-luminaire/"",""label"":""News 2""},{""url"":""http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-bombards-caldari-prime-dropships-land-on-surface/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/breaking-news-tibus-heth-conquers-caldari-prime-foiritan-cedes-control-1/"",""label"":""News 4""}])
@@ -572,6 +631,7 @@ Amarr battleship captured by the Ushra'Khan capsuleer alliance in YC107. The cap
 - **1×** [Ezzara captured by Tribal Liberation Force (YC 112) (YC112)](https://community.eveonline.com/news/news-channels/eve-online-news/ezzara-captured-by-tribal-liberation-force/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Devoid/Ezzara"",""label"":""Ezzara""}])
 - **1×** [Kourmonen captured by Tribal Liberation Force (YC 112) (YC112)](https://community.eveonline.com/news/news-channels/eve-online-news/kourmonen-captured-by-tribal-liberation-force-1/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/The_Bleak_Lands/Kourmonen"",""label"":""Kourmonen""}])
 - **1×** [Sahtogas system taken by Tribal Liberation Force (YC 112) (YC112)](https://community.eveonline.com/news/news-channels/eve-online-news/sahtogas-system-taken-by-tribal-liberation-force/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/The_Bleak_Lands/Sahtogas"",""label"":""Sahtogas""}])
+- **1×** [Federation day (YC 114) (YC114)](http://community.eveonline.com/news/news-channels/world-news/federation-day-yc114/ http://community.eveonline.com/news/news-channels/world-news/federation-day-yc114-concludes/)
 - **1×** [Thukker tribe invites cloned mercenaries to police Molden Heath (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Molden_Heath"",""label"":""Molden Heath""}])
 - **1×** [Jacus Roden reveals clone soldiers, announces purge (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/breaking-news-jacus-roden-reveals-existence-of-cloned-mercenaries-announces-federation-purge/)
 - **1×** [Empress Jamyl I announces intent to welcome clone soldiers (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/empress-jamyl-i-announces-empire-intent-to-welcome-clone-soldiers-with-open-arms/)
@@ -584,12 +644,17 @@ Amarr battleship captured by the Ushra'Khan capsuleer alliance in YC107. The cap
 - **1×** [Amarr Empire declares war on Drifters, Drifter force spotted in Khanid Kingdom (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/breaking-news-amarr-empire-declares-war-on-drifters/ http://community.eveonline.com/news/news-channels/world-news/breaking-amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom/"",""label"":""News 2""},{""url"":""http://evemaps.dotlan.net/map/Khanid/Nandeza"",""label"":""Nandeza""}])
 - **1×** [State Funeral for Empress Jamyl I announced (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/state-funeral-of-empress-jamyl-i-announced-by-court-chamberlain/)
 - **1×** [Drifter fleet engages capsuleers in Sarum Prime (YC 117) (YC117)](https://forums.eveonline.com/default.aspx?g=posts&t=431824&find=unread"",""label"":""Forum""},{""url"":""http://evemaps.dotlan.net/map/Domain/Sarum_Prime"",""label"":""Map""}])
+- **1×** [Arrival of Succession Trials champions anticipated by honor guard of Avatar titans (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/arrival-of-succession-trials-champions-anticipated-by-honor-guard-of-avatar-titans/)
 - **1×** [SoE splinter group warns of shift in Drifter activity; Thukker Tribe confirms (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior/)
 - **1×** [Tribal Council calls for candidates to apply to Republic Fleet capsuleer program (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/minmatar-tribal-council-calls-for-candidates-to-apply-to-republic-fleet-capsuleer-recruitment-program/)
 - **1×** [Total victory of Tribal Liberation Force marked by award of Stripes of Fury medal (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/total-victory-of-tribal-liberation-force-marked-by-award-of-stripes-of-fury-medal/)
 - **1×** [Coronation of Empress Catiz I  (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/coronation-of-empress-catiz-i-to-take-place-tomorrow-in-dam-torsad/ https://community.eveonline.com/news/news-channels/world-news/breaking-news-sanmatar-shakor-crosses-imperial-border-in-surprise-visit-to-amarr/"",""label"":""News 2""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/catiz-i-addresses-capsuleers-and-imperial-guard-after-historic-day-in-dam-torsad/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/imperial-coronation-week-ends-with-rite-of-shatholsyn-and-confirmation-of-new-royal-heirs/"",""label"":""News 4""}])
+- **1×** [Republic stands still for Liberation Day (YC 119) (YC119)](https://community.eveonline.com/news/news-channels/world-news/republic-stands-still-as-trillions-prepare-for-liberation-day-celebrations/)
 - **1×** [Amarr Emissary addresses crowd in celebration of jubilee coronation of Empress Catiz I (YC 119) (YC119)](https://community.eveonline.com/news/news-channels/world-news/amarr-empire-looks-forward-to-first-jubilee-of-coronation-of-empress-catiz-i/ https://community.eveonline.com/news/news-channels/world-news/imperial-emissary-to-address-faithful-capsuleers-in-amarr-prime-during-jubilee-celebrations/"",""label"":""News 2""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/loyal-capsuleers-renew-vows-after-emissary-addresses-the-faithful/"",""label"":""News 3""}])
+- **1×** [Sanmatar Shakor address Liberation Day crowds (YC 120) (YC120)](https://community.eveonline.com/news/news-channels/world-news/sanmatar-maleatu-shakor-addresses-minmatar-liberation-day-crowds/)
 - **1×** [Intaki claim &#34;lost Idama&#34; found in Khanid Kingdom (YC 120) (YC120)](https://community.eveonline.com/news/news-channels/world-news/intaki-claim-lost-idama-discovered-in-khanid-kingdom/)
 - **1×** [Empress Catiz I honors Amarr loyalist capsuleer groups PIE and CVA, responds to petitions (YC 120) (YC120)](https://community.eveonline.com/news/news-channels/world-news/empress-catiz-i-honors-amarr-loyalist-capsuleer-groups-pie-and-cva-and-responds-to-petitions/)
 - **1×** [Governor of Ammatar Mandate elevated to Holder rank, Ardishapur and Sarum houses hold summit (YC 121) (YC121)](https://community.eveonline.com/news/news-channels/world-news/governor-of-ammatar-mandate-elevated-to-holder-rank-ardishapur-and-sarum-houses-hold-summit-amidst-ceremonies/)
 - **1×** [Empress Catiz I revokes Heideran Decree (YC 121) (YC121)](https://community.eveonline.com/news/news-channels/world-news/empress-catiz-i-revokes-heideran-decree-and-announces-sweeping-territorial-and-military-reorganization/)
+- **1×** [Galactic Hour News Roundup: Gallente Federation Day (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-gallente-federation-day-yc122-edition/)
+- **1×** [Galactic Hour News Roundup: Liberation Day (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-liberation-day-yc122-edition/)

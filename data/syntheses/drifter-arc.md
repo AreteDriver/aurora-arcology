@@ -213,6 +213,13 @@ New Catalyst-era sites containing destroyed Drifter-structure wrecks. Wreck inve
 YC117 cosmic anomaly — a bright new object that appeared overnight, visible across all four empires simultaneously. The Sisters of EVE issued a statement tying it to the Drifter emergence and Eve Gate stress events. Caroline's Star is structurally the visible signature of the Drifter Hyperspace Network reaching New Eden's normal space — the moment the Drifter conflict moved from Anoikis backstory to current threat.
 **Cited in:** [Caroline's Star: Stellar anomaly detected by capsuleer Caroline Grace (YC 116)](http://community.eveonline.com/news/news-channels/world-news/stellar-anomaly-detected-by-capsuleers/) · [Caroline's Star (YC 117)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd) · [Sisters of Eve release statement on Caroline's Star and Thera (YC 117)](http://community.eveonline.com/news/news-channels/world-news/sisters-of-eve-release-statement-on-caroliness-star-thera-incident-and-concord/) · [Sisters of EVE Release Statement on Caroline's Star, Thera Incident and CONCORD](https://universe.eveonline.com/new-eden-news/sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord)
 
+## Concepts
+
+### The Empyrean Age (era)
+
+The YC105+ era of capsuleer political dominance — opens with Pax Amarria publication, Crielere Project announcement, and the rise of Tibus Heth at Caldari Constructions; runs through the Malkalen Disaster, YC112 Caldari Prime invasion, the Drifter Crisis, the Triglavian Invasion, and the YC128 Warpath cycle. The era defines the four-empire system as it currently exists. Tony Gonzales's Templar One book is set in the early Empyrean Age.
+**Cited in:** [The Empyrean Age (YC 105 -)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+
 ## Artifacts
 
 ### Drone Graviton Emitter
@@ -301,6 +308,7 @@ Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121 (
 - **1×** [Gates into Jita Damaged As Tensions Between Empires Rise (2026-04-21)](https://universe.eveonline.com/new-eden-news/gates-into-jita-damaged-as-tensions-between-empires-rise)
 - **1×** [New Eden News: Warpath YC128-04-21 - YC128-04-30 (2026-04-30)](https://www.youtube.com/watch?v=QUoUNxfSXUk)
 - **1×** [Hoboleaks — Warpath Cycle Items (2026-04-30)](https://sde.hoboleaks.space/)
+- **1×** [The Empyrean Age (YC 105 -) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Theology Council to lift suppression edict for Tetrimon case (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/theology-council-to-lift-suppression-edict-for-tetrimon-case/)
 - **1×** [EVE gate bears witness to a beautiful union (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/eve-gate-bears-witness-to-a-beautiful-union/)
 - **1×** [Privy Council orders investigation into Tetrimon temple (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/privy-council-orders-investigation-into-tetrimon-temple/)

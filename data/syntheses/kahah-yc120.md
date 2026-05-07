@@ -99,6 +99,14 @@ Minmatar capsuleer alliance. Anti-slavery, pro-Republic — the structural Minma
 
 ## Factions
 
+### Amarr (bloodline)
+
+Amarr humans — Holder caste under Imperial doctrine. Theological-imperial cultural foundation; the Reclaiming-bound bloodline whose philosophical apparatus produced Pax Amarria. Stratified into Royal Houses (Sarum/Tash-Murkon/Kor-Azor/Kador/Ardishapur) and the Khanid sub-bloodline. The Empire's identity derives from this bloodline's mission.
+
+### Minmatar (bloodline)
+
+Minmatar humans — seven-tribes cultural structure (Brutor / Sebiestor / Krusual / Vherokior / Nefantar / Starkmanir / Thukker). Republic cultural foundation; the people that the Amarr Reclaiming subjugated and the Minmatar Rebellion freed. Tribal Council is the modern political surface of the bloodline's pre-Empire structure.
+
 ### Khanid Kingdom
 
 Third tier of Amarr space. Defected ~200 years ago under Khanid II. Hosts the brutal 19th Royal Uolans. Strong Lai Dai ties per Ash. Its tier-three status makes it the political wedge Lai Dai works through inside the Empire.

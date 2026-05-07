@@ -4856,6 +4856,205 @@
       "master_summary": "Federation logistics megacorp. Major shipping company \u2014 backbone of Federation trade and a structural pillar of the Federation industrial economy. The Federation analog of Ishukone Watch in the State or Carthum Conglomerate in the Empire \u2014 a logistics company that doubles as a polity-of-influence within the Federation Senate.",
       "canonicity": "ccp-canon",
       "sources": []
+    },
+    {
+      "id": "fac_caldari",
+      "type": "Faction",
+      "name": "Caldari (bloodline)",
+      "brief": "Caldari humans \u2014 the Civire and Deteis sub-bloodlines under Achura ancillary integration. Cultural foundation of the Caldari State.",
+      "master_summary": "Caldari humans \u2014 the Civire (warrior-pragmatic) and Deteis (mercantile-philosophical) sub-bloodlines under Achura (spiritual-monastic) ancillary integration. Cultural foundation of the Caldari State; descendant of the original colonists who became culturally distinct from Gallente during the pre-Rebellion era. Tovil-Toba's sacrifice made her a structural ancestor of the modern bloodline-State alignment.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "fac_amarr",
+      "type": "Faction",
+      "name": "Amarr (bloodline)",
+      "brief": "Amarr humans \u2014 Holder caste under Imperial doctrine. Theological-imperial; the Reclaiming-bound bloodline.",
+      "master_summary": "Amarr humans \u2014 Holder caste under Imperial doctrine. Theological-imperial cultural foundation; the Reclaiming-bound bloodline whose philosophical apparatus produced Pax Amarria. Stratified into Royal Houses (Sarum/Tash-Murkon/Kor-Azor/Kador/Ardishapur) and the Khanid sub-bloodline. The Empire's identity derives from this bloodline's mission.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "fac_minmatar",
+      "type": "Faction",
+      "name": "Minmatar (bloodline)",
+      "brief": "Minmatar humans \u2014 seven-tribes structure (Brutor / Sebiestor / Krusual / Vherokior / Nefantar / Starkmanir / Thukker). Republic cultural foundation.",
+      "master_summary": "Minmatar humans \u2014 seven-tribes cultural structure (Brutor / Sebiestor / Krusual / Vherokior / Nefantar / Starkmanir / Thukker). Republic cultural foundation; the people that the Amarr Reclaiming subjugated and the Minmatar Rebellion freed. Tribal Council is the modern political surface of the bloodline's pre-Empire structure.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "fac_gallente",
+      "type": "Faction",
+      "name": "Gallente (bloodline)",
+      "brief": "Gallente humans \u2014 the Federation's founding bloodline. Liberal-democratic cultural foundation.",
+      "master_summary": "Gallente humans \u2014 the Federation's founding bloodline. Liberal-democratic cultural foundation; integrated with Intaki, Mannar, and Jin-Mei sub-bloodlines into the Federation. The bloodline's cultural-Gallente integration policy was the trigger for the Caldari Rebellion. Federal Defense Union and Federation Navy operate under Gallente cultural assumptions.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "fac_civire",
+      "type": "Faction",
+      "name": "Civire (Caldari sub-bloodline)",
+      "brief": "Caldari sub-bloodline. Warrior-pragmatic; the State's military caste origin.",
+      "master_summary": "Caldari sub-bloodline. Warrior-pragmatic culture; the State's military caste origin. Most Caldari Navy personnel and State Protectorate FW militia members are Civire. Tibus Heth's labor-militancy template tracks Civire cultural assumptions.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "fac_deteis",
+      "type": "Faction",
+      "name": "Deteis (Caldari sub-bloodline)",
+      "brief": "Caldari sub-bloodline. Mercantile-philosophical; the State's executive and corporate caste origin.",
+      "master_summary": "Caldari sub-bloodline. Mercantile-philosophical culture; the State's executive and corporate caste origin. Most CEP members and megacorp executives (Otro / Mens / Tibus Heth's eventual rivals) are Deteis. The Lai-Dai-vs-Ishukone axis is structurally a Deteis-internal philosophical split.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "fac_achura",
+      "type": "Faction",
+      "name": "Achura (Caldari sub-bloodline)",
+      "brief": "Caldari sub-bloodline. Spiritual-monastic; integrated into the State as ancillary cultural reservoir.",
+      "master_summary": "Caldari sub-bloodline. Spiritual-monastic culture; integrated into the State as ancillary cultural reservoir. Sani Sabik researchers and Construct-adjacent thinkers disproportionately come from Achura backgrounds.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "fac_mannar",
+      "type": "Faction",
+      "name": "Mannar (Gallente sub-bloodline)",
+      "brief": "Gallente sub-bloodline. Athletic-traditionalist; integrated into Federation cultural pluralism.",
+      "master_summary": "Gallente sub-bloodline. Athletic-traditionalist culture; one of the four sub-bloodlines integrated into Federation cultural pluralism (Gallente / Intaki / Mannar / Jin-Mei).",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "fac_khanid",
+      "type": "Faction",
+      "name": "Khanid (Amarr sub-bloodline)",
+      "brief": "Amarr sub-bloodline. Aristocratic-militaristic. Founded the Khanid Kingdom secession from the Empire.",
+      "master_summary": "Amarr sub-bloodline. Aristocratic-militaristic culture. Founded the Khanid Kingdom secession from the Empire (Khanid II). Operationally autonomous within the Amarr civilizational sphere; runs the Royal Khanid Navy and Provost-Marshal Office.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "art_avatar_titan",
+      "type": "Artifact",
+      "name": "Avatar-class Titan (Amarr)",
+      "brief": "Amarr Empire's Titan-class capital ship. Honor-guard role at imperial successions and major ceremonial events.",
+      "master_summary": "Amarr Empire's Titan-class capital ship. Honor-guard role at imperial successions (Avatars escorted Succession Trials champions YC118) and major ceremonial events. Class deployed in Reclaiming-era operations; canonical Amarr capital-tier asset.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc118_arrival-of-succession-trials-champions-anticipated"
+      ]
+    },
+    {
+      "id": "art_erebus_titan",
+      "type": "Artifact",
+      "name": "Erebus-class Titan (Gallente)",
+      "brief": "Gallente Federation Titan-class capital ship. Class destroyed in the YC110 Goonswarm Etherium Reach incident.",
+      "master_summary": "Gallente Federation Titan-class capital ship. Class destroyed in the YC110 Goonswarm Titan-destruction incident in Etherium Reach \u2014 an early demonstration of capsuleer-alliance capital-tier capability surpassing empire militaries.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc110_goonswarm-titan-destroyed-in-etherium-reach-yc-110",
+        "src_ash_tl_yc110_the-star-fraction-launches-erebus-class-titan-yc-1"
+      ]
+    },
+    {
+      "id": "art_ragnarok_titan",
+      "type": "Artifact",
+      "name": "Ragnarok-class Titan (Minmatar)",
+      "brief": "Minmatar Republic Titan-class capital ship. Mercenary Coalition Titan destroyed YC109 \u2014 capsuleer-era Titan combat precedent.",
+      "master_summary": "Minmatar Republic Titan-class capital ship. Mercenary Coalition Titan destroyed YC109 \u2014 capsuleer-era Titan-combat precedent. The Elder Fleet's deepest strikes during the Minmatar Elders Invasion deployed Ragnarok-class assets.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc109_mercenary-coalition-titan-destroyed-yc-109"
+      ]
+    },
+    {
+      "id": "art_nyx_mothership",
+      "type": "Artifact",
+      "name": "Nyx-class Mothership (Gallente)",
+      "brief": "Gallente Federation Mothership-class capital ship. The Malkalen-strike vessel piloted by Alexander Noir; Federation Mothership stolen YC108.",
+      "master_summary": "Gallente Federation Mothership-class capital ship. The Malkalen-strike vessel piloted by Alexander Noir in the YC110 disaster that killed Otro Gariushi. Federation Mothership stolen YC108 in a CONCORD-shipping incident \u2014 the prefigure for the broker plot's Noir vessel acquisition.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc108_federation-mothership-stolen-concord-ships-destroy"
+      ]
+    },
+    {
+      "id": "evt_capsuleer_day",
+      "type": "Event",
+      "name": "Capsuleer Day (annual)",
+      "date": "YC117+",
+      "brief": "Annual capsuleer-recognition holiday. Established YC117 by Upwell Consortium; the recognition cycle for capsuleer political importance.",
+      "master_summary": "Annual capsuleer-recognition holiday established YC117 by Upwell Consortium. Capsuleer Day XXIII (YC128) coincides with the Warpath Protocol failure cycle \u2014 the first Capsuleer Day during a CONCORD-system breach since the YC110 Yulai gate event. The recognition cycle for capsuleer political importance; structural ancestor of the YC128 Warpath capsuleer mobilization.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc118_upwell-consortium-announces-capsuleer-day-yc-118",
+        "src_ash_tl_yc121_galactic-hour-news-roundup-capsuleer-day-yc-121"
+      ]
+    },
+    {
+      "id": "evt_federation_day",
+      "type": "Event",
+      "name": "Federation Day (annual)",
+      "date": "YC0+",
+      "brief": "Annual Federation founding holiday. Cultural anchor of Federation identity.",
+      "master_summary": "Annual Gallente Federation founding holiday. Cultural anchor of Federation identity; presidential addresses traditionally fall during the Federation Day cycle. Structural complement to Caldari Liberation Day and Republic Liberation Day.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc109_federation-celebrates-federation-day-yc-109",
+        "src_ash_tl_yc114_federation-day-yc-114",
+        "src_ash_tl_yc122_galactic-hour-news-roundup-gallente-federation-day"
+      ]
+    },
+    {
+      "id": "evt_liberation_day",
+      "type": "Event",
+      "name": "Republic Liberation Day (annual)",
+      "date": "annual",
+      "brief": "Annual Minmatar Republic holiday commemorating the original Rebellion. Republic stands still for the day.",
+      "master_summary": "Annual Minmatar Republic holiday commemorating the original Minmatar Rebellion. The Republic stands still for the day \u2014 schools, government, and tribal-council operations all pause. Cultural anchor parallel to Federation Day and Caldari Liberation Day; Tribal Council uses the day for major proclamations.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc119_republic-stands-still-for-liberation-day-yc-119",
+        "src_ash_tl_yc120_sanmatar-shakor-address-liberation-day-crowds-yc-1",
+        "src_ash_tl_yc122_galactic-hour-news-roundup-liberation-day-yc-122"
+      ]
+    },
+    {
+      "id": "evt_caldari_liberation_day",
+      "type": "Event",
+      "name": "Caldari Liberation Day (annual)",
+      "date": "annual",
+      "brief": "Annual Caldari State holiday commemorating Tovil-Toba's sacrifice \u2014 the liberation of Caldari Prime.",
+      "master_summary": "Annual Caldari State holiday commemorating Tovil-Toba's sacrifice \u2014 the capsuleer who crashed her Raven into Caldari Prime to liberate the homeworld. Cultural anchor of the State; CEP and Caldari Navy use the day for major proclamations. The Hueromont casualties from her strike are commemorated alongside the liberation.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "cnc_empyrean_age",
+      "type": "Concept",
+      "name": "The Empyrean Age (era)",
+      "brief": "YC105+ era of capsuleer political dominance. Begins with Pax Amarria publication and Crielere Project; defines the four-empire system through YC128.",
+      "master_summary": "The YC105+ era of capsuleer political dominance \u2014 opens with Pax Amarria publication, Crielere Project announcement, and the rise of Tibus Heth at Caldari Constructions; runs through the Malkalen Disaster, YC112 Caldari Prime invasion, the Drifter Crisis, the Triglavian Invasion, and the YC128 Warpath cycle. The era defines the four-empire system as it currently exists. Tony Gonzales's Templar One book is set in the early Empyrean Age.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc105_the-empyrean-age-yc-105"
+      ]
+    },
+    {
+      "id": "cnc_pax_amarria_doctrine",
+      "type": "Concept",
+      "name": "Pax Amarria Doctrine",
+      "brief": "Heideran VII's theological-political consensus from his YC105 book. Tolerant Reclaiming; reformist Empire.",
+      "master_summary": "Heideran VII's theological-political consensus from his YC105 book Pax Amarria \u2014 a tolerant Reclaiming and reformist Empire posture. Established the Heideran-era Amarr Empire's relationship with the Federation and the Republic. Catiz I's territorial reorganization partially repudiated the doctrine; the Cult of Tetrimon opposed it on orthodox-purity grounds. Modern Amarr political debates reference the Pax Amarria-vs-orthodoxy axis.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc105_heideran-vii-s-much-appraised-book-pax-amarria-pub"
+      ]
     }
   ],
   "connections": [
@@ -12501,6 +12700,454 @@
       "rel": "opposed-to",
       "conf": 0.85,
       "claim": "Crossed into Amarr space.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_caldari",
+      "tgt": "org_caldari_state",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Bloodline cultural foundation of the State.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_amarr",
+      "tgt": "org_amarr_empire",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Bloodline cultural foundation of the Empire.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_minmatar",
+      "tgt": "org_minmatar_republic",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Bloodline cultural foundation of the Republic.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_gallente",
+      "tgt": "org_gallente_federation",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Bloodline cultural foundation of the Federation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_minmatar",
+      "tgt": "evt_minmatar_rebellion",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Bloodline revolt founded modern Republic.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_amarr",
+      "tgt": "evt_amarr_reclaiming",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Bloodline-driven theological imperialism.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_civire",
+      "tgt": "fac_caldari",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Caldari sub-bloodline.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_deteis",
+      "tgt": "fac_caldari",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Caldari sub-bloodline.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_achura",
+      "tgt": "fac_caldari",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Caldari ancillary integration.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_civire",
+      "tgt": "org_caldari_navy",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Most Navy personnel are Civire.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_deteis",
+      "tgt": "org_cep",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Most CEP members are Deteis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_deteis",
+      "tgt": "cnc_lai_dai_vs_ishukone_axis",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "The axis is a Deteis-internal split.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_civire",
+      "tgt": "per_tibus_heth",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Heth's labor-militancy templates Civire cultural assumptions.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_intaki",
+      "tgt": "fac_gallente",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Federation sub-bloodline.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_mannar",
+      "tgt": "fac_gallente",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Federation sub-bloodline.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_jin_mei",
+      "tgt": "fac_gallente",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Federation sub-bloodline.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_khanid",
+      "tgt": "fac_amarr",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Amarr sub-bloodline.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_khanid",
+      "tgt": "org_khanid_kingdom",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Khanid bloodline founded the Kingdom secession.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_khanid",
+      "tgt": "per_khanid_ii",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Khanid II led the secession.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_khanid",
+      "tgt": "org_royal_khanid_navy",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Khanid bloodline runs the Navy.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_brutor_tribe",
+      "tgt": "fac_minmatar",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Minmatar tribe.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_sebiestor_tribe",
+      "tgt": "fac_minmatar",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Minmatar tribe.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_krusual_tribe",
+      "tgt": "fac_minmatar",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Minmatar tribe.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_vherokior_tribe",
+      "tgt": "fac_minmatar",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Minmatar tribe.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_nefantar_tribe",
+      "tgt": "fac_minmatar",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Minmatar tribe.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_starkmanir_tribe",
+      "tgt": "fac_minmatar",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Minmatar tribe (restored).",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_thukker_tribe",
+      "tgt": "fac_minmatar",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Minmatar tribe.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_caldari",
+      "tgt": "per_tovil_toba",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Tovil-Toba's sacrifice made her structural ancestor of bloodline-State alignment.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_avatar_titan",
+      "tgt": "org_amarr_empire",
+      "rel": "caused-by",
+      "conf": 0.92,
+      "claim": "Amarr Titan class.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_avatar_titan",
+      "tgt": "org_amarr_imperial_navy",
+      "rel": "supplies",
+      "conf": 0.85,
+      "claim": "Imperial Navy capital asset.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_erebus_titan",
+      "tgt": "org_gallente_federation",
+      "rel": "caused-by",
+      "conf": 0.92,
+      "claim": "Gallente Titan class.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_erebus_titan",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Goonswarm titan-destruction event was capsuleer-alliance vs Federation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_ragnarok_titan",
+      "tgt": "org_minmatar_republic",
+      "rel": "caused-by",
+      "conf": 0.92,
+      "claim": "Minmatar Titan class.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_ragnarok_titan",
+      "tgt": "evt_minmatar_elders_invasion",
+      "rel": "participated-in",
+      "conf": 0.85,
+      "claim": "Elder Fleet capital strikes.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_nyx_mothership",
+      "tgt": "org_gallente_federation",
+      "rel": "caused-by",
+      "conf": 0.92,
+      "claim": "Gallente Mothership class.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_nyx_mothership",
+      "tgt": "evt_malkalen_disaster",
+      "rel": "participated-in",
+      "conf": 0.99,
+      "claim": "Noir's Nyx struck Ishukone HQ.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_nyx_mothership",
+      "tgt": "per_alexander_noir",
+      "rel": "aligned-with",
+      "conf": 0.95,
+      "claim": "Noir's vessel.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_capsuleer_day",
+      "tgt": "org_upwell",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Established by Upwell Consortium YC117.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_capsuleer_day",
+      "tgt": "cnc_capsuleers",
+      "rel": "aligned-with",
+      "conf": 0.95,
+      "claim": "Capsuleer-recognition holiday.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_capsuleer_day",
+      "tgt": "evt_capsuleer_day_xxiii_warpath",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "YC128 iteration.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_federation_day",
+      "tgt": "org_gallente_federation",
+      "rel": "aligned-with",
+      "conf": 0.99,
+      "claim": "Federation founding holiday.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_liberation_day",
+      "tgt": "org_minmatar_republic",
+      "rel": "aligned-with",
+      "conf": 0.99,
+      "claim": "Republic Rebellion-commemoration.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_liberation_day",
+      "tgt": "evt_minmatar_rebellion",
+      "rel": "aligned-with",
+      "conf": 0.95,
+      "claim": "Commemorates the Rebellion.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_liberation_day",
+      "tgt": "org_caldari_state",
+      "rel": "aligned-with",
+      "conf": 0.99,
+      "claim": "State liberation holiday.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_liberation_day",
+      "tgt": "per_tovil_toba",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Commemorates Tovil-Toba's sacrifice.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_empyrean_age",
+      "tgt": "evt_pax_amarria",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Era opens with Pax Amarria publication.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_empyrean_age",
+      "tgt": "evt_crielere_project",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Era opens with Crielere Project.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_empyrean_age",
+      "tgt": "evt_caldari_constructions_revolt",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Era opens with Heth's rise at Caldari Constructions.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_empyrean_age",
+      "tgt": "evt_malkalen_disaster",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Empyrean Age signature event.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_empyrean_age",
+      "tgt": "evt_caldari_invasion_yc112",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Empyrean Age signature war.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_empyrean_age",
+      "tgt": "evt_drifter_crisis",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Late-Empyrean Age cosmic crisis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_empyrean_age",
+      "tgt": "evt_triglavian_invasion",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Late-Empyrean Age conquest event.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_pax_amarria_doctrine",
+      "tgt": "evt_pax_amarria",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Doctrine emerged from Heideran's book.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_pax_amarria_doctrine",
+      "tgt": "per_heideran_vii",
+      "rel": "aligned-with",
+      "conf": 0.95,
+      "claim": "Heideran's theological-political consensus.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_pax_amarria_doctrine",
+      "tgt": "per_catiz_i",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Catiz partially repudiated the doctrine.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_pax_amarria_doctrine",
+      "tgt": "org_cult_of_tetrimon",
+      "rel": "opposed-to",
+      "conf": 0.9,
+      "claim": "Tetrimon orthodoxy opposed Pax Amarria reform.",
       "supporting_sources": []
     }
   ],

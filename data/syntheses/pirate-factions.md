@@ -77,6 +77,10 @@ Salvador Sarpati's black-market / drug pipeline. Silphy's collaborator pre-arres
 
 ## Factions
 
+### Minmatar (bloodline)
+
+Minmatar humans — seven-tribes cultural structure (Brutor / Sebiestor / Krusual / Vherokior / Nefantar / Starkmanir / Thukker). Republic cultural foundation; the people that the Amarr Reclaiming subjugated and the Minmatar Rebellion freed. Tribal Council is the modern political surface of the bloodline's pre-Empire structure.
+
 ### Sansha's Nation
 
 The fourth major canonical pirate empire — Sansha's signature is the True-Slave neural conditioning, an extreme of the Vitoxin / mind-control technology spectrum. Periodic incursions historically targeted both high-sec and faction territory; many of CCP's earlier expansion arcs (incursion mechanic, response protocols) were shaped around Sansha's behavior pattern. Genealogically related to the Sarpati line through Sansha Kuvakei's family — one of the few canonical bridges between the southern pirate factions and the Sarpati black-market network.

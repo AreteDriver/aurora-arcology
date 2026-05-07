@@ -11,6 +11,11 @@
 The YC111 mass distribution of the Zephyr exploration ship by the Intaki Syndicate. Sleeper-ignored, it allowed capsuleers to map wormhole space — and quietly funneled telemetry data back through the Syndicate to Ishukone. The Zephyr is the original instance of Syndicate-as-data-conduit, structurally identical to the data flows that later sit inside Upwell.
 **Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante)
 
+### Capsuleer Day (annual) *(YC117+)*
+
+Annual capsuleer-recognition holiday established YC117 by Upwell Consortium. Capsuleer Day XXIII (YC128) coincides with the Warpath Protocol failure cycle — the first Capsuleer Day during a CONCORD-system breach since the YC110 Yulai gate event. The recognition cycle for capsuleer political importance; structural ancestor of the YC128 Warpath capsuleer mobilization.
+**Cited in:** [Upwell Consortium announces capsuleer day (YC 118)](https://community.eveonline.com/news/news-channels/world-news/upwell-consortium-announces-capsuleer-day/) · [Galactic Hour News Roundup: Capsuleer Day (YC 121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-capsuleer-day-yc121-edition/)
+
 ### Gallente Presidential Election YC128 *(2026-04-17)*
 
 Moreau's narrow win over Roden inverted the expected hawkish response to Caldari escalation. The Federation elected a reformer at the exact moment State aggression peaked, structurally weakening the Federation military response and giving Mountain/Ocean an opening they wouldn't have had under a Roden presidency.
@@ -250,10 +255,26 @@ Citadel-tech consortium. Includes Intaki Bank. Builds EDENCOM ships. Forest-fact
 
 ## Factions
 
+### Amarr (bloodline)
+
+Amarr humans — Holder caste under Imperial doctrine. Theological-imperial cultural foundation; the Reclaiming-bound bloodline whose philosophical apparatus produced Pax Amarria. Stratified into Royal Houses (Sarum/Tash-Murkon/Kor-Azor/Kador/Ardishapur) and the Khanid sub-bloodline. The Empire's identity derives from this bloodline's mission.
+
+### Caldari (bloodline)
+
+Caldari humans — the Civire (warrior-pragmatic) and Deteis (mercantile-philosophical) sub-bloodlines under Achura (spiritual-monastic) ancillary integration. Cultural foundation of the Caldari State; descendant of the original colonists who became culturally distinct from Gallente during the pre-Rebellion era. Tovil-Toba's sacrifice made her a structural ancestor of the modern bloodline-State alignment.
+
+### Gallente (bloodline)
+
+Gallente humans — the Federation's founding bloodline. Liberal-democratic cultural foundation; integrated with Intaki, Mannar, and Jin-Mei sub-bloodlines into the Federation. The bloodline's cultural-Gallente integration policy was the trigger for the Caldari Rebellion. Federal Defense Union and Federation Navy operate under Gallente cultural assumptions.
+
 ### Jin-Mei
 
 Gallente Federation bloodline; one of the four Gallente sub-bloodlines (Gallente / Intaki / Mannar / Jin-Mei). Agriculturally-focused; intersected the YC110 FedMart agricultural-intervention cycle. Aguard's pre-presidency campaigning rallies targeted the Jin-Mei vote.
 **Cited in:** [FedMart Intervention in Jin-Mei Agriculture (YC 110)](https://community.eveonline.com/news/news-channels/eve-online-news/fedmart-intervention-in-jin-mei-agriculture/) · [Presidential candidate Aguard holds political rally for Jin-Mei (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/presidential-candidate-aguard-holds-political-rally-for-jin-mei/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Essence/Mies"",""label"":""Mies""},{""url"":""http://evemaps.dotlan.net/map/Everyshore/Lirsautton"",""label"":""Lirsautton""}])
+
+### Minmatar (bloodline)
+
+Minmatar humans — seven-tribes cultural structure (Brutor / Sebiestor / Krusual / Vherokior / Nefantar / Starkmanir / Thukker). Republic cultural foundation; the people that the Amarr Reclaiming subjugated and the Minmatar Rebellion freed. Tribal Council is the modern political surface of the bloodline's pre-Empire structure.
 
 ### Caldari State
 
@@ -321,6 +342,11 @@ YC106 formal recognition of capsuleer-organized alliances as sovereign-equivalen
 The immortal pilot caste — humans who undergo subcranial-implant-and-cloning tech to gain effective immortality and operate the four empires' most advanced spacecraft. Recognized as a sovereign-equivalent political force across the four empires. Key actor in Faction Warfare, Drifter conflict, and the YC128 cycle (capsuleer pilots elected Soraya Roden / Alix Moreau influence cycle). The Templar program is the Caldari attempt to replicate capsuleer-tier capability without the Federation's clone-tech monopoly.
 **Cited in:** [Capsuleers drawn into Amarr/Blood Raider conflict (YC 107)](http://community.eveonline.com/news/news-channels/world-news/capsuleers-drawn-into-struggle-as-amarr-blood-raider-fighting-continues/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Domain/Alkabsi"",""label"":""Alkabsi""},{""url"":""http://evemaps.dotlan.net/map/The_Bleak_Lands/Haras"",""label"":""Haras""}]) · [Capsuleers turn eye towards Blood Raiders (YC 107)](http://community.eveonline.com/news/news-channels/world-news/insorum-imbroglio-puts-focus-on-capsuleers-as-eyes-turn-toward-blood-raider-covenant/) · [Humanitarian organisation thanks capsuleers for assistance (YC 107)](http://community.eveonline.com/news/news-channels/eve-online-news/humanitarian-organisation-thanks-capsuleers-for-assistance/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Essence/Algogille"",""label"":""Algogille""}]) · [Legion patrol receives support from local capsuleers (YC 107)](http://community.eveonline.com/news/news-channels/eve-online-news/legion-patrol-receives-support-from-local-capsuleers/) · [Rapid terraforming project calls on capsuleers for help (YC 107)](http://community.eveonline.com/news/news-channels/eve-online-news/rapid-terraforming-project-calls-on-capsuleers-for-help/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/The_Citadel/Iivinen"",""label"":""Iivenen""}]) · [Strangers seek the help of Caldari capsuleers (YC 107)](http://community.eveonline.com/news/news-channels/eve-online-news/strangers-seek-the-help-of-caldari-capsuleers/) · [Loyalist Capsuleers obstruct theft of Khanid Carrier (YC 108)](https://community.eveonline.com/news/news-channels/eve-online-news/loyalist-capsuleers-obstruct-theft-of-khanid-carrier/) · [Over 30.5K capsuleers celebrate (YC108)](http://community.eveonline.com/news/news-channels/world-news/over-30-500-capsuleers-join-in-the-celebration/) · [War reaches Amarr Throne Worlds as capsuleers clash (YC 109)](https://community.eveonline.com/news/news-channels/eve-online-news/war-reaches-amarr-throne-regions/) · [Capsuleers respond to events in Yulai and abroad (YC 110)](https://community.eveonline.com/news/news-channels/eve-online-news/capsuleers-respond-to-events-in-yulai-and-abroad/) · [Amarr and Caldari capsuleers seize Minmatar strongholds (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/amarr-and-caldari-capsuleers-seize-minmatar-strongholds/) · [Capsuleers hold first Seyllin conference (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/capsuleers-hold-first-seyllin-conference/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Essence/Seyllin"",""label"":""Seyllin""}]) · [Capsuleers pledge Seyllin aid (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/capsuleers-pledge-seyllin-aid/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Essence/Seyllin"",""label"":""Seyllin""}]) · [Capsuleers react to slave emancipation (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/capsuleers-react-to-slave-emancipation/ https://community.eveonline.com/news/news-channels/eve-online-news/capsuleers-react-to-slave-emancipation-part-ii/) · [Gallente capsuleers strike back at Caldari strongholds (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/gallente-capsuleers-strike-back-at-caldari-strongholds/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Placid/Covryn"",""label"":""Covryn""},{""url"":""http://evemaps.dotlan.net/map/Verge_Vendor/Murethand"",""label"":""Murethand""}]) · [Hellcats: the yarr side of New Eden's female capsuleers (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/hellcats-the-yarr-side-of-new-edens-female-capsuleers/) · [Seppuku Warriors brings advanced combat training to capsuleers (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/seppuku-warriors-brings-advanced-combat-training-to-capsuleers/) · [Ushra'Khan addresses capsuleers in Providence and Catch (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/ushrakhan-addresses-capsuleers-in-providence-and-catch/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Catch/IS-R7P"",""label"":""IS-R7P""}]) · [Capsuleers turn to gambling as another revenue source (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/capsuleers-turn-to-gambling-as-another-revenue-source/) · [Eco-terrorists attack Chribba's starbases; capsuleers rally to defend (YC 112)](https://community.eveonline.com/news/news-channels/eve-online-news/eco-terrorists-attack-chribbas-starbases-capsuleers-rally-to-defend/) · [Capsuleers Influence Election and Presidential Profile: Soraya Roden](https://universe.eveonline.com/new-eden-news/capsuleers-influence-election-and-presidential-profile-soraya-roden)
 
+### The Empyrean Age (era)
+
+The YC105+ era of capsuleer political dominance — opens with Pax Amarria publication, Crielere Project announcement, and the rise of Tibus Heth at Caldari Constructions; runs through the Malkalen Disaster, YC112 Caldari Prime invasion, the Drifter Crisis, the Triglavian Invasion, and the YC128 Warpath cycle. The era defines the four-empire system as it currently exists. Tony Gonzales's Templar One book is set in the early Empyrean Age.
+**Cited in:** [The Empyrean Age (YC 105 -)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+
 ### Military Campaigns (YC128 expansion feature)
 
 Upcoming Faction Warfare expansion mechanic announced for the YC128 expansion cycle. Predicted Mil-Campaign #1: Fate of Syndicate. Predicted Mil-Campaign #2: Ammatar Mandate, with a Starkmanir vs Nefantar tribal axis.
@@ -336,6 +362,11 @@ The CCP text appearing on impacted CONCORD terminals at the moment of attack. To
 **Cited in:** [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk)
 
 ## Artifacts
+
+### Nyx-class Mothership (Gallente)
+
+Gallente Federation Mothership-class capital ship. The Malkalen-strike vessel piloted by Alexander Noir in the YC110 disaster that killed Otro Gariushi. Federation Mothership stolen YC108 in a CONCORD-shipping incident — the prefigure for the broker plot's Noir vessel acquisition.
+**Cited in:** [Federation Mothership Stolen, CONCORD Ships Destroyed (YC 108)](https://community.eveonline.com/news/news-channels/eve-online-news/federation-mothership-stolen-concord-ships-destroyed/)
 
 ### Zephyr Exploration Ship
 
@@ -380,6 +411,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **2×** [Internal conflict strikes Caldari State Protectorate (YC 112) (YC112)](https://community.eveonline.com/news/news-channels/eve-online-news/internal-conflict-strikes-caldari-state-protectorate/)
 - **2×** [CONCORD Inner Circle Statement on &#34;Caroline's Star&#34; and the &#34;Thera&#34; System (YC 116) (YC116)](http://community.eveonline.com/news/news-channels/world-news/concord-inner-circle-statement-on-carolines-star-and-the-thera-system/)
 - **2×** [Serpentis corporation strikes back against Upwell Consortium (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/serpentis-corporation-strikes-back-against-upwell-consortium/)
+- **2×** [Upwell Consortium announces capsuleer day (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/upwell-consortium-announces-capsuleer-day/)
 - **2×** [Jovian Directorate withdraws from CONCORD Inner Circle and designates SOCT as successor (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/jovian-directorate-withdraws-from-concord-inner-circle-and-designates-soct-as-successor/)
 - **1×** [CONCORD (2000-07-24)](https://universe.eveonline.com/chronicles/concord)
 - **1×** [CONCORD Pirate Warning (2003-05-15)](https://universe.eveonline.com/new-eden-news/concord-pirate-warning)
@@ -656,6 +688,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Warpath Protocol Failure Brings War To High-Sec (2026-04-30)](https://universe.eveonline.com/new-eden-news/warpath-protocol-failure-brings-war-to-high-sec)
 - **1×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident (2026-05-01)](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
 - **1×** [Caldari State Conquers Syndicate, Breakout Expected (2026-05-05)](https://universe.eveonline.com/new-eden-news/caldari-state-conquers-syndicate-breakout-expected)
+- **1×** [The Empyrean Age (YC 105 -) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Chief Executive Panel promises an investigation into Delicacies claims (YC 105) (YC105)](https://www.eveonline.com/article/chief-executive-panel-promises-an-investigation-into-delicacies-claims)
 - **1×** [CONCORD agent corruption? (YC 105) (YC105)](https://www.eveonline.com/article/concord-agent-corruption)
 - **1×** [CONCORD comments on recent security breaches (YC 105) (YC105)](https://www.eveonline.com/article/concord-comments-on-recent-security-breaches-in-empire-space-1)
@@ -709,6 +742,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Possible new overseer of the Mordus Legion exodus (YC 107) (YC107)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Pure Blind plays host to the Mordu’s Legion fleet (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/pure-blind-plays-host-to-the-mordus-legion-fleet/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Pure_Blind/5ZXX-K"",""label"":""5ZXX-K""}])
 - **1×** [Roden Shipyards rewards fortunate entrepreneur with first privately owned Gallente Navy Comet (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/roden-shipyards-rewards-fortunate-entrepreneur-with-first-privately-owned-gallente-navy-comet/)
+- **1×** [Federation Mothership Stolen, CONCORD Ships Destroyed (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/federation-mothership-stolen-concord-ships-destroyed/)
 - **1×** [Loyalist Capsuleers obstruct theft of Khanid Carrier (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/loyalist-capsuleers-obstruct-theft-of-khanid-carrier/)
 - **1×** [Over 30.5K capsuleers celebrate (YC108) (YC108)](http://community.eveonline.com/news/news-channels/world-news/over-30-500-capsuleers-join-in-the-celebration/)
 - **1×** [Guristas Pirates strike against Caldari Navy convoy (YC 108) (YC108)](http://forum.battleclinic.com/index.php?topic=7174.0;wap)
@@ -800,7 +834,6 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Sisters of Eve flotilla spotted in Drifter hive systems (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/sisters-of-eve-1/)
 - **1×** [Jove corporations transfered to SOCT (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/jove-corporations-transferred-to-soct-as-inner-circle-indicates-major-announcement-in-coming-days/)
 - **1×** [Tribal Council calls for candidates to apply to Republic Fleet capsuleer program (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/minmatar-tribal-council-calls-for-candidates-to-apply-to-republic-fleet-capsuleer-recruitment-program/)
-- **1×** [Upwell Consortium announces capsuleer day (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/upwell-consortium-announces-capsuleer-day/)
 - **1×** [Upwell Consortium celebrates deployment of first privately owned citadels (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/upwell-consortium-celebrates-deployment-of-first-privately-owned-citadels/)
 - **1×** [Upwell Consortium citadel construction project begins amidst promotional extravaganza (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/upwell-consortium-citadel-construction-project-begins-amidst-promotional-extravaganza/)
 - **1×** [Upwell Consortium hails capsuleer research effort as citadel prototype construction resumes (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/upwell-consortium-hails-capsuleer-research-effort-as-citadel-prototype-construction-resumes/)
@@ -816,6 +849,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Capsuleer delegates at SOCT gathering to receive briefing (YC 120) (YC120)](https://community.eveonline.com/news/news-channels/world-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing/)
 - **1×** [Upwell Consortium looks forward to increased (YC120)](https://community.eveonline.com/news/news-channels/world-news/upwell-consortium-looks-forward-to-increased-profits-ahead-of-flex-product-line-launch/)
 - **1×** [Empress Catiz I honors Amarr loyalist capsuleer groups PIE and CVA, responds to petitions (YC 120) (YC120)](https://community.eveonline.com/news/news-channels/world-news/empress-catiz-i-honors-amarr-loyalist-capsuleer-groups-pie-and-cva-and-responds-to-petitions/)
+- **1×** [Galactic Hour News Roundup: Capsuleer Day (YC 121) (YC121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-capsuleer-day-yc121-edition/)
 - **1×** [CEP and Caldari Navy greenlight Jita 4-4 expansion (YC 121) (YC121)](https://community.eveonline.com/news/news-channels/world-news/cep-and-caldari-navy-greenlight-jita-4-4-expansion-pkn-interstellar-consortium-seals-contracts/"",""label"":""News""},{""url"":""https://fiction.eveonline.com/new-eden/lore/jita-iv-moon-4-caldari-navy-assembly-plant"",""label"":""Jita 4-4""}])
 - **1×** [Empress Catiz I revokes Heideran Decree (YC 121) (YC121)](https://community.eveonline.com/news/news-channels/world-news/empress-catiz-i-revokes-heideran-decree-and-announces-sweeping-territorial-and-military-reorganization/)
 - **1×** [Galactic Hour news roundup: Caldari State protests amidsts Worders Union Day celebrations (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-caldari-state-protests-amidst-workers-union-day-celebrations/)

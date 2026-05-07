@@ -95,6 +95,10 @@ Khanid Kingdom's autonomous military fleet, separate from the Imperial Navy. Car
 
 ## Factions
 
+### Gallente (bloodline)
+
+Gallente humans — the Federation's founding bloodline. Liberal-democratic cultural foundation; integrated with Intaki, Mannar, and Jin-Mei sub-bloodlines into the Federation. The bloodline's cultural-Gallente integration policy was the trigger for the Caldari Rebellion. Federal Defense Union and Federation Navy operate under Gallente cultural assumptions.
+
 ### Intaki
 
 The original Intaki bloodline — peaceful, philosophical, religiously distinct via the Ida faith's reincarnation cosmology. Founding members of the Federation, but always retained cultural autonomy that produced both the Caldari-sympathetic exile (the Syndicate) and the Lost-Adama religious arc (Eloa Enaro / Negui Erlon, YC120). The Federation's seizure of Intaki in YC124 — what triggered the Syndicate–Caldari constellation deal — was an act against this people, not against the Syndicate. Moreau's amnesty offer post-conquest is structurally an attempt to reach the Intaki proper, not the Syndicate fugitives.

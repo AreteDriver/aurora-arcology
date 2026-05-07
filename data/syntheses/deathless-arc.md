@@ -116,6 +116,13 @@ The Deathless's home base. A hidden system with EVE-gate-adjacent properties rev
 The Construct is the Jovian deep state — every Jove who matters has spent significant subjective time inside it. The 'one body, one mind' law is the constitutional safeguard around it. The Sleeper civilization is what happens when Jove-bound consciousnesses commit fully to the Construct and never come out. The Drifter emergence is canonically tied to whatever happened to those consciousnesses afterward.
 **Cited in:** [The Lore You Need For EVE In 2025 - Part 1 - The Deathless](https://www.youtube.com/watch?v=J8SFloh6Q2s)
 
+## Concepts
+
+### The Empyrean Age (era)
+
+The YC105+ era of capsuleer political dominance — opens with Pax Amarria publication, Crielere Project announcement, and the rise of Tibus Heth at Caldari Constructions; runs through the Malkalen Disaster, YC112 Caldari Prime invasion, the Drifter Crisis, the Triglavian Invasion, and the YC128 Warpath cycle. The era defines the four-empire system as it currently exists. Tony Gonzales's Templar One book is set in the early Empyrean Age.
+**Cited in:** [The Empyrean Age (YC 105 -)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+
 ## Artifacts
 
 ### World Ark (Triglavian flagship)
@@ -204,6 +211,7 @@ Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121 (
 - **1×** [EVE Lore 2025 Part 1 — The Deathless (2025)](https://www.youtube.com/watch?v=rL-fHzuQ5iE)
 - **1×** [Vanguard Clash with Mordu's Legion Planetside (2025-09-18)](https://universe.eveonline.com/new-eden-news/vanguard-clash-with-mordus-legion-planetside)
 - **1×** [New Eden News - Warnings Raised Over Drifter Wormhole Experiments (YC127-10-30) (2025-10-30)](https://www.youtube.com/watch?v=hPbfRmzc1bI)
+- **1×** [The Empyrean Age (YC 105 -) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Jovian Admiral Ouria goes rogue, is defeated (YC 105) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Mordu's Legion and Serpentis forces clash in Fountain (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/world-news/mordus-legion-and-guardian-angels-clash-in-fountain-region/)
 - **1×** [Mordu's Legion infiltrates Serpentis space (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/world-news/mordu-infiltrates-serpentis-space-but-avoids-conflict/)

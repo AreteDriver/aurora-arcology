@@ -113,6 +113,24 @@ The Caldari Navy's primary capital-ship builder. Wiyrkomi's Wyvern-class line is
 
 Ninth-largest Caldari corp. Absorbed by Heth's Provost alliance. Founded Star Seed via its investment division. Concession statement praised Otro Gariushi explicitly — places Ytiri in the Ishukone axis structurally and gives Star Seed its Mountain/Ocean polarity.
 
+## Factions
+
+### Achura (Caldari sub-bloodline)
+
+Caldari sub-bloodline. Spiritual-monastic culture; integrated into the State as ancillary cultural reservoir. Sani Sabik researchers and Construct-adjacent thinkers disproportionately come from Achura backgrounds.
+
+### Caldari (bloodline)
+
+Caldari humans — the Civire (warrior-pragmatic) and Deteis (mercantile-philosophical) sub-bloodlines under Achura (spiritual-monastic) ancillary integration. Cultural foundation of the Caldari State; descendant of the original colonists who became culturally distinct from Gallente during the pre-Rebellion era. Tovil-Toba's sacrifice made her a structural ancestor of the modern bloodline-State alignment.
+
+### Civire (Caldari sub-bloodline)
+
+Caldari sub-bloodline. Warrior-pragmatic culture; the State's military caste origin. Most Caldari Navy personnel and State Protectorate FW militia members are Civire. Tibus Heth's labor-militancy template tracks Civire cultural assumptions.
+
+### Deteis (Caldari sub-bloodline)
+
+Caldari sub-bloodline. Mercantile-philosophical culture; the State's executive and corporate caste origin. Most CEP members and megacorp executives (Otro / Mens / Tibus Heth's eventual rivals) are Deteis. The Lai-Dai-vs-Ishukone axis is structurally a Deteis-internal philosophical split.
+
 ## Places
 
 ### Lonetrek region
