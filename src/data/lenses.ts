@@ -75,6 +75,8 @@ export const LENSES: Lens[] = [
       "plc_lonetrek",
       "org_tribal_council",
       "cnc_mountain_ocean_forest",
+      "per_caroline_grace",
+      "org_roden_shipyards",
     ],
   },
   {
@@ -116,6 +118,7 @@ export const LENSES: Lens[] = [
       "phn_clone_soldier_tech",
       "evt_crielere_project",
       "cnc_mountain_ocean_forest",
+      "evt_caldari_constructions_revolt",
     ],
   },
   {
@@ -183,6 +186,11 @@ export const LENSES: Lens[] = [
       "evt_salvation_crusade",
       "per_jarek",
       "evt_archangels_skarkon_annex_yc110",
+      "per_tovil_toba",
+      "evt_doriam_ii_assassination",
+      "evt_aidonis_heideran",
+      "evt_battle_mekhios",
+      "org_ushra_khan",
     ],
   },
   {
@@ -226,6 +234,8 @@ export const LENSES: Lens[] = [
       "evt_niarja_fall",
       "org_third_jove_empire",
       "org_cult_of_tetrimon",
+      "per_dr_tukoss",
+      "per_caroline_grace",
     ],
   },
   {
@@ -256,6 +266,7 @@ export const LENSES: Lens[] = [
       "plc_yulai",
       "plc_genesis",
       "org_cult_of_tetrimon",
+      "per_dr_tukoss",
     ],
   },
   {
@@ -286,6 +297,7 @@ export const LENSES: Lens[] = [
       "evt_amarr_reclaiming",
       "org_provost_marshal_office",
       "evt_salvation_crusade",
+      "org_ushra_khan",
     ],
   },
   {
@@ -311,6 +323,7 @@ export const LENSES: Lens[] = [
       "plc_anoikis",
       "plc_genesis",
       "org_third_jove_empire",
+      "evt_jove_ouria_revolt",
     ],
   },
   {
@@ -346,6 +359,8 @@ export const LENSES: Lens[] = [
       "evt_caldari_luminaire_invasion",
       "evt_crielere_project",
       "cnc_mountain_ocean_forest",
+      "evt_caldari_constructions_revolt",
+      "per_tovil_toba",
     ],
   },
   {
@@ -416,6 +431,8 @@ export const LENSES: Lens[] = [
       "per_stavros",
       "org_cult_of_tetrimon",
       "evt_kador_gallente_invasion",
+      "evt_doriam_ii_assassination",
+      "evt_aidonis_heideran",
     ],
   },
   {
@@ -476,6 +493,7 @@ export const LENSES: Lens[] = [
       "plc_lonetrek",
       "evt_crielere_project",
       "cnc_mountain_ocean_forest",
+      "evt_caldari_constructions_revolt",
     ],
   },
   {

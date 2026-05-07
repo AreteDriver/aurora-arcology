@@ -92,6 +92,11 @@ Khanid Kingdom's military-judicial office — combines military command authorit
 Khanid Kingdom's autonomous military fleet, separate from the Imperial Navy. Carries the Empire's military burden in the southern frontier — repulsed the Pure Faith Harvest raid YC120, conducted the brutal Kahah pacification under Allar Chakaide, and engages Blood Raider incursions on a sustained basis. The 19th Royal Uolans is one of its elite units.
 **Cited in:** [Royal Khanid Navy releases statement on Blood Raider attacks](https://universe.eveonline.com/new-eden-news/royal-khanid-navy-releases-statement-on-blood-raider-attacks)
 
+### Ushra'Khan
+
+Minmatar capsuleer alliance. Anti-slavery, pro-Republic — the structural Minmatar-side capsuleer faction that mirrors the Empire's pro-slavery capsuleer alliances. Captured the Imperial Armageddon YC107, a major capsuleer-faction propaganda victory. Endorsed Maleatu Shakor's elevation to Sanmatar; protested the Insorum controversy.
+**Cited in:** [Empire set back - Ushra'Khan acquires Imperial Armageddon (YC 107)](http://community.eveonline.com/news/news-channels/eve-online-news/empire-set-back-ushrakhan-acquires-imperial-armageddon/) · [Inconsistencies in news piece - Hamish of Ushra'Khan straightens them out (YC 107)](http://community.eveonline.com/news/news-channels/eve-online-news/inconsistencies-in-news-piece-hamish-of-ushrakhan-straightens-them-out/) · [Ushra'Khan leader offers trade for Imperial Cross (Yc 107)](http://community.eveonline.com/news/news-channels/eve-online-news/imperial-cross-located-hamish-trading-it-for-mamet-500/) · [Ushra’Khan restore their pride in Istodard (YC 107)](http://community.eveonline.com/news/news-channels/eve-online-news/ushrakhan-restore-their-pride-in-istodard/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Molden_Heath/Istodard"",""label"":""Istodard""}]) · [Ushra’Khan under assault from new foe (YC 107)](http://community.eveonline.com/news/news-channels/eve-online-news/ushrakhan-under-assault-from-new-foe/)
+
 ## Factions
 
 ### Khanid Kingdom
@@ -216,6 +221,11 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [New Caldari Ishukone Erection 3 Meters Taller Than Kaalakiota Erection (2019-04-01)](https://universe.eveonline.com/new-eden-news/new-caldari-ishukone-erection-3-meters-taller-than-kaalakiota-erection)
 - **1×** [Ishukone and Khanid Kingdom sign multitrillion trade deal on Transcranial Microcontrollers (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/ishukone-and-khanid-kingdom-sign-multitrillion-trade-deal-on-transcranial-microcontrollers/)
 - **1×** [Khanid Kingdom strenuously denies ill treatment of slaves (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/khanid-kingdom-strenuously-denies-ill-treatment-of-slaves-1/)
+- **1×** [Empire set back - Ushra'Khan acquires Imperial Armageddon (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/empire-set-back-ushrakhan-acquires-imperial-armageddon/)
+- **1×** [Inconsistencies in news piece - Hamish of Ushra'Khan straightens them out (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/inconsistencies-in-news-piece-hamish-of-ushrakhan-straightens-them-out/)
+- **1×** [Ushra'Khan leader offers trade for Imperial Cross (Yc 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/imperial-cross-located-hamish-trading-it-for-mamet-500/)
+- **1×** [Ushra’Khan restore their pride in Istodard (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/ushrakhan-restore-their-pride-in-istodard/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Molden_Heath/Istodard"",""label"":""Istodard""}])
+- **1×** [Ushra’Khan under assault from new foe (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/ushrakhan-under-assault-from-new-foe/)
 - **1×** [Gallenteans speak out over Insorum Crisis (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/gallenteans-speak-out-over-insorum-crisis/)
 - **1×** [The “Insorum Imbroglio&#34; and catastrophe on Mabnen I - from a CAIN point of view (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/the-insorum-imbroglio-and-catastrophe-on-mabnen-i-from-a-cain-point-of-view/)
 - **1×** [Caldari trade mission visits Khanid Kingdom, meets with Tash-Murkon (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/caldari-trade-mission-visits-khanid-kingdom-meets-with-tash-murkon/)

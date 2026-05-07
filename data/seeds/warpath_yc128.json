@@ -4439,6 +4439,144 @@
       "master_summary": "The three Caldari political factions inside the State: Mountain (state-loyalist militants \u2014 Heth/Provists/Saraki), Ocean (corporate cooperationists \u2014 Otro/Mens/Ishukone), Forest (industrial-traditionalist neutrals \u2014 Hyasyoda/Lai Dai). The Crielere Project YC105 was the Ocean-faction signature initiative; its collapse marked Mountain ascendancy. The current YC128 Saraki consolidation is structurally a Mountain reassertion against Ocean tendencies.",
       "canonicity": "community-curated",
       "sources": []
+    },
+    {
+      "id": "per_tovil_toba",
+      "type": "Person",
+      "name": "Tovil-Toba",
+      "date": "pre-modern",
+      "brief": "Caldari capsuleer who crashed her Raven into Caldari Prime \u2014 the legendary act that ended the original Caldari Rebellion war. Liberation Day commemorates her sacrifice.",
+      "master_summary": "Caldari capsuleer who crashed her Raven into Caldari Prime \u2014 the legendary act that ended the original Caldari Rebellion war and gave the Caldari people their homeworld. The Hueromont casualties from that strike are commemorated annually; modern Caldari Liberation Day is the political descendant of her sacrifice. The structural template for capsuleer-as-political-actor that the YC128 cycle inherits.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc108_presidential-candidate-remembers-hueromont-dead-yc"
+      ]
+    },
+    {
+      "id": "evt_doriam_ii_assassination",
+      "type": "Event",
+      "name": "Assassination of Emperor Doriam II",
+      "date": "YC106",
+      "brief": "YC106 destruction of an Imperial transport carrying Doriam II's retainers. Triggered the succession crisis that produced Karsoth's regency.",
+      "master_summary": "YC106 destruction of an Imperial transport carrying Doriam II's retainers \u2014 Doriam II killed in the strike. Triggered the succession crisis that produced Court Chamberlain Dochuta Karsoth's regency. The succession theft by Karsoth is the structural origin of the Sarum-claim subversion arc that continued into Jamyl I's reign.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc105_doriam-kor-azor-will-be-the-next-emperor-yc-105",
+        "src_ash_tl_yc105_doriam-kor-azor-inaugurated-emperor-of-amarr-yc-10",
+        "src_ash_tl_yc105_doriam-kor-azor-renames-planets-to-commemorate-cha"
+      ]
+    },
+    {
+      "id": "evt_aidonis_heideran",
+      "type": "Event",
+      "name": "Aidonis Award to Heideran VII",
+      "date": "YC104",
+      "brief": "Heideran VII received the Aidonis (peace-prize) award. Subsequent peace-prize-related murder and mayhem cycle exposed Empire\u2013Federation tensions.",
+      "master_summary": "YC104 Aidonis (peace-prize) award to Heideran VII \u2014 controversial Federation honor for an Amarr Emperor whose Empire still practiced slavery. The award sparked a cycle of murder and mayhem that exposed Empire\u2013Federation civilizational tensions. Heideran's tolerance of the Pax Amarria reformist position grew from this period.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc104_heideran-gets-the-aidonis-yc-104",
+        "src_ash_tl_yc110_admiral-alexander-noir-receives-the-aidonis-yc-110",
+        "src_ash_tl_yc111_food-supplies-to-republic-at-risk-according-to-aid"
+      ]
+    },
+    {
+      "id": "per_dr_tukoss",
+      "type": "Person",
+      "name": "Dr. Tukoss",
+      "date": "deceased YC117",
+      "brief": "Drifter-research scientist whose death was confirmed by DED YC117. Central figure in the Drifter-Sleeper-Construct research thread.",
+      "master_summary": "Drifter-research scientist whose death was confirmed by DED YC117. Central figure in the Drifter-Sleeper-Construct research thread; his work bridged AIR Labs and Sisters of EVE Anoikis programs. Loss of his expertise pushed AIR Labs into the post-YC117 reorganization that culminated in the Exordium charter.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc113_hilen-tukoss-defection-yc-113",
+        "src_ash_tl_yc116_eifyr-amp-co-respond-to-tukoss-messaging-yc-116",
+        "src_ash_tl_yc117_hilen-tukoss-resurfaces-yc-117",
+        "src_ash_tl_yc117_ded-confirms-age-of-tukoss-footage-releases-detain",
+        "src_ash_tl_yc117_tukoss-fate-confirmed-capsuleers-recognized-yc-117"
+      ]
+    },
+    {
+      "id": "evt_battle_mekhios",
+      "type": "Event",
+      "name": "Battle of Mekhios",
+      "date": "YC110",
+      "brief": "YC110 Amarr\u2013Minmatar engagement at Mekhios; subsequent disaster compounded the casualty cycle.",
+      "master_summary": "YC110 Amarr\u2013Minmatar capital-fleet engagement at Mekhios. In the wake of the battle, a disaster struck the system \u2014 compounding the casualty cycle. Mekhios joins Floseswin and Sarum Prime in the Amarr-Republic conflict's signature battles list; together they define the Imperian Age military theater.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc110_in-the-wake-of-battle-disaster-strikes-mekhios-yc-",
+        "src_ash_tl_yc117_empress-visits-mekhios-graveyard-for-ceremony-soct"
+      ]
+    },
+    {
+      "id": "evt_jove_ouria_revolt",
+      "type": "Event",
+      "name": "Jovian Admiral Ouria Defection",
+      "date": "YC105",
+      "brief": "YC105 Jovian Admiral Ouria went rogue \u2014 a public Jove military defection. Defeated and pursued; canonical signal of Third Empire-era internal instability.",
+      "master_summary": "YC105 Jovian Admiral Ouria went rogue \u2014 a public Jove military defection rare enough to make inter-empire news. Defeated and pursued by Jove forces; canonical signal of Third Empire-era internal instability that the Drifter emergence later magnified.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc105_jovian-admiral-ouria-goes-rogue-is-defeated-yc-105"
+      ]
+    },
+    {
+      "id": "per_caroline_grace",
+      "type": "Person",
+      "name": "Caroline Grace",
+      "date": "YC116",
+      "brief": "Capsuleer who detected the YC116 stellar anomaly that became known as Caroline's Star.",
+      "master_summary": "Capsuleer who detected the YC116 stellar anomaly that became known as Caroline's Star \u2014 the visible signature of the Drifter network reaching New Eden's normal space. Her detection is the moment the Drifter conflict moved from Anoikis backstory to public phenomenon.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc116_caroline-s-star-stellar-anomaly-detected-by-capsul",
+        "src_ash_tl_yc116_concord-inner-circle-statement-on-34-caroline-s-st",
+        "src_ash_tl_yc117_caroline-s-star-yc-117"
+      ]
+    },
+    {
+      "id": "org_ushra_khan",
+      "type": "Organization",
+      "name": "Ushra'Khan",
+      "brief": "Minmatar capsuleer alliance. Anti-slavery, pro-Republic. Captured the Imperial Armageddon YC107 \u2014 major capsuleer-faction propaganda victory.",
+      "master_summary": "Minmatar capsuleer alliance. Anti-slavery, pro-Republic \u2014 the structural Minmatar-side capsuleer faction that mirrors the Empire's pro-slavery capsuleer alliances. Captured the Imperial Armageddon YC107, a major capsuleer-faction propaganda victory. Endorsed Maleatu Shakor's elevation to Sanmatar; protested the Insorum controversy.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc107_empire-set-back-ushra-khan-acquires-imperial-armag",
+        "src_ash_tl_yc107_inconsistencies-in-news-piece-hamish-of-ushra-khan",
+        "src_ash_tl_yc107_ushra-khan-leader-offers-trade-for-imperial-cross-",
+        "src_ash_tl_yc107_ushra-khan-under-assault-from-new-foe-yc-107",
+        "src_ash_tl_yc107_ushra-khan-restore-their-pride-in-istodard-yc-107"
+      ]
+    },
+    {
+      "id": "org_roden_shipyards",
+      "type": "Organization",
+      "name": "Roden Shipyards",
+      "brief": "Federation shipbuilder. Granted extensive Federation construction contracts YC105; built the first privately owned Gallente vessel YC107.",
+      "master_summary": "Federation shipbuilder. Granted extensive Federation construction contracts YC105 (with competitors crying foul); built the first privately owned Gallente Navy-spec vessel YC107. The Roden family's commercial success underwrote Soraya Roden's later YC128 presidential candidacy \u2014 making this corp the structural backstory for the YC128 capsuleer-influence-election cycle.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc105_roden-shipyards-granted-extensive-federation-const",
+        "src_ash_tl_yc107_roden-shipyards-rewards-fortunate-entrepreneur-wit"
+      ]
+    },
+    {
+      "id": "evt_caldari_constructions_revolt",
+      "type": "Event",
+      "name": "Caldari Constructions Workers Revolt",
+      "date": "YC110",
+      "brief": "Tibus Heth's labor-organizing coup at Caldari Constructions \u2014 the workers' revolt that put him on the path to Provost.",
+      "master_summary": "YC110 labor-organizing coup at Caldari Constructions led by Tibus Heth, a foreman-turned-revolutionary. The Mercantile Club hosted discussion on the takeover; the Federation cast wary eye on 'the Heth situation.' This is the structural origin of Heth's rise \u2014 pre-Malkalen, pre-Empyrean Age. Without Caldari Constructions, no Provist regime.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc110_caldari-constructions-workers-revolt-yc-110",
+        "src_ash_tl_yc110_mercantile-club-hosts-discussion-on-caldari-constr",
+        "src_ash_tl_yc110_federation-casts-a-wary-eye-at-the-heth-situation-",
+        "src_ash_tl_yc115_caldari-constructions-to-nullify-heth-s-shares-yc-",
+        "src_ash_tl_yc115_caldari-constructions-share-prices-rise-on-news-of"
+      ]
     }
   ],
   "connections": [
@@ -11092,6 +11230,326 @@
       "rel": "participated-in",
       "conf": 0.85,
       "claim": "Mens was at the summit; survived; inherited Ishukone CEO seat from Otro.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_tovil_toba",
+      "tgt": "plc_caldari_prime",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Crashed her Raven into Caldari Prime; liberation event.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_tovil_toba",
+      "tgt": "evt_caldari_rebellion",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "Liberation strike that ended the Rebellion war.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_tovil_toba",
+      "tgt": "cnc_capsuleers",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "Capsuleer-as-political-actor template.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_tovil_toba",
+      "tgt": "org_caldari_state",
+      "rel": "aligned-with",
+      "conf": 0.92,
+      "claim": "Annual Liberation Day commemorates her sacrifice.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_doriam_ii_assassination",
+      "tgt": "per_doriam_kor_azor",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Killed Doriam II.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_doriam_ii_assassination",
+      "tgt": "per_karsoth",
+      "rel": "succeeded-by",
+      "conf": 0.95,
+      "claim": "Karsoth assumed regency post-assassination.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_doriam_ii_assassination",
+      "tgt": "org_imperial_court",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Court Chamberlain office assumed regency.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_doriam_ii_assassination",
+      "tgt": "org_house_sarum",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Sarum claim was subverted post-Doriam.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_aidonis_heideran",
+      "tgt": "per_heideran_vii",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Award to Heideran.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_aidonis_heideran",
+      "tgt": "org_gallente_federation",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Federation-issued peace prize.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_aidonis_heideran",
+      "tgt": "evt_pax_amarria",
+      "rel": "succeeded-by",
+      "conf": 0.7,
+      "claim": "Aidonis cycle led to Pax Amarria publication.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_dr_tukoss",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "aligned-with",
+      "conf": 0.92,
+      "claim": "Drifter-research scientist.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_dr_tukoss",
+      "tgt": "org_air_laboratories",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "AIR Labs research figure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_dr_tukoss",
+      "tgt": "org_sisters_of_eve",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Bridged AIR-Labs and SoE Anoikis programs.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_dr_tukoss",
+      "tgt": "evt_exordium_charter",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Loss pushed AIR Labs into the Exordium reorganization.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_battle_mekhios",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Amarr capital fleet at Mekhios.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_battle_mekhios",
+      "tgt": "org_minmatar_republic",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Republic forces at Mekhios.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_battle_mekhios",
+      "tgt": "evt_floseswin_battle",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "Two Imperian-Age signature battles.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_battle_mekhios",
+      "tgt": "evt_sarum_prime_destruction",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Sarum Prime destruction era.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_jove_ouria_revolt",
+      "tgt": "org_third_jove_empire",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Third Empire-era internal instability.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_jove_ouria_revolt",
+      "tgt": "phn_jovian_disease",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Disease-era social fragmentation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_caroline_grace",
+      "tgt": "phn_carolines_star",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Detected the anomaly.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_caroline_grace",
+      "tgt": "cnc_capsuleers",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Capsuleer pilot.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_ushra_khan",
+      "tgt": "org_minmatar_republic",
+      "rel": "aligned-with",
+      "conf": 0.95,
+      "claim": "Pro-Republic capsuleer alliance.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_ushra_khan",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Anti-slavery; captured the Imperial Armageddon.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_ushra_khan",
+      "tgt": "per_maleatu_shakur",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Endorsed Shakor's elevation to Sanmatar.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_ushra_khan",
+      "tgt": "phn_insorum",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Protested Republic over Insorum controversy.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_ushra_khan",
+      "tgt": "cnc_capsuleers",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Capsuleer-faction alliance.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_roden_shipyards",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Federation shipbuilder.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_roden_shipyards",
+      "tgt": "per_soraya_roden",
+      "rel": "caused-by",
+      "conf": 0.92,
+      "claim": "Family commercial success underwrote her presidential candidacy.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_roden_shipyards",
+      "tgt": "org_federation_navy",
+      "rel": "supplies",
+      "conf": 0.85,
+      "claim": "Federation Navy contracts; first privately owned Gallente Navy-spec vessel.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_constructions_revolt",
+      "tgt": "per_tibus_heth",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Heth led the labor-organizing coup.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_constructions_revolt",
+      "tgt": "org_kaalakiota",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Caldari Constructions was Kaalakiota subsidiary.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_constructions_revolt",
+      "tgt": "org_provists",
+      "rel": "caused-by",
+      "conf": 0.92,
+      "claim": "Provist regime grew from this revolt.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_constructions_revolt",
+      "tgt": "evt_malkalen_disaster",
+      "rel": "succeeded-by",
+      "conf": 0.7,
+      "claim": "Pre-Malkalen Heth ascendance phase.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_starkmanir_discovery",
+      "tgt": "org_starkmanir_tribe",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Discovery revealed the surviving population.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_starkmanir_discovery",
+      "tgt": "evt_imperian_age_starkmanir_reveal",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Discovery triggered the Imperian Age narrative cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_starkmanir_discovery",
+      "tgt": "per_idonis_ardishapur",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Ardishapur ordered the genocide that the survivors evaded.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_starkmanir_discovery",
+      "tgt": "cnc_seven_tribes",
+      "rel": "caused-by",
+      "conf": 0.92,
+      "claim": "Restored the seven-tribes structure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_starkmanir_discovery",
+      "tgt": "per_jamal_sarum",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Sarum's later proclamation welcomed the restored tribes.",
       "supporting_sources": []
     }
   ],

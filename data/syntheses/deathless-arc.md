@@ -6,6 +6,11 @@
 
 ## Events
 
+### Jovian Admiral Ouria Defection *(YC105)*
+
+YC105 Jovian Admiral Ouria went rogue — a public Jove military defection rare enough to make inter-empire news. Defeated and pursued by Jove forces; canonical signal of Third Empire-era internal instability that the Drifter emergence later magnified.
+**Cited in:** [Jovian Admiral Ouria goes rogue, is defeated (YC 105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+
 ### Drifter Crisis (final stages) *(2024)*
 
 The YC125 events that put the five empire-and-collective occupiers in possession of Drifter pillar formations. Without this crisis there is no occupier list, no destructive-testing summit, and no Jita-gate. Establishes the access list that lawyers the Caldari accusation against Gallente.
@@ -182,6 +187,7 @@ The Construct is the Jovian deep state — every Jove who matters has spent sign
 - **1×** [EVE Lore 2025 Part 1 — The Deathless (2025)](https://www.youtube.com/watch?v=rL-fHzuQ5iE)
 - **1×** [Vanguard Clash with Mordu's Legion Planetside (2025-09-18)](https://universe.eveonline.com/new-eden-news/vanguard-clash-with-mordus-legion-planetside)
 - **1×** [New Eden News - Warnings Raised Over Drifter Wormhole Experiments (YC127-10-30) (2025-10-30)](https://www.youtube.com/watch?v=hPbfRmzc1bI)
+- **1×** [Jovian Admiral Ouria goes rogue, is defeated (YC 105) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Mordu's Legion and Serpentis forces clash in Fountain (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/world-news/mordus-legion-and-guardian-angels-clash-in-fountain-region/)
 - **1×** [Mordu's Legion infiltrates Serpentis space (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/world-news/mordu-infiltrates-serpentis-space-but-avoids-conflict/)
 - **1×** [Mordu's Legion mobilizing (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/muryia-mordu-arrives-safely-at-his-headquarters-region-in-uproar/ http://community.eveonline.com/news/news-channels/world-news/mordus-legion-mobilizing-what-is-ore-up-to/)
