@@ -225,14 +225,15 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       });
     svg.call(zoom);
 
-    // Edges — line in default mode, orthogonal L-shaped polyline in subway mode.
-    // Stroke colored by relation category (see RELATION_COLOR above).
+    // Edges — always <path> now; the d attribute switches between curved
+    // bezier (default), orthogonal L-shape (subway), and lets edges
+    // visually separate when many share endpoints.
     const link = g
       .append("g")
       .attr("fill", "none")
-      .selectAll<SVGElement, SimLink>(subwayMode ? "polyline" : "line")
+      .selectAll<SVGPathElement, SimLink>("path")
       .data(simLinks)
-      .join(subwayMode ? "polyline" : "line")
+      .join("path")
       .attr("stroke", (d) => edgeColor(d.relationType))
       .attr("stroke-width", (d) =>
         subwayMode ? Math.max(2.5, d.confidence * 4.5) : Math.max(1, d.confidence * 2.5),
@@ -327,39 +328,59 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
         d3.forceCollide<SimNode>().radius((d) => radiusOf(d.id) + 8),
       );
 
+    // Auto-weaken cluster force when many edges cross type boundaries —
+    // otherwise the type-anchor pull fights the relationship gradient and
+    // edges have to stretch across regions. Below 50% cross-type edges,
+    // strong cluster (0.08) wins; above, weaken to 0.03.
     if (clusterByType) {
+      let crossType = 0;
+      for (const c of simLinks) {
+        const s = typeof c.source === "string" ? simNodes.find((n) => n.id === c.source) : (c.source as SimNode);
+        const t = typeof c.target === "string" ? simNodes.find((n) => n.id === c.target) : (c.target as SimNode);
+        if (s && t && s.type !== t.type) crossType++;
+      }
+      const crossRatio = simLinks.length > 0 ? crossType / simLinks.length : 0;
+      const clusterStrength = crossRatio > 0.5 ? 0.03 : 0.08;
       sim
-        .force("clusterX", d3.forceX<SimNode>(anchorX).strength(0.08))
-        .force("clusterY", d3.forceY<SimNode>(anchorY).strength(0.08));
+        .force("clusterX", d3.forceX<SimNode>(anchorX).strength(clusterStrength))
+        .force("clusterY", d3.forceY<SimNode>(anchorY).strength(clusterStrength));
     }
 
     const GRID = 40;
     const snap = (v: number) => Math.round(v / GRID) * GRID;
 
     sim.on("tick", () => {
-      if (subwayMode) {
-        link.attr("points", (d) => {
-          const sx = snap((d.source as SimNode).x ?? 0);
-          const sy = snap((d.source as SimNode).y ?? 0);
-          const tx = snap((d.target as SimNode).x ?? 0);
-          const ty = snap((d.target as SimNode).y ?? 0);
-          // Right-angle L-shape; pick orientation by which delta is larger
-          // so most edges read as predominantly horizontal or vertical.
+      link.attr("d", (d) => {
+        const sx0 = (d.source as SimNode).x ?? 0;
+        const sy0 = (d.source as SimNode).y ?? 0;
+        const tx0 = (d.target as SimNode).x ?? 0;
+        const ty0 = (d.target as SimNode).y ?? 0;
+        if (subwayMode) {
+          const sx = snap(sx0), sy = snap(sy0);
+          const tx = snap(tx0), ty = snap(ty0);
           const dx = Math.abs(tx - sx);
           const dy = Math.abs(ty - sy);
-          if (dx >= dy) return `${sx},${sy} ${tx},${sy} ${tx},${ty}`;
-          return `${sx},${sy} ${sx},${ty} ${tx},${ty}`;
-        });
+          if (dx >= dy) return `M ${sx},${sy} L ${tx},${sy} L ${tx},${ty}`;
+          return `M ${sx},${sy} L ${sx},${ty} L ${tx},${ty}`;
+        }
+        // Curved bezier — perpendicular offset gives parallel edges visual
+        // separation and reduces the hairball density. The offset direction
+        // is consistent (rotate +90° from edge direction), so edges in the
+        // same direction curve the same way.
+        const dx = tx0 - sx0;
+        const dy = ty0 - sy0;
+        const len = Math.max(1, Math.sqrt(dx * dx + dy * dy));
+        const offset = Math.min(28, len * 0.14);
+        const cx = (sx0 + tx0) / 2 - (dy / len) * offset;
+        const cy = (sy0 + ty0) / 2 + (dx / len) * offset;
+        return `M ${sx0},${sy0} Q ${cx},${cy} ${tx0},${ty0}`;
+      });
+      if (subwayMode) {
         node.attr(
           "transform",
           (d) => `translate(${snap(d.x ?? 0)},${snap(d.y ?? 0)})`,
         );
       } else {
-        link
-          .attr("x1", (d) => (d.source as SimNode).x ?? 0)
-          .attr("y1", (d) => (d.source as SimNode).y ?? 0)
-          .attr("x2", (d) => (d.target as SimNode).x ?? 0)
-          .attr("y2", (d) => (d.target as SimNode).y ?? 0);
         node.attr("transform", (d) => `translate(${d.x ?? 0},${d.y ?? 0})`);
       }
     });
@@ -493,6 +514,30 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
                 </option>
               ))}
             </select>
+          </div>
+
+          {/* Quick-select lens chips — one click to jump to the most
+              commonly-read narrative regions. Same state as the dropdown. */}
+          <div className="flex items-center gap-1">
+            {(["warpath-current", "lai-dai-vs-ishukone", "old-wars", "empyrean-age"] as const).map((lid) => {
+              const l = LENSES.find((x) => x.id === lid);
+              if (!l) return null;
+              const active = lensId === lid;
+              const label = lid === "warpath-current" ? "warpath" :
+                            lid === "lai-dai-vs-ishukone" ? "axis" :
+                            lid === "old-wars" ? "old wars" :
+                            "empyrean";
+              return (
+                <button
+                  key={lid}
+                  onClick={() => setLensId(active ? null : lid)}
+                  className={`px-1.5 py-0.5 border ${active ? "bg-zinc-100 text-black border-zinc-100" : "bg-zinc-900 text-zinc-400 border-zinc-700 hover:border-zinc-500"}`}
+                  title={l.description}
+                >
+                  {label}
+                </button>
+              );
+            })}
           </div>
 
           <div className="flex items-center gap-1.5 flex-wrap">
