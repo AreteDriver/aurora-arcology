@@ -121,12 +121,30 @@ export default function ArcsView({ boardId, nodes }: Props) {
 
   const lensTracks = useMemo(() => {
     return orderedLenses.map((lens, idx) => {
-      const lensNodes = lens.nodeIds
+      const baseY = TOP_PAD + idx * TRACK_H;
+      const raw = lens.nodeIds
         .map((id) => nodeById.get(id))
         .filter((n): n is Node => Boolean(n))
-        .map((n) => ({ node: n, x: xFor(n.date), y: TOP_PAD + idx * TRACK_H }))
+        .map((n) => ({ node: n, x: xFor(n.date), y: baseY }))
         .sort((a, b) => a.x - b.x);
-      return { lens, nodes: lensNodes };
+
+      // Collision avoidance — stations within 12 px on X get jittered ±5 px on Y
+      // so they don't sit on top of each other. Walk left-to-right, push down
+      // when a previous station is still in the proximity window.
+      const COLLISION_PX = 14;
+      const JITTER = 5;
+      let lastX = -Infinity;
+      let jitterDir = 1;
+      for (const s of raw) {
+        if (s.x - lastX < COLLISION_PX) {
+          s.y = baseY + jitterDir * JITTER;
+          jitterDir = -jitterDir;
+        } else {
+          jitterDir = 1;
+        }
+        lastX = s.x;
+      }
+      return { lens, nodes: raw };
     });
   }, [nodeById, orderedLenses]);
 
@@ -269,19 +287,21 @@ export default function ArcsView({ boardId, nodes }: Props) {
                   {stations.length} stations · {lens.id}
                 </text>
 
-                {/* Connecting polyline (the line itself) */}
+                {/* Connecting polyline through actual station positions
+                    (respects the jitter from collision avoidance) */}
                 {stations.length > 1 && (
                   <polyline
-                    points={stations.map((s) => `${s.x},${y}`).join(" ")}
+                    points={stations.map((s) => `${s.x},${s.y}`).join(" ")}
                     fill="none"
                     stroke={color}
                     strokeWidth={4}
                     strokeLinecap="round"
+                    strokeLinejoin="round"
                   />
                 )}
 
-                {/* Stations */}
-                {stations.map(({ node, x }) => {
+                {/* Stations — at the (possibly-jittered) station position */}
+                {stations.map(({ node, x, y: stationY }) => {
                   const lensCount = lensesByNode.get(node.id)?.length ?? 1;
                   const isHub = lensCount >= 2;
                   const r = isHub ? HUB_R : STATION_R;
@@ -296,7 +316,7 @@ export default function ArcsView({ boardId, nodes }: Props) {
                       <a href={`/boards/${boardId}#${node.id}`}>
                         <circle
                           cx={x}
-                          cy={y}
+                          cy={stationY}
                           r={r + (sel ? 2 : 0)}
                           fill={color}
                           stroke={isHub ? "#fff" : TYPE_COLOR[node.type] ?? "#888"}
@@ -317,7 +337,9 @@ export default function ArcsView({ boardId, nodes }: Props) {
             );
           })}
 
-          {/* Interchange verticals — connect stations of same node across tracks */}
+          {/* Interchange tubes — soft white curves connecting stations of the
+              same node across tracks. Replaces the earlier dashed line with a
+              cleaner transit-map look. */}
           {Array.from(lensesByNode.entries()).map(([nodeId, lensIds]) => {
             if (lensIds.length < 2) return null;
             const node = nodeById.get(nodeId);
@@ -330,17 +352,20 @@ export default function ArcsView({ boardId, nodes }: Props) {
             const yMin = Math.min(...ys);
             const yMax = Math.max(...ys);
             const sel = hoverNodeId === nodeId;
+            // Slight horizontal bow so multiple interchanges at similar X
+            // visually separate. Use a quadratic bezier with control point
+            // offset by ±3 px depending on node-id parity.
+            const offset = (nodeId.charCodeAt(0) % 2 === 0 ? 1 : -1) * 4;
+            const cx = x + offset;
+            const cy = (yMin + yMax) / 2;
             return (
-              <line
+              <path
                 key={`xc-${nodeId}`}
-                x1={x}
-                y1={yMin}
-                x2={x}
-                y2={yMax}
+                d={`M ${x},${yMin} Q ${cx},${cy} ${x},${yMax}`}
+                fill="none"
                 stroke="#fff"
-                strokeWidth={sel ? 2 : 1}
-                strokeDasharray="2,3"
-                opacity={sel ? 0.9 : 0.35}
+                strokeWidth={sel ? 2.5 : 1.2}
+                opacity={sel ? 0.9 : 0.4}
                 pointerEvents="none"
               />
             );
