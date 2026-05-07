@@ -91,6 +91,7 @@ export const LENSES: Lens[] = [
       "cnc_empyrean_age",
       "evt_capsuleer_day",
       "art_nyx_mothership",
+      "phn_drifter_battleship",
     ],
   },
   {
@@ -141,6 +142,8 @@ export const LENSES: Lens[] = [
       "fac_civire",
       "fac_deteis",
       "fac_caldari",
+      "per_marcus_jror",
+      "per_vince_barthelo",
     ],
   },
   {
@@ -230,6 +233,10 @@ export const LENSES: Lens[] = [
       "evt_caldari_liberation_day",
       "evt_liberation_day",
       "evt_federation_day",
+      "per_arrach_sarum",
+      "art_servitor_superweapon",
+      "evt_starkmanir_mass_driver",
+      "per_kresh",
     ],
   },
   {
@@ -281,6 +288,9 @@ export const LENSES: Lens[] = [
       "evt_hilen_tukoss_defection",
       "art_world_ark",
       "cnc_empyrean_age",
+      "phn_drifter_battleship",
+      "phn_sleeper_drone",
+      "cnc_three_quintons",
     ],
   },
   {
@@ -381,6 +391,8 @@ export const LENSES: Lens[] = [
       "org_society_of_conscious_thought",
       "art_world_ark",
       "cnc_empyrean_age",
+      "per_sansha_kuvakei_ii",
+      "cnc_three_quintons",
     ],
   },
   {
@@ -426,6 +438,8 @@ export const LENSES: Lens[] = [
       "fac_caldari",
       "art_nyx_mothership",
       "evt_caldari_liberation_day",
+      "per_marcus_jror",
+      "per_vince_barthelo",
     ],
   },
   {
@@ -508,6 +522,9 @@ export const LENSES: Lens[] = [
       "fac_khanid",
       "art_avatar_titan",
       "cnc_pax_amarria_doctrine",
+      "per_arrach_sarum",
+      "art_servitor_superweapon",
+      "evt_starkmanir_mass_driver",
     ],
   },
   {
@@ -541,6 +558,7 @@ export const LENSES: Lens[] = [
       "plc_great_wildlands",
       "org_dread_guristas",
       "fac_minmatar",
+      "per_sansha_kuvakei_ii",
     ],
   },
   {
