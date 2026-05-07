@@ -15872,6 +15872,230 @@
       "conf": 0.85,
       "claim": "Amarr-loyalist alliance.",
       "supporting_sources": []
+    },
+    {
+      "src": "org_paxton_federation",
+      "tgt": "org_northern_coalition",
+      "rel": "opposed-to",
+      "conf": 0.6,
+      "claim": "Capsuleer-alliance bloc rivalry.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_paxton_federation",
+      "tgt": "org_24th_imperial_crusade",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Both Amarr-loyalist capsuleer factions.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_outer_ring",
+      "tgt": "org_northern_coalition",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Northern null-sec bloc territory.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_state_protectorate",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "FW militia recognized under capsuleer-alliance umbrella.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_federal_defense_union",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "FW militia.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_24th_imperial_crusade",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "FW militia.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_tribal_liberation_force",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "FW militia.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_erebus_titan",
+      "tgt": "art_avatar_titan",
+      "rel": "opposed-to",
+      "conf": 0.65,
+      "claim": "Federation vs Empire Titan classes.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_erebus_titan",
+      "tgt": "art_ragnarok_titan",
+      "rel": "parallels",
+      "conf": 0.65,
+      "claim": "Cross-empire Titan-class capital ships.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_subcranial_nano",
+      "tgt": "art_avatar_titan",
+      "rel": "aligned-with",
+      "conf": 0.6,
+      "claim": "Capsuleer-pilot enabling tech for capital-class operations.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_capsuleer_training_relocation",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Recognized capsuleer-alliance population relocated.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_avatar_titan",
+      "tgt": "cnc_capsuleers",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Capsuleer-piloted Amarr capital-class.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_soraya_roden",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Capsuleer-influence-election candidate.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_caroline_grace",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "Capsuleer-pilot political actor.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_paxton_federation",
+      "tgt": "art_imperial_armageddon",
+      "rel": "opposed-to",
+      "conf": 0.65,
+      "claim": "Amarr-loyalist alliance witnessed Empire's Armageddon-class loss to Ushra'Khan.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_marcus_jror",
+      "tgt": "per_alexander_noir",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Templar-program operative responding to Malkalen-era plot.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_vince_barthelo",
+      "tgt": "per_alexander_noir",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Templar operative recovering Insorum after Malkalen.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_subcranial_nano",
+      "tgt": "phn_clone_soldier_tech",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Subcranial-nano-implant tech is foundational to clone-soldier hardware.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_salvador_sarpati",
+      "tgt": "per_sansha_kuvakei_ii",
+      "rel": "aligned-with",
+      "conf": 0.55,
+      "claim": "Sansha-Serpentis collaboration via Salvador.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_deathless",
+      "tgt": "phn_true_slaves",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Forced-merger tech template.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_construct",
+      "tgt": "phn_true_slaves",
+      "rel": "parallels",
+      "conf": 0.65,
+      "claim": "Both centralized-merger consciousness frameworks.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_arzad_hamri",
+      "tgt": "per_jamal_sarum",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "Both pre-restoration tribal figures.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_anaras_ult",
+      "tgt": "per_alika_valkanir",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "Tribal-restoration era figures.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_dr_tukoss",
+      "tgt": "org_thukker_tribe",
+      "rel": "parallels",
+      "conf": 0.6,
+      "claim": "Both worked Anoikis-research / wormhole-strategy adjacent to Triglavians.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_hilen_tukoss_defection",
+      "tgt": "org_air_laboratories",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Tukoss defection led to AIR Labs reorganization.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_arrach_sarum",
+      "tgt": "evt_warpath_protocol_failure",
+      "rel": "opposed-to",
+      "conf": 0.6,
+      "claim": "Sarum heir surfaces in Triglavian/Warpath response cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_semiki_biohazard",
+      "tgt": "org_caldari_state",
+      "rel": "caused-by",
+      "conf": 0.6,
+      "claim": "State pharma scandal.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_roden_shipyards",
+      "tgt": "per_celestis_aguard",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "Federation political-industrial alignment.",
+      "supporting_sources": []
     }
   ],
   "_curation_notes": [
