@@ -1,0 +1,357 @@
+# Old Wars / Imperian Age
+
+> Day of Darkness, Starkmanir genocide, Mimitar Rebellion, Elder Fleet, Imperian Age reveal, Ammatar redemption.
+
+*Source-grounded synthesis. Curator-authored claim text, deduplicated. Every citation traces to a primary source.*
+
+## Events
+
+### Day of Darkness
+
+The Amarr first-contact-and-conquest of Matar. Mythologized as a literal darkening of the sun; canonically the destruction of Matari space infrastructure followed by centuries of slavery. Origin point for every downstream Mimitar–Amarr conflict including the YC128 Warpath cross-incursions.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Ammatars](https://universe.eveonline.com/chronicles/the-ammatars) · [The Day of Darkness](https://universe.eveonline.com/chronicles/the-day-of-darkness)
+
+### Mimitar Great Rebellion
+
+The 250-year-delayed answer to the Starkmanir genocide. A Mimitar slave's seizure of an Amarr Khoumak became the rebellion's iconic moment; Galente assistance enabled the formation of the Mimitar Republic. Without this event there is no four-empire structure for Warpath to fracture.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Empress Jamyl Murdered by Drifters
+
+Empress Jamyl I murdered by Drifters mid-incursion. Triggered the Amarr championship that Khanid II lost (forcing him into sheal-sin) and that Catiz I won. Without Jamyl's death there is no Catiz, no current Amarr posture, no 'Mandate of Faith' SKIN flavor invoking her call.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [EVE: The Empyrean Age (Tony Gonzales)](https://www.eveonline.com/news/view/the-empyrean-age)
+
+### Kantar Yun's CONCORD Hypocrisy Speech
+
+Mimitar ambassador Kantar Yun called out CONCORD publicly for protecting Amarr slavery. After the speech, the Mimitar Elders pulled him aside and revealed the secret Elder Fleet project. The speech is the catalyst that converts him from diplomat to revolutionary fellow-traveler.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Khanid II Forced to Sheal-Sin
+
+Khanid II — who had previously avoided sheal-sin by defecting to form the Khanid Kingdom — lost the post-Jamyl championship and was finally forced to perform the ritual. Closes the centuries-long Khanid avoidance arc and structurally subordinates the Khanid Kingdom to Catiz's authority.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Bombardment of Starkmanir Prime
+
+Idonis Ardishapur's Tachyon orbital bombardment of Starkmanir Prime in retaliation for his father's death. Eradicated the largest Mimitar tribe — apparently. The genocide lit a 250-year fuse to the Great Rebellion and is the founding grievance of the modern Republic.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [Lost Stars](https://universe.eveonline.com/chronicles/lost-stars)
+
+### Ammatar Mass Defection *(YC110)*
+
+Anaras Ult enabled mass Ammatar defection back to the Republic during the Elder Fleet operation. Slave owners and Navy alike crossed over with their Starkmanir charges. Demonstrated that the Mandate's Nefantar leadership had been long-game protecting Starkmanir — partial redemption of the Ammatar treachery narrative.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Ammatars](https://universe.eveonline.com/chronicles/the-ammatars)
+
+### Starkmanir Liberation (Imperian Age) *(YC110)*
+
+The YC110 Elder Fleet operation that liberated the Starkmanir from the Ammatar Mandate. Forms the historical bookend to the Mil-Campaign #2 region — the previous time CONCORD's framework failed to constrain inter-empire violence over the Mandate.
+**Cited in:** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [The Ammatars](https://universe.eveonline.com/chronicles/the-ammatars)
+
+### Sarum Prime Superweapon Strike *(YC110)*
+
+Empress Jamyl I deployed her then-secret superweapon to destroy one Elder Fleet strike group at Sarum Prime. The other two strike groups simultaneously rescued Starkmanir and defecting Nefantar from the Mandate. Established Jamyl's superweapon as canon — a precedent that informs the Catalyst-era doomsday site rollout.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Sisters of EVE Reveal Starkmanir Survivors *(YC110)*
+
+YC110 Sisters of Eve announcement that Starkmanir survivors were alive on Hzeron in the Ammatar Mandate. Forced the hand of the Nefantar conspirators and triggered the Elder Fleet rescue. The reveal is what bridged the Old Wars to the Imperian Age and made the Ammatar-as-secret-protectors framing canonical.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+## Persons
+
+### Alika Valkanir
+
+Chief of the restored Nefantar tribe (chosen YC115). Symbolic anchor of the post-Imperian-Age Nefantar reintegration — and the figure any future Mil-Campaign #2 narrative would have to either fold into Republic legitimacy or split off.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Anaras Ult
+
+Ammatar Consul-Governor at the time of the Elder Fleet attack. Nefantar conspirator who actively enabled the mass Ammatar defection back to the Republic. The political face of the Nefantar long-game protection of the Starkmanir.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Archon Ardishapur
+
+Orthodox Amarr royal heir. Replaced the liberal Arzad Hamri as holder of Starkmanir. His religious crackdown triggered the Starkmanir uprising; he was killed in it, which provoked his son's bombardment of Starkmanir Prime.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Arzad Hamri
+
+Liberal Amarr holder of Starkmanir who tolerated their heretical interpretation of the Amarr faith. Executed by orthodox authorities and replaced by Archon Ardishapur. His removal is the proximate cause of the Starkmanir genocide.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Empress Catiz I
+
+Amarr Empress. Took the throne after Jamyl's drifter-assassination. Cast blame on the Republic during Warpath escalation. The 'Mandate of Faith' SKIN attributed to her call positions her as the figurehead of an emerging Amarr-side Mil-Campaign #2.
+**Cited in:** [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Amarr Empire Celebrates Catiz I's Second Year as Empress with Military Parade](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-catiz-is-second-year-as-empress-with-military-parade) · [Amarr Empire Looks Forward to First Jubilee of Coronation of Empress Catiz I](https://universe.eveonline.com/new-eden-news/amarr-empire-looks-forward-to-first-jubilee-of-coronation-of-empress-catiz-i) · [Amarr Succession Committee Announces September Date for Coronation of Empress Catiz I](https://universe.eveonline.com/new-eden-news/amarr-succession-committee-announces-september-date-for-coronation-of-empress-catiz-i) · [Catiz I Addresses Capsuleers And Imperial Guard after Historic Day In Dam-Torsad](https://universe.eveonline.com/new-eden-news/catiz-i-addresses-capsuleers-and-imperial-guard-after-historic-day-in-dam-torsad) · [Coronation of Empress Catiz I to take place tomorrow in Dam-Torsad](https://universe.eveonline.com/new-eden-news/coronation-of-empress-catiz-i-to-take-place-tomorrow-in-dam-torsad) · [Empress Catiz I Honors Amarr Loyalist Capsuleer Groups PIE and CVA, and Responds to Petitions](https://universe.eveonline.com/new-eden-news/empress-catiz-i-honors-amarr-loyalist-capsuleer-groups-pie-and-cva-and-responds-to-petitions) · [Empress Catiz I Revokes Heideran Decree and Announces Sweeping Territorial and Military Reorganization](https://universe.eveonline.com/new-eden-news/empress-catiz-i-revokes-heideran-decree-and-announces-sweeping-territorial-and-military-reorganization)
+
+### Emperor Damyas III
+
+The Amarr emperor who bestowed the 'Ammatar' honorific on the Nefantar tribe in recognition of their loyalty during the Mimitar enslavement era. The naming event that makes the Mandate possible — and the act that frames the Nefantar as both traitor and trusted vassal.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Idonis Ardishapur
+
+Son of Archon Ardishapur. Ordered the orbital bombardment that annihilated Starkmanir Prime. The Ardishapur house remains a major Amarr political bloc named for him.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [Idonis Ardishapur: "No undeserving creature can represent us" - Journalist missing](https://universe.eveonline.com/new-eden-news/idonis-ardishapur-no-undeserving-creature-can-represent-us-journalist-missing)
+
+### Jamal Sarum
+
+Issued the post-Elder-Fleet proclamation welcoming Starkmanir, Thukker, and Nefantar back into the Mimitar Republic. The legal-rhetorical act that made the tribal restoration canonical.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Empress Jamyl I
+
+Wielded the Sarum Prime superweapon against the Elder Fleet. Later murdered by Drifters. Catiz I succeeded her. Jamyl's superweapon is canonical proof that empires sit on weapons CONCORD can't constrain — the structural ancestor of the Catalyst-era doomsday site.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [Amarr Empire Celebrates the Reign of Empress Jamyl I with State Funeral](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-the-reign-of-empress-jamyl-i-with-state-funeral) · [CONCORD and New Eden Powers React to Death of Empress Jamyl I](https://universe.eveonline.com/new-eden-news/concord-and-new-eden-powers-react-to-death-of-empress-jamyl-i) · [Court Chamberlain Confirms Death Of Empress Jamyl I](https://universe.eveonline.com/new-eden-news/court-chamberlain-confirms-death-of-empress-jamyl-i) · [Empress Jamyl I announces Empire intent to welcome clone soldiers with open arms](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-announces-empire-intent-to-welcome-clone-soldiers-with-open-arms) · [Empress Jamyl I becoming increasingly erratic, reports say](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-becoming-increasingly-erratic-reports-say) · [Empress Jamyl I begins reign](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-begins-reign) · [EMPRESS JAMYL I MAKES HISTORIC EMANCIPATION ANNOUNCEMENT](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-makes-historic-emancipation-announcement) · [Empress Jamyl I meets with King Khanid II](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-meets-with-king-khanid-ii) · [Empress Jamyl I Visits Amarr Navy Headquarters](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-visits-amarr-navy-headquarters) · [State Funeral of Empress Jamyl I Announced by Court Chamberlain](https://universe.eveonline.com/new-eden-news/state-funeral-of-empress-jamyl-i-announced-by-court-chamberlain)
+
+### Kantar Yun
+
+Mimitar ambassador to CONCORD. His public hypocrisy speech triggered the chain that led the Mimitar Elders to reveal the secret Elder Fleet project to him. Continues to play diplomatic spoiler roles into the YC120 Kahah crisis.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Karin Midular
+
+Mimitar Sanmatar of the CONCORD-protest era. Pursued peace and appeasement with Amarr — controversial within the Republic because it sidelined the still-enslaved population. Her track was the structural backdrop the Elders worked around when building the Elder Fleet.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [Former Minmatar prime minister Karin Midular confirmed among Caille wounded](https://universe.eveonline.com/new-eden-news/former-minmatar-prime-minister-karin-midular-confirmed-among-caille-wounded) · [Karin Midular Funeral Takes Place on Mikramurka Steppes](https://universe.eveonline.com/new-eden-news/karin-midular-funeral-takes-place-on-mikramurka-steppes) · [Karin Midular has died](https://universe.eveonline.com/new-eden-news/karin-midular-has-died) · [Karin Midular in coma; Republic demands transfer](https://universe.eveonline.com/new-eden-news/karin-midular-in-coma-republic-demands-transfer) · [Karin Midular released into Republic care; remains critical](https://universe.eveonline.com/new-eden-news/karin-midular-released-into-republic-care-remains-critical) · [Karin Midular to be lain in repose](https://universe.eveonline.com/new-eden-news/karin-midular-to-be-lain-in-repose) · [Karin Midular to undergo emergency surgery](https://universe.eveonline.com/new-eden-news/karin-midular-to-undergo-emergency-surgery) · [REPORT: KARIN MIDULAR DISSOLVES PARLIAMENT, OUSTS SHAKOR AND YUN FROM GOVERNMENT](https://universe.eveonline.com/new-eden-news/report-karin-midular-dissolves-parliament-ousts-shakor-and-yun-from-government)
+
+### Khanid II
+
+Defected from Amarr ~200+ years ago to avoid sheal-sin after his first championship loss; founded the Khanid Kingdom. Lost the post-Jamyl championship and was finally forced to perform the ritual. His arc closes the long-running Khanid-as-rebel-kingdom narrative.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Khanid Kingdom](https://universe.eveonline.com/chronicles/the-khanid-kingdom) · [Empress Jamyl I meets with King Khanid II](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-meets-with-king-khanid-ii) · [King Khanid II departs Tash-Murkon Prime, arrives in Amarr](https://universe.eveonline.com/new-eden-news/king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr)
+
+## Organizations
+
+### Elder Fleet
+
+Three-strike-group Mimitar dreadnought-heavy navy built in secret with Thukker money and Mimitar Elder direction. One strike group destroyed at Sarum Prime; two rescued Starkmanir + Nefantar from the Mandate. The original instance of empire-scale covert military buildup.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [BREAKING NEWS: ELDER FLEET OVER MEKHIOS DESTROYED](https://universe.eveonline.com/new-eden-news/breaking-news-elder-fleet-over-mekhios-destroyed) · [REPORT: ELDER FLEET ALLOWED TO PASS THROUGH REPUBLIC SPACE UNCONTESTED](https://universe.eveonline.com/new-eden-news/report-elder-fleet-allowed-to-pass-through-republic-space-uncontested)
+
+### Mimitar Elders
+
+Mythological progenitor council of the seven tribes. Believed lost; secretly active. Funded the Elder Fleet through Thukker channels. The organizational shape of the Mimitar deep state.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+## Factions
+
+### Ammatar Mandate
+
+Nefantar-administered Amarr buffer state between Amarr and Minmatar highsec. Mil-Campaign #2 candidate zone per Ash. The Mandate's existence depends on Damyas III's honorific and is structurally always one historical reveal away from being unmade.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Seven Tribes of the Mimitar Republic](https://www.youtube.com/@Ashterothi) · [The Ammatars](https://universe.eveonline.com/chronicles/the-ammatars) · [Amarr officials in discussions with the Ammatar Consulate](https://universe.eveonline.com/new-eden-news/amarr-officials-in-discussions-with-the-ammatar-consulate) · [Ammatar Fleet Launches First 'Yonis Variant' Abaddon from Sasta Shipyards](https://universe.eveonline.com/new-eden-news/ammatar-fleet-launches-first-yonis-variant-abaddon-from-sasta-shipyards) · [Ammatar Governor comments on Matari/Ammatar Talks](https://universe.eveonline.com/new-eden-news/ammatar-governor-comments-on-matariammatar-talks) · [Ammatar Mandate Food Production Restored to Pre-Invasion Levels](https://universe.eveonline.com/new-eden-news/ammatar-mandate-food-production-restored-to-pre-invasion-levels) · [Ammatar Navy defections reported](https://universe.eveonline.com/new-eden-news/ammatar-navy-defections-reported) · [Ammatar Scientist downed in Huola system](https://universe.eveonline.com/new-eden-news/ammatar-scientist-downed-in-huola-system) · [Ammatar scientist safely extracted from Huola](https://universe.eveonline.com/new-eden-news/ammatar-scientist-safely-extracted-from-huola) · [Ardishapur begins initial moves to take control of Ammatar Mandate](https://universe.eveonline.com/new-eden-news/ardishapur-begins-initial-moves-to-take-control-of-ammatar-mandate) · [Ardishapur Consolidation in Ammatar Mandate Welcomed by Populace](https://universe.eveonline.com/new-eden-news/ardishapur-consolidation-in-ammatar-mandate-welcomed-by-populace) · [Ardishapur names new Ammatar Fleet leadership](https://universe.eveonline.com/new-eden-news/ardishapur-names-new-ammatar-fleet-leadership) · [Arms Factory Saboteur Captured; Ammatar Link Exposed](https://universe.eveonline.com/new-eden-news/arms-factory-saboteur-captured-ammatar-link-exposed) · [BREAKING NEWS: LARGE STARKMANIR SLAVE POPULATION DISCOVERED IN AMMATAR CONSULATE](https://universe.eveonline.com/new-eden-news/breaking-news-large-starkmanir-slave-population-discovered-in-ammatar-consulate) · [CHAMBERLAIN KARSOTH PLEDGES HELP TO PRESERVE STARKMANIR; AMMATAR CONSULATE CLAIMS NO ADVANCED KNOWLEDGE OF LOST TRIBE](https://universe.eveonline.com/new-eden-news/chamberlain-karsoth-pledges-help-to-preserve-starkmanir-ammatar-consulate-claims-no-advanced-knowledge-of-lost-tribe) · [Empress Jamyl places Ammatar Mandate under Ardishapur vassalage](https://universe.eveonline.com/new-eden-news/empress-jamyl-places-ammatar-mandate-under-ardishapur-vassalage) · [Former Ammatar Elite speak about defecting to the Republic](https://universe.eveonline.com/new-eden-news/former-ammatar-elite-speak-about-defecting-to-the-republic) · [Governor of Ammatar Mandate Elevated to Holder Rank; Ardishapur and Sarum Houses Hold Summit Amidst Ceremonies](https://universe.eveonline.com/new-eden-news/governor-of-ammatar-mandate-elevated-to-holder-rank-ardishapur-and-sarum-houses-hold-summit-amidst-ceremonies) · [Hospitals and Religious Buildings to be Constructed in Ammatar 'Body and Soul' Program](https://universe.eveonline.com/new-eden-news/hospitals-and-religious-buildings-to-be-constructed-in-ammatar-body-and-soul-program) · [Minmatar to rise above hatred: Midular speaks on discovery of Republic Parliament's secret talks with Ammatar Consulate](https://universe.eveonline.com/new-eden-news/minmatar-to-rise-above-hatred-midular-speaks-on-discovery-of-republic-parliaments-secret-talks-with-ammatar-consulate) · [New Ammatar Fleet Security Taskforce Begins Patrol of Republic Border](https://universe.eveonline.com/new-eden-news/new-ammatar-fleet-security-taskforce-begins-patrol-of-republic-border) · [New Governor Takes Up Duties in Ammatar Mandate](https://universe.eveonline.com/new-eden-news/new-governor-takes-up-duties-in-ammatar-mandate) · [Orthodox Amarr Faith Increasingly Supplanting Ammatar Church](https://universe.eveonline.com/new-eden-news/orthodox-amarr-faith-increasingly-supplanting-ammatar-church) · [Penal Brigade Drawn from Ammatar Mandate Sent to Support 24th Imperial Crusade](https://universe.eveonline.com/new-eden-news/penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade) · [Political Vacuum in Ammatar Mandate Continues; Populace in Turmoil](https://universe.eveonline.com/new-eden-news/political-vacuum-in-ammatar-mandate-continues-populace-in-turmoil) · [REPORT: Minmatar-Thukker Armada Invades Ammatar Mandate](https://universe.eveonline.com/new-eden-news/report-minmatar-thukker-armada-invades-ammatar-mandate) · [“Slave Farm” Scandal Investigation Exposes Amarr and Ammatar Plot](https://universe.eveonline.com/new-eden-news/slave-farm-scandal-investigation-exposes-amarr-and-ammatar-plot) · [Slave Repatriation Convoy Breaches Ammatar Border](https://universe.eveonline.com/new-eden-news/slave-repatriation-convoy-breaches-ammatar-border) · [Tash-Murkon Holder to move to Ammatar Mandate](https://universe.eveonline.com/new-eden-news/tash-murkon-holder-to-move-to-ammatar-mandate) · [Trade on Ammatar-Minmatar Border Halts as Authorities Impose Order](https://universe.eveonline.com/new-eden-news/trade-on-ammatar-minmatar-border-halts-as-authorities-impose-order) · [Yonis Ardishapur Appoints Ammatar Civil Servant as Mandate Governor](https://universe.eveonline.com/new-eden-news/yonis-ardishapur-appoints-ammatar-civil-servant-as-mandate-governor) · [Yonis Ardishapur arrests head of Ammatar Fleet](https://universe.eveonline.com/new-eden-news/yonis-ardishapur-arrests-head-of-ammatar-fleet)
+
+### Khanid Kingdom
+
+Third tier of Amarr space. Defected ~200 years ago under Khanid II. Hosts the brutal 19th Royal Uolans. Strong Lai Dai ties per Ash. Its tier-three status makes it the political wedge Lai Dai works through inside the Empire.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Khanid Kingdom](https://universe.eveonline.com/chronicles/the-khanid-kingdom) · [Amarr Navy Forces in Combat with Drifters in Khanid Kingdom](https://universe.eveonline.com/new-eden-news/amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom) · [Caldari Trade Mission Visits Khanid Kingdom, Meets With Tash-Murkon](https://universe.eveonline.com/new-eden-news/caldari-trade-mission-visits-khanid-kingdom-meets-with-tash-murkon) · [CBD Accuses Ishukone of Unfair Competition in the Khanid Kingdom](https://universe.eveonline.com/new-eden-news/cbd-accuses-ishukone-of-unfair-competition-in-the-khanid-kingdom) · [Drifter Incursion into the Khanid Kingdom](https://universe.eveonline.com/new-eden-news/drifter-incursion-into-the-khanid-kingdom) · [Intaki Claim "Lost Idama" Discovered in Khanid Kingdom](https://universe.eveonline.com/new-eden-news/intaki-claim-lost-idama-discovered-in-khanid-kingdom) · [Ishukone and Khanid Kingdom sign multitrillion trade deal on Transcranial Microcontrollers](https://universe.eveonline.com/new-eden-news/ishukone-and-khanid-kingdom-sign-multitrillion-trade-deal-on-transcranial-microcontrollers) · [Khanid Kingdom fortifies borders](https://universe.eveonline.com/new-eden-news/khanid-kingdom-fortifies-borders) · [Khanid Kingdom granted Privy Council seat](https://universe.eveonline.com/new-eden-news/khanid-kingdom-granted-privy-council-seat) · [Khanid Kingdom stands down Navy, Mordu follows suit](https://universe.eveonline.com/new-eden-news/khanid-kingdom-stands-down-navy-mordu-follows-suit) · [Khanid Kingdom strenuously denies ill treatment of slaves](https://universe.eveonline.com/new-eden-news/khanid-kingdom-strenuously-denies-ill-treatment-of-slaves) · [Major Chemical Weapons Attacks in Khanid Kingdom; Queen Zidarez Missing; Slave Revolts Reported](https://universe.eveonline.com/new-eden-news/major-chemical-weapons-attacks-in-khanid-kingdom-queen-zidarez-missing-slave-revolts-reported) · [Tash-Murkon Navy Officers Honored By Khanid Kingdom](https://universe.eveonline.com/new-eden-news/tash-murkon-navy-officers-honored-by-khanid-kingdom)
+
+### Starkmanir Tribe
+
+Restored Minmatar tribe. Hidden by Nefantar / Ammatar through the Old Wars. Subject of the new 'Starkmanir Strategic Wing' SKIN that pairs with 'Mandate of Faith' to tea-leaf the Mil-Campaign #2 zone.
+**Cited in:** [The Seven Tribes of the Mimitar Republic](https://www.youtube.com/@Ashterothi) · [Lost Stars](https://universe.eveonline.com/chronicles/lost-stars) · [The Ammatars](https://universe.eveonline.com/chronicles/the-ammatars) · [Hoboleaks — Warpath Cycle Items](https://sde.hoboleaks.space/) · [BREAKING NEWS: LARGE STARKMANIR SLAVE POPULATION DISCOVERED IN AMMATAR CONSULATE](https://universe.eveonline.com/new-eden-news/breaking-news-large-starkmanir-slave-population-discovered-in-ammatar-consulate) · [CHAMBERLAIN KARSOTH PLEDGES HELP TO PRESERVE STARKMANIR; AMMATAR CONSULATE CLAIMS NO ADVANCED KNOWLEDGE OF LOST TRIBE](https://universe.eveonline.com/new-eden-news/chamberlain-karsoth-pledges-help-to-preserve-starkmanir-ammatar-consulate-claims-no-advanced-knowledge-of-lost-tribe) · [GOVERNMENT INACTION WITH STARKMANIR, DISSOLVED PARLIAMENT TRIGGERS RIOTS](https://universe.eveonline.com/new-eden-news/government-inaction-with-starkmanir-dissolved-parliament-triggers-riots) · [Many Starkmanir Refugees Finding New Life Difficult](https://universe.eveonline.com/new-eden-news/many-starkmanir-refugees-finding-new-life-difficult) · [Mercenary raid on Starkmanir colony of Vard VII repelled by independent mercs hired by Sebiestor Field Sappers](https://universe.eveonline.com/new-eden-news/mercenary-raid-on-starkmanir-colony-of-vard-vii-repelled-by-independent-mercs-hired-by-sebiestor-field-sappers) · [MIDULAR FINALLY ACKNOWLEDGES STARKMANIR NEWS](https://universe.eveonline.com/new-eden-news/midular-finally-acknowledges-starkmanir-news) · [Paramilitary Organization Pledges To Protect Starkmanir Sages](https://universe.eveonline.com/new-eden-news/paramilitary-organization-pledges-to-protect-starkmanir-sages) · [Sanmatar Shakor affirms Starkmanir, Nefantar Tribal Chiefs](https://universe.eveonline.com/new-eden-news/sanmatar-shakor-affirms-starkmanir-nefantar-tribal-chiefs) · [Starkmanir, Nefantar Face Uphill Battle in Minmatar Politics](https://universe.eveonline.com/new-eden-news/starkmanir-nefantar-face-uphill-battle-in-minmatar-politics) · [Starkmanir Religious Leader Killed In Violent Riot](https://universe.eveonline.com/new-eden-news/starkmanir-religious-leader-killed-in-violent-riot) · [Tensions Over Land Increase as Starkmanir and Nefantar Press Claims](https://universe.eveonline.com/new-eden-news/tensions-over-land-increase-as-starkmanir-and-nefantar-press-claims) · [The Lost Tribe: Starkmanir Creating New Cultural Identity](https://universe.eveonline.com/new-eden-news/the-lost-tribe-starkmanir-creating-new-cultural-identity)
+
+### Thukker Tribe
+
+Most distant Minmatar tribe. Operates in Great Wildlands. Wormhole-interested. Some clans defected to Deathless. Anar Abdul leads. Treated as Minmatar-side equivalent of the Intaki Syndicate — independent, monetized, and structurally hard to govern.
+**Cited in:** [The Seven Tribes of the Mimitar Republic](https://www.youtube.com/@Ashterothi) · [Boundless Creation plays host to delegation from Thukker Mix](https://universe.eveonline.com/new-eden-news/boundless-creation-plays-host-to-delegation-from-thukker-mix) · [BREAKING NEWS: Minmatar-Thukker Fleet Reappears in Yulai – Stargates Shut Down](https://universe.eveonline.com/new-eden-news/breaking-news-minmatar-thukker-fleet-reappears-in-yulai-stargates-shut-down) · [BREAKING NEWS: Minmatar-Thukker Ragnarok Titan Jumps into Jarizza, Dropships Reportedly Landing on Halturzhan](https://universe.eveonline.com/new-eden-news/breaking-news-minmatar-thukker-ragnarok-titan-jumps-into-jarizza-dropships-reportedly-landing-on-halturzhan) · [BREAKING NEWS: Mystery Armada Containing Thukker Tribe Warships Surround CONCORD Bureau Station](https://universe.eveonline.com/new-eden-news/breaking-news-mystery-armada-containing-thukker-tribe-warships-surround-concord-bureau-station) · [Commerce Between Thukker Tribe and Minmatar Republic Increasing](https://universe.eveonline.com/new-eden-news/commerce-between-thukker-tribe-and-minmatar-republic-increasing) · [Crime Lord Krullefor Detained by Thukker Fleet, 'Will Not Be Extradited'](https://universe.eveonline.com/new-eden-news/crime-lord-krullefor-detained-by-thukker-fleet-will-not-be-extradited) · [Gallente Customs React Cautiously to Republic-Thukker 'Open Borders'](https://universe.eveonline.com/new-eden-news/gallente-customs-react-cautiously-to-republic-thukker-open-borders) · [Intertribal Tensions Plague Resettled Thukker](https://universe.eveonline.com/new-eden-news/intertribal-tensions-plague-resettled-thukker) · [Konora Officials Arrested on Corruption Charges, Thukker 'Wormhole Strategy' Revealed](https://universe.eveonline.com/new-eden-news/konora-officials-arrested-on-corruption-charges-thukker-wormhole-strategy-revealed) · [Minmatar and Thukker Trade Routes Increasingly Threatened by 'Breakaway' Angels](https://universe.eveonline.com/new-eden-news/minmatar-and-thukker-trade-routes-increasingly-threatened-by-breakaway-angels) · [Minmatar Republic and Thukker Tribe announce open border policy.](https://universe.eveonline.com/new-eden-news/minmatar-republic-and-thukker-tribe-announce-open-border-policy) · [Minmatar Republic, Thukker Tribe Launch Joint Manhunt](https://universe.eveonline.com/new-eden-news/minmatar-republic-thukker-tribe-launch-joint-manhunt) · [Minmatar Search For Thukker Caravan; Unable to Respond Significantly to Seyllin Disaster](https://universe.eveonline.com/new-eden-news/minmatar-search-for-thukker-caravan-unable-to-respond-significantly-to-seyllin-disaster) · [Minmatar-Thukker Task Force Drives Renegade Angels out of Konora](https://universe.eveonline.com/new-eden-news/minmatar-thukker-task-force-drives-renegade-angels-out-of-konora) · [Reactions from Republic to Agreement with Thukker; Many Questions Remain](https://universe.eveonline.com/new-eden-news/reactions-from-republic-to-agreement-with-thukker-many-questions-remain) · [REPORT: Minmatar-Thukker Armada Invades Ammatar Mandate](https://universe.eveonline.com/new-eden-news/report-minmatar-thukker-armada-invades-ammatar-mandate) · [REPORT: MINMATAR-THUKKER TASK FORCE ARE MINMATAR ELDERS](https://universe.eveonline.com/new-eden-news/report-minmatar-thukker-task-force-are-minmatar-elders) · [REPORT: SECOND MINMATAR-THUKKER ARMADA INVADES AMARR EMPIRE](https://universe.eveonline.com/new-eden-news/report-second-minmatar-thukker-armada-invades-amarr-empire) · [REPORT: THIRD MINMATAR-THUKKER FLEET DETECTED IN DOMAIN REGION; FIERCE FIGHTING REPORTED OVER SARUM PRIME](https://universe.eveonline.com/new-eden-news/report-third-minmatar-thukker-fleet-detected-in-domain-region-fierce-fighting-reported-over-sarum-prime) · [Report: Thukker Caravan Reported Missing in Great Wildlands](https://universe.eveonline.com/new-eden-news/report-thukker-caravan-reported-missing-in-great-wildlands) · [Republic Justice Accepts Thukker Demand for Krullefor](https://universe.eveonline.com/new-eden-news/republic-justice-accepts-thukker-demand-for-krullefor) · [Sanmatar Shakor announces Thukker Tribe visit.](https://universe.eveonline.com/new-eden-news/sanmatar-shakor-announces-thukker-tribe-visit) · [Settled Thukker Deal With Tribal Identity Crisis](https://universe.eveonline.com/new-eden-news/settled-thukker-deal-with-tribal-identity-crisis) · [Shakor: Thukker Caravan Was Destroyed](https://universe.eveonline.com/new-eden-news/shakor-thukker-caravan-was-destroyed) · [SOE Splinter Group Warns of Shift in Drifter Activity; Thukker Tribe Confirms Anomalous Behavior](https://universe.eveonline.com/new-eden-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior) · [Thukker Caravans Increasingly Present in Minmatar Space](https://universe.eveonline.com/new-eden-news/thukker-caravans-increasingly-present-in-minmatar-space) · [Thukker Caravans to Take Lead as Minmatar Work Together on Wormhole Exploration](https://universe.eveonline.com/new-eden-news/thukker-caravans-to-take-lead-as-minmatar-work-together-on-wormhole-exploration) · [Thukker Mix CEO Outraged at Hrada-Oki Convoy Heist](https://universe.eveonline.com/new-eden-news/thukker-mix-ceo-outraged-at-hrada-oki-convoy-heist) · [Thukker Mix Transfers Key Assets to Core Complexion](https://universe.eveonline.com/new-eden-news/thukker-mix-transfers-key-assets-to-core-complexion) · [Thukker Political Integration Sees Difficulties and Delays](https://universe.eveonline.com/new-eden-news/thukker-political-integration-sees-difficulties-and-delays) · [Thukker Tribe invites cloned mercenaries to police Molden Heath](https://universe.eveonline.com/new-eden-news/thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath) · [Thukker Tribe to Join Republic with Full Autonomy in the Great Wildlands](https://universe.eveonline.com/new-eden-news/thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands) · [Thukker Views on Joining Republic Vary Wildly; Real Autonomy Demanded](https://universe.eveonline.com/new-eden-news/thukker-views-on-joining-republic-vary-wildly-real-autonomy-demanded) · [Travel by Minmatar into Thukker Tribe Space Increases](https://universe.eveonline.com/new-eden-news/travel-by-minmatar-into-thukker-tribe-space-increases) · [Triglavian Abyssal Filament Technology Present in Data Sites, Confirms Reporter Embedded With Thukker Raiding Party](https://universe.eveonline.com/new-eden-news/triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party) · [Trust Partners Co-ordinate Search for Missing Thukker Caravan](https://universe.eveonline.com/new-eden-news/trust-partners-co-ordinate-search-for-missing-thukker-caravan)
+
+## Places
+
+### Arzad
+
+Amarr-invaded system where the Starkmanir tribe was first enslaved. Historic precedent for the Amarr invasion-and-conversion playbook.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Hzeron
+
+Planet within the Ammatar Mandate where the Nefantar hid surviving Starkmanir for centuries. The geographic point where the Old Wars' biggest secret was kept — and revealed.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Matar
+
+Mimitar homeworld. Pre-Amarr paradise planet. Weakened by moon-mining-induced ecological imbalance before the Day of Darkness. The origin point of every Minmatar character arc.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Sarum Prime
+
+Adjacent to Amarr Prime. Site of the Elder Fleet's deepest strike — destroyed by Jamyl I's superweapon. The system whose destruction proved Amarr could field weapons CONCORD couldn't constrain.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [BREAKING NEWS: JAMYL SARUM SIGHTED OVER SARUM PRIME](https://universe.eveonline.com/new-eden-news/breaking-news-jamyl-sarum-sighted-over-sarum-prime) · [BREAKING NEWS! Society Of Conscious Thought Vessel Destroyed In Sarum Prime!](https://universe.eveonline.com/new-eden-news/breaking-news-society-of-conscious-thought-vessel-destroyed-in-sarum-prime) · [REPORT: IMPERIAL NAVY RETREATS OVER SARUM PRIME](https://universe.eveonline.com/new-eden-news/report-imperial-navy-retreats-over-sarum-prime) · [REPORT: THIRD MINMATAR-THUKKER FLEET DETECTED IN DOMAIN REGION; FIERCE FIGHTING REPORTED OVER SARUM PRIME](https://universe.eveonline.com/new-eden-news/report-third-minmatar-thukker-fleet-detected-in-domain-region-fierce-fighting-reported-over-sarum-prime) · [Sarum forces, Amarr Navy increase presence in Sarum Prime - security status change imminent](https://universe.eveonline.com/new-eden-news/sarum-forces-amarr-navy-increase-presence-in-sarum-prime-security-status-change-imminent) · [Slave-lynching on Sarum Prime](https://universe.eveonline.com/new-eden-news/slave-lynching-on-sarum-prime)
+
+### Skarkon
+
+Mimitar system that defected to the Angel Cartel ~YC110 — symbol of Republic governance weakness and a cautionary precedent for what happens when an empire stops servicing a region.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [Archangels "Annex" Skarkon From Minmatar Republic; Popular Vote Confirms](https://universe.eveonline.com/new-eden-news/archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms) · [ARCHANGELS WITHDRAW SKARKON ANNEXATION CLAIM](https://universe.eveonline.com/new-eden-news/archangels-withdraw-skarkon-annexation-claim) · [Discussion continues over Angel "claim" in Skarkon](https://universe.eveonline.com/new-eden-news/discussion-continues-over-angel-claim-in-skarkon) · [Galactic Hour News Roundup: Skarkon Falls After Heavy Fighting in Minmatar Republic System](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-skarkon-falls-after-heavy-fighting-in-minmatar-republic-system) · [Skarkon citizens speak about Angel referendum](https://universe.eveonline.com/new-eden-news/skarkon-citizens-speak-about-angel-referendum)
+
+### Starkmanir Prime
+
+Former Starkmanir tribal homeworld. Reduced to barren wasteland by orbital Tachyon bombardment ordered by Idonis Ardishapur. Symbolic anchor of every Starkmanir-restoration storyline.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+## Concepts
+
+### Emergency Militia War Powers Act
+
+Emergency Militia War Powers Act. CONCORD act that established Faction Warfare. Cited by Kantar Yun in the YC120 Kahah crisis as having been violated repeatedly in highsec without consequence — the precedent CONCORD's Warpath failure now repeats at scale.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [BREAKING NEWS: CONCORD ANNOUNCES AUTHORIZATION OF EMERGENCY MILITIA WAR POWERS ACT](https://universe.eveonline.com/new-eden-news/breaking-news-concord-announces-authorization-of-emergency-militia-war-powers-act) · [CONCORD Inner Circle Summit Breakthrough on Emergency Militia War Powers Act](https://universe.eveonline.com/new-eden-news/concord-inner-circle-summit-breakthrough-on-emergency-militia-war-powers-act)
+
+### Seven Mimitar Tribes
+
+Starkmanir, Nefantar (now Ammatar), Brutor, Krusual, Sebiestor, Vherokior, Thukker. Restored to seven after the Imperian Age. The structural unit of Mimitar political identity.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Sheal-Sin
+
+Amarr ritual of ceremonial self-termination required of failed championship contenders. Khanid II's repeated avoidance of this ritual — first by defection, then by championship retry — defined Khanid Kingdom autonomy until Catiz's coronation forced him into it.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Three-Tier Amarr Structure
+
+Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each tier has distinct allegiance, governance, and tribal origin. The frame that makes the Mil-Campaign #2 prediction structurally legible — Mandate is the seam where Amarr internal politics is most exposed.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Khanid Kingdom](https://universe.eveonline.com/chronicles/the-khanid-kingdom)
+
+## Artifacts
+
+### Khoumak (Amarr religious scepter)
+
+Amarr religious scepter. A Mimitar slave seizing one became the iconic moment of the Great Rebellion. Symbolic artifact of Amarr ecclesiastical authority and the moment it cracked.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+---
+
+## Sources cited
+
+- **35×** [Lore Tourism - The Redemption of the Ammatar (2026-02)](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+- **5×** [The Ammatars (2000-12-18)](https://universe.eveonline.com/chronicles/the-ammatars)
+- **3×** [The Khanid Kingdom (2000-08-21)](https://universe.eveonline.com/chronicles/the-khanid-kingdom)
+- **3×** [The Seven Tribes of the Mimitar Republic (2024)](https://www.youtube.com/@Ashterothi)
+- **2×** [BREAKING NEWS: LARGE STARKMANIR SLAVE POPULATION DISCOVERED IN AMMATAR CONSULATE (2008-06-04)](https://universe.eveonline.com/new-eden-news/breaking-news-large-starkmanir-slave-population-discovered-in-ammatar-consulate)
+- **2×** [CHAMBERLAIN KARSOTH PLEDGES HELP TO PRESERVE STARKMANIR; AMMATAR CONSULATE CLAIMS NO ADVANCED KNOWLEDGE OF LOST TRIBE (2008-06-04)](https://universe.eveonline.com/new-eden-news/chamberlain-karsoth-pledges-help-to-preserve-starkmanir-ammatar-consulate-claims-no-advanced-knowledge-of-lost-tribe)
+- **2×** [REPORT: Minmatar-Thukker Armada Invades Ammatar Mandate (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-minmatar-thukker-armada-invades-ammatar-mandate)
+- **2×** [REPORT: THIRD MINMATAR-THUKKER FLEET DETECTED IN DOMAIN REGION; FIERCE FIGHTING REPORTED OVER SARUM PRIME (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-third-minmatar-thukker-fleet-detected-in-domain-region-fierce-fighting-reported-over-sarum-prime)
+- **2×** [Empress Jamyl I meets with King Khanid II (2009-06-02)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-meets-with-king-khanid-ii)
+- **2×** [Lost Stars (2010-06-28)](https://universe.eveonline.com/chronicles/lost-stars)
+- **2×** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05 (2026-05-05)](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+- **1×** [The Day of Darkness (2000-06-19)](https://universe.eveonline.com/chronicles/the-day-of-darkness)
+- **1×** [Amarr officials in discussions with the Ammatar Consulate (2003-08-11)](https://universe.eveonline.com/new-eden-news/amarr-officials-in-discussions-with-the-ammatar-consulate)
+- **1×** [Idonis Ardishapur: "No undeserving creature can represent us" - Journalist missing (2003-09-29)](https://universe.eveonline.com/new-eden-news/idonis-ardishapur-no-undeserving-creature-can-represent-us-journalist-missing)
+- **1×** [“Slave Farm” Scandal Investigation Exposes Amarr and Ammatar Plot (2003-12-04)](https://universe.eveonline.com/new-eden-news/slave-farm-scandal-investigation-exposes-amarr-and-ammatar-plot)
+- **1×** [Sarum forces, Amarr Navy increase presence in Sarum Prime - security status change imminent (2003-12-11)](https://universe.eveonline.com/new-eden-news/sarum-forces-amarr-navy-increase-presence-in-sarum-prime-security-status-change-imminent)
+- **1×** [Ishukone and Khanid Kingdom sign multitrillion trade deal on Transcranial Microcontrollers (2004-03-16)](https://universe.eveonline.com/new-eden-news/ishukone-and-khanid-kingdom-sign-multitrillion-trade-deal-on-transcranial-microcontrollers)
+- **1×** [Khanid Kingdom strenuously denies ill treatment of slaves (2004-03-19)](https://universe.eveonline.com/new-eden-news/khanid-kingdom-strenuously-denies-ill-treatment-of-slaves)
+- **1×** [Minmatar to rise above hatred: Midular speaks on discovery of Republic Parliament's secret talks with Ammatar Consulate (2007-04-25)](https://universe.eveonline.com/new-eden-news/minmatar-to-rise-above-hatred-midular-speaks-on-discovery-of-republic-parliaments-secret-talks-with-ammatar-consulate)
+- **1×** [Ammatar Governor comments on Matari/Ammatar Talks (2007-05-07)](https://universe.eveonline.com/new-eden-news/ammatar-governor-comments-on-matariammatar-talks)
+- **1×** [EVE: The Empyrean Age (Tony Gonzales) (2008)](https://www.eveonline.com/news/view/the-empyrean-age)
+- **1×** [Arms Factory Saboteur Captured; Ammatar Link Exposed (2008-05-09)](https://universe.eveonline.com/new-eden-news/arms-factory-saboteur-captured-ammatar-link-exposed)
+- **1×** [Archangels "Annex" Skarkon From Minmatar Republic; Popular Vote Confirms (2008-05-28)](https://universe.eveonline.com/new-eden-news/archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms)
+- **1×** [BREAKING NEWS: Mystery Armada Containing Thukker Tribe Warships Surround CONCORD Bureau Station (2008-05-30)](https://universe.eveonline.com/new-eden-news/breaking-news-mystery-armada-containing-thukker-tribe-warships-surround-concord-bureau-station)
+- **1×** [Skarkon citizens speak about Angel referendum (2008-06-02)](https://universe.eveonline.com/new-eden-news/skarkon-citizens-speak-about-angel-referendum)
+- **1×** [MIDULAR FINALLY ACKNOWLEDGES STARKMANIR NEWS (2008-06-04)](https://universe.eveonline.com/new-eden-news/midular-finally-acknowledges-starkmanir-news)
+- **1×** [GOVERNMENT INACTION WITH STARKMANIR, DISSOLVED PARLIAMENT TRIGGERS RIOTS (2008-06-06)](https://universe.eveonline.com/new-eden-news/government-inaction-with-starkmanir-dissolved-parliament-triggers-riots)
+- **1×** [REPORT: KARIN MIDULAR DISSOLVES PARLIAMENT, OUSTS SHAKOR AND YUN FROM GOVERNMENT (2008-06-06)](https://universe.eveonline.com/new-eden-news/report-karin-midular-dissolves-parliament-ousts-shakor-and-yun-from-government)
+- **1×** [ARCHANGELS WITHDRAW SKARKON ANNEXATION CLAIM (2008-06-07)](https://universe.eveonline.com/new-eden-news/archangels-withdraw-skarkon-annexation-claim)
+- **1×** [Discussion continues over Angel "claim" in Skarkon (2008-06-07)](https://universe.eveonline.com/new-eden-news/discussion-continues-over-angel-claim-in-skarkon)
+- **1×** [BREAKING NEWS: CONCORD ANNOUNCES AUTHORIZATION OF EMERGENCY MILITIA WAR POWERS ACT (2008-06-10)](https://universe.eveonline.com/new-eden-news/breaking-news-concord-announces-authorization-of-emergency-militia-war-powers-act)
+- **1×** [Ammatar Navy defections reported (2008-06-10)](https://universe.eveonline.com/new-eden-news/ammatar-navy-defections-reported)
+- **1×** [BREAKING NEWS: ELDER FLEET OVER MEKHIOS DESTROYED (2008-06-10)](https://universe.eveonline.com/new-eden-news/breaking-news-elder-fleet-over-mekhios-destroyed)
+- **1×** [REPORT: ELDER FLEET ALLOWED TO PASS THROUGH REPUBLIC SPACE UNCONTESTED (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-elder-fleet-allowed-to-pass-through-republic-space-uncontested)
+- **1×** [Khanid Kingdom fortifies borders (2008-06-10)](https://universe.eveonline.com/new-eden-news/khanid-kingdom-fortifies-borders)
+- **1×** [BREAKING NEWS: Minmatar-Thukker Fleet Reappears in Yulai – Stargates Shut Down (2008-06-10)](https://universe.eveonline.com/new-eden-news/breaking-news-minmatar-thukker-fleet-reappears-in-yulai-stargates-shut-down)
+- **1×** [BREAKING NEWS: Minmatar-Thukker Ragnarok Titan Jumps into Jarizza, Dropships Reportedly Landing on Halturzhan (2008-06-10)](https://universe.eveonline.com/new-eden-news/breaking-news-minmatar-thukker-ragnarok-titan-jumps-into-jarizza-dropships-reportedly-landing-on-halturzhan)
+- **1×** [REPORT: MINMATAR-THUKKER TASK FORCE ARE MINMATAR ELDERS (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-minmatar-thukker-task-force-are-minmatar-elders)
+- **1×** [REPORT: SECOND MINMATAR-THUKKER ARMADA INVADES AMARR EMPIRE (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-second-minmatar-thukker-armada-invades-amarr-empire)
+- **1×** [BREAKING NEWS: JAMYL SARUM SIGHTED OVER SARUM PRIME (2008-06-10)](https://universe.eveonline.com/new-eden-news/breaking-news-jamyl-sarum-sighted-over-sarum-prime)
+- **1×** [REPORT: IMPERIAL NAVY RETREATS OVER SARUM PRIME (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-imperial-navy-retreats-over-sarum-prime)
+- **1×** [Slave-lynching on Sarum Prime (2008-06-10)](https://universe.eveonline.com/new-eden-news/slave-lynching-on-sarum-prime)
+- **1×** [Khanid Kingdom stands down Navy, Mordu follows suit (2008-06-11)](https://universe.eveonline.com/new-eden-news/khanid-kingdom-stands-down-navy-mordu-follows-suit)
+- **1×** [Ammatar Scientist downed in Huola system (2008-07-23)](https://universe.eveonline.com/new-eden-news/ammatar-scientist-downed-in-huola-system)
+- **1×** [Ammatar scientist safely extracted from Huola (2008-08-08)](https://universe.eveonline.com/new-eden-news/ammatar-scientist-safely-extracted-from-huola)
+- **1×** [Empress Jamyl I begins reign (2008-10-04)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-begins-reign)
+- **1×** [Tash-Murkon Navy Officers Honored By Khanid Kingdom (2008-10-28)](https://universe.eveonline.com/new-eden-news/tash-murkon-navy-officers-honored-by-khanid-kingdom)
+- **1×** [Boundless Creation plays host to delegation from Thukker Mix (2008-10-28)](https://universe.eveonline.com/new-eden-news/boundless-creation-plays-host-to-delegation-from-thukker-mix)
+- **1×** [Sanmatar Shakor announces Thukker Tribe visit. (2008-10-31)](https://universe.eveonline.com/new-eden-news/sanmatar-shakor-announces-thukker-tribe-visit)
+- **1×** [Minmatar Republic and Thukker Tribe announce open border policy. (2008-11-13)](https://universe.eveonline.com/new-eden-news/minmatar-republic-and-thukker-tribe-announce-open-border-policy)
+- **1×** [Gallente Customs React Cautiously to Republic-Thukker 'Open Borders' (2008-11-25)](https://universe.eveonline.com/new-eden-news/gallente-customs-react-cautiously-to-republic-thukker-open-borders)
+- **1×** [Political Vacuum in Ammatar Mandate Continues; Populace in Turmoil (2008-11-27)](https://universe.eveonline.com/new-eden-news/political-vacuum-in-ammatar-mandate-continues-populace-in-turmoil)
+- **1×** [Empress Jamyl places Ammatar Mandate under Ardishapur vassalage (2008-11-28)](https://universe.eveonline.com/new-eden-news/empress-jamyl-places-ammatar-mandate-under-ardishapur-vassalage)
+- **1×** [Ardishapur begins initial moves to take control of Ammatar Mandate (2008-12-09)](https://universe.eveonline.com/new-eden-news/ardishapur-begins-initial-moves-to-take-control-of-ammatar-mandate)
+- **1×** [Caldari Trade Mission Visits Khanid Kingdom, Meets With Tash-Murkon (2008-12-11)](https://universe.eveonline.com/new-eden-news/caldari-trade-mission-visits-khanid-kingdom-meets-with-tash-murkon)
+- **1×** [Commerce Between Thukker Tribe and Minmatar Republic Increasing (2008-12-21)](https://universe.eveonline.com/new-eden-news/commerce-between-thukker-tribe-and-minmatar-republic-increasing)
+- **1×** [EMPRESS JAMYL I MAKES HISTORIC EMANCIPATION ANNOUNCEMENT (2008-12-25)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-makes-historic-emancipation-announcement)
+- **1×** [Travel by Minmatar into Thukker Tribe Space Increases (2008-12-26)](https://universe.eveonline.com/new-eden-news/travel-by-minmatar-into-thukker-tribe-space-increases)
+- **1×** [Minmatar and Thukker Trade Routes Increasingly Threatened by 'Breakaway' Angels (2008-12-30)](https://universe.eveonline.com/new-eden-news/minmatar-and-thukker-trade-routes-increasingly-threatened-by-breakaway-angels)
+- **1×** [Yonis Ardishapur arrests head of Ammatar Fleet (2009-02-04)](https://universe.eveonline.com/new-eden-news/yonis-ardishapur-arrests-head-of-ammatar-fleet)
+- **1×** [Tensions Over Land Increase as Starkmanir and Nefantar Press Claims (2009-02-27)](https://universe.eveonline.com/new-eden-news/tensions-over-land-increase-as-starkmanir-and-nefantar-press-claims)
+- **1×** [Thukker Tribe to Join Republic with Full Autonomy in the Great Wildlands (2009-03-08)](https://universe.eveonline.com/new-eden-news/thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands)
+- **1×** [Minmatar Search For Thukker Caravan; Unable to Respond Significantly to Seyllin Disaster (2009-03-10)](https://universe.eveonline.com/new-eden-news/minmatar-search-for-thukker-caravan-unable-to-respond-significantly-to-seyllin-disaster)
+- **1×** [Report: Thukker Caravan Reported Missing in Great Wildlands (2009-03-10)](https://universe.eveonline.com/new-eden-news/report-thukker-caravan-reported-missing-in-great-wildlands)
+- **1×** [Shakor: Thukker Caravan Was Destroyed (2009-03-10)](https://universe.eveonline.com/new-eden-news/shakor-thukker-caravan-was-destroyed)
+- **1×** [Trust Partners Co-ordinate Search for Missing Thukker Caravan (2009-03-10)](https://universe.eveonline.com/new-eden-news/trust-partners-co-ordinate-search-for-missing-thukker-caravan)
+- **1×** [Thukker Caravans to Take Lead as Minmatar Work Together on Wormhole Exploration (2009-03-14)](https://universe.eveonline.com/new-eden-news/thukker-caravans-to-take-lead-as-minmatar-work-together-on-wormhole-exploration)
+- **1×** [Ardishapur names new Ammatar Fleet leadership (2009-03-24)](https://universe.eveonline.com/new-eden-news/ardishapur-names-new-ammatar-fleet-leadership)
+- **1×** [Reactions from Republic to Agreement with Thukker; Many Questions Remain (2009-04-04)](https://universe.eveonline.com/new-eden-news/reactions-from-republic-to-agreement-with-thukker-many-questions-remain)
+- **1×** [Thukker Views on Joining Republic Vary Wildly; Real Autonomy Demanded (2009-04-07)](https://universe.eveonline.com/new-eden-news/thukker-views-on-joining-republic-vary-wildly-real-autonomy-demanded)
+- **1×** [King Khanid II departs Tash-Murkon Prime, arrives in Amarr (2009-06-01)](https://universe.eveonline.com/new-eden-news/king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr)
+- **1×** [Khanid Kingdom granted Privy Council seat (2009-06-07)](https://universe.eveonline.com/new-eden-news/khanid-kingdom-granted-privy-council-seat)
+- **1×** [Minmatar-Thukker Task Force Drives Renegade Angels out of Konora (2009-07-13)](https://universe.eveonline.com/new-eden-news/minmatar-thukker-task-force-drives-renegade-angels-out-of-konora)
+- **1×** [Konora Officials Arrested on Corruption Charges, Thukker 'Wormhole Strategy' Revealed (2009-07-16)](https://universe.eveonline.com/new-eden-news/konora-officials-arrested-on-corruption-charges-thukker-wormhole-strategy-revealed)
+- **1×** [Tash-Murkon Holder to move to Ammatar Mandate (2009-07-28)](https://universe.eveonline.com/new-eden-news/tash-murkon-holder-to-move-to-ammatar-mandate)
+- **1×** [Ardishapur Consolidation in Ammatar Mandate Welcomed by Populace (2009-09-06)](https://universe.eveonline.com/new-eden-news/ardishapur-consolidation-in-ammatar-mandate-welcomed-by-populace)
+- **1×** [Hospitals and Religious Buildings to be Constructed in Ammatar 'Body and Soul' Program (2009-09-09)](https://universe.eveonline.com/new-eden-news/hospitals-and-religious-buildings-to-be-constructed-in-ammatar-body-and-soul-program)
+- **1×** [The Lost Tribe: Starkmanir Creating New Cultural Identity (2009-09-13)](https://universe.eveonline.com/new-eden-news/the-lost-tribe-starkmanir-creating-new-cultural-identity)
+- **1×** [Minmatar Republic, Thukker Tribe Launch Joint Manhunt (2009-09-14)](https://universe.eveonline.com/new-eden-news/minmatar-republic-thukker-tribe-launch-joint-manhunt)
+- **1×** [Crime Lord Krullefor Detained by Thukker Fleet, 'Will Not Be Extradited' (2009-09-17)](https://universe.eveonline.com/new-eden-news/crime-lord-krullefor-detained-by-thukker-fleet-will-not-be-extradited)
+- **1×** [Republic Justice Accepts Thukker Demand for Krullefor (2009-09-18)](https://universe.eveonline.com/new-eden-news/republic-justice-accepts-thukker-demand-for-krullefor)
+- **1×** [CBD Accuses Ishukone of Unfair Competition in the Khanid Kingdom (2009-09-22)](https://universe.eveonline.com/new-eden-news/cbd-accuses-ishukone-of-unfair-competition-in-the-khanid-kingdom)
+- **1×** [Ammatar Mandate Food Production Restored to Pre-Invasion Levels (2009-09-23)](https://universe.eveonline.com/new-eden-news/ammatar-mandate-food-production-restored-to-pre-invasion-levels)
+- **1×** [Ammatar Fleet Launches First 'Yonis Variant' Abaddon from Sasta Shipyards (2009-10-04)](https://universe.eveonline.com/new-eden-news/ammatar-fleet-launches-first-yonis-variant-abaddon-from-sasta-shipyards)
+- **1×** [Starkmanir, Nefantar Face Uphill Battle in Minmatar Politics (2009-10-05)](https://universe.eveonline.com/new-eden-news/starkmanir-nefantar-face-uphill-battle-in-minmatar-politics)
+- **1×** [Yonis Ardishapur Appoints Ammatar Civil Servant as Mandate Governor (2009-10-14)](https://universe.eveonline.com/new-eden-news/yonis-ardishapur-appoints-ammatar-civil-servant-as-mandate-governor)
+- **1×** [New Ammatar Fleet Security Taskforce Begins Patrol of Republic Border (2009-10-18)](https://universe.eveonline.com/new-eden-news/new-ammatar-fleet-security-taskforce-begins-patrol-of-republic-border)
+- **1×** [Many Starkmanir Refugees Finding New Life Difficult (2009-10-20)](https://universe.eveonline.com/new-eden-news/many-starkmanir-refugees-finding-new-life-difficult)
+- **1×** [Penal Brigade Drawn from Ammatar Mandate Sent to Support 24th Imperial Crusade (2009-10-23)](https://universe.eveonline.com/new-eden-news/penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade)
+- **1×** [New Governor Takes Up Duties in Ammatar Mandate (2009-11-04)](https://universe.eveonline.com/new-eden-news/new-governor-takes-up-duties-in-ammatar-mandate)
+- **1×** [Orthodox Amarr Faith Increasingly Supplanting Ammatar Church (2009-11-10)](https://universe.eveonline.com/new-eden-news/orthodox-amarr-faith-increasingly-supplanting-ammatar-church)
+- **1×** [Trade on Ammatar-Minmatar Border Halts as Authorities Impose Order (2010-03-25)](https://universe.eveonline.com/new-eden-news/trade-on-ammatar-minmatar-border-halts-as-authorities-impose-order)
+- **1×** [Former Ammatar Elite speak about defecting to the Republic (2010-07-12)](https://universe.eveonline.com/new-eden-news/former-ammatar-elite-speak-about-defecting-to-the-republic)
+- **1×** [Thukker Caravans Increasingly Present in Minmatar Space (2010-07-29)](https://universe.eveonline.com/new-eden-news/thukker-caravans-increasingly-present-in-minmatar-space)
+- **1×** [Thukker Political Integration Sees Difficulties and Delays (2010-07-29)](https://universe.eveonline.com/new-eden-news/thukker-political-integration-sees-difficulties-and-delays)
+- **1×** [Settled Thukker Deal With Tribal Identity Crisis (2010-08-31)](https://universe.eveonline.com/new-eden-news/settled-thukker-deal-with-tribal-identity-crisis)
+- **1×** [Intertribal Tensions Plague Resettled Thukker (2010-09-15)](https://universe.eveonline.com/new-eden-news/intertribal-tensions-plague-resettled-thukker)
+- **1×** [Starkmanir Religious Leader Killed In Violent Riot (2010-09-28)](https://universe.eveonline.com/new-eden-news/starkmanir-religious-leader-killed-in-violent-riot)
+- **1×** [Paramilitary Organization Pledges To Protect Starkmanir Sages (2010-10-01)](https://universe.eveonline.com/new-eden-news/paramilitary-organization-pledges-to-protect-starkmanir-sages)
+- **1×** [Slave Repatriation Convoy Breaches Ammatar Border (2013-01-16)](https://universe.eveonline.com/new-eden-news/slave-repatriation-convoy-breaches-ammatar-border)
+- **1×** [Sanmatar Shakor affirms Starkmanir, Nefantar Tribal Chiefs (2013-02-12)](https://universe.eveonline.com/new-eden-news/sanmatar-shakor-affirms-starkmanir-nefantar-tribal-chiefs)
+- **1×** [Mercenary raid on Starkmanir colony of Vard VII repelled by independent mercs hired by Sebiestor Field Sappers (2013-02-16)](https://universe.eveonline.com/new-eden-news/mercenary-raid-on-starkmanir-colony-of-vard-vii-repelled-by-independent-mercs-hired-by-sebiestor-field-sappers)
+- **1×** [Empress Jamyl I announces Empire intent to welcome clone soldiers with open arms (2013-03-17)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-announces-empire-intent-to-welcome-clone-soldiers-with-open-arms)
+- **1×** [Former Minmatar prime minister Karin Midular confirmed among Caille wounded (2013-04-11)](https://universe.eveonline.com/new-eden-news/former-minmatar-prime-minister-karin-midular-confirmed-among-caille-wounded)
+- **1×** [Karin Midular in coma; Republic demands transfer (2013-04-12)](https://universe.eveonline.com/new-eden-news/karin-midular-in-coma-republic-demands-transfer)
+- **1×** [Karin Midular released into Republic care; remains critical (2013-04-14)](https://universe.eveonline.com/new-eden-news/karin-midular-released-into-republic-care-remains-critical)
+- **1×** [Empress Jamyl I becoming increasingly erratic, reports say (2013-04-23)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-becoming-increasingly-erratic-reports-say)
+- **1×** [Karin Midular to undergo emergency surgery (2013-05-06)](https://universe.eveonline.com/new-eden-news/karin-midular-to-undergo-emergency-surgery)
+- **1×** [Karin Midular has died (2013-05-07)](https://universe.eveonline.com/new-eden-news/karin-midular-has-died)
+- **1×** [Thukker Tribe invites cloned mercenaries to police Molden Heath (2013-05-14)](https://universe.eveonline.com/new-eden-news/thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath)
+- **1×** [Karin Midular to be lain in repose (2013-06-01)](https://universe.eveonline.com/new-eden-news/karin-midular-to-be-lain-in-repose)
+- **1×** [Karin Midular Funeral Takes Place on Mikramurka Steppes (2013-07-04)](https://universe.eveonline.com/new-eden-news/karin-midular-funeral-takes-place-on-mikramurka-steppes)
+- **1×** [Empress Jamyl I Visits Amarr Navy Headquarters (2015-07-20)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-visits-amarr-navy-headquarters)
+- **1×** [BREAKING NEWS! Society Of Conscious Thought Vessel Destroyed In Sarum Prime! (2015-07-25)](https://universe.eveonline.com/new-eden-news/breaking-news-society-of-conscious-thought-vessel-destroyed-in-sarum-prime)
+- **1×** [Court Chamberlain Confirms Death Of Empress Jamyl I (2015-08-21)](https://universe.eveonline.com/new-eden-news/court-chamberlain-confirms-death-of-empress-jamyl-i)
+- **1×** [CONCORD and New Eden Powers React to Death of Empress Jamyl I (2015-08-22)](https://universe.eveonline.com/new-eden-news/concord-and-new-eden-powers-react-to-death-of-empress-jamyl-i)
+- **1×** [Amarr Navy Forces in Combat with Drifters in Khanid Kingdom (2015-08-25)](https://universe.eveonline.com/new-eden-news/amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom)
+- **1×** [State Funeral of Empress Jamyl I Announced by Court Chamberlain (2015-09-16)](https://universe.eveonline.com/new-eden-news/state-funeral-of-empress-jamyl-i-announced-by-court-chamberlain)
+- **1×** [Amarr Empire Celebrates the Reign of Empress Jamyl I with State Funeral (2015-09-20)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-the-reign-of-empress-jamyl-i-with-state-funeral)
+- **1×** [Drifter Incursion into the Khanid Kingdom (2016-02-16)](https://universe.eveonline.com/new-eden-news/drifter-incursion-into-the-khanid-kingdom)
+- **1×** [Amarr Succession Committee Announces September Date for Coronation of Empress Catiz I (2016-05-04)](https://universe.eveonline.com/new-eden-news/amarr-succession-committee-announces-september-date-for-coronation-of-empress-catiz-i)
+- **1×** [Coronation of Empress Catiz I to take place tomorrow in Dam-Torsad (2016-09-26)](https://universe.eveonline.com/new-eden-news/coronation-of-empress-catiz-i-to-take-place-tomorrow-in-dam-torsad)
+- **1×** [Catiz I Addresses Capsuleers And Imperial Guard after Historic Day In Dam-Torsad (2016-09-27)](https://universe.eveonline.com/new-eden-news/catiz-i-addresses-capsuleers-and-imperial-guard-after-historic-day-in-dam-torsad)
+- **1×** [SOE Splinter Group Warns of Shift in Drifter Activity; Thukker Tribe Confirms Anomalous Behavior (2016-11-10)](https://universe.eveonline.com/new-eden-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior)
+- **1×** [Amarr Empire Looks Forward to First Jubilee of Coronation of Empress Catiz I (2017-09-22)](https://universe.eveonline.com/new-eden-news/amarr-empire-looks-forward-to-first-jubilee-of-coronation-of-empress-catiz-i)
+- **1×** [Thukker Mix Transfers Key Assets to Core Complexion (2018-02-13)](https://universe.eveonline.com/new-eden-news/thukker-mix-transfers-key-assets-to-core-complexion)
+- **1×** [Triglavian Abyssal Filament Technology Present in Data Sites, Confirms Reporter Embedded With Thukker Raiding Party (2018-05-29)](https://universe.eveonline.com/new-eden-news/triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party)
+- **1×** [Intaki Claim "Lost Idama" Discovered in Khanid Kingdom (2018-08-31)](https://universe.eveonline.com/new-eden-news/intaki-claim-lost-idama-discovered-in-khanid-kingdom)
+- **1×** [Amarr Empire Celebrates Catiz I's Second Year as Empress with Military Parade (2018-09-27)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-catiz-is-second-year-as-empress-with-military-parade)
+- **1×** [Empress Catiz I Honors Amarr Loyalist Capsuleer Groups PIE and CVA, and Responds to Petitions (2018-09-27)](https://universe.eveonline.com/new-eden-news/empress-catiz-i-honors-amarr-loyalist-capsuleer-groups-pie-and-cva-and-responds-to-petitions)
+- **1×** [Major Chemical Weapons Attacks in Khanid Kingdom; Queen Zidarez Missing; Slave Revolts Reported (2018-10-22)](https://universe.eveonline.com/new-eden-news/major-chemical-weapons-attacks-in-khanid-kingdom-queen-zidarez-missing-slave-revolts-reported)
+- **1×** [Empress Catiz I Revokes Heideran Decree and Announces Sweeping Territorial and Military Reorganization (2019-09-27)](https://universe.eveonline.com/new-eden-news/empress-catiz-i-revokes-heideran-decree-and-announces-sweeping-territorial-and-military-reorganization)
+- **1×** [Governor of Ammatar Mandate Elevated to Holder Rank; Ardishapur and Sarum Houses Hold Summit Amidst Ceremonies (2019-11-08)](https://universe.eveonline.com/new-eden-news/governor-of-ammatar-mandate-elevated-to-holder-rank-ardishapur-and-sarum-houses-hold-summit-amidst-ceremonies)
+- **1×** [CONCORD Inner Circle Summit Breakthrough on Emergency Militia War Powers Act (2020-03-24)](https://universe.eveonline.com/new-eden-news/concord-inner-circle-summit-breakthrough-on-emergency-militia-war-powers-act)
+- **1×** [Galactic Hour News Roundup: Skarkon Falls After Heavy Fighting in Minmatar Republic System (2020-09-17)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-skarkon-falls-after-heavy-fighting-in-minmatar-republic-system)
+- **1×** [Thukker Mix CEO Outraged at Hrada-Oki Convoy Heist (2024-10-09)](https://universe.eveonline.com/new-eden-news/thukker-mix-ceo-outraged-at-hrada-oki-convoy-heist)
+- **1×** [Hoboleaks — Warpath Cycle Items (2026-04-30)](https://sde.hoboleaks.space/)
+- **1×** [New Eden News: Warpath YC128-04-21 - YC128-04-30 (2026-04-30)](https://www.youtube.com/watch?v=QUoUNxfSXUk)

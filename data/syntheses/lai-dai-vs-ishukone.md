@@ -1,0 +1,302 @@
+# Lai Dai vs Ishukone Axis
+
+> Ash's whiteboard. Mountain + Ocean factions on Ishukone side; Forest on Lai Dai side. Soft Drink Wars, Antagonists chronicle, Templar program.
+
+*Source-grounded synthesis. Curator-authored claim text, deduplicated. Every citation traces to a primary source.*
+
+## Events
+
+### Death of Otro Gariushi (Quantum Rise summit) *(YC110)*
+
+The killing of Otro Gariushi at the YC110 Caldari–Federation summit, when Alexander Noir's Nyx hit the station with safety protocols disabled. The 'broker' plot targeted Otro because Ishukone was developing Insorum, the Vitoxin antidote that threatened the structural basis of Amarr slavery. Mens Reppola inherited the CEO seat and the Insorum mandate.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [EVE: The Empyrean Age (Tony Gonzales)](https://www.eveonline.com/news/view/the-empyrean-age)
+
+### Ishukone Wins Intaki Development Rights *(YC111)*
+
+YC111 Caldari system auction outcome. Ishukone won development rights to Intaki, anchoring the Ishukone–Intaki structural relationship that Silphy later inherited and exploited via the Antagonists chronicle.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI)
+
+### Zephyr Ship Distribution (Apocrypha) *(YC111)*
+
+The YC111 mass distribution of the Zephyr exploration ship by the Intaki Syndicate. Sleeper-ignored, it allowed capsuleers to map wormhole space — and quietly funneled telemetry data back through the Syndicate to Ishukone. The Zephyr is the original instance of Syndicate-as-data-conduit, structurally identical to the data flows that later sit inside Upwell.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante)
+
+## Persons
+
+### Gable (codename: Lifegiver)
+
+Caldari-born scientist; converted to Amarrian faith. Treats the Templar prototype — the only patient with full hippocampus / thalamus cybernetic replacement. Ash identifies her as the 'Lifegiver' figure surfacing in YC128 events. Her religious conversion makes her a structural bridge between Ishukone clone-tech and Amarr/Khanid theological politics.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one)
+
+### Mens Reppola
+
+Ishukone CEO since Otro's death. The structural anchor of the Ishukone axis on Ash's whiteboard. Working with Mordu's Legion (Muryia Mordu) on clone-soldier development; in semi-hiding behind heavy drone protection by Templar 1's end. Every major Ishukone-axis claim about the YC128 cycle eventually routes through him.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Federation Policymakers Exhibit Muted Reactions to Mens Reppola Appointment](https://universe.eveonline.com/new-eden-news/federation-policymakers-exhibit-muted-reactions-to-mens-reppola-appointment) · [Mens Reppola Announces 5% Stake In Ishukone](https://universe.eveonline.com/new-eden-news/mens-reppola-announces-5-stake-in-ishukone) · [Mens Reppola Made Ishukone CEO, Charts Future Course](https://universe.eveonline.com/new-eden-news/mens-reppola-made-ishukone-ceo-charts-future-course)
+
+### Miller Reppola
+
+Mens's sister, Ishukone CFO. Helped Otro engineer Akelan's removal via blackmail of Riley Rashemo. Operates as Mens's right hand during the post-summit reconstruction.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one)
+
+### Mr. Lacante
+
+Likely Thukker (facial tattoos). In Silphy's Antagonists chronicle he coordinates the Zephyr telemetry-data trade with Ishukone — 'the kind of token Ishukone won't be able to resist.' The mechanism by which Syndicate intelligence gets monetized via the Mountain/Ocean axis.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante)
+
+### Muryia Mordu
+
+Mordu's Legion's founder. Independent mercenary commander operating outside the four-empire structure. Antagonists-chronicle subtext: the 'mercenaries' Silphy negotiates around when offering her Zephyr-telemetry data to Ishukone — Mens won't take the deal directly while Mordu's people are in the way. Mordu's Legion's separate relationship to Ishukone via the Templar One clone-soldier program ties him structurally to the Mens-Reppola axis.
+**Cited in:** [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Mordu’s Legion](https://universe.eveonline.com/chronicles/mordus-legion) · [Muryia Mordu arrives safely at his headquarters; region in uproar](https://universe.eveonline.com/new-eden-news/muryia-mordu-arrives-safely-at-his-headquarters-region-in-uproar) · [Muryia Mordu issues Operation Highlander Decoration](https://universe.eveonline.com/new-eden-news/muryia-mordu-issues-operation-highlander-decoration)
+
+### Otro Gariushi
+
+Former Ishukone CEO. Gariushi (Guristas-aligned) pilot. Rose to power by exposing Akelan's corruption via the Raven project — Miller and Riley Rashemo helped engineer the takeover. Killed at the YC110 Caldari–Federation summit when Alexander Noir's Nyx struck the station. The 'broker' wanted him dead specifically because Ishukone was developing Insorum.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [EVE: The Empyrean Age (Tony Gonzales)](https://www.eveonline.com/news/view/the-empyrean-age) · [ISHUKONE STATEMENT: OTRO GARIUSHI CONFIRMED DEAD](https://universe.eveonline.com/new-eden-news/ishukone-statement-otro-gariushi-confirmed-dead) · [Otro Gariushi defends Dark Amarr deal - claims chips improve slaves' lives](https://universe.eveonline.com/new-eden-news/otro-gariushi-defends-dark-amarr-deal-claims-chips-improve-slaves-lives)
+
+### Raleigh
+
+Ishukone's top engineer. Built the android Vilamo. Developing cybernetic implant tech (hippocampus / thalamus replacement) for Templar prototypes. The technical engine behind Ishukone's clone-soldier program.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one)
+
+### Salvador Sarpati
+
+Head of Serpentis Corporation. Sentona's brother. Silphy's collaborator during her black-market consolidation. The Sarpati siblings are the structural bridge between Sisters of Eve, Serpentis, and the Syndicate — the soft underbelly of the Federation's drug economy.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [The Sarpati Family ](https://universe.eveonline.com/chronicles/the-sarpati-family)
+
+### Sentona Sarpati
+
+Reverend Mother / SoE CEO and Salvador Sarpati's sister. Once Silphy's closest ally, now her bitter rival; she mockingly calls Silphy 'Queen Silphy of the Syndicate.' Her absence from the YC128 news cycle — given her tie to Silphy — is itself a tell that there's a parallel storyline CCP isn't surfacing yet.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [Sisters of EVE](https://universe.eveonline.com/chronicles/sisters-of-eve) · [The Sarpati Family ](https://universe.eveonline.com/chronicles/the-sarpati-family)
+
+### Silphy en Diabel
+
+Daughter of the original Syndicate unifier; expelled from the Sisters of Eve after her Serpentis collaboration. Engineered the Pas station famine to seize control of Poitot, then methodically consolidated power across the Syndicate. Her arrest YC128.05.01 broke the Syndicate's leadership backbone and gave the Caldari the pretext to annex.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
+
+## Organizations
+
+### Ishukone Corporation
+
+Caldari mega-corp, Mountain/Ocean-axis anchor. Original developer of subcranial nano controllers. Acquired Intaki development rights YC111. Co-developed Insorum (Vitoxin antidote) — the act that put a target on Otro Gariushi's back. Currently operating clone-soldier program through Mens Reppola, Raleigh, and Gable. Every Mountain/Ocean win in the Warpath cycle ultimately routes back to Ishukone revenue.
+**Cited in:** [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Arrests Made By Ishukone Watch In Wake Of Tribunal Raid](https://universe.eveonline.com/new-eden-news/arrests-made-by-ishukone-watch-in-wake-of-tribunal-raid) · [BREAKING NEWS: EXPLOSIONS REPORTED, CONTACT WITH ISHUKONE HEADQUARTERS STATION LOST](https://universe.eveonline.com/new-eden-news/breaking-news-explosions-reported-contact-with-ishukone-headquarters-station-lost) · [BREAKING NEWS: GENERAL EVACUATION ORDER ISSUED AT ISHUKONE HEADQUARTERS STATION](https://universe.eveonline.com/new-eden-news/breaking-news-general-evacuation-order-issued-at-ishukone-headquarters-station) · [Breaking News: Ishukone CEO Pleads for Calm, Denounces Tibus Heth](https://universe.eveonline.com/new-eden-news/breaking-news-ishukone-ceo-pleads-for-calm-denounces-tibus-heth) · [Breaking News: Ishukone Wins Development Rights to Intaki System](https://universe.eveonline.com/new-eden-news/breaking-news-ishukone-wins-development-rights-to-intaki-system) · [Caldari Prime relief effort continues, Ishukone request access to devastated planet](https://universe.eveonline.com/new-eden-news/caldari-prime-relief-effort-continues-ishukone-request-access-to-devastated-planet) · [CBD Accuses Ishukone of Unfair Competition in the Khanid Kingdom](https://universe.eveonline.com/new-eden-news/cbd-accuses-ishukone-of-unfair-competition-in-the-khanid-kingdom) · [Dark Amarr rifts chip deal with Ishukone](https://universe.eveonline.com/new-eden-news/dark-amarr-rifts-chip-deal-with-ishukone) · [Eborimi Shiskala Tapped To Lead Ishukone Watch](https://universe.eveonline.com/new-eden-news/eborimi-shiskala-tapped-to-lead-ishukone-watch) · [Federation President Affirms Ishukone’s Account of Event, Denies Complicity in Malkalen Attack](https://universe.eveonline.com/new-eden-news/federation-president-affirms-ishukones-account-of-event-denies-complicity-in-malkalen-attack) · [Heth responds to loss of Shiigeru and Ishukone contact with Gallente senate](https://universe.eveonline.com/new-eden-news/heth-responds-to-loss-of-shiigeru-and-ishukone-contact-with-gallente-senate) · [Hyasyoda Corporation Announces Aid for Ishukone](https://universe.eveonline.com/new-eden-news/hyasyoda-corporation-announces-aid-for-ishukone) · [Innovaatio sells to Ishukone for surprising sum](https://universe.eveonline.com/new-eden-news/innovaatio-sells-to-ishukone-for-surprising-sum) · [Ishukone Accepts Formal Handover Of Arcurio](https://universe.eveonline.com/new-eden-news/ishukone-accepts-formal-handover-of-arcurio) · [Ishukone access to Caldari Prime approved, full negotiations still ongoing](https://universe.eveonline.com/new-eden-news/ishukone-access-to-caldari-prime-approved-full-negotiations-still-ongoing) · [Ishukone actions called into question after further talks with Gallente Senate](https://universe.eveonline.com/new-eden-news/ishukone-actions-called-into-question-after-further-talks-with-gallente-senate) · [Ishukone administrators announce Arcurio takeover bid](https://universe.eveonline.com/new-eden-news/ishukone-administrators-announce-arcurio-takeover-bid) · [Ishukone and CEP Battle SARO in CONCORD Assembly Over Dangerous Research Materials](https://universe.eveonline.com/new-eden-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials) · [Ishukone and Hyasyoda Call for Tribunal to Open Case Over Claims of NOH and CBD Smuggling](https://universe.eveonline.com/new-eden-news/ishukone-and-hyasyoda-call-for-tribunal-to-open-case-over-claims-of-noh-and-cbd-smuggling) · [Ishukone and Khanid Kingdom sign multitrillion trade deal on Transcranial Microcontrollers](https://universe.eveonline.com/new-eden-news/ishukone-and-khanid-kingdom-sign-multitrillion-trade-deal-on-transcranial-microcontrollers) · [Ishukone Announces Investment In Malkalen Reconstruction](https://universe.eveonline.com/new-eden-news/ishukone-announces-investment-in-malkalen-reconstruction) · [ISHUKONE BOARD CEDES STRATEGIC CONTROL TO HETH; MARKETS RESPOND POSITIVELY](https://universe.eveonline.com/new-eden-news/ishukone-board-cedes-strategic-control-to-heth-markets-respond-positively) · [Ishukone CEO Crisis Continues as Guinna and Ruivannen Resign](https://universe.eveonline.com/new-eden-news/ishukone-ceo-crisis-continues-as-guinna-and-ruivannen-resign) · [Ishukone CEO Derided At CEP Session After Offering Assistance To Both Federation And State](https://universe.eveonline.com/new-eden-news/ishukone-ceo-derided-at-cep-session-after-offering-assistance-to-both-federation-and-state) · [Ishukone CEO Gariushi unveils Crielere discoveries](https://universe.eveonline.com/new-eden-news/ishukone-ceo-gariushi-unveils-crielere-discoveries) · [Ishukone Corporation establishes disaster relief program](https://universe.eveonline.com/new-eden-news/ishukone-corporation-establishes-disaster-relief-program) · [Ishukone Decries Delicacies Scandal, Offers to Reimburse](https://universe.eveonline.com/new-eden-news/ishukone-decries-delicacies-scandal-offers-to-reimburse) · [Ishukone denies responsibility in slave uprising. Microcontrollers on the rise.](https://universe.eveonline.com/new-eden-news/ishukone-denies-responsibility-in-slave-uprising-microcontrollers-on-the-rise) · [Ishukone executives called to Chief Executive Panel hearing](https://universe.eveonline.com/new-eden-news/ishukone-executives-called-to-chief-executive-panel-hearing) · [Ishukone meets with Gallente Senate on Caldari Prime](https://universe.eveonline.com/new-eden-news/ishukone-meets-with-gallente-senate-on-caldari-prime) · [Ishukone Negotiates Terms With Federation Regulators](https://universe.eveonline.com/new-eden-news/ishukone-negotiates-terms-with-federation-regulators) · [Ishukone re-opens flagship station](https://universe.eveonline.com/new-eden-news/ishukone-re-opens-flagship-station) · [Ishukone relief convoy safely makes it to Caldari Prime after attempted capsuleer interdiction](https://universe.eveonline.com/new-eden-news/ishukone-relief-convoy-safely-makes-it-to-caldari-prime-after-attempted-capsuleer-interdiction) · [Ishukone researcher comes forward - blames Gallente for missing blueprints](https://universe.eveonline.com/new-eden-news/ishukone-researcher-comes-forward-blames-gallente-for-missing-blueprints) · [ISHUKONE STATEMENT: OTRO GARIUSHI CONFIRMED DEAD](https://universe.eveonline.com/new-eden-news/ishukone-statement-otro-gariushi-confirmed-dead) · [Ishukone Stock Stumbles On Profit Warnings, Indecision](https://universe.eveonline.com/new-eden-news/ishukone-stock-stumbles-on-profit-warnings-indecision) · [Ishukone to sell Transcranial Microcontrollers to holders at 'bulk rates'](https://universe.eveonline.com/new-eden-news/ishukone-to-sell-transcranial-microcontrollers-to-holders-at-bulk-rates) · [Ishukone Vessel Missing in Domain Region, Reward Offered](https://universe.eveonline.com/new-eden-news/ishukone-vessel-missing-in-domain-region-reward-offered) · [Ishukone Watch CEO Speaks Out About Caldari Prime](https://universe.eveonline.com/new-eden-news/ishukone-watch-ceo-speaks-out-about-caldari-prime) · [Ishukone Watch Offers Assistance To Federation Government](https://universe.eveonline.com/new-eden-news/ishukone-watch-offers-assistance-to-federation-government) · [Lai Dai outbids Ishukone in NMA partnership; ORE deal?](https://universe.eveonline.com/new-eden-news/lai-dai-outbids-ishukone-in-nma-partnership-ore-deal) · [Light On The Horizon In Ishukone CEO Crisis](https://universe.eveonline.com/new-eden-news/light-on-the-horizon-in-ishukone-ceo-crisis) · [Megacorporations announce plans to join Ishukone in relief efforts](https://universe.eveonline.com/new-eden-news/megacorporations-announce-plans-to-join-ishukone-in-relief-efforts) · [Mens Reppola Announces 5% Stake In Ishukone](https://universe.eveonline.com/new-eden-news/mens-reppola-announces-5-stake-in-ishukone) · [Mens Reppola Made Ishukone CEO, Charts Future Course](https://universe.eveonline.com/new-eden-news/mens-reppola-made-ishukone-ceo-charts-future-course) · [Minmatar Politicians and Military Cautiously Welcome New Ishukone CEO](https://universe.eveonline.com/new-eden-news/minmatar-politicians-and-military-cautiously-welcome-new-ishukone-ceo) · [Navy Officer Reprimanded For Weighing In On Ishukone CEO Fight](https://universe.eveonline.com/new-eden-news/navy-officer-reprimanded-for-weighing-in-on-ishukone-ceo-fight) · [New Caldari Ishukone Erection 3 Meters Taller Than Kaalakiota Erection](https://universe.eveonline.com/new-eden-news/new-caldari-ishukone-erection-3-meters-taller-than-kaalakiota-erection) · [Ogemi Collapses, Rushed To Hospital; Ishukone Stock Plummets](https://universe.eveonline.com/new-eden-news/ogemi-collapses-rushed-to-hospital-ishukone-stock-plummets) · [Okalala Visits Landfall Shrine, Speaks On Ishukone Problems](https://universe.eveonline.com/new-eden-news/okalala-visits-landfall-shrine-speaks-on-ishukone-problems) · [Prototype vessel stolen from Ishukone shipyard](https://universe.eveonline.com/new-eden-news/prototype-vessel-stolen-from-ishukone-shipyard) · [Provist Military Reforms Passed By CEP With Ishukone, CBD Support](https://universe.eveonline.com/new-eden-news/provist-military-reforms-passed-by-cep-with-ishukone-cbd-support) · [Provists, Tribunal Raid Ishukone Offices In Oimmo](https://universe.eveonline.com/new-eden-news/provists-tribunal-raid-ishukone-offices-in-oimmo) · [Reppola, Okalala Called To Malkalen; Ishukone Stock Rebounds](https://universe.eveonline.com/new-eden-news/reppola-okalala-called-to-malkalen-ishukone-stock-rebounds) · [Semiki Situation Deteriorates; Ishukone Watch Releases Initial Findings](https://universe.eveonline.com/new-eden-news/semiki-situation-deteriorates-ishukone-watch-releases-initial-findings) · [Stolen Ishukone Watch vessel located, handed off to capsuleer](https://universe.eveonline.com/new-eden-news/stolen-ishukone-watch-vessel-located-handed-off-to-capsuleer) · [Tibus Heth angrily denounces Caldari Prime DMZ, blasts Ishukone and SuVee participation](https://universe.eveonline.com/new-eden-news/tibus-heth-angrily-denounces-caldari-prime-dmz-blasts-ishukone-and-suvee-participation) · [Tribunal Dismisses Directorate Suit Against Ishukone](https://universe.eveonline.com/new-eden-news/tribunal-dismisses-directorate-suit-against-ishukone) · [UPDATE: FEDERATION NYX RAMS ISHUKONE HEADQUARTERS STATION](https://universe.eveonline.com/new-eden-news/update-federation-nyx-rams-ishukone-headquarters-station) · [Wreckage of Shiigeru to be examined by Ishukone and Zainou](https://universe.eveonline.com/new-eden-news/wreckage-of-shiigeru-to-be-examined-by-ishukone-and-zainou)
+
+### Lai Dai Corporation
+
+Caldari mega-corp, Forest-axis anchor. Major beneficiary of Jita IV-4 renovations and the Hypernet network — both of which the Warpath restrictions on Jita have just severely impaired. Stole Intaki mind-transfer tech ~YC119. Holds Khanid Amarr ties. The structural loser of the YC128 cycle so far.
+**Cited in:** [Caldari Business Tribunal calls in Navy as Lai Dai seizes SuVee Food Shipments](https://universe.eveonline.com/new-eden-news/caldari-business-tribunal-calls-in-navy-as-lai-dai-seizes-suvee-food-shipments) · [Caldari Business Tribunal In Special Hearing Of Sukuuvestaa, Lai Dai](https://universe.eveonline.com/new-eden-news/caldari-business-tribunal-in-special-hearing-of-sukuuvestaa-lai-dai) · [Hundreds Injured, Several Deaths in Explosion At Lai Dai Base](https://universe.eveonline.com/new-eden-news/hundreds-injured-several-deaths-in-explosion-at-lai-dai-base) · [Kaalakiota Backs Sukuuvestaa Over Lai Dai in "Ghost Ship" Tussle](https://universe.eveonline.com/new-eden-news/kaalakiota-backs-sukuuvestaa-over-lai-dai-in-ghost-ship-tussle) · [Lai Dai Announces Black Rise Development Conference](https://universe.eveonline.com/new-eden-news/lai-dai-announces-black-rise-development-conference) · [Lai Dai Announces ‘Wormhole Space’ Expedition](https://universe.eveonline.com/new-eden-news/lai-dai-announces-wormhole-space-expedition) · [Lai Dai, CBD Corporation Considering Further Foreign Investment](https://universe.eveonline.com/new-eden-news/lai-dai-cbd-corporation-considering-further-foreign-investment) · [Lai Dai Conference Suffers Electromagnetic Attack](https://universe.eveonline.com/new-eden-news/lai-dai-conference-suffers-electromagnetic-attack) · [Lai Dai Development Facility Evacuated in Reactor Emergency](https://universe.eveonline.com/new-eden-news/lai-dai-development-facility-evacuated-in-reactor-emergency) · [Lai Dai Introduces the Kitsune](https://universe.eveonline.com/new-eden-news/lai-dai-introduces-the-kitsune) · [Lai Dai, Others Announce Black Rise Plans](https://universe.eveonline.com/new-eden-news/lai-dai-others-announce-black-rise-plans) · [Lai Dai outbids Ishukone in NMA partnership; ORE deal?](https://universe.eveonline.com/new-eden-news/lai-dai-outbids-ishukone-in-nma-partnership-ore-deal) · [Lai Dai Scientist in Coma Following Cybernetic Attack](https://universe.eveonline.com/new-eden-news/lai-dai-scientist-in-coma-following-cybernetic-attack) · [Lai Dai, Sukuuvestaa Facing Sanctions for “Unlawful Anti-Competitive Measures”](https://universe.eveonline.com/new-eden-news/lai-dai-sukuuvestaa-facing-sanctions-for-unlawful-anti-competitive-measures) · [Lai Dai Team Takes COLOSSUS Team Victory, Individual Prizes](https://universe.eveonline.com/new-eden-news/lai-dai-team-takes-colossus-team-victory-individual-prizes) · [Leaked Lai Dai Acquisition Strategy Causes Furor in Research Community](https://universe.eveonline.com/new-eden-news/leaked-lai-dai-acquisition-strategy-causes-furor-in-research-community) · [Semiki Zainou Biohazard Containment Compromised; Lai Dai Under Suspicion](https://universe.eveonline.com/new-eden-news/semiki-zainou-biohazard-containment-compromised-lai-dai-under-suspicion) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident) · [Wiyrkomi, Lai Dai Add to Teams as Second Round of Qualifiers Kicks Off](https://universe.eveonline.com/new-eden-news/wiyrkomi-lai-dai-add-to-teams-as-second-round-of-qualifiers-kicks-off)
+
+### Mordu's Legion
+
+Mercenary group under Muryia Mordu. Co-developer of clone-soldier / Templar tech with Ishukone. Granted full military access to Intaki under the YC110-era assembly deal — the legal cover that lets Ishukone operate inside Federation space.
+**Cited in:** [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Mordu’s Legion](https://universe.eveonline.com/chronicles/mordus-legion) · [Clashes on Caldari Prime quelled by Mordu's Legion](https://universe.eveonline.com/new-eden-news/clashes-on-caldari-prime-quelled-by-mordus-legion) · [Mordu's Legion and Angel Cartel join Guristas in offering to aid Caldari targets](https://universe.eveonline.com/new-eden-news/mordus-legion-and-angel-cartel-join-guristas-in-offering-to-aid-caldari-targets) · [Mordu's Legion and Guardian Angels clash in Fountain region](https://universe.eveonline.com/new-eden-news/mordus-legion-and-guardian-angels-clash-in-fountain-region) · [Mordu's Legion announces full control of Caldari Prime](https://universe.eveonline.com/new-eden-news/mordus-legion-announces-full-control-of-caldari-prime) · [Mordu's Legion Clashes In Syndicate](https://universe.eveonline.com/new-eden-news/mordus-legion-clashes-in-syndicate) · [Mordu's Legion Command Announces Departure from Caldari Prime](https://universe.eveonline.com/new-eden-news/mordus-legion-command-announces-departure-from-caldari-prime) · [Mordu's Legion hunts and kills Serpentis battleship](https://universe.eveonline.com/new-eden-news/mordus-legion-hunts-and-kills-serpentis-battleship) · [Mordu's Legion intervenes in Caldari ground combat, escapes unscathed](https://universe.eveonline.com/new-eden-news/mordus-legion-intervenes-in-caldari-ground-combat-escapes-unscathed) · [Mordu's Legion launches Flagship vessel.](https://universe.eveonline.com/new-eden-news/mordus-legion-launches-flagship-vessel) · [Mordu's Legion mobilizes](https://universe.eveonline.com/new-eden-news/mordus-legion-mobilizes) · [Vanguard Clash with Mordu's Legion Planetside](https://universe.eveonline.com/new-eden-news/vanguard-clash-with-mordus-legion-planetside)
+
+### Quafe Company
+
+Beverage corp. Originally Gallente; now operates strong Lai Dai contracts via Jita IV-4. Sponsored Roden in the election. Major beneficiary of Syndicate annexation — new Quafe stations are among the first structures built in seized space. Allegedly ran nanocontroller-laced soft drinks to influence Gallente senatorial elections (Ash self-flagged tinfoil).
+**Cited in:** [Quafe](https://universe.eveonline.com/chronicles/quafe) · [Quafe Company Accused of Arms Running](https://universe.eveonline.com/new-eden-news/quafe-company-accused-of-arms-running) · [Quafe Company Receives Substantial Pre-Tribunal Settlement From State Armed Forces For Loss Of Convoy](https://universe.eveonline.com/new-eden-news/quafe-company-receives-substantial-pre-tribunal-settlement-from-state-armed-forces-for-loss-of-convoy)
+
+### Serpentis Corporation
+
+Salvador Sarpati's black-market / drug pipeline. Silphy's collaborator pre-arrest from SoE. Structural counterpart to the Blood Raiders for the southwestern New Eden map.
+**Cited in:** [The Sarpati Family ](https://universe.eveonline.com/chronicles/the-sarpati-family) · [Serpentis Corporation Strikes Back Against Upwell Consortium](https://universe.eveonline.com/new-eden-news/serpentis-corporation-strikes-back-against-upwell-consortium)
+
+### Sisters of EVE
+
+Religious humanitarian order; Eve Gate research. Sentona Sarpati CEO. Long-running Drifter and wormhole research program. The branch the public sees is humanitarian; the secret-research branch is one of the few groups in New Eden that's been mapping Drifter tech since before the Crisis.
+**Cited in:** [Sisters of EVE](https://universe.eveonline.com/chronicles/sisters-of-eve) · [Servant Sisters of Eve urge calm](https://universe.eveonline.com/new-eden-news/servant-sisters-of-eve-urge-calm) · [Sisters of EVE Announce Transportation Charity Initiative](https://universe.eveonline.com/new-eden-news/sisters-of-eve-announce-transportation-charity-initiative) · [Sisters of EVE Announce Wormhole Expedition Plans](https://universe.eveonline.com/new-eden-news/sisters-of-eve-announce-wormhole-expedition-plans) · [Sisters of Eve Condemn Execution of Eturrer](https://universe.eveonline.com/new-eden-news/sisters-of-eve-condemn-execution-of-eturrer) · [Sisters of EVE Demand Explanation for CONCORD "Warfare Experiments"](https://universe.eveonline.com/new-eden-news/sisters-of-eve-demand-explanation-for-concord-warfare-experiments) · [Sisters of EVE Flotilla Spotted In Drifter Hive Systems](https://universe.eveonline.com/new-eden-news/sisters-of-eve-flotilla-spotted-in-drifter-hive-systems) · [Sisters of EVE release sleeper research findings](https://universe.eveonline.com/new-eden-news/sisters-of-eve-release-sleeper-research-findings) · [Sisters of EVE Release Statement on Caroline's Star, Thera Incident and CONCORD](https://universe.eveonline.com/new-eden-news/sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord) · [Sisters of EVE Respond to Malkalen Disaster](https://universe.eveonline.com/new-eden-news/sisters-of-eve-respond-to-malkalen-disaster) · [Sisters of EVE temporarily promote two agents](https://universe.eveonline.com/new-eden-news/sisters-of-eve-temporarily-promote-two-agents) · [Sisters of EVE "Wormhole Colony Lost"; Sanctuary Scientist Goes Public](https://universe.eveonline.com/new-eden-news/sisters-of-eve-wormhole-colony-lost-sanctuary-scientist-goes-public) · [Special Report: Sisters of EVE Warn of Possible Wormhole Formation Throughout Cluster](https://universe.eveonline.com/new-eden-news/special-report-sisters-of-eve-warn-of-possible-wormhole-formation-throughout-cluster)
+
+### Star Seed Drink Co.
+
+Beverage corp founded by Ytiri. 'Official soft drink' of Caldari space; ran ad-removal campaigns against Quafe in YC106. The Ishukone-axis answer to Quafe and the centerpiece of the 'Soft Drink Wars' framing.
+
+### Ytiri
+
+Ninth-largest Caldari corp. Absorbed by Heth's Provost alliance. Founded Star Seed via its investment division. Concession statement praised Otro Gariushi explicitly — places Ytiri in the Ishukone axis structurally and gives Star Seed its Mountain/Ocean polarity.
+
+## Places
+
+### Jita IV-4 (Caldari Navy Assembly Plant)
+
+Caldari Navy Assembly Plant moon. Lai Dai-managed renovation cash-cow. Hypernet hub. Forest-faction revenue centerpiece. Quafe contracts here. The financial node Mountain/Ocean is structurally trying to disrupt.
+
+## Phenomenons
+
+### Insorum
+
+Synthetic Vitoxin antidote co-developed by Ishukone and Galente parties. Threatened the structural basis of Amarr slavery; the broker plot targeted Insorum production and produced Otro Gariushi's death. Insorum's survival is why Mens Reppola operates under heavy drone protection.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one) · [Blood inquisition on the offensive as the Insorum crisis continues.](https://universe.eveonline.com/new-eden-news/blood-inquisition-on-the-offensive-as-the-insorum-crisis-continues) · [Gallenteans speak out over Insorum Crisis](https://universe.eveonline.com/new-eden-news/gallenteans-speak-out-over-insorum-crisis) · [“Insorum Imbroglio” Puts Focus on Capsuleers as Eyes Turn Toward Blood Raider Covenant](https://universe.eveonline.com/new-eden-news/insorum-imbroglio-puts-focus-on-capsuleers-as-eyes-turn-toward-blood-raider-covenant) · [Protest held above Matar – Ushra’Khan challenges Republic over Insorum controversy](https://universe.eveonline.com/new-eden-news/protest-held-above-matar-ushrakhan-challenges-republic-over-insorum-controversy) · [The “Insorum Imbroglio" and catastrophe on Mabnen I - from a CAIN point of view](https://universe.eveonline.com/new-eden-news/the-insorum-imbroglio-and-catastrophe-on-mabnen-i-from-a-cain-point-of-view)
+
+### Vitoxin Slave-Control Chemistry
+
+Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains slave dependence on Amarr supply. The pharmacological backbone of the Amarr economy; disrupting it threatens the entire Khanid agricultural base.
+**Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one)
+
+## Concepts
+
+### Lai Dai vs Ishukone Axis
+
+The whiteboard. Durable rivalry running through 20+ years of Caldari political realignment. Mountain+Ocean cluster on Ishukone side; Forest on Lai Dai side. SoE / Mordu's Legion / Ytiri / Star Seed map to Ishukone; NOH / CBD / Forest / Quafe / Sarpati line maps to Lai Dai. Without this frame the Warpath beats look like empire-vs-empire; with it they look like a hostile takeover.
+**Cited in:** [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+
+### Soft Drink Wars
+
+Ash's framing: Quafe (Lai Dai) vs Star Seed (Ishukone). Allegations include nanocontroller-laced soft drinks influencing Gallente senatorial elections. Self-flagged tinfoil but underwritten by repeated Quafe-Lai-Dai and Star-Seed-Ishukone contractual links.
+**Cited in:** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+
+### Forest Faction (Caldari political)
+
+Caldari political faction. Lai Dai-axis. Targeted by the Mountain+Ocean alliance. Manages Jita-44 / Hypernet revenue per Ash; the Warpath restrictions on Jita are a direct attack on its income base.
+**Cited in:** [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk)
+
+### Mountain Faction (Caldari political)
+
+Caldari political faction. Saraki's home faction. Allied with Ocean against Forest. Maps onto Ishukone-axis on Ash's whiteboard. The structural winner of the YC128 cycle so far — Saraki's posture, the Syndicate annexation, and the Jita restrictions all benefit Mountain.
+**Cited in:** [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk)
+
+### Ocean Faction (Caldari political)
+
+Caldari political faction. Mountain ally. Ishukone-axis. The less-visible half of the dominant alliance — its quiet support is what makes Mountain's actions politically sustainable.
+**Cited in:** [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk)
+
+## Artifacts
+
+### Subcranial Nano Controllers
+
+Original Ishukone mind-control tech. Banned and replaced — but Ishukone proceeded to bulk-sell trans-cranial microcontrollers to Amarr holders YC111 immediately before winning Intaki dev-rights. The product line that anchors Ishukone's political-economic leverage over the Amarr.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI)
+
+### Zephyr Exploration Ship
+
+Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by the Syndicate to all capsuleers. Carried covert telemetry/sensor packages funneling wormhole data into Ishukone via the Antagonists-chronicle pipeline. The original instance of capsuleers being unwitting data-collection agents.
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante)
+
+---
+
+## Sources cited
+
+- **14×** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04) (2024-04-04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI)
+- **9×** [Ante (Chronicle) (2010-04-19)](https://universe.eveonline.com/chronicles/ante)
+- **9×** [EVE: Templar One (Tony Gonzales) (2012)](https://www.eveonline.com/news/view/templar-one)
+- **4×** [New Eden News: Warpath YC128-04-21 - YC128-04-30 (2026-04-30)](https://www.youtube.com/watch?v=QUoUNxfSXUk)
+- **4×** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05 (2026-05-05)](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+- **3×** [The Sarpati Family  (2001-05-14)](https://universe.eveonline.com/chronicles/the-sarpati-family)
+- **3×** [Silphy (Chronicle) (2001-08-06)](https://universe.eveonline.com/chronicles/silphy)
+- **2×** [Sisters of EVE (2000-09-25)](https://universe.eveonline.com/chronicles/sisters-of-eve)
+- **2×** [Mordu’s Legion (2001-10-01)](https://universe.eveonline.com/chronicles/mordus-legion)
+- **2×** [Lai Dai outbids Ishukone in NMA partnership; ORE deal? (2006-06-19)](https://universe.eveonline.com/new-eden-news/lai-dai-outbids-ishukone-in-nma-partnership-ore-deal)
+- **2×** [EVE: The Empyrean Age (Tony Gonzales) (2008)](https://www.eveonline.com/news/view/the-empyrean-age)
+- **2×** [ISHUKONE STATEMENT: OTRO GARIUSHI CONFIRMED DEAD (2008-05-16)](https://universe.eveonline.com/new-eden-news/ishukone-statement-otro-gariushi-confirmed-dead)
+- **2×** [Mens Reppola Announces 5% Stake In Ishukone (2009-04-23)](https://universe.eveonline.com/new-eden-news/mens-reppola-announces-5-stake-in-ishukone)
+- **2×** [Mens Reppola Made Ishukone CEO, Charts Future Course (2009-04-24)](https://universe.eveonline.com/new-eden-news/mens-reppola-made-ishukone-ceo-charts-future-course)
+- **2×** [Lore Tourism - The Redemption of the Ammatar (2026-02)](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+- **2×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident (2026-05-01)](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
+- **1×** [Quafe (2000-03-01)](https://universe.eveonline.com/chronicles/quafe)
+- **1×** [Quafe Company Accused of Arms Running (2003-10-21)](https://universe.eveonline.com/new-eden-news/quafe-company-accused-of-arms-running)
+- **1×** [Ishukone Decries Delicacies Scandal, Offers to Reimburse (2003-11-10)](https://universe.eveonline.com/new-eden-news/ishukone-decries-delicacies-scandal-offers-to-reimburse)
+- **1×** [Ishukone Vessel Missing in Domain Region, Reward Offered (2003-12-05)](https://universe.eveonline.com/new-eden-news/ishukone-vessel-missing-in-domain-region-reward-offered)
+- **1×** [Ishukone CEO Gariushi unveils Crielere discoveries (2003-12-17)](https://universe.eveonline.com/new-eden-news/ishukone-ceo-gariushi-unveils-crielere-discoveries)
+- **1×** [Ishukone researcher comes forward - blames Gallente for missing blueprints (2004-01-12)](https://universe.eveonline.com/new-eden-news/ishukone-researcher-comes-forward-blames-gallente-for-missing-blueprints)
+- **1×** [Ishukone and Khanid Kingdom sign multitrillion trade deal on Transcranial Microcontrollers (2004-03-16)](https://universe.eveonline.com/new-eden-news/ishukone-and-khanid-kingdom-sign-multitrillion-trade-deal-on-transcranial-microcontrollers)
+- **1×** [Otro Gariushi defends Dark Amarr deal - claims chips improve slaves' lives (2004-03-23)](https://universe.eveonline.com/new-eden-news/otro-gariushi-defends-dark-amarr-deal-claims-chips-improve-slaves-lives)
+- **1×** [Dark Amarr rifts chip deal with Ishukone (2004-04-11)](https://universe.eveonline.com/new-eden-news/dark-amarr-rifts-chip-deal-with-ishukone)
+- **1×** [Muryia Mordu arrives safely at his headquarters; region in uproar (2004-07-23)](https://universe.eveonline.com/new-eden-news/muryia-mordu-arrives-safely-at-his-headquarters-region-in-uproar)
+- **1×** [Mordu's Legion and Guardian Angels clash in Fountain region (2004-08-03)](https://universe.eveonline.com/new-eden-news/mordus-legion-and-guardian-angels-clash-in-fountain-region)
+- **1×** [Wiyrkomi, Lai Dai Add to Teams as Second Round of Qualifiers Kicks Off (2004-09-14)](https://universe.eveonline.com/new-eden-news/wiyrkomi-lai-dai-add-to-teams-as-second-round-of-qualifiers-kicks-off)
+- **1×** [Lai Dai Team Takes COLOSSUS Team Victory, Individual Prizes (2005-02-01)](https://universe.eveonline.com/new-eden-news/lai-dai-team-takes-colossus-team-victory-individual-prizes)
+- **1×** [“Insorum Imbroglio” Puts Focus on Capsuleers as Eyes Turn Toward Blood Raider Covenant (2005-06-01)](https://universe.eveonline.com/new-eden-news/insorum-imbroglio-puts-focus-on-capsuleers-as-eyes-turn-toward-blood-raider-covenant)
+- **1×** [Blood inquisition on the offensive as the Insorum crisis continues. (2005-06-10)](https://universe.eveonline.com/new-eden-news/blood-inquisition-on-the-offensive-as-the-insorum-crisis-continues)
+- **1×** [Ishukone denies responsibility in slave uprising. Microcontrollers on the rise. (2005-06-11)](https://universe.eveonline.com/new-eden-news/ishukone-denies-responsibility-in-slave-uprising-microcontrollers-on-the-rise)
+- **1×** [Gallenteans speak out over Insorum Crisis (2005-06-11)](https://universe.eveonline.com/new-eden-news/gallenteans-speak-out-over-insorum-crisis)
+- **1×** [The “Insorum Imbroglio" and catastrophe on Mabnen I - from a CAIN point of view (2005-06-16)](https://universe.eveonline.com/new-eden-news/the-insorum-imbroglio-and-catastrophe-on-mabnen-i-from-a-cain-point-of-view)
+- **1×** [Mordu's Legion hunts and kills Serpentis battleship (2005-07-12)](https://universe.eveonline.com/new-eden-news/mordus-legion-hunts-and-kills-serpentis-battleship)
+- **1×** [Mordu's Legion Clashes In Syndicate (2005-11-17)](https://universe.eveonline.com/new-eden-news/mordus-legion-clashes-in-syndicate)
+- **1×** [Protest held above Matar – Ushra’Khan challenges Republic over Insorum controversy (2005-12-05)](https://universe.eveonline.com/new-eden-news/protest-held-above-matar-ushrakhan-challenges-republic-over-insorum-controversy)
+- **1×** [Innovaatio sells to Ishukone for surprising sum (2007-04-06)](https://universe.eveonline.com/new-eden-news/innovaatio-sells-to-ishukone-for-surprising-sum)
+- **1×** [Mordu's Legion launches Flagship vessel. (2007-04-14)](https://universe.eveonline.com/new-eden-news/mordus-legion-launches-flagship-vessel)
+- **1×** [Lai Dai Introduces the Kitsune (2008-02-13)](https://universe.eveonline.com/new-eden-news/lai-dai-introduces-the-kitsune)
+- **1×** [Lai Dai, CBD Corporation Considering Further Foreign Investment (2008-04-13)](https://universe.eveonline.com/new-eden-news/lai-dai-cbd-corporation-considering-further-foreign-investment)
+- **1×** [Breaking News: Ishukone CEO Pleads for Calm, Denounces Tibus Heth (2008-05-12)](https://universe.eveonline.com/new-eden-news/breaking-news-ishukone-ceo-pleads-for-calm-denounces-tibus-heth)
+- **1×** [BREAKING NEWS: EXPLOSIONS REPORTED, CONTACT WITH ISHUKONE HEADQUARTERS STATION LOST (2008-05-15)](https://universe.eveonline.com/new-eden-news/breaking-news-explosions-reported-contact-with-ishukone-headquarters-station-lost)
+- **1×** [BREAKING NEWS: GENERAL EVACUATION ORDER ISSUED AT ISHUKONE HEADQUARTERS STATION (2008-05-15)](https://universe.eveonline.com/new-eden-news/breaking-news-general-evacuation-order-issued-at-ishukone-headquarters-station)
+- **1×** [Ishukone Corporation establishes disaster relief program (2008-05-15)](https://universe.eveonline.com/new-eden-news/ishukone-corporation-establishes-disaster-relief-program)
+- **1×** [UPDATE: FEDERATION NYX RAMS ISHUKONE HEADQUARTERS STATION (2008-05-15)](https://universe.eveonline.com/new-eden-news/update-federation-nyx-rams-ishukone-headquarters-station)
+- **1×** [Sisters of EVE Respond to Malkalen Disaster (2008-05-15)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-respond-to-malkalen-disaster)
+- **1×** [Hyasyoda Corporation Announces Aid for Ishukone (2008-05-17)](https://universe.eveonline.com/new-eden-news/hyasyoda-corporation-announces-aid-for-ishukone)
+- **1×** [Federation President Affirms Ishukone’s Account of Event, Denies Complicity in Malkalen Attack (2008-05-19)](https://universe.eveonline.com/new-eden-news/federation-president-affirms-ishukones-account-of-event-denies-complicity-in-malkalen-attack)
+- **1×** [ISHUKONE BOARD CEDES STRATEGIC CONTROL TO HETH; MARKETS RESPOND POSITIVELY (2008-05-30)](https://universe.eveonline.com/new-eden-news/ishukone-board-cedes-strategic-control-to-heth-markets-respond-positively)
+- **1×** [Mordu's Legion mobilizes (2008-06-10)](https://universe.eveonline.com/new-eden-news/mordus-legion-mobilizes)
+- **1×** [Servant Sisters of Eve urge calm (2008-06-10)](https://universe.eveonline.com/new-eden-news/servant-sisters-of-eve-urge-calm)
+- **1×** [Leaked Lai Dai Acquisition Strategy Causes Furor in Research Community (2008-10-24)](https://universe.eveonline.com/new-eden-news/leaked-lai-dai-acquisition-strategy-causes-furor-in-research-community)
+- **1×** [Caldari Business Tribunal calls in Navy as Lai Dai seizes SuVee Food Shipments (2008-10-28)](https://universe.eveonline.com/new-eden-news/caldari-business-tribunal-calls-in-navy-as-lai-dai-seizes-suvee-food-shipments)
+- **1×** [Ishukone CEO Crisis Continues as Guinna and Ruivannen Resign (2008-11-14)](https://universe.eveonline.com/new-eden-news/ishukone-ceo-crisis-continues-as-guinna-and-ruivannen-resign)
+- **1×** [Sisters of Eve Condemn Execution of Eturrer (2009-01-05)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-condemn-execution-of-eturrer)
+- **1×** [Light On The Horizon In Ishukone CEO Crisis (2009-01-19)](https://universe.eveonline.com/new-eden-news/light-on-the-horizon-in-ishukone-ceo-crisis)
+- **1×** [Ishukone Watch CEO Speaks Out About Caldari Prime (2009-02-02)](https://universe.eveonline.com/new-eden-news/ishukone-watch-ceo-speaks-out-about-caldari-prime)
+- **1×** [Navy Officer Reprimanded For Weighing In On Ishukone CEO Fight (2009-02-17)](https://universe.eveonline.com/new-eden-news/navy-officer-reprimanded-for-weighing-in-on-ishukone-ceo-fight)
+- **1×** [Provists, Tribunal Raid Ishukone Offices In Oimmo (2009-02-17)](https://universe.eveonline.com/new-eden-news/provists-tribunal-raid-ishukone-offices-in-oimmo)
+- **1×** [Arrests Made By Ishukone Watch In Wake Of Tribunal Raid (2009-02-18)](https://universe.eveonline.com/new-eden-news/arrests-made-by-ishukone-watch-in-wake-of-tribunal-raid)
+- **1×** [Tribunal Dismisses Directorate Suit Against Ishukone (2009-02-21)](https://universe.eveonline.com/new-eden-news/tribunal-dismisses-directorate-suit-against-ishukone)
+- **1×** [Lai Dai, Others Announce Black Rise Plans (2009-03-06)](https://universe.eveonline.com/new-eden-news/lai-dai-others-announce-black-rise-plans)
+- **1×** [Ishukone Watch Offers Assistance To Federation Government (2009-03-10)](https://universe.eveonline.com/new-eden-news/ishukone-watch-offers-assistance-to-federation-government)
+- **1×** [Lai Dai Announces ‘Wormhole Space’ Expedition (2009-03-10)](https://universe.eveonline.com/new-eden-news/lai-dai-announces-wormhole-space-expedition)
+- **1×** [Sisters of EVE Announce Wormhole Expedition Plans (2009-03-10)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-announce-wormhole-expedition-plans)
+- **1×** [Special Report: Sisters of EVE Warn of Possible Wormhole Formation Throughout Cluster (2009-03-10)](https://universe.eveonline.com/new-eden-news/special-report-sisters-of-eve-warn-of-possible-wormhole-formation-throughout-cluster)
+- **1×** [Ishukone Stock Stumbles On Profit Warnings, Indecision (2009-03-30)](https://universe.eveonline.com/new-eden-news/ishukone-stock-stumbles-on-profit-warnings-indecision)
+- **1×** [Okalala Visits Landfall Shrine, Speaks On Ishukone Problems (2009-04-15)](https://universe.eveonline.com/new-eden-news/okalala-visits-landfall-shrine-speaks-on-ishukone-problems)
+- **1×** [Ogemi Collapses, Rushed To Hospital; Ishukone Stock Plummets (2009-04-22)](https://universe.eveonline.com/new-eden-news/ogemi-collapses-rushed-to-hospital-ishukone-stock-plummets)
+- **1×** [Reppola, Okalala Called To Malkalen; Ishukone Stock Rebounds (2009-04-23)](https://universe.eveonline.com/new-eden-news/reppola-okalala-called-to-malkalen-ishukone-stock-rebounds)
+- **1×** [Eborimi Shiskala Tapped To Lead Ishukone Watch (2009-05-13)](https://universe.eveonline.com/new-eden-news/eborimi-shiskala-tapped-to-lead-ishukone-watch)
+- **1×** [Minmatar Politicians and Military Cautiously Welcome New Ishukone CEO (2009-05-28)](https://universe.eveonline.com/new-eden-news/minmatar-politicians-and-military-cautiously-welcome-new-ishukone-ceo)
+- **1×** [Federation Policymakers Exhibit Muted Reactions to Mens Reppola Appointment (2009-05-31)](https://universe.eveonline.com/new-eden-news/federation-policymakers-exhibit-muted-reactions-to-mens-reppola-appointment)
+- **1×** [Provist Military Reforms Passed By CEP With Ishukone, CBD Support (2009-07-07)](https://universe.eveonline.com/new-eden-news/provist-military-reforms-passed-by-cep-with-ishukone-cbd-support)
+- **1×** [Ishukone to sell Transcranial Microcontrollers to holders at 'bulk rates' (2009-07-25)](https://universe.eveonline.com/new-eden-news/ishukone-to-sell-transcranial-microcontrollers-to-holders-at-bulk-rates)
+- **1×** [Breaking News: Ishukone Wins Development Rights to Intaki System (2009-08-20)](https://universe.eveonline.com/new-eden-news/breaking-news-ishukone-wins-development-rights-to-intaki-system)
+- **1×** [Sisters of EVE Announce Transportation Charity Initiative (2009-09-08)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-announce-transportation-charity-initiative)
+- **1×** [CBD Accuses Ishukone of Unfair Competition in the Khanid Kingdom (2009-09-22)](https://universe.eveonline.com/new-eden-news/cbd-accuses-ishukone-of-unfair-competition-in-the-khanid-kingdom)
+- **1×** [Lai Dai Announces Black Rise Development Conference (2009-10-31)](https://universe.eveonline.com/new-eden-news/lai-dai-announces-black-rise-development-conference)
+- **1×** [Lai Dai Conference Suffers Electromagnetic Attack (2009-11-14)](https://universe.eveonline.com/new-eden-news/lai-dai-conference-suffers-electromagnetic-attack)
+- **1×** [Lai Dai Development Facility Evacuated in Reactor Emergency (2009-11-23)](https://universe.eveonline.com/new-eden-news/lai-dai-development-facility-evacuated-in-reactor-emergency)
+- **1×** [Hundreds Injured, Several Deaths in Explosion At Lai Dai Base (2009-12-06)](https://universe.eveonline.com/new-eden-news/hundreds-injured-several-deaths-in-explosion-at-lai-dai-base)
+- **1×** [Lai Dai Scientist in Coma Following Cybernetic Attack (2009-12-12)](https://universe.eveonline.com/new-eden-news/lai-dai-scientist-in-coma-following-cybernetic-attack)
+- **1×** [Caldari Business Tribunal In Special Hearing Of Sukuuvestaa, Lai Dai (2009-12-17)](https://universe.eveonline.com/new-eden-news/caldari-business-tribunal-in-special-hearing-of-sukuuvestaa-lai-dai)
+- **1×** [Lai Dai, Sukuuvestaa Facing Sanctions for “Unlawful Anti-Competitive Measures” (2009-12-18)](https://universe.eveonline.com/new-eden-news/lai-dai-sukuuvestaa-facing-sanctions-for-unlawful-anti-competitive-measures)
+- **1×** [Ishukone Negotiates Terms With Federation Regulators (2010-04-12)](https://universe.eveonline.com/new-eden-news/ishukone-negotiates-terms-with-federation-regulators)
+- **1×** [Mordu's Legion intervenes in Caldari ground combat, escapes unscathed (2013-02-08)](https://universe.eveonline.com/new-eden-news/mordus-legion-intervenes-in-caldari-ground-combat-escapes-unscathed)
+- **1×** [Mordu's Legion and Angel Cartel join Guristas in offering to aid Caldari targets (2013-02-12)](https://universe.eveonline.com/new-eden-news/mordus-legion-and-angel-cartel-join-guristas-in-offering-to-aid-caldari-targets)
+- **1×** [Caldari Prime relief effort continues, Ishukone request access to devastated planet (2013-03-24)](https://universe.eveonline.com/new-eden-news/caldari-prime-relief-effort-continues-ishukone-request-access-to-devastated-planet)
+- **1×** [Ishukone access to Caldari Prime approved, full negotiations still ongoing (2013-03-25)](https://universe.eveonline.com/new-eden-news/ishukone-access-to-caldari-prime-approved-full-negotiations-still-ongoing)
+- **1×** [Heth responds to loss of Shiigeru and Ishukone contact with Gallente senate (2013-03-26)](https://universe.eveonline.com/new-eden-news/heth-responds-to-loss-of-shiigeru-and-ishukone-contact-with-gallente-senate)
+- **1×** [Ishukone relief convoy safely makes it to Caldari Prime after attempted capsuleer interdiction (2013-03-29)](https://universe.eveonline.com/new-eden-news/ishukone-relief-convoy-safely-makes-it-to-caldari-prime-after-attempted-capsuleer-interdiction)
+- **1×** [Megacorporations announce plans to join Ishukone in relief efforts (2013-04-02)](https://universe.eveonline.com/new-eden-news/megacorporations-announce-plans-to-join-ishukone-in-relief-efforts)
+- **1×** [Tibus Heth angrily denounces Caldari Prime DMZ, blasts Ishukone and SuVee participation (2013-04-04)](https://universe.eveonline.com/new-eden-news/tibus-heth-angrily-denounces-caldari-prime-dmz-blasts-ishukone-and-suvee-participation)
+- **1×** [Prototype vessel stolen from Ishukone shipyard (2013-04-05)](https://universe.eveonline.com/new-eden-news/prototype-vessel-stolen-from-ishukone-shipyard)
+- **1×** [Stolen Ishukone Watch vessel located, handed off to capsuleer (2013-04-06)](https://universe.eveonline.com/new-eden-news/stolen-ishukone-watch-vessel-located-handed-off-to-capsuleer)
+- **1×** [Mordu's Legion announces full control of Caldari Prime (2013-05-11)](https://universe.eveonline.com/new-eden-news/mordus-legion-announces-full-control-of-caldari-prime)
+- **1×** [Wreckage of Shiigeru to be examined by Ishukone and Zainou (2013-05-15)](https://universe.eveonline.com/new-eden-news/wreckage-of-shiigeru-to-be-examined-by-ishukone-and-zainou)
+- **1×** [Sisters of EVE temporarily promote two agents (2013-10-09)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-temporarily-promote-two-agents)
+- **1×** [Clashes on Caldari Prime quelled by Mordu's Legion (2013-11-19)](https://universe.eveonline.com/new-eden-news/clashes-on-caldari-prime-quelled-by-mordus-legion)
+- **1×** [Ishukone Announces Investment In Malkalen Reconstruction (2014-01-28)](https://universe.eveonline.com/new-eden-news/ishukone-announces-investment-in-malkalen-reconstruction)
+- **1×** [Ishukone meets with Gallente Senate on Caldari Prime (2014-03-20)](https://universe.eveonline.com/new-eden-news/ishukone-meets-with-gallente-senate-on-caldari-prime)
+- **1×** [Ishukone actions called into question after further talks with Gallente Senate (2014-04-04)](https://universe.eveonline.com/new-eden-news/ishukone-actions-called-into-question-after-further-talks-with-gallente-senate)
+- **1×** [Ishukone executives called to Chief Executive Panel hearing (2014-04-07)](https://universe.eveonline.com/new-eden-news/ishukone-executives-called-to-chief-executive-panel-hearing)
+- **1×** [Ishukone administrators announce Arcurio takeover bid (2014-04-10)](https://universe.eveonline.com/new-eden-news/ishukone-administrators-announce-arcurio-takeover-bid)
+- **1×** [Ishukone re-opens flagship station (2014-06-03)](https://universe.eveonline.com/new-eden-news/ishukone-re-opens-flagship-station)
+- **1×** [Ishukone Accepts Formal Handover Of Arcurio (2014-07-01)](https://universe.eveonline.com/new-eden-news/ishukone-accepts-formal-handover-of-arcurio)
+- **1×** [Muryia Mordu issues Operation Highlander Decoration (2014-08-21)](https://universe.eveonline.com/new-eden-news/muryia-mordu-issues-operation-highlander-decoration)
+- **1×** [Sisters of EVE release sleeper research findings (2014-10-06)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-release-sleeper-research-findings)
+- **1×** [Sisters of EVE "Wormhole Colony Lost"; Sanctuary Scientist Goes Public (2014-12-09)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-wormhole-colony-lost-sanctuary-scientist-goes-public)
+- **1×** [Sisters of EVE Release Statement on Caroline's Star, Thera Incident and CONCORD (2015-02-20)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord)
+- **1×** [Serpentis Corporation Strikes Back Against Upwell Consortium (2015-12-16)](https://universe.eveonline.com/new-eden-news/serpentis-corporation-strikes-back-against-upwell-consortium)
+- **1×** [Sisters of EVE Flotilla Spotted In Drifter Hive Systems (2016-02-09)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-flotilla-spotted-in-drifter-hive-systems)
+- **1×** [Ishukone CEO Derided At CEP Session After Offering Assistance To Both Federation And State (2017-02-28)](https://universe.eveonline.com/new-eden-news/ishukone-ceo-derided-at-cep-session-after-offering-assistance-to-both-federation-and-state)
+- **1×** [Quafe Company Receives Substantial Pre-Tribunal Settlement From State Armed Forces For Loss Of Convoy (2017-05-25)](https://universe.eveonline.com/new-eden-news/quafe-company-receives-substantial-pre-tribunal-settlement-from-state-armed-forces-for-loss-of-convoy)
+- **1×** [Sisters of EVE Demand Explanation for CONCORD "Warfare Experiments" (2018-08-30)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-demand-explanation-for-concord-warfare-experiments)
+- **1×** [Mordu's Legion Command Announces Departure from Caldari Prime (2018-09-14)](https://universe.eveonline.com/new-eden-news/mordus-legion-command-announces-departure-from-caldari-prime)
+- **1×** [Ishukone and Hyasyoda Call for Tribunal to Open Case Over Claims of NOH and CBD Smuggling (2018-11-15)](https://universe.eveonline.com/new-eden-news/ishukone-and-hyasyoda-call-for-tribunal-to-open-case-over-claims-of-noh-and-cbd-smuggling)
+- **1×** [Semiki Zainou Biohazard Containment Compromised; Lai Dai Under Suspicion (2019-01-17)](https://universe.eveonline.com/new-eden-news/semiki-zainou-biohazard-containment-compromised-lai-dai-under-suspicion)
+- **1×** [Semiki Situation Deteriorates; Ishukone Watch Releases Initial Findings (2019-01-24)](https://universe.eveonline.com/new-eden-news/semiki-situation-deteriorates-ishukone-watch-releases-initial-findings)
+- **1×** [Ishukone and CEP Battle SARO in CONCORD Assembly Over Dangerous Research Materials (2019-02-12)](https://universe.eveonline.com/new-eden-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials)
+- **1×** [New Caldari Ishukone Erection 3 Meters Taller Than Kaalakiota Erection (2019-04-01)](https://universe.eveonline.com/new-eden-news/new-caldari-ishukone-erection-3-meters-taller-than-kaalakiota-erection)
+- **1×** [Kaalakiota Backs Sukuuvestaa Over Lai Dai in "Ghost Ship" Tussle (2020-04-01)](https://universe.eveonline.com/new-eden-news/kaalakiota-backs-sukuuvestaa-over-lai-dai-in-ghost-ship-tussle)
+- **1×** [Vanguard Clash with Mordu's Legion Planetside (2025-09-18)](https://universe.eveonline.com/new-eden-news/vanguard-clash-with-mordus-legion-planetside)
+- **1×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident (2026-05-01)](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)

@@ -55,3 +55,4 @@ data/raw/
 # Refreshed by `pnpm embed:db` from data/aurora.db; ships only inside the
 # Vercel build artifact, never tracked.
 src/lib/db-blob.ts
+data/syntheses/_input/
