@@ -8,8 +8,8 @@
     "phase": 0,
     "license_mode": "L3-user-paste",
     "extraction_source": "Five Ashterothi transcripts (auto-captions pulled via yt-dlp). Curator-owned annotation; not a republication of source material. Mil-Campaign #2 region (Ammatar / Starkmanir / Old Wars / Tanu dread attack) extracted from ash_ammatar_tourism transcript.",
-    "node_count": 182,
-    "connection_count": 297
+    "node_count": 195,
+    "connection_count": 327
   },
   "sources": [
     {
@@ -3086,6 +3086,206 @@
         "src_news_intaki-spiritual-leader-announces-marriage",
         "src_chronicle_ante"
       ]
+    },
+    {
+      "id": "org_nefantar_tribe",
+      "type": "Faction",
+      "name": "Nefantar Tribe",
+      "brief": "The Mimitar tribe that defected to the Amarr during the Day of Darkness, renamed 'Ammatar' under Damyas III's honorific. Restored to Republic membership in YC115 under Alika Valkanir; many descendants still administer the Ammatar Mandate.",
+      "master_summary": "The Nefantar are the Mimitar tribe whose Day-of-Darkness collaboration produced the Ammatar Mandate. The Imperian-Age reveal showed they had been covertly hiding Starkmanir survivors during the centuries of Amarr rule — partial redemption that recategorized them from outright traitors to long-game protectors. Restored as the seventh Mimitar tribe in YC115. The split between 'Nefantar' (tribal identity, Republic-restored) and 'Ammatar' (mandate-administering descendants still loyal to the Empire) is the structural backbone of any future Mil-Campaign #2 zone.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_sanmatar-shakor-affirms-starkmanir-nefantar-tribal-chiefs",
+        "src_news_former-nefantar-holders-attempting-to-become-tribal-leaders",
+        "src_news_nefantar-elite-make-best-of-their-situation",
+        "src_news_many-nefantar-elite-find-adapting-to-republic-life-difficult",
+        "src_news_starkmanir-nefantar-face-uphill-battle-in-minmatar-politics",
+        "src_news_nefantar-defector-presses-court-case-against-urban-management",
+        "src_news_tensions-over-land-increase-as-starkmanir-and-nefantar-press-claims",
+        "src_ash_seven_tribes",
+        "src_chronicle_the-ammatars"
+      ]
+    },
+    {
+      "id": "org_brutor_tribe",
+      "type": "Faction",
+      "name": "Brutor Tribe",
+      "brief": "Mimitar warrior tribe. Most martially-inclined of the seven; the Republic's primary infantry / capsuleer-pilot recruitment pool. Brutor Chief Ukumi Pol named the Amarr explicitly during the Jita-gate crisis.",
+      "master_summary": "The Mimitar's warrior tribe — produces the bulk of Republic naval officers, ground-force infantry, and capsuleer pilots. Politically the most hawkish tribal voice. Brutor Chief Ukumi Pol's YC128 statement pointing fingers at the Amarr is consistent with Brutor's longstanding posture: the tribe has never bought into the appeasement cycles that Krusual or Sebiestor leadership periodically pursue.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_minmatar-call-for-release-of-imprisoned-brutor-student",
+        "src_news_call-to-arms-brutor-tribe-chief-calls-for-defence-of-kourmonen",
+        "src_news_brutor-tribe-expresses-support-for-khumaak-new-proposal-detailed",
+        "src_ash_seven_tribes"
+      ]
+    },
+    {
+      "id": "org_krusual_tribe",
+      "type": "Faction",
+      "name": "Krusual Tribe",
+      "brief": "Mimitar mountain-people tribe. Politically conservative, traditional, and the source of the 'Krusual' (the unbroken-Mimitar) cultural identity that resisted full Amarr enslavement.",
+      "master_summary": "The Mimitar's mountain tribe — geographically isolated during the Amarr era, which preserved more of the pre-Empire culture than any other Republic tribe retains. Politically conservative and resistant to Galante-style democratic reform. The Krusoral identity (which Ash highlights) is the Krusual self-conception: the unbent, unbroken, never-fully-enslaved Mimitar lineage.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_republic-fleet-fires-on-krusual-militia-vessels",
+        "src_news_kidnapped-nakugard-bombings-suspect-found-dead-on-krusual-station",
+        "src_news_sebiestor-majority-in-question-krusual-tribal-leaders-agitating-for-change-of-pm",
+        "src_ash_seven_tribes"
+      ]
+    },
+    {
+      "id": "plc_black_rise",
+      "type": "Place",
+      "name": "Black Rise",
+      "brief": "Caldari frontier nullsec region adjacent to The Forge and Lonetrek. Lai Dai administrative target during the Black Rise development push (~YC110). Faction-warfare zone with Gallente.",
+      "master_summary": "Caldari's eastern frontier region. Lai Dai's announced 'Black Rise development' was a major mid-2010s commercial-expansion play that put the corp's resources into the borderland. Its FW status against Gallente makes it the eastern counterpart to Placid (the western FW border) — together they bracket the Caldari–Gallente conflict zone that Warpath Protocol Failure exposed.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_caldari-navy-intercepts-guristas-convoy-in-black-rise",
+        "src_news_breaking-news-heths-ship-spotted-in-black-rise",
+        "src_news_lai-dai-announces-black-rise-development-conference",
+        "src_news_black-rise-search-and-recovery-mission-cancelled",
+        "src_news_high-alert-black-rise-region-constellation-inolari",
+        "src_news_lai-dai-others-announce-black-rise-plans",
+        "src_news_kaalakiota-unveils-black-rise-survey-program",
+        "src_news_federation-militia-advances-through-black-rise"
+      ]
+    },
+    {
+      "id": "plc_molden_heath",
+      "type": "Place",
+      "name": "Molden Heath",
+      "brief": "Mimitar frontier region. Adjacent to Heimatar and Great Wildlands. Krusual / Brutor military operations zone; structurally the Republic's eastern flank.",
+      "master_summary": "Republic frontier region. Molden Heath is where the Republic's traditional military architecture (Brutor / Krusual deployments) projects power outward. Adjacent to Great Wildlands, which Thukker semi-autonomously administers, making the Molden Heath ↔ Great Wildlands border the Republic's tribal-to-tribal handoff. Ash flags Molden Heath as a possible Mimitar-side Mil-Campaign zone if the Ammatar Mandate prediction plays out.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_republic-fleet-requests-concord-help-in-search-for-missing-ship-in-molden-heath",
+        "src_news_results-of-molden-heath-conflicted",
+        "src_news_republic-releases-initial-report-on-molden-heath",
+        "src_news_angel-cartel-feels-pressure-in-molden-heath",
+        "src_news_cloned-mercenaries-flood-into-molden-heath",
+        "src_news_thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath",
+        "src_news_decorated-captain-denied-task-force-for-molden-heath"
+      ]
+    },
+    {
+      "id": "plc_great_wildlands",
+      "type": "Place",
+      "name": "Great Wildlands",
+      "brief": "NPC-nullsec region. Thukker tribal territory; Mordu's Legion operations zone. Closest Mimitar analogue to the Intaki Syndicate's NPC-nullsec status in Syndicate region.",
+      "master_summary": "The Mimitar tribal frontier at NPC scale. Thukker administers; Mordu's Legion operates from. Structurally the tribe's parallel to Intaki Syndicate's relationship with the Federation — semi-autonomous, NPC-controlled, semi-deniable. Prismatic / fractured-site activity has been heavy here during the Catalyst era. Drifter-tech research that the Republic-proper doesn't want to claim happens through Great Wildlands intermediaries.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_report-thukker-caravan-reported-missing-in-great-wildlands",
+        "src_news_thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands",
+        "src_news_pilgrims-tell-tale-of-survival-in-the-great-wildlands",
+        "src_news_great-wildlands-pilgrimage-convoy-missing",
+        "src_news_increasing-numbers-join-great-wildlands-pilgrimage"
+      ]
+    },
+    {
+      "id": "plc_caille",
+      "type": "Place",
+      "name": "Caille",
+      "brief": "Capital city of the Gallente Federation, located on Gallente Prime. Seat of the Federation Senate, Presidential office, and Yulai-aligned diplomatic infrastructure.",
+      "master_summary": "Gallente Prime's capital city — political center of the Federation. Senatorial nominations, presidential inaugurations, and the Yulai diplomatic apparatus all anchor here. Moreau's YC128 inauguration was held in Caille under the Jita-gate cloud. Symbolic counterweight to New Caldari Prime (Caldari political center) and Amarr (Empire center) — the three-empire political-capital geography is one of CCP's clearest storytelling anchors.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_riots-in-caille-as-controversial-united-response-act-passed",
+        "src_news_former-minmatar-prime-minister-karin-midular-confirmed-among-caille-wounded",
+        "src_news_univeristy-of-caille-displeased-with-federation-seizure-of-balrille",
+        "src_news_university-of-caille-to-host-physics-summit",
+        "src_news_intaki-spiritual-leader-to-resign-caille-position",
+        "src_chronicle_the-glistening-streets-of-caille"
+      ]
+    },
+    {
+      "id": "org_caldari_business_tribunal",
+      "type": "Organization",
+      "name": "Caldari Business Tribunal",
+      "brief": "Caldari judicial / regulatory body. Investigated the financial corruption operating out of Jita that — per Saraki's CEP statement — turned out to be Drifter-hyperspace-network manipulation, not conventional fraud.",
+      "master_summary": "The CBT is the Caldari State's mega-corp regulator. Long-running investigation of Jita financial corruption was the diplomatic cover under which Saraki revealed (during the post-Jita-gate CEP statement) that the 'corruption' was actually weaponized hyperspace-network exploitation. CBT operates in tension with the House of Records: where the latter tracks raw transaction history, the CBT decides what's legal. Forest-faction-aligned per the structural pattern (Lai-Dai-administered commerce gets the regulatory seat).",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_caldari-business-tribunal-confirms-illegality-of-quafe-convoy-destruction-in-first-hearing",
+        "src_news_caldari-business-tribunal-uproar-as-slander-case-is-dismissed",
+        "src_news_caldari-business-tribunal-in-special-hearing-of-sukuuvestaa-lai-dai",
+        "src_news_caldari-business-tribunal-launches-enquiry-into-sukuuvestaa-attacks",
+        "src_news_caldari-business-tribunal-calls-in-navy-as-lai-dai-seizes-suvee-food-shipments"
+      ]
+    },
+    {
+      "id": "org_sansha_nation",
+      "type": "Faction",
+      "name": "Sansha's Nation",
+      "brief": "Cybernetic-pirate empire founded by Sansha Kuvakei. True-slave neural-conditioning technology. Periodic incursion campaigns against high-sec systems; structural counterpart to the Drifter / Triglavian incursion patterns.",
+      "master_summary": "The fourth major canonical pirate empire — Sansha's signature is the True-Slave neural conditioning, an extreme of the Vitoxin / mind-control technology spectrum. Periodic incursions historically targeted both high-sec and faction territory; many of CCP's earlier expansion arcs (incursion mechanic, response protocols) were shaped around Sansha's behavior pattern. Genealogically related to the Sarpati line through Sansha Kuvakei's family — one of the few canonical bridges between the southern pirate factions and the Sarpati black-market network.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_sanshas-nation-attempt-jita-blockade",
+        "src_news_umokka-raided-by-sanshas-nation-abductions-escalate",
+        "src_news_sanshas-nation-showing-signs-of-revival",
+        "src_news_sanshas-nation-forces-move-on-angel-cartel-territory"
+      ]
+    },
+    {
+      "id": "per_heideran_vii",
+      "type": "Person",
+      "name": "Heideran VII",
+      "date": "pre-YC105",
+      "brief": "Amarr Emperor who preceded Doriam Kor-Azor. Long-reigning, conservative; presided over the Empire during the early modern era of capsuleer activity.",
+      "master_summary": "The pre-modern Amarr throne anchor. Heideran's death triggered the championship that produced Doriam Kor-Azor — the succession that Karsoth later subverted. Heideran's long reign is the structural reason the Empire's political institutions are as conservative as they are: his persistence prevented the kind of generational turnover the other empires got, leaving the Amarr political system unusually rigid by the time the Empyrean Age destabilization hit.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_grave-news-from-the-amarr-empire-heideran-vii-has-died",
+        "src_news_heideran-vii-fails-to-show-up-at-concord-meeting",
+        "src_news_heideran-viis-much-appraised-book-pax-amarria-published"
+      ]
+    },
+    {
+      "id": "per_doriam_kor_azor",
+      "type": "Person",
+      "name": "Doriam Kor-Azor",
+      "date": "YC105–YC110",
+      "brief": "Doriam II. Amarr Emperor between Heideran VII and Jamyl I. Reformist; assassinated under circumstances that put Karsoth into the Provost Marshal seat and effectively ran the Empire from there.",
+      "master_summary": "Doriam Kor-Azor was the brief reformist throne between Heideran's long conservatism and Jamyl's superweapon-defined reign. His assassination is one of the most consequential political events of the modern era — it left Karsoth (a Provost Marshal) in operational control of the Empire while the Royal Heirs were unable to consolidate succession. The Karsoth interregnum is when most of the structural Amarr-vs-Republic instability that fed into the Imperian Age was set up.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_doriam-kor-azor-renames-planets-to-commemorate-champion-pirate-violence-on-the-rise",
+        "src_news_doriam-kor-azor-inaugurated-as-other-heirs-commit-shatholsyn-ceremony-disturbed",
+        "src_news_amarr-imperial-succession-committee-declares-doriam-kor-azor-emperor-doriam-reaction-humble-and-exultant",
+        "src_news_doriam-kor-azor-will-be-the-next-emperor"
+      ]
+    },
+    {
+      "id": "per_aritcio_kor_azor",
+      "type": "Person",
+      "name": "Aritcio Kor-Azor",
+      "brief": "House Kor-Azor heir, son of Doriam II. Implicated in the corrupt-Provost Marshal era; House Kor-Azor's reputation took a long-term hit through this line.",
+      "master_summary": "The Kor-Azor heir whose involvement in Provost Marshal politics tarnished the house's standing through the post-Doriam interregnum. Structurally important as the named successor whose corruption became the explicit reason House Kor-Azor lost political weight relative to Sarum and Tash-Murkon during Jamyl's rise. Modern Amarr royal politics still references the Kor-Azor diminishment as a cautionary precedent.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_aritcio-kor-azor-and-catiz-tash-murkon-meet-with-championship-teams-amidst-final-preparations-for-imperial-succession-trials",
+        "src_news_aritcio-kor-azor-urges-calm-republic-denounces-imperial-aggression",
+        "src_news_empress-jamyl-grants-aritcio-kor-azor-imperial-chancellorship",
+        "src_news_aritcio-kor-azor-announces-day-of-amnesty"
+      ]
+    },
+    {
+      "id": "per_karsoth",
+      "type": "Person",
+      "name": "Karsoth",
+      "brief": "Provost Marshal who took de facto control of the Amarr Empire after Doriam Kor-Azor's assassination. Opposed Royal Heir succession until Jamyl Sarum's emergence forced the championship.",
+      "master_summary": "The Karsoth interregnum is the modern Amarr's structural disaster — a Provost Marshal running the Empire's day-to-day while the throne sat vacant. His refusal to concede succession to the Royal Heirs is the proximate cause of much of the Empire's mid-modern instability and explains why Jamyl I's emergence was framed as restoration rather than coronation. Karsoth's tenure is also the structural ancestor of the kind of office-holder-vs-throne tension that any modern Amarr political beat references.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_report-sarum-halts-at-minmatar-border-chamberlain-karsoth-disappears",
+        "src_news_saracen-accused-of-high-treason-detained-by-chamberlain-karsoth",
+        "src_news_chamberlain-karsoth-pledges-help-to-preserve-starkmanir-ammatar-consulate-claims-no-advanced-knowledge-of-lost-tribe",
+        "src_news_prime-minister-calm-as-minmatar-republic-reacts-to-karsoth-affair",
+        "src_news_text-of-empire-address-delivered-by-court-chamberlain-dochuta-karsoth-accused-council-members-executed"
+      ]
     }
   ],
   "connections": [
@@ -5127,6 +5327,208 @@
       "rel": "parallels",
       "conf": 0.85,
       "claim": "Lost-Adama arc was an Intaki religious-cultural event"
+    },
+    {
+      "src": "org_nefantar_tribe",
+      "tgt": "org_minmatar_republic",
+      "rel": "member-of",
+      "conf": 0.9,
+      "claim": "Restored as the seventh tribe YC115"
+    },
+    {
+      "src": "org_nefantar_tribe",
+      "tgt": "cnc_seven_tribes",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "org_nefantar_tribe",
+      "tgt": "org_ammatar_mandate",
+      "rel": "succeeded-by",
+      "conf": 0.9,
+      "claim": "Day-of-Darkness defection produced the Mandate; the people are the same"
+    },
+    {
+      "src": "org_nefantar_tribe",
+      "tgt": "org_starkmanir_tribe",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Long-game covert protectors revealed in Imperian Age"
+    },
+    {
+      "src": "per_alika_valkanir",
+      "tgt": "org_nefantar_tribe",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "Restored chief"
+    },
+    {
+      "src": "org_brutor_tribe",
+      "tgt": "org_minmatar_republic",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "org_brutor_tribe",
+      "tgt": "cnc_seven_tribes",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "per_ukumi_pol",
+      "tgt": "org_brutor_tribe",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "Brutor Chief"
+    },
+    {
+      "src": "org_krusual_tribe",
+      "tgt": "org_minmatar_republic",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "org_krusual_tribe",
+      "tgt": "cnc_seven_tribes",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "plc_black_rise",
+      "tgt": "org_caldari_state",
+      "rel": "located-in",
+      "conf": 1
+    },
+    {
+      "src": "plc_black_rise",
+      "tgt": "org_lai_dai",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Lai Dai's Black Rise development push ~YC110"
+    },
+    {
+      "src": "plc_molden_heath",
+      "tgt": "org_minmatar_republic",
+      "rel": "located-in",
+      "conf": 1
+    },
+    {
+      "src": "plc_molden_heath",
+      "tgt": "cnc_military_campaigns",
+      "rel": "parallels",
+      "conf": 0.45,
+      "claim": "Possible Mimitar-side Mil-Campaign zone per Ash",
+      "contested-by": "Ash speculation"
+    },
+    {
+      "src": "plc_great_wildlands",
+      "tgt": "org_thukker_tribe",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Thukker administered NPC-nullsec"
+    },
+    {
+      "src": "plc_great_wildlands",
+      "tgt": "org_mordus_legion",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Mordu's Legion operating zone"
+    },
+    {
+      "src": "plc_caille",
+      "tgt": "org_gallente_federation",
+      "rel": "located-in",
+      "conf": 1,
+      "claim": "Federation capital"
+    },
+    {
+      "src": "per_alix_moreau",
+      "tgt": "plc_caille",
+      "rel": "located-in",
+      "conf": 0.9,
+      "claim": "Inauguration held here YC128"
+    },
+    {
+      "src": "org_caldari_business_tribunal",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "org_caldari_business_tribunal",
+      "tgt": "evt_jita_gate_incident",
+      "rel": "participated-in",
+      "conf": 0.85,
+      "claim": "Investigation into Jita financial corruption that produced the Saraki Drifter-tech reveal"
+    },
+    {
+      "src": "org_caldari_business_tribunal",
+      "tgt": "org_lai_dai",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "Forest-faction commercial seat attracts Lai Dai-aligned regulatory posture",
+      "contested-by": "Curator inference"
+    },
+    {
+      "src": "org_sansha_nation",
+      "tgt": "phn_vitoxin",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "True-Slave conditioning is structural extreme of the Vitoxin spectrum"
+    },
+    {
+      "src": "org_sansha_nation",
+      "tgt": "per_salvador_sarpati",
+      "rel": "aligned-with",
+      "conf": 0.5,
+      "claim": "Sansha Kuvakei genealogically tied to the Sarpati line",
+      "contested-by": "Loose family relationship"
+    },
+    {
+      "src": "per_doriam_kor_azor",
+      "tgt": "per_heideran_vii",
+      "rel": "succeeded-by",
+      "conf": 1,
+      "claim": "Successor emperor"
+    },
+    {
+      "src": "per_jamyl_i",
+      "tgt": "per_doriam_kor_azor",
+      "rel": "succeeded-by",
+      "conf": 1,
+      "claim": "Throne after the Karsoth interregnum"
+    },
+    {
+      "src": "per_doriam_kor_azor",
+      "tgt": "per_karsoth",
+      "rel": "opposed-to",
+      "conf": 0.8,
+      "claim": "Karsoth's Provost Marshal control followed Doriam's assassination"
+    },
+    {
+      "src": "per_aritcio_kor_azor",
+      "tgt": "per_doriam_kor_azor",
+      "rel": "descends-from",
+      "conf": 1,
+      "claim": "Son and house heir"
+    },
+    {
+      "src": "per_heideran_vii",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "per_doriam_kor_azor",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "per_aritcio_kor_azor",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 1
     }
   ],
   "_curation_notes": [
@@ -5149,6 +5551,7 @@
     "Silphy/SoE region extension 2026-05-06: +2 nodes (Thera, Muryia Mordu), +8 connections drawing the Antagonists-chronicle data-trade edges directly and adding the Thera SoE base. Khanid connection from the user's prompt deferred — no chronicle reference in the extracted material; awaiting source.",
     "Source ID 2026-05-06: renamed src_chronicle_antagonists → src_chronicle_ante. The canonical CCP chronicle title is 'Ante' (published 2010-04-19); my earlier label 'Antagonists' was informal. URL fixed to canonical chronicle path.",
     "Chronicle reconciliation 2026-05-06: fixed Silphy date 2008→2001-08-06; renamed src_chronicle_nefantar → src_chronicle_the-ammatars (canonical CCP slug, affecting 4 nodes); dropped orphan src_chronicle_starkmanir, replaced by src_chronicle_lost-stars (affecting 3 nodes); wired 17 canonical-chronicle citations across 10 chronicle sources.",
-    "Canonical promotions 2026-05-07: +10 nodes (Caldari Prime, Tibus Heth, Kaalakiota, Sukuuvestaa, Hyasyoda, Wiyrkomi, Tash-Murkon region, Sebiestor Tribe, Angel Cartel, Intaki faction) with curator-authored briefs + master_summary. +33 structural edges anchoring them into the existing graph. Citations will surface on the next NER pass via the gazetteer→node containment match."
+    "Canonical promotions 2026-05-07: +10 nodes (Caldari Prime, Tibus Heth, Kaalakiota, Sukuuvestaa, Hyasyoda, Wiyrkomi, Tash-Murkon region, Sebiestor Tribe, Angel Cartel, Intaki faction) with curator-authored briefs + master_summary. +33 structural edges anchoring them into the existing graph. Citations will surface on the next NER pass via the gazetteer→node containment match.",
+    "Round-3 promotions 2026-05-07: +13 nodes (3 Mimitar tribes, 4 regions, Caldari Business Tribunal, Sansha's Nation, Heideran VII / Doriam / Aritcio Kor-Azor / Karsoth). +30 edges anchoring the royal-succession lineage and the Republic tribal-region structure."
   ]
 }
