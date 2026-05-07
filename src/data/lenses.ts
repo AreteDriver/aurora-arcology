@@ -70,6 +70,8 @@ export const LENSES: Lens[] = [
       "org_state_protectorate",
       "org_federal_defense_union",
       "cnc_capsuleers",
+      "plc_yulai",
+      "org_imperial_court",
     ],
   },
   {
@@ -161,6 +163,10 @@ export const LENSES: Lens[] = [
       "evt_apocrypha_wormhole_opening",
       "org_tribal_liberation_force",
       "org_24th_imperial_crusade",
+      "evt_amarr_reclaiming",
+      "evt_battle_vak_atioth",
+      "evt_minmatar_rebellion",
+      "evt_caldari_rebellion",
     ],
   },
   {
@@ -198,6 +204,8 @@ export const LENSES: Lens[] = [
       "org_sleeper_civilization",
       "evt_apocrypha_wormhole_opening",
       "plc_eve_gate",
+      "plc_anoikis",
+      "evt_triglavian_invasion",
     ],
   },
   {
@@ -225,6 +233,7 @@ export const LENSES: Lens[] = [
       "evt_warpath_protocol_failure",
       "org_amarr_imperial_navy",
       "cnc_capsuleers",
+      "plc_yulai",
     ],
   },
   {
@@ -252,6 +261,7 @@ export const LENSES: Lens[] = [
       "phn_chronodynamic_tricaroxal",
       "plc_kahah",
       "org_royal_khanid_navy",
+      "evt_amarr_reclaiming",
     ],
   },
   {
@@ -274,6 +284,7 @@ export const LENSES: Lens[] = [
       "plc_zarzakh",
       "org_sleeper_civilization",
       "plc_eve_gate",
+      "plc_anoikis",
     ],
   },
   {
@@ -302,6 +313,8 @@ export const LENSES: Lens[] = [
       "org_caldari_navy",
       "evt_battle_caldari_prime_yc115",
       "phn_clone_soldier_tech",
+      "evt_caldari_rebellion",
+      "plc_yulai",
     ],
   },
   {
@@ -327,6 +340,7 @@ export const LENSES: Lens[] = [
       "evt_intaki_seizure_uprising",
       "org_royal_khanid_navy",
       "org_federal_defense_union",
+      "evt_amarr_reclaiming",
     ],
   },
   {
@@ -355,6 +369,9 @@ export const LENSES: Lens[] = [
       "org_royal_khanid_navy",
       "evt_elder_war",
       "org_24th_imperial_crusade",
+      "evt_amarr_reclaiming",
+      "evt_battle_vak_atioth",
+      "org_imperial_court",
     ],
   },
   {
@@ -378,6 +395,9 @@ export const LENSES: Lens[] = [
       "org_thukker_tribe",
       "phn_true_slaves",
       "per_omir_sarikusa",
+      "plc_stain",
+      "plc_venal",
+      "plc_curse",
     ],
   },
   {

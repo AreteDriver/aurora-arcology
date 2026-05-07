@@ -164,6 +164,11 @@ Gallente Federation Faction Warfare militia. The Federation's volunteer / capsul
 Gallente Federation military fleet. Conducted the YC124 invasion of Intaki + adjacent constellations that triggered the Uprising arc and the constellation deal with the Intaki Syndicate that the YC128 conquest now invalidates. Currently under President Moreau's authority — and the hawkish Senate factions worry her Autonomist-Party origins make her unable to direct it firmly.
 **Cited in:** [BREAKING - Massive Invasion of Intaki and Placid Systems by Federation Navy](https://universe.eveonline.com/new-eden-news/breaking-massive-invasion-of-intaki-and-placid-systems-by-federation-navy)
 
+### Imperial Court
+
+Amarr Empire's executive court. The Court Chamberlain office serves as regent during succession gaps; held by Dochuta Karsoth during the post-Doriam-II era and used to subvert the Sarum succession. The Court is the procedural layer between the Empress and the Five Royal Houses; Catiz I's territorial-reorganization decree was administered through it.
+**Cited in:** [Imperial Court Remains Silent about Bleak Land Troubles](https://universe.eveonline.com/new-eden-news/imperial-court-remains-silent-about-bleak-land-troubles)
+
 ### CONCORD Inner Circle
 
 CONCORD diplomatic body. Aras Angire heads. Emergency session post-Jita-gate ended early as parties walked out. Its failure during Warpath is the structural reason CONCORD is now reduced to delayed-arrival enforcement.
@@ -240,6 +245,11 @@ Formerly NPC-nullsec. Caldari sovereign post-YC128.05.05. Strategic value: only 
 The Sisters of EVE's deep-research base, hidden in Anoikis until externally discovered. Sentona Sarpati's organization runs its non-humanitarian work from here. Structurally adjacent to every Drifter / Sleeper / hyperspace-network thread — the SoE-AIR-EDENCOM research pipeline runs through this site. Silphy's SoE training era likely intersected the Thera operation, though the published chronicles don't place her there directly.
 **Cited in:** [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [Sisters of EVE](https://universe.eveonline.com/chronicles/sisters-of-eve)
 
+### Yulai system
+
+CONCORD's headquarters system. Site of the Yulai Accords (the inter-empire governance treaty). Symbolic center of inter-empire governance — and the YC110 Yulai gate breach is the only prior precedent for the YC128 Warpath Protocol failure. Capsuleer SoCT briefings happen here.
+**Cited in:** [Capsuleer Delegates at SOCT Gathering in Yulai to Receive Special CONCORD Briefing](https://universe.eveonline.com/new-eden-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing)
+
 ## Phenomenons
 
 ### Drifter Hyperspace Network
@@ -298,6 +308,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **2×** [Serpentis Corporation Strikes Back Against Upwell Consortium (2015-12-16)](https://universe.eveonline.com/new-eden-news/serpentis-corporation-strikes-back-against-upwell-consortium)
 - **2×** [Jovian Directorate Withdraws from Concord Inner Circle and Designates SoCT as Successor (2016-03-15)](https://universe.eveonline.com/new-eden-news/jovian-directorate-withdraws-from-concord-inner-circle-and-designates-soct-as-successor)
 - **2×** [CONCORD Inner Circle Authorizes Extension of Clone State Alpha to Include Battleship Capability (2017-12-01)](https://universe.eveonline.com/new-eden-news/concord-inner-circle-authorizes-extension-of-clone-state-alpha-to-include-battleship-capability)
+- **2×** [Capsuleer Delegates at SOCT Gathering in Yulai to Receive Special CONCORD Briefing (2018-04-11)](https://universe.eveonline.com/new-eden-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing)
 - **2×** [Sisters of EVE Demand Explanation for CONCORD "Warfare Experiments" (2018-08-30)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-demand-explanation-for-concord-warfare-experiments)
 - **2×** [CONCORD Inner Circle Meeting to Discuss Ship Disappearances, Colonel Valkanir Attending (2018-10-05)](https://universe.eveonline.com/new-eden-news/concord-inner-circle-meeting-to-discuss-ship-disappearances-colonel-valkanir-attending)
 - **2×** [Ishukone and CEP Battle SARO in CONCORD Assembly Over Dangerous Research Materials (2019-02-12)](https://universe.eveonline.com/new-eden-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials)
@@ -380,6 +391,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Gallente Federation Responds To Plea From Grieving Spouse (2007-11-22)](https://universe.eveonline.com/new-eden-news/gallente-federation-responds-to-plea-from-grieving-spouse)
 - **1×** [CONCORD Responds To Gallente Petition (2007-11-25)](https://universe.eveonline.com/new-eden-news/concord-responds-to-gallente-petition)
 - **1×** [CONCORD releases Core Complexion Technology (2007-11-26)](https://universe.eveonline.com/new-eden-news/concord-releases-core-complexion-technology)
+- **1×** [Imperial Court Remains Silent about Bleak Land Troubles (2007-11-27)](https://universe.eveonline.com/new-eden-news/imperial-court-remains-silent-about-bleak-land-troubles)
 - **1×** [CONCORD Report On Drone Region Operations Leaked (2008-02-25)](https://universe.eveonline.com/new-eden-news/concord-report-on-drone-region-operations-leaked)
 - **1×** [CONCORD comes under fire for Alliance Tournament requests (2008-03-08)](https://universe.eveonline.com/new-eden-news/concord-comes-under-fire-for-alliance-tournament-requests)
 - **1×** [Gallente Federation Calls For Calm (2008-04-02)](https://universe.eveonline.com/new-eden-news/gallente-federation-calls-for-calm)
@@ -532,7 +544,6 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [SOE Splinter Group Claims Timebase Mission a Cover for CONCORD Black Ops Anti-Drifter Experiment (2018-01-09)](https://universe.eveonline.com/new-eden-news/soe-splinter-group-claims-timebase-mission-a-cover-for-concord-black-ops-anti-drifter-experiment)
 - **1×** [CONCORD Deploys Assault Commandos and Sanctions in the Aftermath of Attack on Science Mission (2018-01-12)](https://universe.eveonline.com/new-eden-news/concord-deploys-assault-commandos-and-sanctions-in-the-aftermath-of-attack-on-science-mission)
 - **1×** [CONCORD Quarantine Ship of Unknown Design in Yulai (2018-04-09)](https://universe.eveonline.com/new-eden-news/concord-quarantine-ship-of-unknown-design-in-yulai)
-- **1×** [Capsuleer Delegates at SOCT Gathering in Yulai to Receive Special CONCORD Briefing (2018-04-11)](https://universe.eveonline.com/new-eden-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing)
 - **1×** [CONCORD Warns Against Delving Too Deep as Abyssal Filaments are Recovered from Data Sites (2018-05-29)](https://universe.eveonline.com/new-eden-news/concord-warns-against-delving-too-deep-as-abyssal-filaments-are-recovered-from-data-sites)
 - **1×** [Mordu's Legion Command Announces Departure from Caldari Prime (2018-09-14)](https://universe.eveonline.com/new-eden-news/mordus-legion-command-announces-departure-from-caldari-prime)
 - **1×** [Republic Fleet Requests CONCORD Help in Search for Missing Ship in Molden Heath (2018-09-20)](https://universe.eveonline.com/new-eden-news/republic-fleet-requests-concord-help-in-search-for-missing-ship-in-molden-heath)

@@ -3654,6 +3654,112 @@
       "master_summary": "The collapsed wormhole connecting New Eden to humanity's home cluster. Located in New Eden system. The original passage through which the four-empire ancestors arrived; collapsed catastrophically in pre-history (the eve_gate_collapse event), stranding the colonists. Sisters of EVE research focus; structurally adjacent to the Drifter network and Caroline's Star phenomena. Zarzakh sits in EVE-Gate-adjacent space.",
       "canonicity": "ccp-canon",
       "sources": []
+    },
+    {
+      "id": "evt_amarr_reclaiming",
+      "type": "Event",
+      "name": "Amarr Reclaiming",
+      "brief": "Pre-history Amarr conquest cycle. The Amarr Empire's expansion via subjugation, including the conquest of the Minmatar.",
+      "master_summary": "Pre-history Amarr conquest cycle \u2014 the religious-imperial expansion that built the Amarr Empire via the subjugation of all neighboring peoples. The Minmatar conquest is its climactic chapter; the Khanid secession is its first major failure; the Battle of Vak'Atioth (when the Jove repulsed Amarr expansion) was its eventual ceiling. Every Amarr-driven storyline traces back to Reclaiming theology.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "evt_battle_vak_atioth",
+      "type": "Event",
+      "name": "Battle of Vak'Atioth",
+      "brief": "Battle in which the Jove Empire repulsed Amarr expansion, halting the Reclaiming and establishing the modern Jove-Amarr cold peace.",
+      "master_summary": "Battle in which the Jove Empire annihilated an Amarr Reclaiming fleet and halted the Empire's expansion at the Jove border. Established the modern Jove-Amarr cold peace and locked in the four-empire balance. The structural ceiling on Amarr ambition; every later Amarr crisis (Khanid secession, Minmatar Rebellion, Heideran reform, Catiz reorganization) operates inside the Vak'Atioth-defined frontier.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "evt_minmatar_rebellion",
+      "type": "Event",
+      "name": "Minmatar Rebellion (Great Rebellion)",
+      "brief": "YC ~80s slave revolt that broke Amarr rule over the Minmatar peoples and founded the modern Republic.",
+      "master_summary": "YC ~80s slave revolt that broke Amarr rule over the Minmatar peoples and founded the modern Republic. Triggered by the Day of Darkness backstory and the suppression cycle that followed; concluded with the seven-tribes restoration. The Ammatar Mandate's original split (Amarr-loyalist Minmatar vs Republic-loyalist) dates to this cycle. Every Minmatar storyline traces back to the Rebellion.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "evt_caldari_rebellion",
+      "type": "Event",
+      "name": "Caldari Rebellion",
+      "brief": "YC ~80s Caldari secession from the Gallente Federation. Founded the Caldari State and the modern four-empire system.",
+      "master_summary": "YC ~80s Caldari secession from the Gallente Federation, fought over the Federation's culturally-Gallente integration policy. The Caldari Prime homeworld was lost during the war; the Caldari-sympathetic Intaki exiles who became the Intaki Syndicate emerged from this period. Founded the modern four-empire system. The YC112 invasion of Caldari Prime was framed as the Rebellion's eventual closure.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "evt_triglavian_invasion",
+      "type": "Event",
+      "name": "Triglavian Invasion",
+      "date": "YC122",
+      "brief": "YC122 Triglavian conquest of 27 systems via the abyssal-filament invasion mechanic. Formed Pochven and reset the inter-empire defensive posture.",
+      "master_summary": "YC122 Triglavian conquest of 27 systems via the abyssal-filament invasion mechanic. Formed Pochven, opened the Triglavian-Drifter conflict to capsuleer participation, and exposed the Niarja trade-route severance that broke the Amarr-Caldari high-sec corridor. EDENCOM's formation as an inter-empire defensive coalition came directly from the Invasion response. Structurally a third-power eruption between the four-empire system and Drifter forces.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route"
+      ]
+    },
+    {
+      "id": "plc_yulai",
+      "type": "Place",
+      "name": "Yulai system",
+      "brief": "CONCORD's headquarters system. Site of the Yulai Accords. Symbolic center of inter-empire governance.",
+      "master_summary": "CONCORD's headquarters system. Site of the Yulai Accords (the inter-empire governance treaty). Symbolic center of inter-empire governance \u2014 and the YC110 Yulai gate breach is the only prior precedent for the YC128 Warpath Protocol failure. Capsuleer SoCT briefings happen here.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing"
+      ]
+    },
+    {
+      "id": "plc_anoikis",
+      "type": "Place",
+      "name": "Anoikis (wormhole space)",
+      "brief": "The wormhole-space cluster \u2014 formerly Sleeper civilization territory. Site of Thera, hyperspace network anomalies, and Drifter staging grounds.",
+      "master_summary": "The wormhole-space cluster \u2014 formerly Sleeper civilization territory, exposed to capsuleer access by the YC111 Apocrypha-era opening. Site of Thera (SoE deep-research base), the Drifter hyperspace network, the prismatic-sites phenomena, and the Sleeper-civilization remnants. Every wormhole-tech storyline operates in or through Anoikis.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "plc_stain",
+      "type": "Place",
+      "name": "Stain region",
+      "brief": "Sansha's Nation home region. Sov-null space; site of True Slave production.",
+      "master_summary": "Sansha's Nation home region in southern null-sec. The True Power Project's industrial base \u2014 slaves are processed into True Slaves here. The geographical complement of Sansha's incursion campaigns: incursions reach into high-sec from Stain.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "plc_venal",
+      "type": "Place",
+      "name": "Venal region",
+      "brief": "Guristas Pirates' home region. Sov-null north of Caldari space.",
+      "master_summary": "Guristas Pirates' home region. Sov-null north of Caldari space; the operational base from which Omir Sarikusa's Caldari Navy defectors run their pirate empire. Mordu's Legion and Angel Cartel cross-border ops with Guristas trace through Venal.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "plc_curse",
+      "type": "Place",
+      "name": "Curse region",
+      "brief": "Angel Cartel home region. Sov-null south of Minmatar space.",
+      "master_summary": "Angel Cartel home region in southern null-sec. Operational base for the Cartel's smuggling and mercenary operations. Mordu's Legion has historic Cartel connections \u2014 Mordu's Legion's break from the Cartel is the founding myth of the Legion.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "org_imperial_court",
+      "type": "Organization",
+      "name": "Imperial Court",
+      "brief": "Amarr Empire's executive court. Court Chamberlain office (held by Karsoth during the succession crisis era).",
+      "master_summary": "Amarr Empire's executive court. The Court Chamberlain office serves as regent during succession gaps; held by Dochuta Karsoth during the post-Doriam-II era and used to subvert the Sarum succession. The Court is the procedural layer between the Empress and the Five Royal Houses; Catiz I's territorial-reorganization decree was administered through it.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_imperial-court-remains-silent-about-bleak-land-troubles"
+      ]
     }
   ],
   "connections": [
@@ -7621,6 +7727,346 @@
       "rel": "succeeded-by",
       "conf": 0.95,
       "claim": "Second Empire emerged from the First Empire's Disease-driven collapse.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_amarr_reclaiming",
+      "tgt": "org_amarr_empire",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "The Reclaiming theology built the Empire.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_amarr_reclaiming",
+      "tgt": "evt_minmatar_rebellion",
+      "rel": "succeeded-by",
+      "conf": 0.85,
+      "claim": "Minmatar Rebellion broke the Reclaiming-era subjugation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_amarr_reclaiming",
+      "tgt": "evt_battle_vak_atioth",
+      "rel": "opposed-to",
+      "conf": 0.9,
+      "claim": "Vak'Atioth halted the Reclaiming at the Jove border.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_battle_vak_atioth",
+      "tgt": "org_jove_first_empire",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Jove Empire repulsed the Amarr fleet.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_battle_vak_atioth",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Locked in modern Jove-Amarr cold peace.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_minmatar_rebellion",
+      "tgt": "org_minmatar_republic",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Founded the modern Republic.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_minmatar_rebellion",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Slave revolt against Amarr rule.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_minmatar_rebellion",
+      "tgt": "org_ammatar_mandate",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Ammatar Mandate's loyalist split traces to this cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_rebellion",
+      "tgt": "org_caldari_state",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Founded the State.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_rebellion",
+      "tgt": "org_gallente_federation",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Caldari secession from the Federation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_rebellion",
+      "tgt": "plc_caldari_prime",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Caldari Prime was lost during the Rebellion war.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_rebellion",
+      "tgt": "org_intaki_syndicate",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Caldari-sympathetic Intaki exiles formed the Syndicate after the Rebellion.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_invasion_yc112",
+      "tgt": "evt_caldari_rebellion",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "YC112 invasion was framed as Rebellion-cycle closure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_triglavian_invasion",
+      "tgt": "org_triglavian_collective",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Triglavian operation.",
+      "supporting_sources": [
+        "src_news_galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route"
+      ]
+    },
+    {
+      "src": "evt_triglavian_invasion",
+      "tgt": "plc_pochven",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Pochven formed from the 27 conquered systems.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_triglavian_invasion",
+      "tgt": "org_edencom",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "EDENCOM's formation as inter-empire defensive coalition came from the Invasion response.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_triglavian_invasion",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Niarja severance broke the Amarr-Caldari high-sec corridor.",
+      "supporting_sources": [
+        "src_news_galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route"
+      ]
+    },
+    {
+      "src": "evt_triglavian_invasion",
+      "tgt": "org_caldari_state",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Niarja severance affected the State trade route.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_yulai",
+      "tgt": "org_concord",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "CONCORD HQ system.",
+      "supporting_sources": [
+        "src_news_capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing"
+      ]
+    },
+    {
+      "src": "plc_yulai",
+      "tgt": "cnc_yulai_accords",
+      "rel": "caused-by",
+      "conf": 0.92,
+      "claim": "Site of the Yulai Accords treaty.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_warpath_protocol_failure",
+      "tgt": "plc_yulai",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "Yulai YC110 gate breach is the only prior precedent for the YC128 Warpath Protocol failure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_anoikis",
+      "tgt": "org_sleeper_civilization",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Anoikis is the cluster Sleepers inhabit.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_anoikis",
+      "tgt": "plc_thera",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Thera is in Anoikis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_anoikis",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Drifter hyperspace network operates within Anoikis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_apocrypha_wormhole_opening",
+      "tgt": "plc_anoikis",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "Exposed Anoikis to capsuleer access.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_sansha_nation",
+      "tgt": "plc_stain",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Sansha's home region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_true_slaves",
+      "tgt": "plc_stain",
+      "rel": "located-in",
+      "conf": 0.92,
+      "claim": "True Slave production occurs in Stain.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_guristas",
+      "tgt": "plc_venal",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Guristas home region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_omir_sarikusa",
+      "tgt": "plc_venal",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Sarikusa operates from Venal.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_angel_cartel",
+      "tgt": "plc_curse",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Angel Cartel home region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_mordus_legion",
+      "tgt": "org_angel_cartel",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Mordu's Legion's break from the Cartel is the founding myth of the Legion.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_imperial_court",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Empire's executive court.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_karsoth",
+      "tgt": "org_imperial_court",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Court Chamberlain Karsoth subverted the Sarum succession from this office.",
+      "supporting_sources": [
+        "src_news_text-of-empire-address-delivered-by-court-chamberlain-dochuta-karsoth-accused-council-members-executed"
+      ]
+    },
+    {
+      "src": "per_catiz_i",
+      "tgt": "org_imperial_court",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Catiz administered the territorial-reorganization decree through the Court.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_soraya_roden",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "YC128 Federation election candidate; centerpiece of the capsuleer-influence cycle.",
+      "supporting_sources": [
+        "src_news_capsuleers-influence-election-and-presidential-profile-soraya-roden"
+      ]
+    },
+    {
+      "src": "per_soraya_roden",
+      "tgt": "per_alix_moreau",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Moreau-Roden electoral opposition; the Autonomist-vs-pro-capsuleer split.",
+      "supporting_sources": [
+        "src_news_capsuleers-influence-election-and-presidential-profile-soraya-roden"
+      ]
+    },
+    {
+      "src": "per_aras_angire",
+      "tgt": "plc_exordium",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Inner Circle representative in the Exordium charter cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_aras_angire",
+      "tgt": "org_concord",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Inner Circle is CONCORD's executive body.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_capsuleers",
+      "tgt": "art_subcranial_nano",
+      "rel": "descends-from",
+      "conf": 0.85,
+      "claim": "Subcranial-nano-implant tech is foundational capsuleer technology.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_capsuleers",
+      "tgt": "evt_capsuleer_training_relocation",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "Capsuleer training was the population the Exordium relocation moved.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_ammatar_mandate",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Amarr-loyalist Minmatar autonomous mandate within the Empire.",
       "supporting_sources": []
     }
   ],

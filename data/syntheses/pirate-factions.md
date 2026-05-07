@@ -74,10 +74,22 @@ Most distant Minmatar tribe. Operates in Great Wildlands. Wormhole-interested. S
 
 ## Places
 
+### Curse region
+
+Angel Cartel home region in southern null-sec. Operational base for the Cartel's smuggling and mercenary operations. Mordu's Legion has historic Cartel connections — Mordu's Legion's break from the Cartel is the founding myth of the Legion.
+
 ### Skarkon
 
 Mimitar system that defected to the Angel Cartel ~YC110 — symbol of Republic governance weakness and a cautionary precedent for what happens when an empire stops servicing a region.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [Archangels "Annex" Skarkon From Minmatar Republic; Popular Vote Confirms](https://universe.eveonline.com/new-eden-news/archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms) · [ARCHANGELS WITHDRAW SKARKON ANNEXATION CLAIM](https://universe.eveonline.com/new-eden-news/archangels-withdraw-skarkon-annexation-claim) · [Discussion continues over Angel "claim" in Skarkon](https://universe.eveonline.com/new-eden-news/discussion-continues-over-angel-claim-in-skarkon) · [Galactic Hour News Roundup: Skarkon Falls After Heavy Fighting in Minmatar Republic System](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-skarkon-falls-after-heavy-fighting-in-minmatar-republic-system) · [Skarkon citizens speak about Angel referendum](https://universe.eveonline.com/new-eden-news/skarkon-citizens-speak-about-angel-referendum)
+
+### Stain region
+
+Sansha's Nation home region in southern null-sec. The True Power Project's industrial base — slaves are processed into True Slaves here. The geographical complement of Sansha's incursion campaigns: incursions reach into high-sec from Stain.
+
+### Venal region
+
+Guristas Pirates' home region. Sov-null north of Caldari space; the operational base from which Omir Sarikusa's Caldari Navy defectors run their pirate empire. Mordu's Legion and Angel Cartel cross-border ops with Guristas trace through Venal.
 
 ## Phenomenons
 

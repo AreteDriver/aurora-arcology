@@ -6,6 +6,14 @@
 
 ## Events
 
+### Amarr Reclaiming
+
+Pre-history Amarr conquest cycle — the religious-imperial expansion that built the Amarr Empire via the subjugation of all neighboring peoples. The Minmatar conquest is its climactic chapter; the Khanid secession is its first major failure; the Battle of Vak'Atioth (when the Jove repulsed Amarr expansion) was its eventual ceiling. Every Amarr-driven storyline traces back to Reclaiming theology.
+
+### Battle of Vak'Atioth
+
+Battle in which the Jove Empire annihilated an Amarr Reclaiming fleet and halted the Empire's expansion at the Jove border. Established the modern Jove-Amarr cold peace and locked in the four-empire balance. The structural ceiling on Amarr ambition; every later Amarr crisis (Khanid secession, Minmatar Rebellion, Heideran reform, Catiz reorganization) operates inside the Vak'Atioth-defined frontier.
+
 ### Empress Jamyl Murdered by Drifters
 
 Empress Jamyl I murdered by Drifters mid-incursion. Triggered the Amarr championship that Khanid II lost (forcing him into sheal-sin) and that Catiz I won. Without Jamyl's death there is no Catiz, no current Amarr posture, no 'Mandate of Faith' SKIN flavor invoking her call.
@@ -74,6 +82,11 @@ Amarr Faction Warfare militia. The Empire's volunteer / capsuleer-pilot frontlin
 
 Amarr Empire military fleet. Operates across all five Royal Houses' territories under the Empress's direct authority. Currently engaged in operations against Drifters in Khanid space and against capsuleer disruption of slave-shipment lanes — and Catiz I's territorial reorganization restructured their command chain.
 **Cited in:** [Amarr Navy Forces in Combat with Drifters in Khanid Kingdom](https://universe.eveonline.com/new-eden-news/amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom)
+
+### Imperial Court
+
+Amarr Empire's executive court. The Court Chamberlain office serves as regent during succession gaps; held by Dochuta Karsoth during the post-Doriam-II era and used to subvert the Sarum succession. The Court is the procedural layer between the Empress and the Five Royal Houses; Catiz I's territorial-reorganization decree was administered through it.
+**Cited in:** [Imperial Court Remains Silent about Bleak Land Troubles](https://universe.eveonline.com/new-eden-news/imperial-court-remains-silent-about-bleak-land-troubles)
 
 ### Royal Khanid Navy
 
@@ -151,6 +164,7 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **1×** [St. Tetrimon Edict lifted – Order allowed to return to Amarr Empire (2006-01-18)](https://universe.eveonline.com/new-eden-news/st-tetrimon-edict-lifted-order-allowed-to-return-to-amarr-empire)
 - **1×** [Minmatar to rise above hatred: Midular speaks on discovery of Republic Parliament's secret talks with Ammatar Consulate (2007-04-25)](https://universe.eveonline.com/new-eden-news/minmatar-to-rise-above-hatred-midular-speaks-on-discovery-of-republic-parliaments-secret-talks-with-ammatar-consulate)
 - **1×** [Ammatar Governor comments on Matari/Ammatar Talks (2007-05-07)](https://universe.eveonline.com/new-eden-news/ammatar-governor-comments-on-matariammatar-talks)
+- **1×** [Imperial Court Remains Silent about Bleak Land Troubles (2007-11-27)](https://universe.eveonline.com/new-eden-news/imperial-court-remains-silent-about-bleak-land-troubles)
 - **1×** [EVE: The Empyrean Age (Tony Gonzales) (2008)](https://www.eveonline.com/news/view/the-empyrean-age)
 - **1×** [Arms Factory Saboteur Captured; Ammatar Link Exposed (2008-05-09)](https://universe.eveonline.com/new-eden-news/arms-factory-saboteur-captured-ammatar-link-exposed)
 - **1×** [BREAKING NEWS: LARGE STARKMANIR SLAVE POPULATION DISCOVERED IN AMMATAR CONSULATE (2008-06-04)](https://universe.eveonline.com/new-eden-news/breaking-news-large-starkmanir-slave-population-discovered-in-ammatar-consulate)

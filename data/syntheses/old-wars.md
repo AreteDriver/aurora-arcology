@@ -6,6 +6,18 @@
 
 ## Events
 
+### Amarr Reclaiming
+
+Pre-history Amarr conquest cycle — the religious-imperial expansion that built the Amarr Empire via the subjugation of all neighboring peoples. The Minmatar conquest is its climactic chapter; the Khanid secession is its first major failure; the Battle of Vak'Atioth (when the Jove repulsed Amarr expansion) was its eventual ceiling. Every Amarr-driven storyline traces back to Reclaiming theology.
+
+### Battle of Vak'Atioth
+
+Battle in which the Jove Empire annihilated an Amarr Reclaiming fleet and halted the Empire's expansion at the Jove border. Established the modern Jove-Amarr cold peace and locked in the four-empire balance. The structural ceiling on Amarr ambition; every later Amarr crisis (Khanid secession, Minmatar Rebellion, Heideran reform, Catiz reorganization) operates inside the Vak'Atioth-defined frontier.
+
+### Caldari Rebellion
+
+YC ~80s Caldari secession from the Gallente Federation, fought over the Federation's culturally-Gallente integration policy. The Caldari Prime homeworld was lost during the war; the Caldari-sympathetic Intaki exiles who became the Intaki Syndicate emerged from this period. Founded the modern four-empire system. The YC112 invasion of Caldari Prime was framed as the Rebellion's eventual closure.
+
 ### Day of Darkness
 
 The Amarr first-contact-and-conquest of Matar. Mythologized as a literal darkening of the sun; canonically the destruction of Matari space infrastructure followed by centuries of slavery. Origin point for every downstream Mimitar–Amarr conflict including the YC128 Warpath cross-incursions.
@@ -30,6 +42,10 @@ Mimitar ambassador Kantar Yun called out CONCORD publicly for protecting Amarr s
 
 Khanid II — who had previously avoided sheal-sin by defecting to form the Khanid Kingdom — lost the post-Jamyl championship and was finally forced to perform the ritual. Closes the centuries-long Khanid avoidance arc and structurally subordinates the Khanid Kingdom to Catiz's authority.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Minmatar Rebellion (Great Rebellion)
+
+YC ~80s slave revolt that broke Amarr rule over the Minmatar peoples and founded the modern Republic. Triggered by the Day of Darkness backstory and the suppression cycle that followed; concluded with the seven-tribes restoration. The Ammatar Mandate's original split (Amarr-loyalist Minmatar vs Republic-loyalist) dates to this cycle. Every Minmatar storyline traces back to the Rebellion.
 
 ### Bombardment of Starkmanir Prime
 

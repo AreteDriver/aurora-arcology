@@ -20,6 +20,11 @@ The YC111 system-wide wormhole opening triggered by the Seyllin Disaster. Expose
 YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the planet. The Sisters of EVE 'Wormhole Colony Lost' announcement followed. The Seyllin event triggered the Apocrypha-era wormhole opening, the discovery of Anoikis, the Sleeper civilization remnants, and ultimately the Drifter emergence cycle. Every wormhole-tech thread in the warpath board traces back to Seyllin.
 **Cited in:** [The Fourth Seyllin Conference](https://universe.eveonline.com/new-eden-news/the-fourth-seyllin-conference)
 
+### Triglavian Invasion *(YC122)*
+
+YC122 Triglavian conquest of 27 systems via the abyssal-filament invasion mechanic. Formed Pochven, opened the Triglavian-Drifter conflict to capsuleer participation, and exposed the Niarja trade-route severance that broke the Amarr-Caldari high-sec corridor. EDENCOM's formation as an inter-empire defensive coalition came directly from the Invasion response. Structurally a third-power eruption between the four-empire system and Drifter forces.
+**Cited in:** [Galactic Hour News Roundup: Triglavian Invasion of Niarja Threatens Key Amarr-Caldari Trade Route](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route)
+
 ### YC123 Dread Assaults (Tanu / Junfaa) *(2021)*
 
 Mercenary fleets used illegal high-sec-authorized cyno beacons to land dread assaults at Tanu and Junfaa. Established canonical existence of empire-circumventing cyno tech. Tanu II is the capital of the Ammatar Mandate — the same site Ash predicts as Mil-Campaign #2 zone.
@@ -105,6 +110,10 @@ One of three pre-collapse civilizations. Yan Jung gravitonic technology is the s
 **Cited in:** [The Lore You Need For EVE In 2025 - Part 1 - The Deathless](https://www.youtube.com/watch?v=J8SFloh6Q2s)
 
 ## Places
+
+### Anoikis (wormhole space)
+
+The wormhole-space cluster — formerly Sleeper civilization territory, exposed to capsuleer access by the YC111 Apocrypha-era opening. Site of Thera (SoE deep-research base), the Drifter hyperspace network, the prismatic-sites phenomena, and the Sleeper-civilization remnants. Every wormhole-tech storyline operates in or through Anoikis.
 
 ### EVE Gate
 
@@ -210,6 +219,7 @@ Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-i
 - **1×** [Thukker Mix Transfers Key Assets to Core Complexion (2018-02-13)](https://universe.eveonline.com/new-eden-news/thukker-mix-transfers-key-assets-to-core-complexion)
 - **1×** [Formation of EDENCOM Announced Following Triglavian Attacks Amidst Capsuleer Day Celebrations (2020-05-07)](https://universe.eveonline.com/new-eden-news/formation-of-edencom-announced-following-triglavian-attacks-amidst-capsuleer-day-celebrations)
 - **1×** [Galactic Hour News Roundup: Triglavian Conquests and EDENCOM Fortresses Edition (2020-06-15)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-triglavian-conquests-and-edencom-fortresses-edition)
+- **1×** [Galactic Hour News Roundup: Triglavian Invasion of Niarja Threatens Key Amarr-Caldari Trade Route (2020-08-17)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route)
 - **1×** [The Scope - War in Delve and Formation of Pochven (2020-11-03)](https://universe.eveonline.com/new-eden-news/the-scope-war-in-delve-and-formation-of-pochven)
 - **1×** [Galactic Hour News Roundup: Inner Circle Security Summit Reduces EDENCOM Funding (2021-07-26)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-inner-circle-security-summit-reduces-edencom)
 - **1×** [The Scope – One Year Anniversary Of Pochven (2021-10-15)](https://universe.eveonline.com/new-eden-news/the-scope-one-year-anniversary-of-pochven)

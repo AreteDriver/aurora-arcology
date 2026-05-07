@@ -93,6 +93,11 @@ Ascendant militarily across YC128. Tribal Council pluralism (Sanmatar Shakur dip
 Aurora's first canonical neutral space. Strategic significance: the only region in New Eden with capsuleer-violence protocols structurally enforced. Hosts AIR's relocated capsuleer training program, which positions Exordium as the new front door for new pilots — a structural shift away from the Caldari/Ishukone training pipeline that has historically held that role.
 **Cited in:** [CONCORD and AIR Announce New Space Region - New Eden News - YC128-04-13](https://www.youtube.com/watch?v=nhTUqEmgX5k)
 
+### Yulai system
+
+CONCORD's headquarters system. Site of the Yulai Accords (the inter-empire governance treaty). Symbolic center of inter-empire governance — and the YC110 Yulai gate breach is the only prior precedent for the YC128 Warpath Protocol failure. Capsuleer SoCT briefings happen here.
+**Cited in:** [Capsuleer Delegates at SOCT Gathering in Yulai to Receive Special CONCORD Briefing](https://universe.eveonline.com/new-eden-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing)
+
 ## Phenomenons
 
 ### AIR Super-Stable Warp Drive
@@ -131,6 +136,7 @@ The constitutional document of CONCORD-era New Eden. Every multi-empire structur
 - **2×** [Jovian Directorate Withdraws from Concord Inner Circle and Designates SoCT as Successor (2016-03-15)](https://universe.eveonline.com/new-eden-news/jovian-directorate-withdraws-from-concord-inner-circle-and-designates-soct-as-successor)
 - **2×** [Amarr Empire Looks Forward to First Jubilee of Coronation of Empress Catiz I (2017-09-22)](https://universe.eveonline.com/new-eden-news/amarr-empire-looks-forward-to-first-jubilee-of-coronation-of-empress-catiz-i)
 - **2×** [CONCORD Inner Circle Authorizes Extension of Clone State Alpha to Include Battleship Capability (2017-12-01)](https://universe.eveonline.com/new-eden-news/concord-inner-circle-authorizes-extension-of-clone-state-alpha-to-include-battleship-capability)
+- **2×** [Capsuleer Delegates at SOCT Gathering in Yulai to Receive Special CONCORD Briefing (2018-04-11)](https://universe.eveonline.com/new-eden-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing)
 - **2×** [Amarr Empire Celebrates Catiz I's Second Year as Empress with Military Parade (2018-09-27)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-catiz-is-second-year-as-empress-with-military-parade)
 - **2×** [CONCORD Inner Circle Meeting to Discuss Ship Disappearances, Colonel Valkanir Attending (2018-10-05)](https://universe.eveonline.com/new-eden-news/concord-inner-circle-meeting-to-discuss-ship-disappearances-colonel-valkanir-attending)
 - **2×** [Minmatar Republic Deploys Blockade Taskforces in Escalation Against Amarr Empire (2018-12-14)](https://universe.eveonline.com/new-eden-news/minmatar-republic-deploys-blockade-taskforces-in-escalation-against-amarr-empire)
@@ -296,7 +302,6 @@ The constitutional document of CONCORD-era New Eden. Every multi-empire structur
 - **1×** [SOE Splinter Group Claims Timebase Mission a Cover for CONCORD Black Ops Anti-Drifter Experiment (2018-01-09)](https://universe.eveonline.com/new-eden-news/soe-splinter-group-claims-timebase-mission-a-cover-for-concord-black-ops-anti-drifter-experiment)
 - **1×** [CONCORD Deploys Assault Commandos and Sanctions in the Aftermath of Attack on Science Mission (2018-01-12)](https://universe.eveonline.com/new-eden-news/concord-deploys-assault-commandos-and-sanctions-in-the-aftermath-of-attack-on-science-mission)
 - **1×** [CONCORD Quarantine Ship of Unknown Design in Yulai (2018-04-09)](https://universe.eveonline.com/new-eden-news/concord-quarantine-ship-of-unknown-design-in-yulai)
-- **1×** [Capsuleer Delegates at SOCT Gathering in Yulai to Receive Special CONCORD Briefing (2018-04-11)](https://universe.eveonline.com/new-eden-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing)
 - **1×** [CONCORD Warns Against Delving Too Deep as Abyssal Filaments are Recovered from Data Sites (2018-05-29)](https://universe.eveonline.com/new-eden-news/concord-warns-against-delving-too-deep-as-abyssal-filaments-are-recovered-from-data-sites)
 - **1×** [Sisters of EVE Demand Explanation for CONCORD "Warfare Experiments" (2018-08-30)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-demand-explanation-for-concord-warfare-experiments)
 - **1×** [Republic Fleet Requests CONCORD Help in Search for Missing Ship in Molden Heath (2018-09-20)](https://universe.eveonline.com/new-eden-news/republic-fleet-requests-concord-help-in-search-for-missing-ship-in-molden-heath)

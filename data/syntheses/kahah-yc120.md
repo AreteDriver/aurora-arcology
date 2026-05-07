@@ -6,6 +6,10 @@
 
 ## Events
 
+### Amarr Reclaiming
+
+Pre-history Amarr conquest cycle — the religious-imperial expansion that built the Amarr Empire via the subjugation of all neighboring peoples. The Minmatar conquest is its climactic chapter; the Khanid secession is its first major failure; the Battle of Vak'Atioth (when the Jove repulsed Amarr expansion) was its eventual ceiling. Every Amarr-driven storyline traces back to Reclaiming theology.
+
 ### Kahah Chemical Attacks (YC120)
 
 YC120 weaponized Death Glow + Insorum strike across the Kahah system. Triggered slave revolts; Khanid response under Allar Chakaide killed somewhere between 300K and 9M people. Hardened the Mountain+Ocean / Forest split inside Caldari and gave Chakaide his anti-Ammatar reputation.

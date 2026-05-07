@@ -67,6 +67,10 @@ Most distant Minmatar tribe. Operates in Great Wildlands. Wormhole-interested. S
 
 ## Places
 
+### Anoikis (wormhole space)
+
+The wormhole-space cluster — formerly Sleeper civilization territory, exposed to capsuleer access by the YC111 Apocrypha-era opening. Site of Thera (SoE deep-research base), the Drifter hyperspace network, the prismatic-sites phenomena, and the Sleeper-civilization remnants. Every wormhole-tech storyline operates in or through Anoikis.
+
 ### EVE Gate
 
 The collapsed wormhole connecting New Eden to humanity's home cluster. Located in New Eden system. The original passage through which the four-empire ancestors arrived; collapsed catastrophically in pre-history (the eve_gate_collapse event), stranding the colonists. Sisters of EVE research focus; structurally adjacent to the Drifter network and Caroline's Star phenomena. Zarzakh sits in EVE-Gate-adjacent space.

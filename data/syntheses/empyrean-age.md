@@ -6,6 +6,10 @@
 
 ## Events
 
+### Caldari Rebellion
+
+YC ~80s Caldari secession from the Gallente Federation, fought over the Federation's culturally-Gallente integration policy. The Caldari Prime homeworld was lost during the war; the Caldari-sympathetic Intaki exiles who became the Intaki Syndicate emerged from this period. Founded the modern four-empire system. The YC112 invasion of Caldari Prime was framed as the Rebellion's eventual closure.
+
 ### Malkalen Disaster *(YC110)*
 
 YC110 Caldari–Federation summit aboard Ishukone Headquarters station at Malkalen. Alexander Noir's Nyx struck the station with safety protocols disabled, killing Otro Gariushi and tens of thousands. The 'broker' plot targeted Otro to stop Ishukone's Insorum development. The disaster became Tibus Heth's pretext to militarize the State and triggered the YC112 Caldari invasion of Caldari Prime — the largest interstate war of the modern era.
@@ -95,6 +99,11 @@ Moreau presidency, post-Roden defeat. Disputed the Caldari Jita-gate accusations
 **Cited in:** [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Election Special: Voting for New President Underway Across Gallente Federation in Delayed Weekend Poll](https://universe.eveonline.com/new-eden-news/election-special-voting-for-new-president-underway-across-gallente-federation-in-delayed-weekend-poll) · [Galactic Hour News Roundup: Gallente Federation Day YC122 Edition](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-gallente-federation-day-yc122-edition) · [Galactic Hour News Roundup: Gallente Federation Rocked by Loss of Systems to Triglavians, Amarr Empire Celebrates Foundation Day](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-gallente-federation-rocked-by-loss-of-systems-to-triglavians-amarr-empire-celebrates-foundation-day) · [Gallente Federation Calls For Calm](https://universe.eveonline.com/new-eden-news/gallente-federation-calls-for-calm) · [Gallente Federation celebrates Federation Day](https://universe.eveonline.com/new-eden-news/gallente-federation-celebrates-federation-day) · [Gallente Federation Responds To Plea From Grieving Spouse](https://universe.eveonline.com/new-eden-news/gallente-federation-responds-to-plea-from-grieving-spouse) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [REPORT: KADOR FLEET LAUNCHES INVASION OF GALLENTE FEDERATION IN SOLITUDE - HEAVY CASUALTIES REPORTED AS FIGHTING IS UNDERWAY](https://universe.eveonline.com/new-eden-news/report-kador-fleet-launches-invasion-of-gallente-federation-in-solitude-heavy-casualties-reported-as-fighting-is-underway)
 
 ## Places
+
+### Yulai system
+
+CONCORD's headquarters system. Site of the Yulai Accords (the inter-empire governance treaty). Symbolic center of inter-empire governance — and the YC110 Yulai gate breach is the only prior precedent for the YC128 Warpath Protocol failure. Capsuleer SoCT briefings happen here.
+**Cited in:** [Capsuleer Delegates at SOCT Gathering in Yulai to Receive Special CONCORD Briefing](https://universe.eveonline.com/new-eden-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing)
 
 ### Caldari Prime *(pre-empire)*
 
@@ -287,6 +296,7 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [Sukuuvestaa Awarded Myrskaa Reconstruction Contract After City Is Razed On Schedule (2017-05-08)](https://universe.eveonline.com/new-eden-news/sukuuvestaa-awarded-myrskaa-reconstruction-contract-after-city-is-razed-on-schedule)
 - **1×** [Caldari State Relaxes Border Restrictions With Federation (2017-06-26)](https://universe.eveonline.com/new-eden-news/caldari-state-relaxes-border-restrictions-with-federation)
 - **1×** [Caldari State Workers Union Day Celebrations Accompanied by State-Empire Trade Meeting (2017-09-04)](https://universe.eveonline.com/new-eden-news/caldari-state-workers-union-day-celebrations-accompanied-by-state-empire-trade-meeting)
+- **1×** [Capsuleer Delegates at SOCT Gathering in Yulai to Receive Special CONCORD Briefing (2018-04-11)](https://universe.eveonline.com/new-eden-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing)
 - **1×** [General Akuras to Oversee Legion Forces on Caldari Prime (2018-08-09)](https://universe.eveonline.com/new-eden-news/general-akuras-to-oversee-legion-forces-on-caldari-prime)
 - **1×** [Hyasyoda and Kaalakiota Enter Echelon Acquisition Talks? (2018-09-04)](https://universe.eveonline.com/new-eden-news/hyasyoda-and-kaalakiota-enter-echelon-acquisition-talks)
 - **1×** [Mordu's Legion Command Announces Departure from Caldari Prime (2018-09-14)](https://universe.eveonline.com/new-eden-news/mordus-legion-command-announces-departure-from-caldari-prime)
