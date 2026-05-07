@@ -5746,6 +5746,108 @@
       "sources": [
         "src_ash_tl_yc121_semiki-zainou-biohazard-containment-compromised-yc"
       ]
+    },
+    {
+      "id": "plc_amarr_prime",
+      "type": "Place",
+      "name": "Amarr Prime",
+      "brief": "Amarr Empire capital system (Amarr system, Domain region). Imperial throneworld.",
+      "master_summary": "Amarr Empire capital system in Domain region. The Imperial throneworld; site of all Amarr coronations and major court events. Avatar-class titans honor-guard at Amarr Prime during Succession Trials. Theology Council and Imperial Court are seated here.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc105_sarum-forces-patrolling-amarr-prime-yc-105",
+        "src_ash_tl_yc106_doriam-decides-to-move-tal-romon-cathedral-to-amar"
+      ]
+    },
+    {
+      "id": "plc_gallente_prime",
+      "type": "Place",
+      "name": "Gallente Prime",
+      "brief": "Federation capital system (Luminaire). Founding world of the Federation.",
+      "master_summary": "Federation capital system in the Luminaire system, Essence region. Founding world of the Federation; seat of the Senate at Caille. Site of the YC110 Caldari Luminaire invasion strike \u2014 the State military move into Federation core space that prefigured the Empyrean Age.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc109_bank-of-luminaire-delivers-health-of-the-nation-re",
+        "src_ash_tl_yc110_caldari-state-invades-the-luminaire-system-yc110",
+        "src_ash_tl_yc110_luminaire-system-invaded-by-caldari-state-yc-110"
+      ]
+    },
+    {
+      "id": "plc_pure_blind",
+      "type": "Place",
+      "name": "Pure Blind region",
+      "brief": "Sov-null region north of Caldari space. Mordu's Legion stronghold; capsuleer-alliance battleground.",
+      "master_summary": "Sov-null region north of Caldari space. Mordu's Legion's stated 'Pureblind position' (YC107 strengthening); capsuleer-alliance battleground adjacent to Cloud Ring and the Caldari Black Rise FW war zone. Operationally a major null-sec entry point.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc107_pure-blind-plays-host-to-the-mordu-s-legion-fleet-",
+        "src_ash_tl_yc107_biomass-harvesters-reported-in-pure-blind-yc-107",
+        "src_ash_tl_yc107_mordu-s-legion-to-strengthen-its-pureblind-positio"
+      ]
+    },
+    {
+      "id": "plc_aridia",
+      "type": "Place",
+      "name": "Aridia region",
+      "brief": "Amarr Empire frontier region. Lowsec-adjacent; site of pirate-faction operations and post-Doriam friction.",
+      "master_summary": "Amarr Empire frontier region. Lowsec-adjacent; site of pirate-faction operations and structural friction between Amarr core and the Khanid sphere. Aridia is one of the regions where the Cult of Tetrimon's orthodoxy patrols clashed with capsuleer logistics during the YC110-115 era.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "org_cbd_corporation",
+      "type": "Organization",
+      "name": "CBD Corporation",
+      "brief": "Caldari megacorp (CBD Corporation). Considered foreign investment expansion YC110.",
+      "master_summary": "Caldari megacorp. Considered further foreign investment YC110 alongside Lai Dai. Operates in the Caldari logistics and capital-goods sector; one of the eight Caldari megacorps. Forest-faction-aligned per the Heth-era political mapping.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc110_lai-dai-cbd-corporation-considering-further-foreig",
+        "src_ash_tl_yc112_cbd-corporation-under-pressure-to-organize-legal-m"
+      ]
+    },
+    {
+      "id": "evt_crimson_harvest",
+      "type": "Event",
+      "name": "Crimson Harvest (annual)",
+      "date": "annual",
+      "brief": "Annual Blood Raider mobilization event. Death Glow Hunters appear; canonical pirate-faction recurring event.",
+      "master_summary": "Annual Blood Raider mobilization event. Death Glow Hunters appear; canonical pirate-faction recurring event running every year. Structural complement to the Sansha Incursions and Triglavian skirmishes \u2014 the recurring pirate-faction calendar that capsuleer alliances structure their year around.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc117_crimson-harvest-yc-117"
+      ]
+    },
+    {
+      "id": "org_northern_coalition",
+      "type": "Organization",
+      "name": "Northern Coalition (capsuleer alliance)",
+      "brief": "Major capsuleer-alliance bloc. Northern null-sec power, organized post-YC106 capsuleer-alliance recognition.",
+      "master_summary": "Major capsuleer-alliance bloc. Northern null-sec power, organized after the YC106 capsuleer-alliance recognition. Operates across the northern null-sec regions (Pure Blind, Cloud Ring, Tribute, Vale of the Silent). One of the structural counterweights to Goonswarm in the modern null-sec balance.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "org_mercenary_coalition",
+      "type": "Organization",
+      "name": "Mercenary Coalition (capsuleer alliance)",
+      "brief": "Major capsuleer mercenary alliance. Lost Ragnarok-class Titan YC109 \u2014 capsuleer-Titan combat precedent.",
+      "master_summary": "Major capsuleer mercenary alliance. Lost a Ragnarok-class Titan YC109 in capsuleer-vs-capsuleer combat \u2014 the precedent event that established Titan-class targets as feasible objectives for coordinated capsuleer-alliance operations. Continues to operate as a hire-able mercenary-alliance faction.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc107_seleene-discusses-the-mercenary-coalition-yc-107",
+        "src_ash_tl_yc108_interstellar-alcohol-conglomerate-weathers-mercena",
+        "src_ash_tl_yc109_mercenary-coalition-titan-destroyed-yc-109"
+      ]
+    },
+    {
+      "id": "org_paxton_federation",
+      "type": "Organization",
+      "name": "Paxton Federation (capsuleer alliance)",
+      "brief": "Capsuleer alliance \u2014 Amarr-loyalist faction. Imperial-aligned operational support.",
+      "master_summary": "Capsuleer alliance \u2014 Amarr-loyalist faction. Imperial-aligned operational support; one of the capsuleer alliances providing political validation for the Empire's claim to capsuleer-faction allegiance.",
+      "canonicity": "community-curated",
+      "sources": []
     }
   ],
   "connections": [
@@ -15273,6 +15375,502 @@
       "rel": "opposed-to",
       "conf": 0.7,
       "claim": "Tetrimon investigates Drifter-tech for theological compliance.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_minmatar",
+      "tgt": "per_maleatu_shakur",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Sanmatar from Brutor sub-tribe.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_amarr",
+      "tgt": "evt_warpath_protocol_failure",
+      "rel": "opposed-to",
+      "conf": 0.6,
+      "claim": "Catiz blamed Republic during Warpath escalation, surfacing the Amarr bloodline's posture.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_genotech_systems",
+      "tgt": "per_otro_gariushi",
+      "rel": "opposed-to",
+      "conf": 0.5,
+      "claim": "Pre-Otro-era pharma scandal; Ishukone stance.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_carthum_conglomerate",
+      "tgt": "org_ishukone",
+      "rel": "parallels",
+      "conf": 0.6,
+      "claim": "Cross-empire industrial peers.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_creodron",
+      "tgt": "org_ishukone",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "Cross-empire Upwell signatories.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_kador_gallente_invasion",
+      "tgt": "per_souro_foiritan",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Federation president era.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jacus_roden",
+      "tgt": "evt_intaki_seizure_uprising",
+      "rel": "caused-by",
+      "conf": 0.6,
+      "claim": "Federation president pre-Aguard cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_caldari",
+      "tgt": "evt_caldari_rebellion",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Bloodline secession.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_nyx_mothership",
+      "tgt": "per_alexander_noir",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Noir's vessel.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_theology_council",
+      "tgt": "evt_amarr_reclaiming",
+      "rel": "caused-by",
+      "conf": 0.8,
+      "claim": "Reclaiming-era theology.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_minmatar",
+      "tgt": "evt_pure_faith_raid",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "Mimitar countercharges Chakaide; bloodline dispute echo.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_zainou_breach",
+      "tgt": "org_caldari_state",
+      "rel": "opposed-to",
+      "conf": 0.65,
+      "claim": "Pre-Empyrean-Age corporate-security scandal.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_kador_gallente_invasion",
+      "tgt": "per_catiz_i",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "House Kador faction-rivalry continues into Catiz era.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_sani_sabik",
+      "tgt": "per_doriam_kor_azor",
+      "rel": "opposed-to",
+      "conf": 0.6,
+      "claim": "Heretical sect during Doriam succession.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_insmother",
+      "tgt": "org_guristas",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "Adjacent capsuleer-region; Guristas in Venal northwards.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_eifyr_co",
+      "tgt": "org_caldari_state",
+      "rel": "aligned-with",
+      "conf": 0.55,
+      "claim": "Inter-empire biotech with State adjacency.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_anar_abdul",
+      "tgt": "org_triglavian_collective",
+      "rel": "aligned-with",
+      "conf": 0.6,
+      "claim": "Thukker wormhole-strategy adjacent to Triglavian abyssal-filament tech.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_air_laboratories",
+      "tgt": "org_triglavian_collective",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "AIR Labs studies the Drifter-Triglavian conflict.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_dr_tukoss",
+      "tgt": "org_triglavian_collective",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Some lore variants have Tukoss working with Triglavians post-defection.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_drifter_crisis",
+      "tgt": "evt_triglavian_invasion",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "Cosmic-scale Crisis cycles bridging Drifter and Triglavian conflicts.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_arrach_sarum",
+      "tgt": "per_catiz_i",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "Sarum heir under Tash-Murkon Empress.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_deathless",
+      "tgt": "evt_warpath_protocol_failure",
+      "rel": "parallels",
+      "conf": 0.6,
+      "claim": "Concurrent late-Empyrean-Age threat surfaces.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_zorya_triglav",
+      "tgt": "per_deathless",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "Late-Empyrean-Age non-empire actor surfaces.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_roden_shipyards",
+      "tgt": "plc_essence",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Federation industrial base in Essence.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_inner_zone_shipping",
+      "tgt": "plc_essence",
+      "rel": "located-in",
+      "conf": 0.65,
+      "claim": "Federation logistics in Essence.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jacus_roden",
+      "tgt": "org_roden_shipyards",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Roden family head.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_soraya_roden",
+      "tgt": "org_roden_shipyards",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Roden family heir.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_inner_zone_shipping",
+      "tgt": "org_federation_senate",
+      "rel": "aligned-with",
+      "conf": 0.55,
+      "claim": "Federation industrial-political alignment.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_souro_foiritan",
+      "tgt": "plc_caille",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Federation president seated at Caille.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jacus_roden",
+      "tgt": "plc_caille",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "President.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_celestis_aguard",
+      "tgt": "plc_caille",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "President.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_gallente",
+      "tgt": "per_jacus_roden",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Bloodline president lineage.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_amarr_prime",
+      "tgt": "plc_domain",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Domain region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_amarr_prime",
+      "tgt": "org_amarr_empire",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Imperial throneworld.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_amarr_prime",
+      "tgt": "art_avatar_titan",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Avatar honor-guard at Succession Trials.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_amarr_prime",
+      "tgt": "org_imperial_court",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Court seated at Amarr Prime.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_amarr_prime",
+      "tgt": "org_theology_council",
+      "rel": "located-in",
+      "conf": 0.92,
+      "claim": "Theology Council seated at Amarr Prime.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_amarr_prime",
+      "tgt": "per_catiz_i",
+      "rel": "located-in",
+      "conf": 0.9,
+      "claim": "Empress's seat.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_gallente_prime",
+      "tgt": "plc_essence",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Essence region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_gallente_prime",
+      "tgt": "org_gallente_federation",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Federation founding world.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_gallente_prime",
+      "tgt": "plc_caille",
+      "rel": "parallels",
+      "conf": 0.75,
+      "claim": "Senate at Caille; capital system at Gallente Prime.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_gallente_prime",
+      "tgt": "evt_caldari_luminaire_invasion",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "YC110 Luminaire invasion strike target.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_pure_blind",
+      "tgt": "plc_cloud_ring",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "Adjacent null-sec.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_pure_blind",
+      "tgt": "org_mordus_legion",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Mordu's Legion Pureblind position.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_pure_blind",
+      "tgt": "plc_black_rise",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Adjacent FW war zone.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_pure_blind",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Capsuleer-alliance battleground.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_aridia",
+      "tgt": "org_amarr_empire",
+      "rel": "located-in",
+      "conf": 0.92,
+      "claim": "Empire frontier.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_aridia",
+      "tgt": "org_cult_of_tetrimon",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Tetrimon orthodoxy patrols.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_cbd_corporation",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Caldari megacorp.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_cbd_corporation",
+      "tgt": "org_lai_dai",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Considered joint foreign investment YC110.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_cbd_corporation",
+      "tgt": "org_forest_faction",
+      "rel": "aligned-with",
+      "conf": 0.65,
+      "claim": "Forest-faction-aligned megacorp.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_crimson_harvest",
+      "tgt": "org_blood_raiders",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Blood Raider annual mobilization.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_crimson_harvest",
+      "tgt": "phn_death_glow",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "Death Glow Hunters appear yearly.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_crimson_harvest",
+      "tgt": "cnc_capsuleers",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Capsuleers structure annual response.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_crimson_harvest",
+      "tgt": "evt_sansha_incursion_yc112",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Recurring pirate-faction calendar parallel.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_northern_coalition",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Recognized capsuleer alliance.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_northern_coalition",
+      "tgt": "plc_pure_blind",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Northern null-sec operations.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_northern_coalition",
+      "tgt": "plc_cloud_ring",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Northern null-sec operations.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_mercenary_coalition",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Mercenary capsuleer alliance.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_mercenary_coalition",
+      "tgt": "art_ragnarok_titan",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Lost Ragnarok-class Titan YC109.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_paxton_federation",
+      "tgt": "cnc_capsuleer_alliances",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Recognized capsuleer alliance.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_paxton_federation",
+      "tgt": "org_amarr_empire",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Amarr-loyalist alliance.",
       "supporting_sources": []
     }
   ],
