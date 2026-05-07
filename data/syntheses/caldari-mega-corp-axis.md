@@ -28,6 +28,11 @@ The most disruptive Caldari political figure of the modern era. Heth's reclamati
 
 ## Organizations
 
+### Caldari Navy
+
+Caldari State unified military fleet. Backbone of every State military operation since the Empyrean Age — the YC112 Caldari Prime invasion, the YC115 capitulation theater, the Triglavian Invasion response, and the current YC128 Syndicate conquest. Operationally controlled by the Caldari Executive Panel through the Provost / now Saraki authority chain.
+**Cited in:** [BREAKING - Caldari Navy Seizes Control of Athounon Strategic Sites](https://universe.eveonline.com/new-eden-news/breaking-caldari-navy-seizes-control-of-athounon-strategic-sites)
+
 ### Chief Executive Panel
 
 Chief Executive Panel. Caldari governing body of the eight mega-corp CEOs. Saraki chairs. Closed-door session post-Jita-gate produced the warmongering posture that drove the Syndicate conquest two weeks later.
@@ -257,4 +262,5 @@ Caldari political faction. Mountain ally. Ishukone-axis. The less-visible half o
 - **1×** [Semiki Zainou Biohazard Containment Compromised; Lai Dai Under Suspicion (2019-01-17)](https://universe.eveonline.com/new-eden-news/semiki-zainou-biohazard-containment-compromised-lai-dai-under-suspicion)
 - **1×** [Semiki Situation Deteriorates; Ishukone Watch Releases Initial Findings (2019-01-24)](https://universe.eveonline.com/new-eden-news/semiki-situation-deteriorates-ishukone-watch-releases-initial-findings)
 - **1×** [Ishukone and CEP Battle SARO in CONCORD Assembly Over Dangerous Research Materials (2019-02-12)](https://universe.eveonline.com/new-eden-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials)
+- **1×** [BREAKING - Caldari Navy Seizes Control of Athounon Strategic Sites (2022-11-09)](https://universe.eveonline.com/new-eden-news/breaking-caldari-navy-seizes-control-of-athounon-strategic-sites)
 - **1×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident (2026-05-01)](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)

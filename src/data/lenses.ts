@@ -65,6 +65,8 @@ export const LENSES: Lens[] = [
       "art_zephyr",
       "cnc_warpath_message",
       "cnc_military_campaigns",
+      "org_caldari_navy",
+      "org_federation_navy",
     ],
   },
   {
@@ -149,6 +151,9 @@ export const LENSES: Lens[] = [
       "cnc_seven_tribes",
       "cnc_sheal_sin",
       "cnc_emwpa",
+      "evt_battle_caldari_prime_yc115",
+      "evt_elder_war",
+      "evt_seyllin_disaster",
     ],
   },
   {
@@ -181,6 +186,9 @@ export const LENSES: Lens[] = [
       "art_drone_graviton_emitter",
       "plc_tanu_ii",
       "plc_pochven",
+      "evt_seyllin_disaster",
+      "phn_carolines_star",
+      "org_sleeper_civilization",
     ],
   },
   {
@@ -206,6 +214,7 @@ export const LENSES: Lens[] = [
       "org_gallente_federation",
       "org_minmatar_republic",
       "evt_warpath_protocol_failure",
+      "org_amarr_imperial_navy",
     ],
   },
   {
@@ -232,6 +241,7 @@ export const LENSES: Lens[] = [
       "phn_vitoxin",
       "phn_chronodynamic_tricaroxal",
       "plc_kahah",
+      "org_royal_khanid_navy",
     ],
   },
   {
@@ -252,6 +262,7 @@ export const LENSES: Lens[] = [
       "evt_drifter_crisis",
       "plc_pochven",
       "plc_zarzakh",
+      "org_sleeper_civilization",
     ],
   },
   {
@@ -277,6 +288,8 @@ export const LENSES: Lens[] = [
       "org_ishukone",
       "org_caldari_state",
       "org_gallente_federation",
+      "org_caldari_navy",
+      "evt_battle_caldari_prime_yc115",
     ],
   },
   {
@@ -300,6 +313,7 @@ export const LENSES: Lens[] = [
       "per_silphy_en_diabel",
       "per_alix_moreau",
       "evt_intaki_seizure_uprising",
+      "org_royal_khanid_navy",
     ],
   },
   {
@@ -324,6 +338,9 @@ export const LENSES: Lens[] = [
       "org_ammatar_mandate",
       "plc_sarum_prime",
       "plc_tash_murkon_region",
+      "org_amarr_imperial_navy",
+      "org_royal_khanid_navy",
+      "evt_elder_war",
     ],
   },
   {
@@ -345,6 +362,7 @@ export const LENSES: Lens[] = [
       "evt_skarkon_angel_takeover",
       "plc_skarkon",
       "org_thukker_tribe",
+      "phn_true_slaves",
     ],
   },
   {
@@ -371,6 +389,7 @@ export const LENSES: Lens[] = [
       "cnc_lai_dai_vs_ishukone_axis",
       "cnc_softdrink_wars",
       "org_cep",
+      "org_caldari_navy",
     ],
   },
   {

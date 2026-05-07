@@ -41,6 +41,11 @@ Idonis Ardishapur's Tachyon orbital bombardment of Starkmanir Prime in retaliati
 Anaras Ult enabled mass Ammatar defection back to the Republic during the Elder Fleet operation. Slave owners and Navy alike crossed over with their Starkmanir charges. Demonstrated that the Mandate's Nefantar leadership had been long-game protecting Starkmanir — partial redemption of the Ammatar treachery narrative.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Ammatars](https://universe.eveonline.com/chronicles/the-ammatars)
 
+### Minmatar Elder War *(YC110)*
+
+The YC110 reappearance of the Minmatar Elder Fleet from Anoikis after centuries of exile. Triggered Republic invasions of the Ammatar Mandate and Amarr Empire, the Empress Jamyl I crisis, and the Sansha capital fleet incident in Jove space. The Elder War is the structural mirror of Heth's YC112 Caldari Prime invasion — both are 'reclamation' wars that reset the four-empire balance.
+**Cited in:** [BREAKING NEWS: IMPERIAL NAVY EMERGES IN KOR-AZOR REGION WITH JAMYL SARUM, ELDER FLEETS RETREATING](https://universe.eveonline.com/new-eden-news/breaking-news-imperial-navy-emerges-in-kor-azor-region-with-jamyl-sarum-elder-fleets-retreating)
+
 ### Starkmanir Liberation (Imperian Age) *(YC110)*
 
 The YC110 Elder Fleet operation that liberated the Starkmanir from the Ammatar Mandate. Forms the historical bookend to the Mil-Campaign #2 region — the previous time CONCORD's framework failed to constrain inter-empire violence over the Mandate.
@@ -55,6 +60,15 @@ Empress Jamyl I deployed her then-secret superweapon to destroy one Elder Fleet 
 
 YC110 Sisters of Eve announcement that Starkmanir survivors were alive on Hzeron in the Ammatar Mandate. Forced the hand of the Nefantar conspirators and triggered the Elder Fleet rescue. The reveal is what bridged the Old Wars to the Imperian Age and made the Ammatar-as-secret-protectors framing canonical.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Seyllin Disaster *(YC111)*
+
+YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the planet. The Sisters of EVE 'Wormhole Colony Lost' announcement followed. The Seyllin event triggered the Apocrypha-era wormhole opening, the discovery of Anoikis, the Sleeper civilization remnants, and ultimately the Drifter emergence cycle. Every wormhole-tech thread in the warpath board traces back to Seyllin.
+**Cited in:** [The Fourth Seyllin Conference](https://universe.eveonline.com/new-eden-news/the-fourth-seyllin-conference)
+
+### Capitulation at Caldari Prime *(YC115)*
+
+The YC115 capitulation theater that ended the Caldari–Federation conflict at Caldari Prime, concluding the Heth-era invasion cycle that began with the YC112 retake. The terms preserved Caldari sovereignty over Caldari Prime — the settlement the YC128 Syndicate conquest is structurally challenging.
 
 ## Persons
 
@@ -248,6 +262,7 @@ Amarr religious scepter. A Mimitar slave seizing one became the iconic moment of
 - **1×** [ARCHANGELS WITHDRAW SKARKON ANNEXATION CLAIM (2008-06-07)](https://universe.eveonline.com/new-eden-news/archangels-withdraw-skarkon-annexation-claim)
 - **1×** [Discussion continues over Angel "claim" in Skarkon (2008-06-07)](https://universe.eveonline.com/new-eden-news/discussion-continues-over-angel-claim-in-skarkon)
 - **1×** [BREAKING NEWS: CONCORD ANNOUNCES AUTHORIZATION OF EMERGENCY MILITIA WAR POWERS ACT (2008-06-10)](https://universe.eveonline.com/new-eden-news/breaking-news-concord-announces-authorization-of-emergency-militia-war-powers-act)
+- **1×** [BREAKING NEWS: IMPERIAL NAVY EMERGES IN KOR-AZOR REGION WITH JAMYL SARUM, ELDER FLEETS RETREATING (2008-06-10)](https://universe.eveonline.com/new-eden-news/breaking-news-imperial-navy-emerges-in-kor-azor-region-with-jamyl-sarum-elder-fleets-retreating)
 - **1×** [Ammatar Navy defections reported (2008-06-10)](https://universe.eveonline.com/new-eden-news/ammatar-navy-defections-reported)
 - **1×** [BREAKING NEWS: ELDER FLEET OVER MEKHIOS DESTROYED (2008-06-10)](https://universe.eveonline.com/new-eden-news/breaking-news-elder-fleet-over-mekhios-destroyed)
 - **1×** [REPORT: ELDER FLEET ALLOWED TO PASS THROUGH REPUBLIC SPACE UNCONTESTED (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-elder-fleet-allowed-to-pass-through-republic-space-uncontested)
@@ -329,6 +344,7 @@ Amarr religious scepter. A Mimitar slave seizing one became the iconic moment of
 - **1×** [Thukker Tribe invites cloned mercenaries to police Molden Heath (2013-05-14)](https://universe.eveonline.com/new-eden-news/thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath)
 - **1×** [Karin Midular to be lain in repose (2013-06-01)](https://universe.eveonline.com/new-eden-news/karin-midular-to-be-lain-in-repose)
 - **1×** [Karin Midular Funeral Takes Place on Mikramurka Steppes (2013-07-04)](https://universe.eveonline.com/new-eden-news/karin-midular-funeral-takes-place-on-mikramurka-steppes)
+- **1×** [The Fourth Seyllin Conference (2015-03-25)](https://universe.eveonline.com/new-eden-news/the-fourth-seyllin-conference)
 - **1×** [Empress Jamyl I Visits Amarr Navy Headquarters (2015-07-20)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-visits-amarr-navy-headquarters)
 - **1×** [BREAKING NEWS! Society Of Conscious Thought Vessel Destroyed In Sarum Prime! (2015-07-25)](https://universe.eveonline.com/new-eden-news/breaking-news-society-of-conscious-thought-vessel-destroyed-in-sarum-prime)
 - **1×** [Court Chamberlain Confirms Death Of Empress Jamyl I (2015-08-21)](https://universe.eveonline.com/new-eden-news/court-chamberlain-confirms-death-of-empress-jamyl-i)

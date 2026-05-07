@@ -69,6 +69,11 @@ Intaki religion. Believes in reincarnation; Adamas reincarnate without technolog
 
 Loose autonomous federation in the Syndicate region. Founded by Caldari-sympathetic Intaki exiles after the Caldari Rebellion; each station autonomous; non-political officially. The conquest YC128.05.05 ended its sovereignty but not its membership network — which now operates as a fugitive financial / smuggling structure with capital ships escaping into highsec.
 
+### Royal Khanid Navy
+
+Khanid Kingdom's autonomous military fleet, separate from the Imperial Navy. Carries the Empire's military burden in the southern frontier — repulsed the Pure Faith Harvest raid YC120, conducted the brutal Kahah pacification under Allar Chakaide, and engages Blood Raider incursions on a sustained basis. The 19th Royal Uolans is one of its elite units.
+**Cited in:** [Royal Khanid Navy releases statement on Blood Raider attacks](https://universe.eveonline.com/new-eden-news/royal-khanid-navy-releases-statement-on-blood-raider-attacks)
+
 ## Factions
 
 ### Intaki
@@ -113,6 +118,7 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [Intaki Spiritual Leader To Resign Caille Position (2006-05-17)](https://universe.eveonline.com/new-eden-news/intaki-spiritual-leader-to-resign-caille-position)
 - **1×** [Intaki Bank secures funding for Syndicate R&D program (2007-07-17)](https://universe.eveonline.com/new-eden-news/intaki-bank-secures-funding-for-syndicate-rd-program)
 - **1×** [Spate of Drug Murders Attributed to Intaki 'Death Cult' (2008-04-24)](https://universe.eveonline.com/new-eden-news/spate-of-drug-murders-attributed-to-intaki-death-cult)
+- **1×** [Royal Khanid Navy releases statement on Blood Raider attacks (2008-12-21)](https://universe.eveonline.com/new-eden-news/royal-khanid-navy-releases-statement-on-blood-raider-attacks)
 - **1×** [Report: Intaki Station in Syndicate Struck by Major Radiological Pulse (2009-03-10)](https://universe.eveonline.com/new-eden-news/report-intaki-station-in-syndicate-struck-by-major-radiological-pulse)
 - **1×** [Violence On Intaki Prime As Caldari Occupy System (2009-03-27)](https://universe.eveonline.com/new-eden-news/violence-on-intaki-prime-as-caldari-occupy-system)
 - **1×** [Confusion, Shortages Spreading On Intaki Prime (2009-05-01)](https://universe.eveonline.com/new-eden-news/confusion-shortages-spreading-on-intaki-prime)

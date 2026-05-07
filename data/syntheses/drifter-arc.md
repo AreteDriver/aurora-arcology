@@ -11,6 +11,11 @@
 One of the YC123 dread assaults. Illegal high-sec cyno beacon enabled a dread fleet to land at the Ammatar Mandate's capital planet. The same tech precedent now powers the YC128 Syndicate breakout — the Tanu attack is the structural ancestor of the Catalyst-era doomsday rollout.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 
+### Seyllin Disaster *(YC111)*
+
+YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the planet. The Sisters of EVE 'Wormhole Colony Lost' announcement followed. The Seyllin event triggered the Apocrypha-era wormhole opening, the discovery of Anoikis, the Sleeper civilization remnants, and ultimately the Drifter emergence cycle. Every wormhole-tech thread in the warpath board traces back to Seyllin.
+**Cited in:** [The Fourth Seyllin Conference](https://universe.eveonline.com/new-eden-news/the-fourth-seyllin-conference)
+
 ### YC123 Dread Assaults (Tanu / Junfaa) *(2021)*
 
 Mercenary fleets used illegal high-sec-authorized cyno beacons to land dread assaults at Tanu and Junfaa. Established canonical existence of empire-circumventing cyno tech. Tanu II is the capital of the Ammatar Mandate — the same site Ash predicts as Mil-Campaign #2 zone.
@@ -67,6 +72,11 @@ Anoyus Mapping Project. Capsuleer initiative working with the Federation. Contin
 
 Inter-empire defensive coalition. Ships built by Upwell. Drifter wormhole occupier (one of five). Partnered with Upwell on Sentinel-MZ research. Lost CONCORD funding to AIR Labs in the Mountain/Ocean realignment.
 **Cited in:** [Controversial EDENCOM Policy Endorsed during "Drifter Summit"](https://universe.eveonline.com/new-eden-news/controversial-edencom-policy-endorsed-during-drifter-summit) · [DED and EDENCOM Security Briefing Highlights Concerns Over Empires "Shadow War" Violence](https://universe.eveonline.com/new-eden-news/ded-and-edencom-security-briefing-highlights-concerns-over-empires-shadow) · [Formation of EDENCOM Announced Following Triglavian Attacks Amidst Capsuleer Day Celebrations](https://universe.eveonline.com/new-eden-news/formation-of-edencom-announced-following-triglavian-attacks-amidst-capsuleer-day-celebrations) · [Galactic Hour News Roundup: Inner Circle Security Summit Reduces EDENCOM Funding](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-inner-circle-security-summit-reduces-edencom) · [Galactic Hour News Roundup: Triglavian Conquests and EDENCOM Fortresses Edition](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-triglavian-conquests-and-edencom-fortresses-edition) · [Shipcaster Spying Row Intensifies with Recriminations Over CONCORD/EDENCOM Taskforce](https://universe.eveonline.com/new-eden-news/shipcaster-spying-row-intensifies-with-recriminations-over-concord-edencom)
+
+### Sleeper Civilization
+
+Lost Jovian-descended civilization in Anoikis wormhole space — Jove consciousnesses that committed fully to the Construct and never came out. Awakened during the Apocrypha-era wormhole opening (post-Seyllin). The Sleeper-to-Drifter transition is one of the Drifter Crisis's central canonical mysteries; AIR Labs and SoE both research the boundary.
+**Cited in:** [SCC set to increase prices on sleeper components](https://universe.eveonline.com/new-eden-news/scc-set-to-increase-prices-on-sleeper-components)
 
 ### Triglavian Collective
 
@@ -131,6 +141,11 @@ The chronic existential crisis of the Jove. Every Jovian arc — turning to the 
 New Catalyst-era sites containing destroyed Drifter-structure wrecks. Wreck inventory matches Pochven-zone Drifter wormhole-generator hardware. Structural confirmation that occupier-faction Drifter testing is producing fallout in known space.
 **Cited in:** [Hoboleaks — Warpath Cycle Items](https://sde.hoboleaks.space/)
 
+### Caroline's Star *(YC117)*
+
+YC117 cosmic anomaly — a bright new object that appeared overnight, visible across all four empires simultaneously. The Sisters of EVE issued a statement tying it to the Drifter emergence and Eve Gate stress events. Caroline's Star is structurally the visible signature of the Drifter Hyperspace Network reaching New Eden's normal space — the moment the Drifter conflict moved from Anoikis backstory to current threat.
+**Cited in:** [Sisters of EVE Release Statement on Caroline's Star, Thera Incident and CONCORD](https://universe.eveonline.com/new-eden-news/sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord)
+
 ## Artifacts
 
 ### Drone Graviton Emitter
@@ -180,6 +195,9 @@ Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-i
 - **1×** [Settled Thukker Deal With Tribal Identity Crisis (2010-08-31)](https://universe.eveonline.com/new-eden-news/settled-thukker-deal-with-tribal-identity-crisis)
 - **1×** [Intertribal Tensions Plague Resettled Thukker (2010-09-15)](https://universe.eveonline.com/new-eden-news/intertribal-tensions-plague-resettled-thukker)
 - **1×** [Thukker Tribe invites cloned mercenaries to police Molden Heath (2013-05-14)](https://universe.eveonline.com/new-eden-news/thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath)
+- **1×** [SCC set to increase prices on sleeper components (2014-10-29)](https://universe.eveonline.com/new-eden-news/scc-set-to-increase-prices-on-sleeper-components)
+- **1×** [Sisters of EVE Release Statement on Caroline's Star, Thera Incident and CONCORD (2015-02-20)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord)
+- **1×** [The Fourth Seyllin Conference (2015-03-25)](https://universe.eveonline.com/new-eden-news/the-fourth-seyllin-conference)
 - **1×** [SOE Splinter Group Warns of Shift in Drifter Activity; Thukker Tribe Confirms Anomalous Behavior (2016-11-10)](https://universe.eveonline.com/new-eden-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior)
 - **1×** [Thukker Mix Transfers Key Assets to Core Complexion (2018-02-13)](https://universe.eveonline.com/new-eden-news/thukker-mix-transfers-key-assets-to-core-complexion)
 - **1×** [Formation of EDENCOM Announced Following Triglavian Attacks Amidst Capsuleer Day Celebrations (2020-05-07)](https://universe.eveonline.com/new-eden-news/formation-of-edencom-announced-following-triglavian-attacks-amidst-capsuleer-day-celebrations)

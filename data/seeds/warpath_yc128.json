@@ -3449,6 +3449,116 @@
       "master_summary": "Khanid noble in the Provost-Marshal-era news cycle. Royal Khanid Navy lineage. Frequently surfaces as a Khanid voice in the Pure Faith Harvest / Lost Adama era and the post-Allar-Chakaide Khanid succession.",
       "canonicity": "ccp-canon",
       "sources": []
+    },
+    {
+      "id": "org_caldari_navy",
+      "type": "Organization",
+      "name": "Caldari Navy",
+      "brief": "Caldari State military fleet. Backbone of the YC112 Caldari Prime invasion and the current Caldari conquest of Syndicate.",
+      "master_summary": "Caldari State unified military fleet. Backbone of every State military operation since the Empyrean Age \u2014 the YC112 Caldari Prime invasion, the YC115 capitulation theater, the Triglavian Invasion response, and the current YC128 Syndicate conquest. Operationally controlled by the Caldari Executive Panel through the Provost / now Saraki authority chain.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_breaking-caldari-navy-seizes-control-of-athounon-strategic-sites"
+      ]
+    },
+    {
+      "id": "org_federation_navy",
+      "type": "Organization",
+      "name": "Federation Navy",
+      "brief": "Gallente Federation military fleet. Conducted the YC124 invasion of Intaki + adjacent constellations that triggered the Uprising arc.",
+      "master_summary": "Gallente Federation military fleet. Conducted the YC124 invasion of Intaki + adjacent constellations that triggered the Uprising arc and the constellation deal with the Intaki Syndicate that the YC128 conquest now invalidates. Currently under President Moreau's authority \u2014 and the hawkish Senate factions worry her Autonomist-Party origins make her unable to direct it firmly.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_breaking-massive-invasion-of-intaki-and-placid-systems-by-federation-navy"
+      ]
+    },
+    {
+      "id": "org_amarr_imperial_navy",
+      "type": "Organization",
+      "name": "Amarr Imperial Navy",
+      "brief": "Amarr Empire military fleet. Operates across all five Royal Houses' territories under the Empress's direct authority.",
+      "master_summary": "Amarr Empire military fleet. Operates across all five Royal Houses' territories under the Empress's direct authority. Currently engaged in operations against Drifters in Khanid space and against capsuleer disruption of slave-shipment lanes \u2014 and Catiz I's territorial reorganization restructured their command chain.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom"
+      ]
+    },
+    {
+      "id": "org_royal_khanid_navy",
+      "type": "Organization",
+      "name": "Royal Khanid Navy",
+      "brief": "Khanid Kingdom's autonomous military fleet, separate from the Imperial Navy. Repulsed the Pure Faith Harvest raid YC120.",
+      "master_summary": "Khanid Kingdom's autonomous military fleet, separate from the Imperial Navy. Carries the Empire's military burden in the southern frontier \u2014 repulsed the Pure Faith Harvest raid YC120, conducted the brutal Kahah pacification under Allar Chakaide, and engages Blood Raider incursions on a sustained basis. The 19th Royal Uolans is one of its elite units.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_royal-khanid-navy-releases-statement-on-blood-raider-attacks"
+      ]
+    },
+    {
+      "id": "evt_battle_caldari_prime_yc115",
+      "type": "Event",
+      "name": "Capitulation at Caldari Prime",
+      "date": "YC115",
+      "brief": "Theater that ended the Caldari\u2013Federation conflict at Caldari Prime. Concluded the Heth-era invasion cycle.",
+      "master_summary": "The YC115 capitulation theater that ended the Caldari\u2013Federation conflict at Caldari Prime, concluding the Heth-era invasion cycle that began with the YC112 retake. The terms preserved Caldari sovereignty over Caldari Prime \u2014 the settlement the YC128 Syndicate conquest is structurally challenging.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "evt_elder_war",
+      "type": "Event",
+      "name": "Minmatar Elder War",
+      "date": "YC110",
+      "brief": "YC110 reappearance of the Minmatar Elder Fleet from Anoikis. Triggered Republic invasions of the Ammatar Mandate and Amarr Empire.",
+      "master_summary": "The YC110 reappearance of the Minmatar Elder Fleet from Anoikis after centuries of exile. Triggered Republic invasions of the Ammatar Mandate and Amarr Empire, the Empress Jamyl I crisis, and the Sansha capital fleet incident in Jove space. The Elder War is the structural mirror of Heth's YC112 Caldari Prime invasion \u2014 both are 'reclamation' wars that reset the four-empire balance.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_breaking-news-imperial-navy-emerges-in-kor-azor-region-with-jamyl-sarum-elder-fleets-retreating"
+      ]
+    },
+    {
+      "id": "evt_seyllin_disaster",
+      "type": "Event",
+      "name": "Seyllin Disaster",
+      "date": "YC111",
+      "brief": "YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the planet. Triggered the Apocrypha-era wormhole opening and the discovery of Anoikis.",
+      "master_summary": "YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the planet. The Sisters of EVE 'Wormhole Colony Lost' announcement followed. The Seyllin event triggered the Apocrypha-era wormhole opening, the discovery of Anoikis, the Sleeper civilization remnants, and ultimately the Drifter emergence cycle. Every wormhole-tech thread in the warpath board traces back to Seyllin.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_the-fourth-seyllin-conference"
+      ]
+    },
+    {
+      "id": "phn_carolines_star",
+      "type": "Phenomenon",
+      "name": "Caroline's Star",
+      "date": "YC117",
+      "brief": "YC117 cosmic anomaly \u2014 visible new bright object that appeared overnight. Tied to the Drifter emergence and Eve Gate stress events.",
+      "master_summary": "YC117 cosmic anomaly \u2014 a bright new object that appeared overnight, visible across all four empires simultaneously. The Sisters of EVE issued a statement tying it to the Drifter emergence and Eve Gate stress events. Caroline's Star is structurally the visible signature of the Drifter Hyperspace Network reaching New Eden's normal space \u2014 the moment the Drifter conflict moved from Anoikis backstory to current threat.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord"
+      ]
+    },
+    {
+      "id": "phn_true_slaves",
+      "type": "Phenomenon",
+      "name": "True Slaves",
+      "brief": "Sansha cybernetic forced-merger drones produced from captured slaves. Sansha Kuvakei's signature technology and the True Power Project's product.",
+      "master_summary": "Sansha cybernetic forced-merger drones produced from captured slaves via the True Power Project. The pharmacological-and-implant complement to Vitoxin \u2014 Sansha's tech weaponizes merger; Amarr's tech weaponizes dependence; Mordu/Ishukone's clone-soldier tech sits structurally between them. Sansha Kuvakei's signature technology and the canonical prototype for every later 'forced post-human' framing including the Deathless arc.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "org_sleeper_civilization",
+      "type": "Organization",
+      "name": "Sleeper Civilization",
+      "brief": "Lost Jovian-descended civilization in Anoikis wormhole space. Awakened during the Apocrypha-era wormhole opening; structurally tied to the Construct and the Drifter emergence.",
+      "master_summary": "Lost Jovian-descended civilization in Anoikis wormhole space \u2014 Jove consciousnesses that committed fully to the Construct and never came out. Awakened during the Apocrypha-era wormhole opening (post-Seyllin). The Sleeper-to-Drifter transition is one of the Drifter Crisis's central canonical mysteries; AIR Labs and SoE both research the boundary.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_scc-set-to-increase-prices-on-sleeper-components"
+      ]
     }
   ],
   "connections": [
@@ -6577,6 +6687,558 @@
       "supporting_sources": [
         "src_news_anti-provist-rally-sparks-civil-unrest-on-malkalen-v"
       ]
+    },
+    {
+      "src": "org_caldari_navy",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Unified military fleet of the State.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_caldari_navy",
+      "tgt": "evt_caldari_invasion_yc112",
+      "rel": "participated-in",
+      "conf": 0.99,
+      "claim": "Backbone of the YC112 invasion of Caldari Prime.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_caldari_navy",
+      "tgt": "evt_caldari_conquers_syndicate",
+      "rel": "participated-in",
+      "conf": 0.99,
+      "claim": "Carried out the YC128 Syndicate conquest.",
+      "supporting_sources": [
+        "src_news_breaking-caldari-navy-seizes-control-of-athounon-strategic-sites"
+      ]
+    },
+    {
+      "src": "per_akimaka_saraki",
+      "tgt": "org_caldari_navy",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Mountain-faction consolidation runs through the State's military command chain.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_federation_navy",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Federation unified military fleet.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_federation_navy",
+      "tgt": "evt_intaki_seizure_uprising",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "Conducted the YC124 invasion of Intaki and adjacent constellations.",
+      "supporting_sources": [
+        "src_news_breaking-massive-invasion-of-intaki-and-placid-systems-by-federation-navy"
+      ]
+    },
+    {
+      "src": "per_alix_moreau",
+      "tgt": "org_federation_navy",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Federation Navy operates under the President's direction.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_amarr_imperial_navy",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Imperial fleet under the Empress's authority.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_catiz_i",
+      "tgt": "org_amarr_imperial_navy",
+      "rel": "aligned-with",
+      "conf": 0.92,
+      "claim": "Catiz's territorial reorganization restructured the Imperial Navy command chain.",
+      "supporting_sources": [
+        "src_news_empress-catiz-i-revokes-heideran-decree-and-announces-sweeping-territorial-and-military-reorganization"
+      ]
+    },
+    {
+      "src": "org_royal_khanid_navy",
+      "tgt": "org_khanid_kingdom",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Khanid Kingdom's autonomous fleet.",
+      "supporting_sources": [
+        "src_news_royal-khanid-navy-releases-statement-on-blood-raider-attacks"
+      ]
+    },
+    {
+      "src": "org_royal_khanid_navy",
+      "tgt": "evt_pure_faith_raid",
+      "rel": "participated-in",
+      "conf": 0.99,
+      "claim": "Repulsed the Intaki extremist assault on the Pure Faith Harvest.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_royal_khanid_navy",
+      "tgt": "evt_kahah_chemical_attack",
+      "rel": "participated-in",
+      "conf": 0.92,
+      "claim": "Conducted the brutal Kahah pacification under Allar Chakaide.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_19th_royal_uolans",
+      "tgt": "org_royal_khanid_navy",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Elite Khanid Navy unit.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_aldrith_shutaq",
+      "tgt": "org_royal_khanid_navy",
+      "rel": "aligned-with",
+      "conf": 0.8,
+      "claim": "Khanid noble lineage operates within the Royal Khanid Navy command structure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_allar_chakaide",
+      "tgt": "org_royal_khanid_navy",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Plenipotentiary; commander of the 19th Royal Uolans within the Royal Khanid Navy.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_battle_caldari_prime_yc115",
+      "tgt": "evt_caldari_invasion_yc112",
+      "rel": "succeeded-by",
+      "conf": 0.99,
+      "claim": "Concluded the YC112 invasion cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_battle_caldari_prime_yc115",
+      "tgt": "plc_caldari_prime",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Theater at Caldari Prime.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_battle_caldari_prime_yc115",
+      "tgt": "per_tibus_heth",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "The capitulation locked in Caldari sovereignty but ended the Heth-led invasion era.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_conquers_syndicate",
+      "tgt": "evt_battle_caldari_prime_yc115",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "YC128 Syndicate conquest is structurally challenging the YC115 settlement.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_elder_war",
+      "tgt": "org_minmatar_republic",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Republic operations followed the Elder Fleet's reappearance.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_elder_war",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Republic invaded the Empire during the Elder War.",
+      "supporting_sources": [
+        "src_news_breaking-news-imperial-navy-emerges-in-kor-azor-region-with-jamyl-sarum-elder-fleets-retreating"
+      ]
+    },
+    {
+      "src": "evt_elder_war",
+      "tgt": "per_jamyl_i",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Empress Jamyl I's crisis cycle traces to the Elder War theater.",
+      "supporting_sources": [
+        "src_news_breaking-news-imperial-navy-emerges-in-kor-azor-region-with-jamyl-sarum-elder-fleets-retreating"
+      ]
+    },
+    {
+      "src": "evt_elder_war",
+      "tgt": "evt_caldari_invasion_yc112",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Both are reclamation wars resetting the four-empire balance \u2014 Caldari side is YC112; Minmatar side is YC110 Elder War.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_seyllin_disaster",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Triggered the Apocrypha-era wormhole opening that exposed the Drifter network.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_seyllin_disaster",
+      "tgt": "org_sleeper_civilization",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "The Seyllin event awakened Sleeper-civilization remnants in Anoikis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_seyllin_disaster",
+      "tgt": "plc_thera",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Sisters of EVE wormhole-colony work in Anoikis (incl. Thera) was exposed by the Seyllin trigger.",
+      "supporting_sources": [
+        "src_news_the-fourth-seyllin-conference"
+      ]
+    },
+    {
+      "src": "phn_carolines_star",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "parallels",
+      "conf": 0.9,
+      "claim": "Caroline's Star is the visible signature of the Drifter network reaching normal space.",
+      "supporting_sources": [
+        "src_news_sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord"
+      ]
+    },
+    {
+      "src": "phn_carolines_star",
+      "tgt": "org_sisters_of_eve",
+      "rel": "referenced-in",
+      "conf": 0.95,
+      "claim": "SoE issued the canonical statement on Caroline's Star, Thera, and CONCORD.",
+      "supporting_sources": [
+        "src_news_sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord"
+      ]
+    },
+    {
+      "src": "phn_true_slaves",
+      "tgt": "per_sansha_kuvakei",
+      "rel": "descends-from",
+      "conf": 0.95,
+      "claim": "Sansha Kuvakei's signature cybernetic-merger technology.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_true_slaves",
+      "tgt": "org_sansha_nation",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Sansha's Nation deploys True Slave drones in incursions.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_true_slaves",
+      "tgt": "phn_vitoxin",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Sansha tech weaponizes merger; Amarr Vitoxin weaponizes dependence \u2014 structurally adjacent forced-control technologies.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_true_slaves",
+      "tgt": "art_subcranial_nano",
+      "rel": "parallels",
+      "conf": 0.65,
+      "claim": "Ishukone's subcranial nano-implant tech is the corporate-Caldari analog of Sansha's merger tech.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_sleeper_civilization",
+      "tgt": "phn_construct",
+      "rel": "descends-from",
+      "conf": 0.92,
+      "claim": "Sleepers are Jove consciousnesses that committed fully to the Construct.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_drifter_hyperspace_network",
+      "tgt": "org_sleeper_civilization",
+      "rel": "descends-from",
+      "conf": 0.85,
+      "claim": "Drifter emergence is canonically tied to whatever happened to Sleepers post-Construct.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_sleeper_civilization",
+      "tgt": "plc_thera",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Sisters of EVE Anoikis research base sits adjacent to Sleeper-civilization sites.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_amarr_empire",
+      "tgt": "org_inner_circle",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Member empire of the CONCORD Inner Circle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_caldari_state",
+      "tgt": "org_inner_circle",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Member empire of the CONCORD Inner Circle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_gallente_federation",
+      "tgt": "org_inner_circle",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Member empire of the CONCORD Inner Circle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_minmatar_republic",
+      "tgt": "org_inner_circle",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Member empire of the CONCORD Inner Circle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_inner_circle",
+      "tgt": "org_concord",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "CONCORD's executive body of empire representatives.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_anar_abdul",
+      "tgt": "per_deathless",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Anti-Deathless Thukker leadership; Archbine defection a counter-pressure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_celestis_aguard",
+      "tgt": "evt_intaki_seizure_uprising",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "As Federation President, Aguard ordered the YC124 invasion of Intaki.",
+      "supporting_sources": [
+        "src_news_breaking-president-celes-aguard-addresses-federation-on-liberation-of-intaki"
+      ]
+    },
+    {
+      "src": "per_alix_moreau",
+      "tgt": "per_celestis_aguard",
+      "rel": "succeeded-by",
+      "conf": 0.95,
+      "claim": "Aguard's term concluded; Moreau elected YC128.",
+      "supporting_sources": [
+        "src_news_alix-moreau-elected-president-of-gallente-federation"
+      ]
+    },
+    {
+      "src": "per_maleatu_shakur",
+      "tgt": "org_brutor_tribe",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Sanmatar Shakur is Brutor by tribe.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_maleatu_shakur",
+      "tgt": "cnc_seven_tribes",
+      "rel": "aligned-with",
+      "conf": 0.9,
+      "claim": "Sanmatar \u2014 head of the seven-tribes Republic.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_aldeya_balasharian",
+      "tgt": "per_catiz_i",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "AIR Labs leadership operates under Catiz-era Exordium charter.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_aldeya_balasharian",
+      "tgt": "evt_capsuleer_training_relocation",
+      "rel": "participated-in",
+      "conf": 0.85,
+      "claim": "AIR Labs ran the capsuleer-training relocation per the Exordium plan.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_dorne_en_diabel",
+      "tgt": "org_intaki_syndicate",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Original unifying Syndicate leader.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_garyn_en_diabel",
+      "tgt": "org_intaki_syndicate",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Inherited Poitot post-Dorne; politically sidelined by Silphy.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_valus_en_diabel",
+      "tgt": "org_intaki_syndicate",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Polymath Valus en Diabel authorized the Zephyr distribution.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_mr_lacante",
+      "tgt": "org_intaki_syndicate",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Antagonists-chronicle Syndicate operative coordinating the Ishukone data trade.",
+      "supporting_sources": [
+        "src_chronicle_ante"
+      ]
+    },
+    {
+      "src": "per_haikoriggo",
+      "tgt": "per_silphy_en_diabel",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Syndicate-era operative; Antagonists-chronicle context.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_alexander_ducasse",
+      "tgt": "org_caldari_state",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Aligned with Saraki's Mountain consolidation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_ukumi_pol",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "Caldari executive figure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_lucas_tenzin",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "Amarr-coded figure in the Lost Adama / Khanid coverage.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_arzad_hamri",
+      "tgt": "org_minmatar_republic",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "Tribal-Council-era Minmatar figure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_anaras_ult",
+      "tgt": "org_minmatar_republic",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "Tribal Council figure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_kantar_yun",
+      "tgt": "evt_kantar_concord_speech",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "Kantar Yun delivered the anti-CONCORD speech on Kahah.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_michael_boore",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "Second Jove Empire / Amarr-bridge figure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_eloa_enaro",
+      "tgt": "org_ida_faith",
+      "rel": "aligned-with",
+      "conf": 0.9,
+      "claim": "Claimed reincarnation of a vanished Adama under Ida-faith doctrine.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_house_sarum",
+      "tgt": "org_house_kador",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Long-standing succession rivalry between Sarum and Kador.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_house_tash_murkon",
+      "tgt": "org_house_sarum",
+      "rel": "opposed-to",
+      "conf": 0.6,
+      "claim": "Catiz I's Tash-Murkon ascendancy at the expense of the Sarum claim cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_khanid_ii",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.9,
+      "claim": "Led the Khanid secession from the Empire.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_damyas_iii",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Pre-modern Amarr Emperor.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_jove_second_empire",
+      "tgt": "phn_jovian_disease",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Disease drove the Second Empire's collapse cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_chronodynamic_tricaroxal",
+      "tgt": "phn_death_glow",
+      "rel": "descends-from",
+      "conf": 0.95,
+      "claim": "Death Glow is derived from chronodynamic-tricaroxal.",
+      "supporting_sources": []
     }
   ],
   "_curation_notes": [

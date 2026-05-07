@@ -16,6 +16,11 @@ Empress Jamyl I murdered by Drifters mid-incursion. Triggered the Amarr champion
 Khanid II — who had previously avoided sheal-sin by defecting to form the Khanid Kingdom — lost the post-Jamyl championship and was finally forced to perform the ritual. Closes the centuries-long Khanid avoidance arc and structurally subordinates the Khanid Kingdom to Catiz's authority.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 
+### Minmatar Elder War *(YC110)*
+
+The YC110 reappearance of the Minmatar Elder Fleet from Anoikis after centuries of exile. Triggered Republic invasions of the Ammatar Mandate and Amarr Empire, the Empress Jamyl I crisis, and the Sansha capital fleet incident in Jove space. The Elder War is the structural mirror of Heth's YC112 Caldari Prime invasion — both are 'reclamation' wars that reset the four-empire balance.
+**Cited in:** [BREAKING NEWS: IMPERIAL NAVY EMERGES IN KOR-AZOR REGION WITH JAMYL SARUM, ELDER FLEETS RETREATING](https://universe.eveonline.com/new-eden-news/breaking-news-imperial-navy-emerges-in-kor-azor-region-with-jamyl-sarum-elder-fleets-retreating)
+
 ### Sarum Prime Superweapon Strike *(YC110)*
 
 Empress Jamyl I deployed her then-secret superweapon to destroy one Elder Fleet strike group at Sarum Prime. The other two strike groups simultaneously rescued Starkmanir and defecting Nefantar from the Mandate. Established Jamyl's superweapon as canon — a precedent that informs the Catalyst-era doomsday site rollout.
@@ -57,6 +62,18 @@ Wielded the Sarum Prime superweapon against the Elder Fleet. Later murdered by D
 
 Defected from Amarr ~200+ years ago to avoid sheal-sin after his first championship loss; founded the Khanid Kingdom. Lost the post-Jamyl championship and was finally forced to perform the ritual. His arc closes the long-running Khanid-as-rebel-kingdom narrative.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Khanid Kingdom](https://universe.eveonline.com/chronicles/the-khanid-kingdom) · [Empress Jamyl I meets with King Khanid II](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-meets-with-king-khanid-ii) · [King Khanid II departs Tash-Murkon Prime, arrives in Amarr](https://universe.eveonline.com/new-eden-news/king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr)
+
+## Organizations
+
+### Amarr Imperial Navy
+
+Amarr Empire military fleet. Operates across all five Royal Houses' territories under the Empress's direct authority. Currently engaged in operations against Drifters in Khanid space and against capsuleer disruption of slave-shipment lanes — and Catiz I's territorial reorganization restructured their command chain.
+**Cited in:** [Amarr Navy Forces in Combat with Drifters in Khanid Kingdom](https://universe.eveonline.com/new-eden-news/amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom)
+
+### Royal Khanid Navy
+
+Khanid Kingdom's autonomous military fleet, separate from the Imperial Navy. Carries the Empire's military burden in the southern frontier — repulsed the Pure Faith Harvest raid YC120, conducted the brutal Kahah pacification under Allar Chakaide, and engages Blood Raider incursions on a sustained basis. The 19th Royal Uolans is one of its elite units.
+**Cited in:** [Royal Khanid Navy releases statement on Blood Raider attacks](https://universe.eveonline.com/new-eden-news/royal-khanid-navy-releases-statement-on-blood-raider-attacks)
 
 ## Factions
 
@@ -110,6 +127,7 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **2×** [King Khanid II departs Tash-Murkon Prime, arrives in Amarr (2009-06-01)](https://universe.eveonline.com/new-eden-news/king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr)
 - **2×** [Empress Jamyl I meets with King Khanid II (2009-06-02)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-meets-with-king-khanid-ii)
 - **2×** [Tash-Murkon Holder to move to Ammatar Mandate (2009-07-28)](https://universe.eveonline.com/new-eden-news/tash-murkon-holder-to-move-to-ammatar-mandate)
+- **2×** [Amarr Navy Forces in Combat with Drifters in Khanid Kingdom (2015-08-25)](https://universe.eveonline.com/new-eden-news/amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom)
 - **2×** [Amarr Empire Celebrates the Reign of Empress Jamyl I with State Funeral (2015-09-20)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-the-reign-of-empress-jamyl-i-with-state-funeral)
 - **2×** [Amarr Empire Looks Forward to First Jubilee of Coronation of Empress Catiz I (2017-09-22)](https://universe.eveonline.com/new-eden-news/amarr-empire-looks-forward-to-first-jubilee-of-coronation-of-empress-catiz-i)
 - **2×** [Amarr Empire Celebrates Catiz I's Second Year as Empress with Military Parade (2018-09-27)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-catiz-is-second-year-as-empress-with-military-parade)
@@ -131,6 +149,7 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **1×** [Arms Factory Saboteur Captured; Ammatar Link Exposed (2008-05-09)](https://universe.eveonline.com/new-eden-news/arms-factory-saboteur-captured-ammatar-link-exposed)
 - **1×** [BREAKING NEWS: LARGE STARKMANIR SLAVE POPULATION DISCOVERED IN AMMATAR CONSULATE (2008-06-04)](https://universe.eveonline.com/new-eden-news/breaking-news-large-starkmanir-slave-population-discovered-in-ammatar-consulate)
 - **1×** [CHAMBERLAIN KARSOTH PLEDGES HELP TO PRESERVE STARKMANIR; AMMATAR CONSULATE CLAIMS NO ADVANCED KNOWLEDGE OF LOST TRIBE (2008-06-04)](https://universe.eveonline.com/new-eden-news/chamberlain-karsoth-pledges-help-to-preserve-starkmanir-ammatar-consulate-claims-no-advanced-knowledge-of-lost-tribe)
+- **1×** [BREAKING NEWS: IMPERIAL NAVY EMERGES IN KOR-AZOR REGION WITH JAMYL SARUM, ELDER FLEETS RETREATING (2008-06-10)](https://universe.eveonline.com/new-eden-news/breaking-news-imperial-navy-emerges-in-kor-azor-region-with-jamyl-sarum-elder-fleets-retreating)
 - **1×** [REPORT: SECOND MINMATAR-THUKKER ARMADA INVADES AMARR EMPIRE (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-second-minmatar-thukker-armada-invades-amarr-empire)
 - **1×** [Ammatar Navy defections reported (2008-06-10)](https://universe.eveonline.com/new-eden-news/ammatar-navy-defections-reported)
 - **1×** [REPORT: Minmatar-Thukker Armada Invades Ammatar Mandate (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-minmatar-thukker-armada-invades-ammatar-mandate)
@@ -156,6 +175,7 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **1×** [Political Vacuum in Ammatar Mandate Continues; Populace in Turmoil (2008-11-27)](https://universe.eveonline.com/new-eden-news/political-vacuum-in-ammatar-mandate-continues-populace-in-turmoil)
 - **1×** [Empress Jamyl places Ammatar Mandate under Ardishapur vassalage (2008-11-28)](https://universe.eveonline.com/new-eden-news/empress-jamyl-places-ammatar-mandate-under-ardishapur-vassalage)
 - **1×** [Ardishapur begins initial moves to take control of Ammatar Mandate (2008-12-09)](https://universe.eveonline.com/new-eden-news/ardishapur-begins-initial-moves-to-take-control-of-ammatar-mandate)
+- **1×** [Royal Khanid Navy releases statement on Blood Raider attacks (2008-12-21)](https://universe.eveonline.com/new-eden-news/royal-khanid-navy-releases-statement-on-blood-raider-attacks)
 - **1×** [Amarr Empire announces capture of former Chamberlain (2008-12-23)](https://universe.eveonline.com/new-eden-news/amarr-empire-announces-capture-of-former-chamberlain)
 - **1×** [Tash-Murkon Delegation Visits Imperial Palace (2008-12-24)](https://universe.eveonline.com/new-eden-news/tash-murkon-delegation-visits-imperial-palace)
 - **1×** [EMPRESS JAMYL I MAKES HISTORIC EMANCIPATION ANNOUNCEMENT (2008-12-25)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-makes-historic-emancipation-announcement)
@@ -186,7 +206,6 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **1×** [Court Chamberlain Confirms Death Of Empress Jamyl I (2015-08-21)](https://universe.eveonline.com/new-eden-news/court-chamberlain-confirms-death-of-empress-jamyl-i)
 - **1×** [CONCORD and New Eden Powers React to Death of Empress Jamyl I (2015-08-22)](https://universe.eveonline.com/new-eden-news/concord-and-new-eden-powers-react-to-death-of-empress-jamyl-i)
 - **1×** [Amarr Empire Declares War On Drifters! (2015-08-25)](https://universe.eveonline.com/new-eden-news/amarr-empire-declares-war-on-drifters)
-- **1×** [Amarr Navy Forces in Combat with Drifters in Khanid Kingdom (2015-08-25)](https://universe.eveonline.com/new-eden-news/amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom)
 - **1×** [State Funeral of Empress Jamyl I Announced by Court Chamberlain (2015-09-16)](https://universe.eveonline.com/new-eden-news/state-funeral-of-empress-jamyl-i-announced-by-court-chamberlain)
 - **1×** [House Tash-Murkon Dominates In Imperial Succession Trials – Finals Set Against House Kor-Azor (2015-11-15)](https://universe.eveonline.com/new-eden-news/house-tash-murkon-dominates-in-imperial-succession-trials-finals-set-against-house-kor-azor)
 - **1×** [Drifter Incursion into the Khanid Kingdom (2016-02-16)](https://universe.eveonline.com/new-eden-news/drifter-incursion-into-the-khanid-kingdom)

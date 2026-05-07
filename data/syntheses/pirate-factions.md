@@ -86,6 +86,10 @@ Rare ore reprocessed into both cerebral accelerators (legitimate) and Death Glow
 Hallucinogenic illegal booster derived from chronodynamic-tricaroxal. Weaponized in the YC120 Kahah attacks. Linked to Blood Raider supply chains — and to the Death Glow Hunters who appear as Crimson Harvest enemies year after year.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Blood Raiders](https://universe.eveonline.com/chronicles/the-blood-raiders)
 
+### True Slaves
+
+Sansha cybernetic forced-merger drones produced from captured slaves via the True Power Project. The pharmacological-and-implant complement to Vitoxin — Sansha's tech weaponizes merger; Amarr's tech weaponizes dependence; Mordu/Ishukone's clone-soldier tech sits structurally between them. Sansha Kuvakei's signature technology and the canonical prototype for every later 'forced post-human' framing including the Deathless arc.
+
 ---
 
 ## Sources cited

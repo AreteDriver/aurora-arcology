@@ -44,6 +44,11 @@ Amarr Empress. Took the throne after Jamyl's drifter-assassination. Cast blame o
 
 Ishukone-built research project. Major CONCORD funding shifted to AIR around the same time — a Mountain/Ocean win against Forest. A former Sister of Eve sits on its leadership; ties to SoE wormhole research are structural, not coincidental.
 
+### Amarr Imperial Navy
+
+Amarr Empire military fleet. Operates across all five Royal Houses' territories under the Empress's direct authority. Currently engaged in operations against Drifters in Khanid space and against capsuleer disruption of slave-shipment lanes — and Catiz I's territorial reorganization restructured their command chain.
+**Cited in:** [Amarr Navy Forces in Combat with Drifters in Khanid Kingdom](https://universe.eveonline.com/new-eden-news/amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom)
+
 ### CONCORD
 
 Inter-empire peacekeeping authority. Warpath Protocol failed YC128.04.30 — first targeted system breach since Yulai YC110. Funding shifted toward AIR Labs (Ishukone-built) and away from EDENCOM (Upwell-built) reflects the same Mountain/Ocean realignment.
@@ -255,6 +260,7 @@ The constitutional document of CONCORD-era New Eden. Every multi-empire structur
 - **1×** [Sisters of EVE Release Statement on Caroline's Star, Thera Incident and CONCORD (2015-02-20)](https://universe.eveonline.com/new-eden-news/sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord)
 - **1×** [CONCORD and New Eden Powers React to Death of Empress Jamyl I (2015-08-22)](https://universe.eveonline.com/new-eden-news/concord-and-new-eden-powers-react-to-death-of-empress-jamyl-i)
 - **1×** [Amarr Empire Declares War On Drifters! (2015-08-25)](https://universe.eveonline.com/new-eden-news/amarr-empire-declares-war-on-drifters)
+- **1×** [Amarr Navy Forces in Combat with Drifters in Khanid Kingdom (2015-08-25)](https://universe.eveonline.com/new-eden-news/amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom)
 - **1×** [Amarr Empire Celebrates the Reign of Empress Jamyl I with State Funeral (2015-09-20)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-the-reign-of-empress-jamyl-i-with-state-funeral)
 - **1×** [Amarr Succession Committee Announces September Date for Coronation of Empress Catiz I (2016-05-04)](https://universe.eveonline.com/new-eden-news/amarr-succession-committee-announces-september-date-for-coronation-of-empress-catiz-i)
 - **1×** [CONCORD Confirms Issue Of Independent Broadcasting License to Scope Network (2016-06-10)](https://universe.eveonline.com/new-eden-news/concord-confirms-issue-of-independent-broadcasting-license-to-scope-network)

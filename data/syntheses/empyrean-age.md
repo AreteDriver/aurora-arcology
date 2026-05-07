@@ -21,6 +21,10 @@ The killing of Otro Gariushi at the YC110 Caldari–Federation summit, when Alex
 The YC112 Caldari State invasion of Caldari Prime — the retaking of the homeworld lost during the Caldari Rebellion. Tibus Heth justified the operation as restitution for the Malkalen Disaster (YC110). Mordu's Legion participated under contract, then later announced departure. The invasion locked in Heth's Provist regime and established the modern Caldari claim on Caldari Prime that the YC128 conflict is once again contesting.
 **Cited in:** [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one) · [Clashes on Caldari Prime quelled by Mordu's Legion](https://universe.eveonline.com/new-eden-news/clashes-on-caldari-prime-quelled-by-mordus-legion) · [Mordu's Legion announces full control of Caldari Prime](https://universe.eveonline.com/new-eden-news/mordus-legion-announces-full-control-of-caldari-prime)
 
+### Capitulation at Caldari Prime *(YC115)*
+
+The YC115 capitulation theater that ended the Caldari–Federation conflict at Caldari Prime, concluding the Heth-era invasion cycle that began with the YC112 retake. The terms preserved Caldari sovereignty over Caldari Prime — the settlement the YC128 Syndicate conquest is structurally challenging.
+
 ## Persons
 
 ### Mens Reppola
@@ -44,6 +48,11 @@ Capsuleer pilot of the Nyx mothership that struck Ishukone Headquarters at Malka
 **Cited in:** [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one)
 
 ## Organizations
+
+### Caldari Navy
+
+Caldari State unified military fleet. Backbone of every State military operation since the Empyrean Age — the YC112 Caldari Prime invasion, the YC115 capitulation theater, the Triglavian Invasion response, and the current YC128 Syndicate conquest. Operationally controlled by the Caldari Executive Panel through the Provost / now Saraki authority chain.
+**Cited in:** [BREAKING - Caldari Navy Seizes Control of Athounon Strategic Sites](https://universe.eveonline.com/new-eden-news/breaking-caldari-navy-seizes-control-of-athounon-strategic-sites)
 
 ### Ishukone Corporation
 
@@ -286,6 +295,7 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [Galactic Hour News Roundup: Caldari State Protests Amidst Workers Union Day Celebrations (2020-09-07)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-caldari-state-protests-amidst-workers-union-day-celebrations)
 - **1×** [BREAKING: Explosion Reported at CEP Spire in Landfall City on New Caldari Prime (2021-05-03)](https://universe.eveonline.com/new-eden-news/breaking-explosion-reported-at-cep-spire-in-landfall-city-on-new-caldari-prime)
 - **1×** [Caldari State Completes Gate Construction in Athounon as Rival Empires Race to Claim Technology (2022-10-12)](https://universe.eveonline.com/new-eden-news/caldari-state-completes-gate-construction-in-athounon-as-rival-empires-race)
+- **1×** [BREAKING - Caldari Navy Seizes Control of Athounon Strategic Sites (2022-11-09)](https://universe.eveonline.com/new-eden-news/breaking-caldari-navy-seizes-control-of-athounon-strategic-sites)
 - **1×** [BREAKING - Caldari State Takes Control of Syndicate Constellation (2022-11-22)](https://universe.eveonline.com/new-eden-news/breaking-caldari-state-takes-control-of-syndicate-constellation)
 - **1×** [Caldari State and Amarr Empire Establish Military HQs in Aftermath of Relay and Transmuter Research (2023-01-30)](https://universe.eveonline.com/new-eden-news/caldari-state-and-amarr-empire-establish-military-hqs-in-aftermath-of-relay)
 - **1×** [Caldari State Uncovers Evidence of Amarr Spying as Diplomatic Crisis Deepens (2023-02-24)](https://universe.eveonline.com/new-eden-news/caldari-state-uncovers-evidence-of-amarr-spying-as-diplomatic-crisis-deepens)
