@@ -102,6 +102,11 @@ The technical primitive that made Exordium feasible in human-scale time. Signals
 
 ## Concepts
 
+### Capsuleers
+
+The immortal pilot caste — humans who undergo subcranial-implant-and-cloning tech to gain effective immortality and operate the four empires' most advanced spacecraft. Recognized as a sovereign-equivalent political force across the four empires. Key actor in Faction Warfare, Drifter conflict, and the YC128 cycle (capsuleer pilots elected Soraya Roden / Alix Moreau influence cycle). The Templar program is the Caldari attempt to replicate capsuleer-tier capability without the Federation's clone-tech monopoly.
+**Cited in:** [Capsuleers Influence Election and Presidential Profile: Soraya Roden](https://universe.eveonline.com/new-eden-news/capsuleers-influence-election-and-presidential-profile-soraya-roden)
+
 ### Emergency Militia War Powers Act
 
 Emergency Militia War Powers Act. CONCORD act that established Faction Warfare. Cited by Kantar Yun in the YC120 Kahah crisis as having been violated repeatedly in highsec without consequence — the precedent CONCORD's Warpath failure now repeats at scale.
@@ -334,6 +339,7 @@ The constitutional document of CONCORD-era New Eden. Every multi-empire structur
 - **1×** [Upwell Victorious in Federation While Restrictions Apply in Caldari State (2024-06-12)](https://universe.eveonline.com/new-eden-news/upwell-victorious-in-federation-while-restrictions-apply-in-caldari-state)
 - **1×** [Controversial EDENCOM Policy Endorsed during "Drifter Summit" (2025-05-08)](https://universe.eveonline.com/new-eden-news/controversial-edencom-policy-endorsed-during-drifter-summit)
 - **1×** [Lore Tourism - The Redemption of the Ammatar (2026-02)](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+- **1×** [Capsuleers Influence Election and Presidential Profile: Soraya Roden (2026-03-19)](https://universe.eveonline.com/new-eden-news/capsuleers-influence-election-and-presidential-profile-soraya-roden)
 - **1×** [CONCORD and AIR Announce New Space Region (2026-04-13)](https://universe.eveonline.com/new-eden-news/concord-and-air-announce-new-space-region)
 - **1×** [Alix Moreau Elected President of Gallente Federation (2026-04-17)](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation)
 - **1×** [Alix Moreau Elected President of Gallente Federation (2026-04-17)](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation)

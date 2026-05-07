@@ -61,6 +61,10 @@ Empress Jamyl I deployed her then-secret superweapon to destroy one Elder Fleet 
 YC110 Sisters of Eve announcement that Starkmanir survivors were alive on Hzeron in the Ammatar Mandate. Forced the hand of the Nefantar conspirators and triggered the Elder Fleet rescue. The reveal is what bridged the Old Wars to the Imperian Age and made the Ammatar-as-secret-protectors framing canonical.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 
+### Apocrypha-era Wormhole Opening *(YC111)*
+
+The YC111 system-wide wormhole opening triggered by the Seyllin Disaster. Exposed Anoikis (wormhole space) to capsuleer access for the first time, awoke Sleeper-civilization remnants, and started the chain of Drifter exposure that culminates in the YC125 Drifter Crisis. The Zephyr distribution YC111 was structurally a Syndicate response to the opening.
+
 ### Seyllin Disaster *(YC111)*
 
 YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the planet. The Sisters of EVE 'Wormhole Colony Lost' announcement followed. The Seyllin event triggered the Apocrypha-era wormhole opening, the discovery of Anoikis, the Sleeper civilization remnants, and ultimately the Drifter emergence cycle. Every wormhole-tech thread in the warpath board traces back to Seyllin.
@@ -134,6 +138,11 @@ Defected from Amarr ~200+ years ago to avoid sheal-sin after his first champions
 
 ## Organizations
 
+### 24th Imperial Crusade
+
+Amarr Faction Warfare militia. The Empire's volunteer / capsuleer-pilot frontline against the Minmatar Republic in the Bleak Lands / Devoid / Heimatar war zone. Penal brigades drawn from the Ammatar Mandate were sent to support the Crusade — one of the canonical signals of Ammatar's Amarr-loyalist alignment.
+**Cited in:** [Penal Brigade Drawn from Ammatar Mandate Sent to Support 24th Imperial Crusade](https://universe.eveonline.com/new-eden-news/penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade)
+
 ### Elder Fleet
 
 Three-strike-group Mimitar dreadnought-heavy navy built in secret with Thukker money and Mimitar Elder direction. One strike group destroyed at Sarum Prime; two rescued Starkmanir + Nefantar from the Mandate. The original instance of empire-scale covert military buildup.
@@ -143,6 +152,11 @@ Three-strike-group Mimitar dreadnought-heavy navy built in secret with Thukker m
 
 Mythological progenitor council of the seven tribes. Believed lost; secretly active. Funded the Elder Fleet through Thukker channels. The organizational shape of the Mimitar deep state.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Tribal Liberation Force
+
+Minmatar Republic Faction Warfare militia. The Republic's volunteer / capsuleer-pilot frontline against the Empire. The 'Stripes of Fury' campaign cycle is its highest-honor designation. Operates under the Tribal Council's authority.
+**Cited in:** [Total Victory of Tribal Liberation Force Marked by Award of Stripes of Fury Medal](https://universe.eveonline.com/new-eden-news/total-victory-of-tribal-liberation-force-marked-by-award-of-stripes-of-fury-medal)
 
 ## Factions
 
@@ -240,6 +254,7 @@ Amarr religious scepter. A Mimitar slave seizing one became the iconic moment of
 - **2×** [REPORT: Minmatar-Thukker Armada Invades Ammatar Mandate (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-minmatar-thukker-armada-invades-ammatar-mandate)
 - **2×** [REPORT: THIRD MINMATAR-THUKKER FLEET DETECTED IN DOMAIN REGION; FIERCE FIGHTING REPORTED OVER SARUM PRIME (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-third-minmatar-thukker-fleet-detected-in-domain-region-fierce-fighting-reported-over-sarum-prime)
 - **2×** [Empress Jamyl I meets with King Khanid II (2009-06-02)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-meets-with-king-khanid-ii)
+- **2×** [Penal Brigade Drawn from Ammatar Mandate Sent to Support 24th Imperial Crusade (2009-10-23)](https://universe.eveonline.com/new-eden-news/penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade)
 - **2×** [Lost Stars (2010-06-28)](https://universe.eveonline.com/chronicles/lost-stars)
 - **2×** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05 (2026-05-05)](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
 - **1×** [The Day of Darkness (2000-06-19)](https://universe.eveonline.com/chronicles/the-day-of-darkness)
@@ -320,7 +335,6 @@ Amarr religious scepter. A Mimitar slave seizing one became the iconic moment of
 - **1×** [Yonis Ardishapur Appoints Ammatar Civil Servant as Mandate Governor (2009-10-14)](https://universe.eveonline.com/new-eden-news/yonis-ardishapur-appoints-ammatar-civil-servant-as-mandate-governor)
 - **1×** [New Ammatar Fleet Security Taskforce Begins Patrol of Republic Border (2009-10-18)](https://universe.eveonline.com/new-eden-news/new-ammatar-fleet-security-taskforce-begins-patrol-of-republic-border)
 - **1×** [Many Starkmanir Refugees Finding New Life Difficult (2009-10-20)](https://universe.eveonline.com/new-eden-news/many-starkmanir-refugees-finding-new-life-difficult)
-- **1×** [Penal Brigade Drawn from Ammatar Mandate Sent to Support 24th Imperial Crusade (2009-10-23)](https://universe.eveonline.com/new-eden-news/penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade)
 - **1×** [New Governor Takes Up Duties in Ammatar Mandate (2009-11-04)](https://universe.eveonline.com/new-eden-news/new-governor-takes-up-duties-in-ammatar-mandate)
 - **1×** [Orthodox Amarr Faith Increasingly Supplanting Ammatar Church (2009-11-10)](https://universe.eveonline.com/new-eden-news/orthodox-amarr-faith-increasingly-supplanting-ammatar-church)
 - **1×** [Trade on Ammatar-Minmatar Border Halts as Authorities Impose Order (2010-03-25)](https://universe.eveonline.com/new-eden-news/trade-on-ammatar-minmatar-border-halts-as-authorities-impose-order)
@@ -354,6 +368,7 @@ Amarr religious scepter. A Mimitar slave seizing one became the iconic moment of
 - **1×** [Amarr Empire Celebrates the Reign of Empress Jamyl I with State Funeral (2015-09-20)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-the-reign-of-empress-jamyl-i-with-state-funeral)
 - **1×** [Drifter Incursion into the Khanid Kingdom (2016-02-16)](https://universe.eveonline.com/new-eden-news/drifter-incursion-into-the-khanid-kingdom)
 - **1×** [Amarr Succession Committee Announces September Date for Coronation of Empress Catiz I (2016-05-04)](https://universe.eveonline.com/new-eden-news/amarr-succession-committee-announces-september-date-for-coronation-of-empress-catiz-i)
+- **1×** [Total Victory of Tribal Liberation Force Marked by Award of Stripes of Fury Medal (2016-06-22)](https://universe.eveonline.com/new-eden-news/total-victory-of-tribal-liberation-force-marked-by-award-of-stripes-of-fury-medal)
 - **1×** [Coronation of Empress Catiz I to take place tomorrow in Dam-Torsad (2016-09-26)](https://universe.eveonline.com/new-eden-news/coronation-of-empress-catiz-i-to-take-place-tomorrow-in-dam-torsad)
 - **1×** [Catiz I Addresses Capsuleers And Imperial Guard after Historic Day In Dam-Torsad (2016-09-27)](https://universe.eveonline.com/new-eden-news/catiz-i-addresses-capsuleers-and-imperial-guard-after-historic-day-in-dam-torsad)
 - **1×** [SOE Splinter Group Warns of Shift in Drifter Activity; Thukker Tribe Confirms Anomalous Behavior (2016-11-10)](https://universe.eveonline.com/new-eden-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior)

@@ -65,6 +65,11 @@ Defected from Amarr ~200+ years ago to avoid sheal-sin after his first champions
 
 ## Organizations
 
+### 24th Imperial Crusade
+
+Amarr Faction Warfare militia. The Empire's volunteer / capsuleer-pilot frontline against the Minmatar Republic in the Bleak Lands / Devoid / Heimatar war zone. Penal brigades drawn from the Ammatar Mandate were sent to support the Crusade — one of the canonical signals of Ammatar's Amarr-loyalist alignment.
+**Cited in:** [Penal Brigade Drawn from Ammatar Mandate Sent to Support 24th Imperial Crusade](https://universe.eveonline.com/new-eden-news/penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade)
+
 ### Amarr Imperial Navy
 
 Amarr Empire military fleet. Operates across all five Royal Houses' territories under the Empress's direct authority. Currently engaged in operations against Drifters in Khanid space and against capsuleer disruption of slave-shipment lanes — and Catiz I's territorial reorganization restructured their command chain.
@@ -127,6 +132,7 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **2×** [King Khanid II departs Tash-Murkon Prime, arrives in Amarr (2009-06-01)](https://universe.eveonline.com/new-eden-news/king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr)
 - **2×** [Empress Jamyl I meets with King Khanid II (2009-06-02)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-meets-with-king-khanid-ii)
 - **2×** [Tash-Murkon Holder to move to Ammatar Mandate (2009-07-28)](https://universe.eveonline.com/new-eden-news/tash-murkon-holder-to-move-to-ammatar-mandate)
+- **2×** [Penal Brigade Drawn from Ammatar Mandate Sent to Support 24th Imperial Crusade (2009-10-23)](https://universe.eveonline.com/new-eden-news/penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade)
 - **2×** [Amarr Navy Forces in Combat with Drifters in Khanid Kingdom (2015-08-25)](https://universe.eveonline.com/new-eden-news/amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom)
 - **2×** [Amarr Empire Celebrates the Reign of Empress Jamyl I with State Funeral (2015-09-20)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-the-reign-of-empress-jamyl-i-with-state-funeral)
 - **2×** [Amarr Empire Looks Forward to First Jubilee of Coronation of Empress Catiz I (2017-09-22)](https://universe.eveonline.com/new-eden-news/amarr-empire-looks-forward-to-first-jubilee-of-coronation-of-empress-catiz-i)
@@ -191,7 +197,6 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **1×** [Ammatar Fleet Launches First 'Yonis Variant' Abaddon from Sasta Shipyards (2009-10-04)](https://universe.eveonline.com/new-eden-news/ammatar-fleet-launches-first-yonis-variant-abaddon-from-sasta-shipyards)
 - **1×** [Yonis Ardishapur Appoints Ammatar Civil Servant as Mandate Governor (2009-10-14)](https://universe.eveonline.com/new-eden-news/yonis-ardishapur-appoints-ammatar-civil-servant-as-mandate-governor)
 - **1×** [New Ammatar Fleet Security Taskforce Begins Patrol of Republic Border (2009-10-18)](https://universe.eveonline.com/new-eden-news/new-ammatar-fleet-security-taskforce-begins-patrol-of-republic-border)
-- **1×** [Penal Brigade Drawn from Ammatar Mandate Sent to Support 24th Imperial Crusade (2009-10-23)](https://universe.eveonline.com/new-eden-news/penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade)
 - **1×** [New Governor Takes Up Duties in Ammatar Mandate (2009-11-04)](https://universe.eveonline.com/new-eden-news/new-governor-takes-up-duties-in-ammatar-mandate)
 - **1×** [Orthodox Amarr Faith Increasingly Supplanting Ammatar Church (2009-11-10)](https://universe.eveonline.com/new-eden-news/orthodox-amarr-faith-increasingly-supplanting-ammatar-church)
 - **1×** [Amarr Empire Formally Congratulates Roden, Rebukes Outgoing President (2009-12-04)](https://universe.eveonline.com/new-eden-news/amarr-empire-formally-congratulates-roden-rebukes-outgoing-president)

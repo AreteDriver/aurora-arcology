@@ -67,6 +67,10 @@ Most distant Minmatar tribe. Operates in Great Wildlands. Wormhole-interested. S
 
 ## Places
 
+### EVE Gate
+
+The collapsed wormhole connecting New Eden to humanity's home cluster. Located in New Eden system. The original passage through which the four-empire ancestors arrived; collapsed catastrophically in pre-history (the eve_gate_collapse event), stranding the colonists. Sisters of EVE research focus; structurally adjacent to the Drifter network and Caroline's Star phenomena. Zarzakh sits in EVE-Gate-adjacent space.
+
 ### Pochven
 
 Triglavian-controlled region formed from the 27 Invasion-arc conquered systems. Bordered space between Triglavian abyssal territory and standard New Eden. Recent Deathless / Archbine activity has used Pochven as a staging zone, and the Zarzakh-to-Pochven corridor is one of the few non-empire transit routes the Deathless Network exploits.

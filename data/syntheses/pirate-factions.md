@@ -18,6 +18,11 @@
 Mordu's Legion's founder. Independent mercenary commander operating outside the four-empire structure. Antagonists-chronicle subtext: the 'mercenaries' Silphy negotiates around when offering her Zephyr-telemetry data to Ishukone — Mens won't take the deal directly while Mordu's people are in the way. Mordu's Legion's separate relationship to Ishukone via the Templar One clone-soldier program ties him structurally to the Mens-Reppola axis.
 **Cited in:** [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Mordu’s Legion](https://universe.eveonline.com/chronicles/mordus-legion) · [Muryia Mordu arrives safely at his headquarters; region in uproar](https://universe.eveonline.com/new-eden-news/muryia-mordu-arrives-safely-at-his-headquarters-region-in-uproar) · [Muryia Mordu issues Operation Highlander Decoration](https://universe.eveonline.com/new-eden-news/muryia-mordu-issues-operation-highlander-decoration)
 
+### Omir Sarikusa
+
+Founder and current leader of the Guristas. Former Caldari Navy admiral who defected with his entire fleet, taking the original Guristas pirate organization with him. Operates from Venal region. The Guristas–Mordu's Legion–Angel Cartel cross-coverage in the Caldari conflict cycle indicates an active pirate-faction alignment that capsuleer coverage rarely surfaces.
+**Cited in:** [Omir Sarikusa amused at CONCORD’s claims](https://universe.eveonline.com/new-eden-news/omir-sarikusa-amused-at-concords-claims)
+
 ### Salvador Sarpati
 
 Head of Serpentis Corporation. Sentona's brother. Silphy's collaborator during her black-market consolidation. The Sarpati siblings are the structural bridge between Sisters of Eve, Serpentis, and the Syndicate — the soft underbelly of the Federation's drug economy.
@@ -112,6 +117,7 @@ Sansha cybernetic forced-merger drones produced from captured slaves via the Tru
 - **1×** [Scavenger Hunt Hijacked By Angel Cartel (2004-11-12)](https://universe.eveonline.com/new-eden-news/scavenger-hunt-hijacked-by-angel-cartel)
 - **1×** [“Insorum Imbroglio” Puts Focus on Capsuleers as Eyes Turn Toward Blood Raider Covenant (2005-06-01)](https://universe.eveonline.com/new-eden-news/insorum-imbroglio-puts-focus-on-capsuleers-as-eyes-turn-toward-blood-raider-covenant)
 - **1×** [Mordu's Legion hunts and kills Serpentis battleship (2005-07-12)](https://universe.eveonline.com/new-eden-news/mordus-legion-hunts-and-kills-serpentis-battleship)
+- **1×** [Omir Sarikusa amused at CONCORD’s claims (2005-07-19)](https://universe.eveonline.com/new-eden-news/omir-sarikusa-amused-at-concords-claims)
 - **1×** [Mordu's Legion Clashes In Syndicate (2005-11-17)](https://universe.eveonline.com/new-eden-news/mordus-legion-clashes-in-syndicate)
 - **1×** [Angel Cartel opens ties with capsuleer alliances (2006-06-08)](https://universe.eveonline.com/new-eden-news/angel-cartel-opens-ties-with-capsuleer-alliances)
 - **1×** [Sansha's Nation showing signs of revival (2006-07-26)](https://universe.eveonline.com/new-eden-news/sanshas-nation-showing-signs-of-revival)

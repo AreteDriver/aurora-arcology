@@ -103,6 +103,11 @@ The lost homeworld at the heart of the Caldari-Gallente schism. Cyclically conte
 
 ## Phenomenons
 
+### Clone Soldier / Templar Technology
+
+Subcranial-implant-and-cloning tech adapted from capsuleer hardware for ground-troop use. Co-developed by Ishukone and Mordu's Legion under Otro Gariushi's mandate; survived his assassination because Mens Reppola inherited the program. The Templar protagonist of Tony Gonzales's Templar One is the canonical instance. The State's strategic answer to the Federation–CONCORD capsuleer-tech monopoly. Empress Jamyl I's offer to welcome clone soldiers into the Empire was a direct play for Templar-tech access.
+**Cited in:** [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one) · [Empress Jamyl I announces Empire intent to welcome clone soldiers with open arms](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-announces-empire-intent-to-welcome-clone-soldiers-with-open-arms)
+
 ### Insorum
 
 Synthetic Vitoxin antidote co-developed by Ishukone and Galente parties. Threatened the structural basis of Amarr slavery; the broker plot targeted Insorum production and produced Otro Gariushi's death. Insorum's survival is why Mens Reppola operates under heavy drone protection.
@@ -117,7 +122,7 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 
 ## Sources cited
 
-- **8×** [EVE: Templar One (Tony Gonzales) (2012)](https://www.eveonline.com/news/view/templar-one)
+- **9×** [EVE: Templar One (Tony Gonzales) (2012)](https://www.eveonline.com/news/view/templar-one)
 - **3×** [EVE: The Empyrean Age (Tony Gonzales) (2008)](https://www.eveonline.com/news/view/the-empyrean-age)
 - **3×** [ISHUKONE STATEMENT: OTRO GARIUSHI CONFIRMED DEAD (2008-05-16)](https://universe.eveonline.com/new-eden-news/ishukone-statement-otro-gariushi-confirmed-dead)
 - **3×** [Tibus Heth angrily denounces Caldari Prime DMZ, blasts Ishukone and SuVee participation (2013-04-04)](https://universe.eveonline.com/new-eden-news/tibus-heth-angrily-denounces-caldari-prime-dmz-blasts-ishukone-and-suvee-participation)
@@ -236,6 +241,7 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [Mentas Blaque condemns Caldari State for “brutal oppression” (2013-03-01)](https://universe.eveonline.com/new-eden-news/mentas-blaque-condemns-caldari-state-for-brutal-oppression)
 - **1×** [Tibus Heth names unrest in the Federation as security threat to State (2013-03-13)](https://universe.eveonline.com/new-eden-news/tibus-heth-names-unrest-in-the-federation-as-security-threat-to-state)
 - **1×** [BREAKING NEWS: Ground Fighting Erupts on Caldari Prime (2013-03-15)](https://universe.eveonline.com/new-eden-news/breaking-news-ground-fighting-erupts-on-caldari-prime)
+- **1×** [Empress Jamyl I announces Empire intent to welcome clone soldiers with open arms (2013-03-17)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-announces-empire-intent-to-welcome-clone-soldiers-with-open-arms)
 - **1×** [Civil unrest intensifies on Caldari Prime (2013-03-18)](https://universe.eveonline.com/new-eden-news/civil-unrest-intensifies-on-caldari-prime)
 - **1×** [Unrest on Caldari Prime results in bombing of Provist headquarters (2013-03-18)](https://universe.eveonline.com/new-eden-news/unrest-on-caldari-prime-results-in-bombing-of-provist-headquarters)
 - **1×** [Admiral Yanala gives first weekly address from orbit of Caldari Prime (2013-03-19)](https://universe.eveonline.com/new-eden-news/admiral-yanala-gives-first-weekly-address-from-orbit-of-caldari-prime)

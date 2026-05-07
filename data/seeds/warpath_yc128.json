@@ -3559,6 +3559,101 @@
       "sources": [
         "src_news_scc-set-to-increase-prices-on-sleeper-components"
       ]
+    },
+    {
+      "id": "org_state_protectorate",
+      "type": "Organization",
+      "name": "State Protectorate",
+      "brief": "Caldari Faction Warfare militia. Operates the State's frontline against Federation forces in the FW war zone.",
+      "master_summary": "Caldari Faction Warfare militia under Caldari Navy authority. The State's volunteer / capsuleer-pilot frontline against the Federation in the Black Rise / Placid / Verge Vendor war zone. The YC124 Federation seizure of Intaki + adjacent constellations that triggered the Uprising arc was an FW-zone consolidation against the Protectorate.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_state-protectorate-to-recognize-top-militia-pilots"
+      ]
+    },
+    {
+      "id": "org_federal_defense_union",
+      "type": "Organization",
+      "name": "Federal Defense Union",
+      "brief": "Gallente Faction Warfare militia. Federation's frontline in the FW war zone.",
+      "master_summary": "Gallente Federation Faction Warfare militia. The Federation's volunteer / capsuleer-pilot frontline against the State in the FW war zone. Operationally the FDU executed the YC124 Intaki seizure that the Republic and SoE later condemned. Operates under Federation Navy authority.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "org_24th_imperial_crusade",
+      "type": "Organization",
+      "name": "24th Imperial Crusade",
+      "brief": "Amarr Faction Warfare militia. The Empire's frontline against the Republic in the Amarr\u2013Minmatar war zone.",
+      "master_summary": "Amarr Faction Warfare militia. The Empire's volunteer / capsuleer-pilot frontline against the Minmatar Republic in the Bleak Lands / Devoid / Heimatar war zone. Penal brigades drawn from the Ammatar Mandate were sent to support the Crusade \u2014 one of the canonical signals of Ammatar's Amarr-loyalist alignment.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade"
+      ]
+    },
+    {
+      "id": "org_tribal_liberation_force",
+      "type": "Organization",
+      "name": "Tribal Liberation Force",
+      "brief": "Minmatar Faction Warfare militia. The Republic's frontline against the Amarr in the FW war zone.",
+      "master_summary": "Minmatar Republic Faction Warfare militia. The Republic's volunteer / capsuleer-pilot frontline against the Empire. The 'Stripes of Fury' campaign cycle is its highest-honor designation. Operates under the Tribal Council's authority.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_total-victory-of-tribal-liberation-force-marked-by-award-of-stripes-of-fury-medal"
+      ]
+    },
+    {
+      "id": "per_omir_sarikusa",
+      "type": "Person",
+      "name": "Omir Sarikusa",
+      "brief": "Founder and current leader of the Guristas. Former Caldari Navy admiral who defected with his entire fleet.",
+      "master_summary": "Founder and current leader of the Guristas. Former Caldari Navy admiral who defected with his entire fleet, taking the original Guristas pirate organization with him. Operates from Venal region. The Guristas\u2013Mordu's Legion\u2013Angel Cartel cross-coverage in the Caldari conflict cycle indicates an active pirate-faction alignment that capsuleer coverage rarely surfaces.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_omir-sarikusa-amused-at-concords-claims"
+      ]
+    },
+    {
+      "id": "cnc_capsuleers",
+      "type": "Concept",
+      "name": "Capsuleers",
+      "brief": "The immortal pilot caste. Subcranial-implant-and-cloning tech grants effective immortality. A canonical political force across all four empires.",
+      "master_summary": "The immortal pilot caste \u2014 humans who undergo subcranial-implant-and-cloning tech to gain effective immortality and operate the four empires' most advanced spacecraft. Recognized as a sovereign-equivalent political force across the four empires. Key actor in Faction Warfare, Drifter conflict, and the YC128 cycle (capsuleer pilots elected Soraya Roden / Alix Moreau influence cycle). The Templar program is the Caldari attempt to replicate capsuleer-tier capability without the Federation's clone-tech monopoly.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_capsuleers-influence-election-and-presidential-profile-soraya-roden"
+      ]
+    },
+    {
+      "id": "evt_apocrypha_wormhole_opening",
+      "type": "Event",
+      "name": "Apocrypha-era Wormhole Opening",
+      "date": "YC111",
+      "brief": "YC111 system-wide wormhole opening triggered by Seyllin. Exposed Anoikis to capsuleer access and awoke Sleeper-civilization remnants.",
+      "master_summary": "The YC111 system-wide wormhole opening triggered by the Seyllin Disaster. Exposed Anoikis (wormhole space) to capsuleer access for the first time, awoke Sleeper-civilization remnants, and started the chain of Drifter exposure that culminates in the YC125 Drifter Crisis. The Zephyr distribution YC111 was structurally a Syndicate response to the opening.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "phn_clone_soldier_tech",
+      "type": "Phenomenon",
+      "name": "Clone Soldier / Templar Technology",
+      "brief": "Subcranial-implant-and-cloning tech adapted from capsuleer hardware for ground-troop use. Co-developed by Ishukone and Mordu's Legion. Templar protagonist of the Templar One book.",
+      "master_summary": "Subcranial-implant-and-cloning tech adapted from capsuleer hardware for ground-troop use. Co-developed by Ishukone and Mordu's Legion under Otro Gariushi's mandate; survived his assassination because Mens Reppola inherited the program. The Templar protagonist of Tony Gonzales's Templar One is the canonical instance. The State's strategic answer to the Federation\u2013CONCORD capsuleer-tech monopoly. Empress Jamyl I's offer to welcome clone soldiers into the Empire was a direct play for Templar-tech access.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_book_templar_one",
+        "src_news_empress-jamyl-i-announces-empire-intent-to-welcome-clone-soldiers-with-open-arms"
+      ]
+    },
+    {
+      "id": "plc_eve_gate",
+      "type": "Place",
+      "name": "EVE Gate",
+      "brief": "The collapsed wormhole connecting New Eden to humanity's home cluster. Located in New Eden system. Iconic anomaly; Sisters of EVE research focus.",
+      "master_summary": "The collapsed wormhole connecting New Eden to humanity's home cluster. Located in New Eden system. The original passage through which the four-empire ancestors arrived; collapsed catastrophically in pre-history (the eve_gate_collapse event), stranding the colonists. Sisters of EVE research focus; structurally adjacent to the Drifter network and Caroline's Star phenomena. Zarzakh sits in EVE-Gate-adjacent space.",
+      "canonicity": "ccp-canon",
+      "sources": []
     }
   ],
   "connections": [
@@ -7238,6 +7333,294 @@
       "rel": "descends-from",
       "conf": 0.95,
       "claim": "Death Glow is derived from chronodynamic-tricaroxal.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_state_protectorate",
+      "tgt": "org_caldari_navy",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Operates under Caldari Navy authority.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_state_protectorate",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "State's FW militia.",
+      "supporting_sources": [
+        "src_news_state-protectorate-to-recognize-top-militia-pilots"
+      ]
+    },
+    {
+      "src": "org_federal_defense_union",
+      "tgt": "org_federation_navy",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Operates under Federation Navy authority.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_federal_defense_union",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Federation's FW militia.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_federal_defense_union",
+      "tgt": "evt_intaki_seizure_uprising",
+      "rel": "participated-in",
+      "conf": 0.85,
+      "claim": "FDU operationally executed the YC124 Intaki seizure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_24th_imperial_crusade",
+      "tgt": "org_amarr_imperial_navy",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Operates under Imperial Navy authority.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_24th_imperial_crusade",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Empire's FW militia.",
+      "supporting_sources": [
+        "src_news_penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade"
+      ]
+    },
+    {
+      "src": "org_24th_imperial_crusade",
+      "tgt": "org_ammatar_mandate",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Penal brigades drawn from the Ammatar Mandate sent to support the Crusade.",
+      "supporting_sources": [
+        "src_news_penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade"
+      ]
+    },
+    {
+      "src": "org_tribal_liberation_force",
+      "tgt": "org_minmatar_republic",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Republic's FW militia.",
+      "supporting_sources": [
+        "src_news_total-victory-of-tribal-liberation-force-marked-by-award-of-stripes-of-fury-medal"
+      ]
+    },
+    {
+      "src": "org_state_protectorate",
+      "tgt": "org_federal_defense_union",
+      "rel": "opposed-to",
+      "conf": 0.99,
+      "claim": "FW war-zone opposition.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_24th_imperial_crusade",
+      "tgt": "org_tribal_liberation_force",
+      "rel": "opposed-to",
+      "conf": 0.99,
+      "claim": "FW war-zone opposition.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_omir_sarikusa",
+      "tgt": "org_guristas",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Founder and current leader.",
+      "supporting_sources": [
+        "src_news_omir-sarikusa-amused-at-concords-claims"
+      ]
+    },
+    {
+      "src": "per_omir_sarikusa",
+      "tgt": "org_caldari_navy",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Former Caldari Navy admiral; defected with his fleet.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_capsuleers",
+      "tgt": "phn_clone_soldier_tech",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "Both rely on subcranial-implant-and-cloning tech; clone-soldier is the ground-warfare adaptation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_capsuleers",
+      "tgt": "org_air_laboratories",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "AIR Labs runs the capsuleer-training relocation under the Exordium charter.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_soraya_roden",
+      "tgt": "cnc_capsuleers",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Capsuleer-pilot influence cycle in the YC128 Federation election.",
+      "supporting_sources": [
+        "src_news_capsuleers-influence-election-and-presidential-profile-soraya-roden"
+      ]
+    },
+    {
+      "src": "cnc_capsuleers",
+      "tgt": "org_concord",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "CONCORD recognizes capsuleers as sovereign-equivalent political actors.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_apocrypha_wormhole_opening",
+      "tgt": "evt_seyllin_disaster",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "Triggered by the Seyllin plasma-fire event.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_apocrypha_wormhole_opening",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Exposed the Drifter network to capsuleer access.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_apocrypha_wormhole_opening",
+      "tgt": "org_sleeper_civilization",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "Awoke Sleeper-civilization remnants.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_apocrypha_wormhole_opening",
+      "tgt": "plc_thera",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Exposed Sisters of EVE Anoikis bases (incl. Thera).",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_zephyr_distribution",
+      "tgt": "evt_apocrypha_wormhole_opening",
+      "rel": "succeeded-by",
+      "conf": 0.85,
+      "claim": "YC111 Zephyr distribution was structurally a Syndicate response to the opening.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_clone_soldier_tech",
+      "tgt": "org_ishukone",
+      "rel": "descends-from",
+      "conf": 0.9,
+      "claim": "Co-developed by Ishukone (Otro Gariushi mandate; Mens Reppola inherited).",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "phn_clone_soldier_tech",
+      "tgt": "org_mordus_legion",
+      "rel": "descends-from",
+      "conf": 0.9,
+      "claim": "Co-developed by Mordu's Legion (Muryia Mordu).",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "phn_clone_soldier_tech",
+      "tgt": "per_otro_gariushi",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Otro authorized the joint Ishukone-Mordu Templar program.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "phn_clone_soldier_tech",
+      "tgt": "per_jamyl_i",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Empress Jamyl I offered Empire welcome to clone soldiers \u2014 a play for Templar-tech access.",
+      "supporting_sources": [
+        "src_news_empress-jamyl-i-announces-empire-intent-to-welcome-clone-soldiers-with-open-arms"
+      ]
+    },
+    {
+      "src": "plc_eve_gate",
+      "tgt": "evt_eve_gate_collapse",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Catastrophic pre-history collapse stranded the colonists.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_eve_gate",
+      "tgt": "org_sisters_of_eve",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "SoE research focus.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_zarzakh",
+      "tgt": "plc_eve_gate",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Zarzakh sits in EVE-Gate-adjacent space.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_carolines_star",
+      "tgt": "plc_eve_gate",
+      "rel": "parallels",
+      "conf": 0.6,
+      "claim": "Caroline's Star is structurally adjacent to EVE Gate stress phenomena.",
+      "supporting_sources": [
+        "src_news_sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord"
+      ]
+    },
+    {
+      "src": "per_omir_sarikusa",
+      "tgt": "per_tibus_heth",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Sarikusa publicly mocked CONCORD claims; the Provost regime ran active Guristas suppression.",
+      "supporting_sources": [
+        "src_news_omir-sarikusa-amused-at-concords-claims"
+      ]
+    },
+    {
+      "src": "org_jove_first_empire",
+      "tgt": "phn_jovian_disease",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Disease drove the First Empire's collapse cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_jove_first_empire",
+      "tgt": "org_jove_second_empire",
+      "rel": "succeeded-by",
+      "conf": 0.95,
+      "claim": "Second Empire emerged from the First Empire's Disease-driven collapse.",
       "supporting_sources": []
     }
   ],

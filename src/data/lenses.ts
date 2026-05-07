@@ -67,6 +67,9 @@ export const LENSES: Lens[] = [
       "cnc_military_campaigns",
       "org_caldari_navy",
       "org_federation_navy",
+      "org_state_protectorate",
+      "org_federal_defense_union",
+      "cnc_capsuleers",
     ],
   },
   {
@@ -105,6 +108,7 @@ export const LENSES: Lens[] = [
       "phn_insorum",
       "phn_vitoxin",
       "plc_jita_iv_4",
+      "phn_clone_soldier_tech",
     ],
   },
   {
@@ -154,6 +158,9 @@ export const LENSES: Lens[] = [
       "evt_battle_caldari_prime_yc115",
       "evt_elder_war",
       "evt_seyllin_disaster",
+      "evt_apocrypha_wormhole_opening",
+      "org_tribal_liberation_force",
+      "org_24th_imperial_crusade",
     ],
   },
   {
@@ -189,6 +196,8 @@ export const LENSES: Lens[] = [
       "evt_seyllin_disaster",
       "phn_carolines_star",
       "org_sleeper_civilization",
+      "evt_apocrypha_wormhole_opening",
+      "plc_eve_gate",
     ],
   },
   {
@@ -215,6 +224,7 @@ export const LENSES: Lens[] = [
       "org_minmatar_republic",
       "evt_warpath_protocol_failure",
       "org_amarr_imperial_navy",
+      "cnc_capsuleers",
     ],
   },
   {
@@ -263,6 +273,7 @@ export const LENSES: Lens[] = [
       "plc_pochven",
       "plc_zarzakh",
       "org_sleeper_civilization",
+      "plc_eve_gate",
     ],
   },
   {
@@ -290,6 +301,7 @@ export const LENSES: Lens[] = [
       "org_gallente_federation",
       "org_caldari_navy",
       "evt_battle_caldari_prime_yc115",
+      "phn_clone_soldier_tech",
     ],
   },
   {
@@ -314,6 +326,7 @@ export const LENSES: Lens[] = [
       "per_alix_moreau",
       "evt_intaki_seizure_uprising",
       "org_royal_khanid_navy",
+      "org_federal_defense_union",
     ],
   },
   {
@@ -341,6 +354,7 @@ export const LENSES: Lens[] = [
       "org_amarr_imperial_navy",
       "org_royal_khanid_navy",
       "evt_elder_war",
+      "org_24th_imperial_crusade",
     ],
   },
   {
@@ -363,6 +377,7 @@ export const LENSES: Lens[] = [
       "plc_skarkon",
       "org_thukker_tribe",
       "phn_true_slaves",
+      "per_omir_sarikusa",
     ],
   },
   {

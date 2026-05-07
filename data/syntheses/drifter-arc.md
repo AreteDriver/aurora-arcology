@@ -11,6 +11,10 @@
 One of the YC123 dread assaults. Illegal high-sec cyno beacon enabled a dread fleet to land at the Ammatar Mandate's capital planet. The same tech precedent now powers the YC128 Syndicate breakout — the Tanu attack is the structural ancestor of the Catalyst-era doomsday rollout.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 
+### Apocrypha-era Wormhole Opening *(YC111)*
+
+The YC111 system-wide wormhole opening triggered by the Seyllin Disaster. Exposed Anoikis (wormhole space) to capsuleer access for the first time, awoke Sleeper-civilization remnants, and started the chain of Drifter exposure that culminates in the YC125 Drifter Crisis. The Zephyr distribution YC111 was structurally a Syndicate response to the opening.
+
 ### Seyllin Disaster *(YC111)*
 
 YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the planet. The Sisters of EVE 'Wormhole Colony Lost' announcement followed. The Seyllin event triggered the Apocrypha-era wormhole opening, the discovery of Anoikis, the Sleeper civilization remnants, and ultimately the Drifter emergence cycle. Every wormhole-tech thread in the warpath board traces back to Seyllin.
@@ -101,6 +105,10 @@ One of three pre-collapse civilizations. Yan Jung gravitonic technology is the s
 **Cited in:** [The Lore You Need For EVE In 2025 - Part 1 - The Deathless](https://www.youtube.com/watch?v=J8SFloh6Q2s)
 
 ## Places
+
+### EVE Gate
+
+The collapsed wormhole connecting New Eden to humanity's home cluster. Located in New Eden system. The original passage through which the four-empire ancestors arrived; collapsed catastrophically in pre-history (the eve_gate_collapse event), stranding the colonists. Sisters of EVE research focus; structurally adjacent to the Drifter network and Caroline's Star phenomena. Zarzakh sits in EVE-Gate-adjacent space.
 
 ### Pochven
 

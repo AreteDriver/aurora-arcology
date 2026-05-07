@@ -121,6 +121,11 @@ Caldari Navy Assembly Plant moon. Lai Dai-managed renovation cash-cow. Hypernet 
 
 ## Phenomenons
 
+### Clone Soldier / Templar Technology
+
+Subcranial-implant-and-cloning tech adapted from capsuleer hardware for ground-troop use. Co-developed by Ishukone and Mordu's Legion under Otro Gariushi's mandate; survived his assassination because Mens Reppola inherited the program. The Templar protagonist of Tony Gonzales's Templar One is the canonical instance. The State's strategic answer to the Federation–CONCORD capsuleer-tech monopoly. Empress Jamyl I's offer to welcome clone soldiers into the Empire was a direct play for Templar-tech access.
+**Cited in:** [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one) · [Empress Jamyl I announces Empire intent to welcome clone soldiers with open arms](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-announces-empire-intent-to-welcome-clone-soldiers-with-open-arms)
+
 ### Insorum
 
 Synthetic Vitoxin antidote co-developed by Ishukone and Galente parties. Threatened the structural basis of Amarr slavery; the broker plot targeted Insorum production and produced Otro Gariushi's death. Insorum's survival is why Mens Reppola operates under heavy drone protection.
@@ -175,8 +180,8 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 ## Sources cited
 
 - **14×** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04) (2024-04-04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI)
+- **10×** [EVE: Templar One (Tony Gonzales) (2012)](https://www.eveonline.com/news/view/templar-one)
 - **9×** [Ante (Chronicle) (2010-04-19)](https://universe.eveonline.com/chronicles/ante)
-- **9×** [EVE: Templar One (Tony Gonzales) (2012)](https://www.eveonline.com/news/view/templar-one)
 - **4×** [New Eden News: Warpath YC128-04-21 - YC128-04-30 (2026-04-30)](https://www.youtube.com/watch?v=QUoUNxfSXUk)
 - **4×** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05 (2026-05-05)](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
 - **3×** [The Sarpati Family  (2001-05-14)](https://universe.eveonline.com/chronicles/the-sarpati-family)
@@ -263,6 +268,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Ishukone Negotiates Terms With Federation Regulators (2010-04-12)](https://universe.eveonline.com/new-eden-news/ishukone-negotiates-terms-with-federation-regulators)
 - **1×** [Mordu's Legion intervenes in Caldari ground combat, escapes unscathed (2013-02-08)](https://universe.eveonline.com/new-eden-news/mordus-legion-intervenes-in-caldari-ground-combat-escapes-unscathed)
 - **1×** [Mordu's Legion and Angel Cartel join Guristas in offering to aid Caldari targets (2013-02-12)](https://universe.eveonline.com/new-eden-news/mordus-legion-and-angel-cartel-join-guristas-in-offering-to-aid-caldari-targets)
+- **1×** [Empress Jamyl I announces Empire intent to welcome clone soldiers with open arms (2013-03-17)](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-announces-empire-intent-to-welcome-clone-soldiers-with-open-arms)
 - **1×** [Caldari Prime relief effort continues, Ishukone request access to devastated planet (2013-03-24)](https://universe.eveonline.com/new-eden-news/caldari-prime-relief-effort-continues-ishukone-request-access-to-devastated-planet)
 - **1×** [Ishukone access to Caldari Prime approved, full negotiations still ongoing (2013-03-25)](https://universe.eveonline.com/new-eden-news/ishukone-access-to-caldari-prime-approved-full-negotiations-still-ongoing)
 - **1×** [Heth responds to loss of Shiigeru and Ishukone contact with Gallente senate (2013-03-26)](https://universe.eveonline.com/new-eden-news/heth-responds-to-loss-of-shiigeru-and-ishukone-contact-with-gallente-senate)

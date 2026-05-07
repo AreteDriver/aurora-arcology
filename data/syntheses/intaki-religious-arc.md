@@ -60,6 +60,10 @@ Daughter of the original Syndicate unifier; expelled from the Sisters of Eve aft
 
 ## Organizations
 
+### Federal Defense Union
+
+Gallente Federation Faction Warfare militia. The Federation's volunteer / capsuleer-pilot frontline against the State in the FW war zone. Operationally the FDU executed the YC124 Intaki seizure that the Republic and SoE later condemned. Operates under Federation Navy authority.
+
 ### Ida Faith / Ida Monastery
 
 Intaki religion. Believes in reincarnation; Adamas reincarnate without technology. The structural source of Intaki political-cultural distinctiveness inside the Federation — and the cause that radicalized Intaki extremists in YC120.
