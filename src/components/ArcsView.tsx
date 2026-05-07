@@ -47,6 +47,25 @@ const LINE_COLOR: Record<string, string> = {
   "sarpati-network":         "#9333ea",
 };
 
+// Narrative-coherent track ordering — group lenses by topical proximity so
+// vertical interchanges stay short. Hand-curated, not algorithmic; a real
+// metro-map needs human judgment about which lines should be adjacent.
+const TRACK_ORDER = [
+  "old-wars",                  // deep Mimitar/Amarr history
+  "amarr-royal-succession",    // Amarr throne lineage (adjacent to Old Wars)
+  "drifter-arc",               // Drifter/Hyperspace (Amarr/Concord research thread)
+  "pirate-factions",           // Cross-empire criminal layer
+  "caldari-mega-corp-axis",    // Caldari political backbone
+  "lai-dai-vs-ishukone",       // The axis itself
+  "empyrean-age",              // Heth-era political event (Caldari subset)
+  "sarpati-network",           // Sister/Serpentis/Syndicate triangle
+  "intaki-religious-arc",      // Lost Adama / Ida faith
+  "kahah-yc120",               // YC120 chemical attacks (Khanid + Intaki)
+  "exordium",                  // Modern Concord/AIR initiative
+  "warpath-current",           // YC128 current cycle
+  "deathless-arc",             // Modern antagonist thread
+];
+
 interface Props {
   boardId: string;
   nodes: Node[];
@@ -89,9 +108,19 @@ export default function ArcsView({ boardId, nodes }: Props) {
     return HEADER_W + 30 + ((k - tMin) / Math.max(1, tMax - tMin)) * (totalW - HEADER_W - RIGHT_PAD - 30);
   };
 
-  // For each lens: collect its dated nodes, ordered chronologically
+  // For each lens: collect its dated nodes, ordered chronologically.
+  // Track order is narrative-coherent (TRACK_ORDER above), not LENSES-array.
+  const orderedLenses = useMemo(() => {
+    const byId = new Map(LENSES.map((l) => [l.id, l]));
+    const ordered = TRACK_ORDER.map((id) => byId.get(id)).filter(Boolean) as typeof LENSES;
+    // Append any lenses missing from TRACK_ORDER so we don't drop them
+    const known = new Set(TRACK_ORDER);
+    for (const l of LENSES) if (!known.has(l.id)) ordered.push(l);
+    return ordered;
+  }, []);
+
   const lensTracks = useMemo(() => {
-    return LENSES.map((lens, idx) => {
+    return orderedLenses.map((lens, idx) => {
       const lensNodes = lens.nodeIds
         .map((id) => nodeById.get(id))
         .filter((n): n is Node => Boolean(n))
@@ -99,7 +128,7 @@ export default function ArcsView({ boardId, nodes }: Props) {
         .sort((a, b) => a.x - b.x);
       return { lens, nodes: lensNodes };
     });
-  }, [nodeById]);
+  }, [nodeById, orderedLenses]);
 
   // Detect interchanges — nodes appearing in 2+ lenses
   const lensesByNode = useMemo(() => {
@@ -295,7 +324,7 @@ export default function ArcsView({ boardId, nodes }: Props) {
             if (!node) return null;
             const x = xFor(node.date);
             const ys = lensIds
-              .map((lid) => LENSES.findIndex((l) => l.id === lid))
+              .map((lid) => orderedLenses.findIndex((l) => l.id === lid))
               .filter((i) => i >= 0)
               .map((i) => TOP_PAD + i * TRACK_H);
             const yMin = Math.min(...ys);
@@ -317,6 +346,39 @@ export default function ArcsView({ boardId, nodes }: Props) {
             );
           })}
 
+          {/* Inline labels for interchange stations (≥3 lenses) — these are
+              the structural pivots, worth always-on labels */}
+          {Array.from(lensesByNode.entries()).map(([nodeId, lensIds]) => {
+            if (lensIds.length < 3) return null;
+            const node = nodeById.get(nodeId);
+            if (!node) return null;
+            const x = xFor(node.date);
+            const yIdx = Math.min(
+              ...lensIds.map((lid) => orderedLenses.findIndex((l) => l.id === lid)),
+            );
+            const y = TOP_PAD + yIdx * TRACK_H - 14;
+            return (
+              <text
+                key={`lbl-${nodeId}`}
+                x={x}
+                y={y}
+                fontSize={10}
+                fontWeight={600}
+                fill="#fafafa"
+                textAnchor="middle"
+                pointerEvents="none"
+                style={{
+                  paintOrder: "stroke",
+                  stroke: "#0a0a0a",
+                  strokeWidth: 3,
+                  strokeLinejoin: "round",
+                }}
+              >
+                {node.name.length > 22 ? node.name.slice(0, 20) + "…" : node.name}
+              </text>
+            );
+          })}
+
           {/* Hover label for selected station */}
           {hoverNodeId &&
             (() => {
@@ -325,7 +387,7 @@ export default function ArcsView({ boardId, nodes }: Props) {
               const x = xFor(node.date);
               const lensIds = lensesByNode.get(hoverNodeId) ?? [];
               const yTop = Math.min(
-                ...lensIds.map((lid) => TOP_PAD + LENSES.findIndex((l) => l.id === lid) * TRACK_H),
+                ...lensIds.map((lid) => TOP_PAD + orderedLenses.findIndex((l) => l.id === lid) * TRACK_H),
               );
               return (
                 <g pointerEvents="none">
@@ -350,10 +412,10 @@ export default function ArcsView({ boardId, nodes }: Props) {
         </svg>
       </div>
 
-      {/* Legend */}
+      {/* Legend — ordered to match track ordering top-to-bottom */}
       <div className="flex flex-wrap items-center gap-3 text-xs font-mono text-zinc-500 px-1">
-        <span>lines:</span>
-        {LENSES.map((l) => (
+        <span>lines (top → bottom):</span>
+        {orderedLenses.map((l) => (
           <span
             key={l.id}
             onMouseEnter={() => setHoverLensId(l.id)}

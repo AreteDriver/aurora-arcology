@@ -15,7 +15,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           <a href="/" className="font-mono text-sm tracking-wide">aurora-arcology</a>
           <nav className="flex gap-4 text-sm font-mono text-zinc-400">
             <a href="/">boards</a>
-            <a href="/sources">sources</a>
+            <a href="/sources">search</a>
+            <a href="/sourcebook">sourcebook</a>
             <a href="/suggestions">suggestions</a>
             <a href="/analytics">analytics</a>
             <a href="/audit">audit</a>
