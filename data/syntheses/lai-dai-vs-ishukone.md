@@ -6,6 +6,11 @@
 
 ## Events
 
+### Crielere Project (collapse) *(YC105)*
+
+YC105 Federation–State joint research project announced as a milestone in inter-empire cooperation. Caldari police were investigated after sabotage and vandalism accusations, and the project collapsed amid intra-State factional conflict. Foreshadowed the modern Mountain/Ocean axis: pro-cooperation factions (later Ishukone-aligned) vs anti-Federation factions (later Provist/Heth-aligned).
+**Cited in:** [Caldari and Gallente dignitaries attend conference at Crielere - Foiritan causes stir (YC 105)](http://community.eveonline.com/news/news-channels/eve-online-news/caldari-and-gallente-dignitaries-attend-conference-at-crielere-foiritan-causes-stir/) · [Caldari police forces in Crielere under investigation after accusations (YC 105)](https://www.eveonline.com/article/caldari-police-forces-in-crielere-are-currently-under-investigation-after-serious-accusations.) · [Crielere Project announced (YC105)](https://www.eveonline.com/article/the-state-and-federation-open-new-research-center-1 https://fiction.eveonline.com/new-eden/lore/crielere-research-laboratories) · [Ishukone CEO reveals new techologies from Crielere (YC 105)](http://community.eveonline.com/news/news-channels/world-news/ishukone-ceo-gariushi-unveils-crielere-discoveries/ http://community.eveonline.com/news/news-channels/world-news/minmatars-excited-over-new-technologies/) · [Valuable blueprints missing from the Crielere Research facility (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/valuable-blueprints-missing-from-the-crielere-research-facility/)
+
 ### Death of Otro Gariushi (Quantum Rise summit) *(YC110)*
 
 The killing of Otro Gariushi at the YC110 Caldari–Federation summit, when Alexander Noir's Nyx hit the station with safety protocols disabled. The 'broker' plot targeted Otro because Ishukone was developing Insorum, the Vitoxin antidote that threatened the structural basis of Amarr slavery. Mens Reppola inherited the CEO seat and the Insorum mandate.
@@ -142,6 +147,10 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 
 The whiteboard. Durable rivalry running through 20+ years of Caldari political realignment. Mountain+Ocean cluster on Ishukone side; Forest on Lai Dai side. SoE / Mordu's Legion / Ytiri / Star Seed map to Ishukone; NOH / CBD / Forest / Quafe / Sarpati line maps to Lai Dai. Without this frame the Warpath beats look like empire-vs-empire; with it they look like a hostile takeover.
 **Cited in:** [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+
+### Mountain / Ocean / Forest factional split (Caldari)
+
+The three Caldari political factions inside the State: Mountain (state-loyalist militants — Heth/Provists/Saraki), Ocean (corporate cooperationists — Otro/Mens/Ishukone), Forest (industrial-traditionalist neutrals — Hyasyoda/Lai Dai). The Crielere Project YC105 was the Ocean-faction signature initiative; its collapse marked Mountain ascendancy. The current YC128 Saraki consolidation is structurally a Mountain reassertion against Ocean tendencies.
 
 ### Soft Drink Wars
 
@@ -306,7 +315,12 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [Kaalakiota Backs Sukuuvestaa Over Lai Dai in "Ghost Ship" Tussle (2020-04-01)](https://universe.eveonline.com/new-eden-news/kaalakiota-backs-sukuuvestaa-over-lai-dai-in-ghost-ship-tussle)
 - **1×** [Vanguard Clash with Mordu's Legion Planetside (2025-09-18)](https://universe.eveonline.com/new-eden-news/vanguard-clash-with-mordus-legion-planetside)
 - **1×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident (2026-05-01)](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
+- **1×** [Caldari and Gallente dignitaries attend conference at Crielere - Foiritan causes stir (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/caldari-and-gallente-dignitaries-attend-conference-at-crielere-foiritan-causes-stir/)
+- **1×** [Caldari police forces in Crielere under investigation after accusations (YC 105) (YC105)](https://www.eveonline.com/article/caldari-police-forces-in-crielere-are-currently-under-investigation-after-serious-accusations.)
+- **1×** [Crielere Project announced (YC105) (YC105)](https://www.eveonline.com/article/the-state-and-federation-open-new-research-center-1 https://fiction.eveonline.com/new-eden/lore/crielere-research-laboratories)
+- **1×** [Ishukone CEO reveals new techologies from Crielere (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/world-news/ishukone-ceo-gariushi-unveils-crielere-discoveries/ http://community.eveonline.com/news/news-channels/world-news/minmatars-excited-over-new-technologies/)
 - **1×** [Quafe Company Accused of Arms Running (YC 105) (YC105)](https://www.eveonline.com/article/quafe-company-accused-of-arms-running)
+- **1×** [Valuable blueprints missing from the Crielere Research facility (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/valuable-blueprints-missing-from-the-crielere-research-facility/)
 - **1×** [Mordu's Legion and Serpentis forces clash in Fountain (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/world-news/mordus-legion-and-guardian-angels-clash-in-fountain-region/)
 - **1×** [Mordu's Legion infiltrates Serpentis space (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/world-news/mordu-infiltrates-serpentis-space-but-avoids-conflict/)
 - **1×** [Mordu's Legion mobilizing (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/muryia-mordu-arrives-safely-at-his-headquarters-region-in-uproar/ http://community.eveonline.com/news/news-channels/world-news/mordus-legion-mobilizing-what-is-ore-up-to/)

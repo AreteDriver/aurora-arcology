@@ -74,6 +74,7 @@ export const LENSES: Lens[] = [
       "org_imperial_court",
       "plc_lonetrek",
       "org_tribal_council",
+      "cnc_mountain_ocean_forest",
     ],
   },
   {
@@ -113,6 +114,8 @@ export const LENSES: Lens[] = [
       "phn_vitoxin",
       "plc_jita_iv_4",
       "phn_clone_soldier_tech",
+      "evt_crielere_project",
+      "cnc_mountain_ocean_forest",
     ],
   },
   {
@@ -174,6 +177,12 @@ export const LENSES: Lens[] = [
       "plc_metropolis",
       "org_vherokior_tribe",
       "evt_floseswin_battle",
+      "evt_caldari_luminaire_invasion",
+      "evt_kador_gallente_invasion",
+      "evt_pax_amarria",
+      "evt_salvation_crusade",
+      "per_jarek",
+      "evt_archangels_skarkon_annex_yc110",
     ],
   },
   {
@@ -214,6 +223,9 @@ export const LENSES: Lens[] = [
       "plc_anoikis",
       "evt_triglavian_invasion",
       "evt_floseswin_battle",
+      "evt_niarja_fall",
+      "org_third_jove_empire",
+      "org_cult_of_tetrimon",
     ],
   },
   {
@@ -243,6 +255,7 @@ export const LENSES: Lens[] = [
       "cnc_capsuleers",
       "plc_yulai",
       "plc_genesis",
+      "org_cult_of_tetrimon",
     ],
   },
   {
@@ -272,6 +285,7 @@ export const LENSES: Lens[] = [
       "org_royal_khanid_navy",
       "evt_amarr_reclaiming",
       "org_provost_marshal_office",
+      "evt_salvation_crusade",
     ],
   },
   {
@@ -296,6 +310,7 @@ export const LENSES: Lens[] = [
       "plc_eve_gate",
       "plc_anoikis",
       "plc_genesis",
+      "org_third_jove_empire",
     ],
   },
   {
@@ -328,6 +343,9 @@ export const LENSES: Lens[] = [
       "plc_yulai",
       "plc_lonetrek",
       "org_provost_marshal_office",
+      "evt_caldari_luminaire_invasion",
+      "evt_crielere_project",
+      "cnc_mountain_ocean_forest",
     ],
   },
   {
@@ -356,6 +374,8 @@ export const LENSES: Lens[] = [
       "evt_amarr_reclaiming",
       "plc_placid",
       "plc_verge_vendor",
+      "evt_salvation_crusade",
+      "per_jarek",
     ],
   },
   {
@@ -392,6 +412,10 @@ export const LENSES: Lens[] = [
       "cnc_five_heirs",
       "org_provost_marshal_office",
       "evt_floseswin_battle",
+      "evt_pax_amarria",
+      "per_stavros",
+      "org_cult_of_tetrimon",
+      "evt_kador_gallente_invasion",
     ],
   },
   {
@@ -420,6 +444,8 @@ export const LENSES: Lens[] = [
       "plc_curse",
       "plc_lonetrek",
       "plc_metropolis",
+      "evt_archangels_skarkon_annex_yc110",
+      "per_general_akuras",
     ],
   },
   {
@@ -448,6 +474,8 @@ export const LENSES: Lens[] = [
       "org_cep",
       "org_caldari_navy",
       "plc_lonetrek",
+      "evt_crielere_project",
+      "cnc_mountain_ocean_forest",
     ],
   },
   {

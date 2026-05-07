@@ -4270,6 +4270,175 @@
       "master_summary": "The doctrinal Amarr-Empire structure of five Royal Houses (Sarum, Tash-Murkon, Kor-Azor, Kador, Ardishapur), each providing a Heir candidate for the throne under the championship-and-succession rules. The Heideran VII \u2192 Doriam II \u2192 Karsoth-subverted-Sarum \u2192 Jamyl I \u2192 Catiz I succession ran through this structure. The Three-Layer Amarr concept (Empire / Houses / Provost-Marshal frontier) interlocks with the Five Heirs.",
       "canonicity": "ccp-canon",
       "sources": []
+    },
+    {
+      "id": "evt_crielere_project",
+      "type": "Event",
+      "name": "Crielere Project (collapse)",
+      "date": "YC105",
+      "brief": "YC105 Federation\u2013State joint research project that collapsed amid Caldari sabotage allegations. Foreshadowed the modern Mountain/Ocean axis split.",
+      "master_summary": "YC105 Federation\u2013State joint research project announced as a milestone in inter-empire cooperation. Caldari police were investigated after sabotage and vandalism accusations, and the project collapsed amid intra-State factional conflict. Foreshadowed the modern Mountain/Ocean axis: pro-cooperation factions (later Ishukone-aligned) vs anti-Federation factions (later Provist/Heth-aligned).",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc105_crielere-project-announced-yc105",
+        "src_ash_tl_yc105_caldari-police-forces-in-crielere-under-investigat",
+        "src_ash_tl_yc105_caldari-and-gallente-dignitaries-attend-conference",
+        "src_ash_tl_yc105_ishukone-ceo-reveals-new-techologies-from-crielere",
+        "src_ash_tl_yc106_valuable-blueprints-missing-from-the-crielere-rese"
+      ]
+    },
+    {
+      "id": "evt_caldari_luminaire_invasion",
+      "type": "Event",
+      "name": "Caldari State Invasion of Luminaire",
+      "date": "YC110",
+      "brief": "YC110 Caldari military strike into the Luminaire system \u2014 the Gallente capital system. Pre-Heth State military buildup; established the State's willingness to project force into Federation core space.",
+      "master_summary": "YC110 Caldari military strike into the Luminaire system \u2014 the Gallente capital. Pre-Heth State military buildup; established the State's willingness to project force into Federation core space. Coincided with the Tibus Heth coup at Caldari Constructions; the two events together produced the Empyrean Age State.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc110_caldari-state-invades-the-luminaire-system-yc110"
+      ]
+    },
+    {
+      "id": "evt_kador_gallente_invasion",
+      "type": "Event",
+      "name": "Kador Invasion of Gallente Space",
+      "date": "YC110",
+      "brief": "YC110 House Kador military operation across the Federation border. Amarr\u2013Federation flashpoint that the Empire later disowned.",
+      "master_summary": "YC110 House Kador military operation across the Federation border \u2014 an Amarr Royal House conducting unilateral military action without Imperial sanction. Empress Jamyl I subsequently reprimanded Heir Kador and confiscated their fleet. Marks the Kador house's break with Imperial central authority and the structural origin of the modern Sarum-Kador rivalry.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc110_kador-invasion-of-gallente-space-yc110"
+      ]
+    },
+    {
+      "id": "evt_niarja_fall",
+      "type": "Event",
+      "name": "Fall of Niarja",
+      "date": "YC122",
+      "brief": "YC122 Triglavian conquest of Niarja, severing the high-sec trade corridor between Amarr and Caldari space.",
+      "master_summary": "YC122 Triglavian conquest of Niarja during the Triglavian Invasion \u2014 severing the high-sec trade corridor between Amarr and Caldari space and collapsing what was historically the most heavily-trafficked sub-cluster route. The Niarja severance is the structural cause of the Amarr-Caldari trade reorientation that Catiz I's territorial reorganization later codified.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc122_galactic-hour-news-roundup-triglavian-invasion-of-",
+        "src_ash_tl_yc122_galactic-hour-news-roundup-fall-of-niarja-yc-122"
+      ]
+    },
+    {
+      "id": "evt_pax_amarria",
+      "type": "Event",
+      "name": "Publication of Pax Amarria",
+      "date": "YC105",
+      "brief": "Emperor Heideran VII's seminal philosophical book on imperial governance, religious orthodoxy, and the Reclaiming.",
+      "master_summary": "Heideran VII's seminal philosophical book on imperial governance, religious orthodoxy, and the Reclaiming. Published YC105; established the modern Amarr theological consensus and was the canonical reference text Catiz I's reorganization later partially repudiated. Commonly cited in Imperial Court rhetoric and the Five Heirs succession debates.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc105_heideran-vii-s-much-appraised-book-pax-amarria-pub"
+      ]
+    },
+    {
+      "id": "evt_salvation_crusade",
+      "type": "Event",
+      "name": "Salvation Crusade",
+      "date": "YC111",
+      "brief": "YC111 Minmatar preacher Jarek's religious crusade across the Amarr\u2013Republic border. Trans-empire religious mobilization with Heimatar firefight engagements.",
+      "master_summary": "YC111 Minmatar preacher Jarek's religious crusade \u2014 a trans-empire mobilization that crossed the Amarr\u2013Republic border. The Crusade encountered hostile ships in Heimatar with mercenary intervention; tested the Empire\u2013Republic religious-tolerance border. Gallente medical charities came under pressure for supporting the Crusade. A Salvation-Crusade-style ideological mobilization is one structural template for the YC128 Warpath cycle.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc111_minmatar-preacher-begins-salvation-crusade-in-amar",
+        "src_ash_tl_yc111_jarek-s-salvation-crusade-to-cross-into-minmatar-s",
+        "src_ash_tl_yc111_salvation-crusaders-encounter-hostile-ships-in-hei",
+        "src_ash_tl_yc111_salvation-crusaders-arrive-in-pator-camp-establish",
+        "src_ash_tl_yc111_rioters-storm-salvation-crusade-camp-on-matar-chap"
+      ]
+    },
+    {
+      "id": "evt_archangels_skarkon_annex_yc110",
+      "type": "Event",
+      "name": "Archangels Annex Skarkon (and withdraw)",
+      "date": "YC110",
+      "brief": "YC110 Angel Cartel sub-faction Archangels declared annexation of the Skarkon system; later withdrew the claim. Republic governance test case.",
+      "master_summary": "YC110 Angel Cartel sub-faction Archangels declared annexation of the Skarkon system, then withdrew the claim under Republic counter-pressure. The Skarkon test case became canonical reference for Republic governance failure analysis \u2014 and prefigured the later YC123-era Skarkon Angel takeover that Aurora's Skarkon node tracks.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc106_archangels-unexpected-expedition-officials-baffled",
+        "src_ash_tl_yc110_archangels-34-annex-34-skarkon-yc-110",
+        "src_ash_tl_yc110_archangels-withdraw-claim-of-skarkon-yc-110",
+        "src_ash_tl_yc122_galactic-hour-news-roundup-skarkon-falls-after-hea"
+      ]
+    },
+    {
+      "id": "per_general_akuras",
+      "type": "Person",
+      "name": "General Akuras",
+      "date": "YC120",
+      "brief": "Mordu's Legion commander appointed YC120 to oversee Legion forces on Caldari Prime. Operational successor to Muryia Mordu in the Caldari Prime theater.",
+      "master_summary": "Mordu's Legion commander appointed YC120 to oversee Legion forces on Caldari Prime as part of an operational reorganization. Operational successor to Muryia Mordu in the Caldari Prime theater; the appointment signaled the Legion's deeper Caldari-Prime-occupation phase before the eventual YC128-era departure.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc120_general-akuras-to-oversee-legion-forces-on-caldari"
+      ]
+    },
+    {
+      "id": "per_jarek",
+      "type": "Person",
+      "name": "Jarek (Salvation Crusader)",
+      "date": "YC111",
+      "brief": "Minmatar preacher who led the YC111 Salvation Crusade across the Amarr\u2013Republic border.",
+      "master_summary": "Minmatar preacher who led the YC111 Salvation Crusade \u2014 a religious mobilization that crossed into Amarr space and sustained engagements through the Heimatar firefights. Jarek's movement is the canonical example of bottom-up trans-empire religious activism and the prototype for Ida-faith era figures (Negui Erlon, Eloa Enaro) who structurally repeat the pattern.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc111_minmatar-preacher-begins-salvation-crusade-in-amar",
+        "src_ash_tl_yc111_jarek-s-salvation-crusade-to-cross-into-minmatar-s",
+        "src_ash_tl_yc111_salvation-crusaders-encounter-hostile-ships-in-hei",
+        "src_ash_tl_yc111_salvation-crusaders-arrive-in-pator-camp-establish",
+        "src_ash_tl_yc111_rioters-storm-salvation-crusade-camp-on-matar-chap"
+      ]
+    },
+    {
+      "id": "per_stavros",
+      "type": "Person",
+      "name": "Stavros (YC105 Amarr throne pretender)",
+      "date": "YC105",
+      "brief": "Made bid for the Amarr throne during the YC105 succession trial. Notable failed challenger in the Heideran-Doriam succession cycle.",
+      "master_summary": "Made bid for the Amarr throne during the YC105 succession trial. Notable failed challenger in the Heideran-Doriam succession cycle; structurally the same role as later figures who challenge the Empress's authority but lack a House backing strong enough to convert the bid.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc105_stavros-acknowledges-bid-for-amarr-throne-yc-105"
+      ]
+    },
+    {
+      "id": "org_cult_of_tetrimon",
+      "type": "Organization",
+      "name": "Cult of Tetrimon",
+      "brief": "Amarr orthodox religious sect. Investigates clone-tech for theological compliance; ran Hollow Clone Disaster investigation.",
+      "master_summary": "Amarr orthodox religious sect \u2014 the doctrinal-purity wing of the Amarr theology. Investigates clone-tech for theological compliance; ran the Order of St. Tetrimon investigation into the Hollow Clone Disaster. Cult's posture is anti-capsuleer-immortality on theological grounds; Heideran VII tolerated them but Catiz I's reorganization curbed their influence.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc106_theology-council-to-lift-suppression-edict-for-tet",
+        "src_ash_tl_yc108_st-tetrimon-edict-lifted-order-allowed-to-return-t",
+        "src_ash_tl_yc108_stolen-relics-retrieved-by-tetrimon-cult-yc-108",
+        "src_ash_tl_yc108_privy-council-orders-investigation-into-tetrimon-t",
+        "src_ash_tl_yc108_tetrimon-grand-master-granted-sainthood-yc-108"
+      ]
+    },
+    {
+      "id": "org_third_jove_empire",
+      "type": "Organization",
+      "name": "Third Jovian Empire",
+      "brief": "Current iteration of the Jovian polity following the Second Empire's collapse. Diminished, isolated; Construct-extracted survivors.",
+      "master_summary": "Current iteration of the Jovian polity following the Second Empire's collapse. Diminished, isolated; the Construct-extracted survivors of the Second Empire form its core. Jovian Admiral Ouria's YC105 rogue defection was a Third-Empire-era crisis. Operationally inscrutable; the Drifter emergence is the cosmic-scale crisis they have not formally claimed.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "cnc_mountain_ocean_forest",
+      "type": "Concept",
+      "name": "Mountain / Ocean / Forest factional split (Caldari)",
+      "brief": "The three Caldari political factions: Mountain (state-loyalist militants), Ocean (corporate cooperationists), Forest (industrial-traditionalist neutrals).",
+      "master_summary": "The three Caldari political factions inside the State: Mountain (state-loyalist militants \u2014 Heth/Provists/Saraki), Ocean (corporate cooperationists \u2014 Otro/Mens/Ishukone), Forest (industrial-traditionalist neutrals \u2014 Hyasyoda/Lai Dai). The Crielere Project YC105 was the Ocean-faction signature initiative; its collapse marked Mountain ascendancy. The current YC128 Saraki consolidation is structurally a Mountain reassertion against Ocean tendencies.",
+      "canonicity": "community-curated",
+      "sources": []
     }
   ],
   "connections": [
@@ -10566,6 +10735,364 @@
       "supporting_sources": [
         "src_news_minmatar-and-thukker-trade-routes-increasingly-threatened-by-breakaway-angels"
       ]
+    },
+    {
+      "src": "evt_crielere_project",
+      "tgt": "org_caldari_state",
+      "rel": "opposed-to",
+      "conf": 0.8,
+      "claim": "Caldari sabotage destroyed the joint project.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_crielere_project",
+      "tgt": "org_gallente_federation",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Federation initiated the joint research project.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_crielere_project",
+      "tgt": "cnc_mountain_ocean_forest",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Mountain-faction sabotage of an Ocean-faction signature initiative.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_mountain_ocean_forest",
+      "tgt": "org_mountain_faction",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Mountain pole.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_mountain_ocean_forest",
+      "tgt": "org_ocean_faction",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Ocean pole.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_mountain_ocean_forest",
+      "tgt": "org_forest_faction",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Forest pole.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_mountain_ocean_forest",
+      "tgt": "per_akimaka_saraki",
+      "rel": "aligned-with",
+      "conf": 0.9,
+      "claim": "Saraki's consolidation is a Mountain reassertion.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_mountain_ocean_forest",
+      "tgt": "cnc_lai_dai_vs_ishukone_axis",
+      "rel": "parallels",
+      "conf": 0.92,
+      "claim": "The axis is the contemporary surface of the Mountain/Ocean/Forest split.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_luminaire_invasion",
+      "tgt": "per_tibus_heth",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Pre-Heth-era State buildup that produced the Empyrean Age.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_luminaire_invasion",
+      "tgt": "org_caldari_navy",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "State Navy operation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_luminaire_invasion",
+      "tgt": "org_gallente_federation",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Strike into Federation capital system.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_luminaire_invasion",
+      "tgt": "evt_caldari_invasion_yc112",
+      "rel": "succeeded-by",
+      "conf": 0.85,
+      "claim": "YC110 Luminaire strike preceded YC112 Caldari Prime invasion.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_kador_gallente_invasion",
+      "tgt": "org_house_kador",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "House Kador unilateral military action.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_kador_gallente_invasion",
+      "tgt": "per_jamyl_i",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Jamyl I reprimanded Heir Kador and confiscated their fleet.",
+      "supporting_sources": [
+        "src_news_empress-jamyl-reprimands-heir-kador-confiscates-fleet"
+      ]
+    },
+    {
+      "src": "evt_kador_gallente_invasion",
+      "tgt": "org_gallente_federation",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Cross-border attack into Federation space.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_niarja_fall",
+      "tgt": "evt_triglavian_invasion",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Niarja conquest was a flagship Triglavian Invasion event.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_niarja_fall",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.92,
+      "claim": "Severed Amarr trade corridor.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_niarja_fall",
+      "tgt": "org_caldari_state",
+      "rel": "opposed-to",
+      "conf": 0.92,
+      "claim": "Severed Caldari trade corridor.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_niarja_fall",
+      "tgt": "per_catiz_i",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Niarja severance triggered Amarr trade reorientation Catiz codified.",
+      "supporting_sources": [
+        "src_news_empress-catiz-i-revokes-heideran-decree-and-announces-sweeping-territorial-and-military-reorganization"
+      ]
+    },
+    {
+      "src": "evt_pax_amarria",
+      "tgt": "per_heideran_vii",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Heideran VII authored.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_pax_amarria",
+      "tgt": "evt_amarr_reclaiming",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Theological foundation text for Reclaiming-era doctrine.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_pax_amarria",
+      "tgt": "per_catiz_i",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Catiz I's reorganization partially repudiated the Pax Amarria consensus.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jarek",
+      "tgt": "evt_salvation_crusade",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Jarek led the Crusade.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_salvation_crusade",
+      "tgt": "plc_heimatar",
+      "rel": "located-in",
+      "conf": 0.9,
+      "claim": "Heimatar firefights occurred during the Crusade.",
+      "supporting_sources": [
+        "src_news_salvation-crusaders-encounter-hostile-ships-in-heimatar-firefight-averted-by-mercenaries"
+      ]
+    },
+    {
+      "src": "evt_salvation_crusade",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Crossed into Amarr space; tested religious tolerance border.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_salvation_crusade",
+      "tgt": "org_minmatar_republic",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Republic-origin religious mobilization.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_salvation_crusade",
+      "tgt": "per_negui_erlon",
+      "rel": "parallels",
+      "conf": 0.65,
+      "claim": "Religious-mobilization template that Ida-faith Lost-Adama discovery later repeated.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_archangels_skarkon_annex_yc110",
+      "tgt": "plc_skarkon",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Skarkon system claim.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_archangels_skarkon_annex_yc110",
+      "tgt": "org_angel_cartel",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "Archangel Cartel sub-faction claim.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_archangels_skarkon_annex_yc110",
+      "tgt": "evt_skarkon_angel_takeover",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "YC110 attempt prefigured the later successful YC123-era Angel takeover.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_archangels_skarkon_annex_yc110",
+      "tgt": "org_minmatar_republic",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Republic counter-pressure forced withdrawal.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_general_akuras",
+      "tgt": "org_mordus_legion",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Mordu's Legion commander.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_general_akuras",
+      "tgt": "plc_caldari_prime",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Caldari Prime theater commander.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_general_akuras",
+      "tgt": "per_muryia_mordu",
+      "rel": "succeeded-by",
+      "conf": 0.85,
+      "claim": "Operational successor in the Caldari Prime theater.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_stavros",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Made unsuccessful bid for the Amarr throne.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_stavros",
+      "tgt": "per_doriam_kor_azor",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Failed challenger in the Doriam succession.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_cult_of_tetrimon",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Amarr orthodox religious sect.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_cult_of_tetrimon",
+      "tgt": "phn_hollow_clone_disaster",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Order of St. Tetrimon investigated the disaster.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_cult_of_tetrimon",
+      "tgt": "cnc_capsuleers",
+      "rel": "opposed-to",
+      "conf": 0.92,
+      "claim": "Anti-capsuleer-immortality on theological grounds.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_cult_of_tetrimon",
+      "tgt": "per_heideran_vii",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Heideran tolerated them.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_cult_of_tetrimon",
+      "tgt": "per_catiz_i",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Catiz reorganization curbed Tetrimon influence.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_third_jove_empire",
+      "tgt": "org_jove_second_empire",
+      "rel": "succeeded-by",
+      "conf": 0.95,
+      "claim": "Successor polity.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_third_jove_empire",
+      "tgt": "phn_construct",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Construct-extracted survivors form the Third Empire core.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_mens_reppola",
+      "tgt": "evt_malkalen_disaster",
+      "rel": "participated-in",
+      "conf": 0.85,
+      "claim": "Mens was at the summit; survived; inherited Ishukone CEO seat from Otro.",
+      "supporting_sources": []
     }
   ],
   "_curation_notes": [

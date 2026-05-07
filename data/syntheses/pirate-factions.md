@@ -11,6 +11,11 @@
 ~YC110: Angel Cartel took control of the Mimitar system of Skarkon; locals voted to join the Cartel and shut their stargates against the Republic. Symptomatic of Republic governance weakness during the Midular era and a structural parallel for what nullsec NPC factions do when given political opening.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 
+### Archangels Annex Skarkon (and withdraw) *(YC110)*
+
+YC110 Angel Cartel sub-faction Archangels declared annexation of the Skarkon system, then withdrew the claim under Republic counter-pressure. The Skarkon test case became canonical reference for Republic governance failure analysis — and prefigured the later YC123-era Skarkon Angel takeover that Aurora's Skarkon node tracks.
+**Cited in:** [Archangels' unexpected expedition - officials baffled (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/archangels-unexpected-expedition-officials-baffled/) · [Archangels &#34;annex&#34; Skarkon (YC 110)](http://community.eveonline.com/news/news-channels/world-news/archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms/ https://community.eveonline.com/news/news-channels/eve-online-news/skarkon-citizens-speak-about-angel-referendum/) · [Archangels withdraw claim of Skarkon (YC 110)](https://community.eveonline.com/news/news-channels/eve-online-news/archangels-withdraw-skarkon-annexation-claim/ https://community.eveonline.com/news/news-channels/eve-online-news/discussion-continues-over-angel-claim-in-skarkon/) · [Galactic Hour news roundup: Skarkon falls after heavy fighting (YC 122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-skarkon-falls-after-heavy-fighting-in-minmatar-republic-system/)
+
 ## Persons
 
 ### Muryia Mordu
@@ -27,6 +32,11 @@ Founder and current leader of the Guristas. Former Caldari Navy admiral who defe
 
 Head of Serpentis Corporation. Sentona's brother. Silphy's collaborator during her black-market consolidation. The Sarpati siblings are the structural bridge between Sisters of Eve, Serpentis, and the Syndicate — the soft underbelly of the Federation's drug economy.
 **Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [The Sarpati Family ](https://universe.eveonline.com/chronicles/the-sarpati-family)
+
+### General Akuras *(YC120)*
+
+Mordu's Legion commander appointed YC120 to oversee Legion forces on Caldari Prime as part of an operational reorganization. Operational successor to Muryia Mordu in the Caldari Prime theater; the appointment signaled the Legion's deeper Caldari-Prime-occupation phase before the eventual YC128-era departure.
+**Cited in:** [General Akuras to oversee Legion forces on Caldari Prime (YC 120)](https://community.eveonline.com/news/news-channels/world-news/general-akuras-to-oversee-legion-forces-on-caldari-prime/)
 
 ### Sansha Kuvakei *(deceased)*
 
@@ -131,7 +141,10 @@ Sansha cybernetic forced-merger drones produced from captured slaves via the Tru
 - **2×** [BREAKING: Angel Cartel and Guristas Pirates Forces Establish "Forward Operating Bases" in Warzones (2023-11-14)](https://universe.eveonline.com/new-eden-news/breaking-angel-cartel-and-guristas-pirates-forces-establish-forward)
 - **2×** [The Scope – Angel Cartel & Guristas Pirates Insurgencies (2023-11-17)](https://universe.eveonline.com/new-eden-news/the-scope-angel-cartel-and-guristas-pirates-insurgencies)
 - **2×** [Sansha's Nation forces move on Angel Cartel territory (YC 107) (YC108)](http://community.eveonline.com/news/news-channels/eve-online-news/sanshas-nation-forces-move-on-angel-cartel-territory/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Feythabolis/TR07-S"",""label"":""TR07-S""}])
+- **2×** [Archangels &#34;annex&#34; Skarkon (YC 110) (YC110)](http://community.eveonline.com/news/news-channels/world-news/archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms/ https://community.eveonline.com/news/news-channels/eve-online-news/skarkon-citizens-speak-about-angel-referendum/)
+- **2×** [Archangels withdraw claim of Skarkon (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/archangels-withdraw-skarkon-annexation-claim/ https://community.eveonline.com/news/news-channels/eve-online-news/discussion-continues-over-angel-claim-in-skarkon/)
 - **2×** [Mordu's Legion and Angel Cartel offer aid (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/mordus-legion-and-angel-cartel-join-guristas-in-offering-to-aid-caldari-targets/)
+- **2×** [Galactic Hour news roundup: Skarkon falls after heavy fighting (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-skarkon-falls-after-heavy-fighting-in-minmatar-republic-system/)
 - **1×** [Silphy (Chronicle) (2001-08-06)](https://universe.eveonline.com/chronicles/silphy)
 - **1×** [Guristas pirates retreat completely from Crielere after latest assault is thwarted (2004-02-05)](https://universe.eveonline.com/new-eden-news/guristas-pirates-retreat-completely-from-crielere-after-latest-assault-is-thwarted)
 - **1×** [Guristas pirates in disarray as they seek to offload scientists (2004-02-15)](https://universe.eveonline.com/new-eden-news/guristas-pirates-in-disarray-as-they-seek-to-offload-scientists)
@@ -209,6 +222,7 @@ Sansha cybernetic forced-merger drones produced from captured slaves via the Tru
 - **1×** [Vanguard Clash with Mordu's Legion Planetside (2025-09-18)](https://universe.eveonline.com/new-eden-news/vanguard-clash-with-mordus-legion-planetside)
 - **1×** [Sansha's Nation reemerging (YC 105) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [War ended in Venal region? (YC 105) (YC105)](https://www.eveonline.com/article/war-ended-in-venal-region)
+- **1×** [Archangels' unexpected expedition - officials baffled (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/archangels-unexpected-expedition-officials-baffled/)
 - **1×** [Scavenger hunt hijacked by Angel Cartel (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/scavenger-hunt-hijacked-by-angel-cartel/)
 - **1×** [Guristas pirates in disarray as they seek to offload scientists (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/guristas-pirates-in-disarray-as-they-seek-to-offload-scientists-1/)
 - **1×** [Guristas pirates retreat completely from Crielere after latest assault is thwarted (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/guristas-pirates-retreat-completely-from-crielere-after-latest-assault-is-thwarted/)
@@ -234,8 +248,6 @@ Sansha cybernetic forced-merger drones produced from captured slaves via the Tru
 - **1×** [Mordu’s Legion experience recruitment surge (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/mordus-legion-experience-recruitment-surge/)
 - **1×** [Mordu's Legion mobilizes (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/mordus-legion-mobilizes/)
 - **1×** [Commerce and travel between Thukker tribe and Minmatar Republic increasing (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/commerce-between-thukker-tribe-and-minmatar-republic-increasing/ https://community.eveonline.com/news/news-channels/eve-online-news/travel-by-minmatar-into-thukker-tribe-space-increases/)
-- **1×** [Archangels &#34;annex&#34; Skarkon (YC 110) (YC110)](http://community.eveonline.com/news/news-channels/world-news/archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms/ https://community.eveonline.com/news/news-channels/eve-online-news/skarkon-citizens-speak-about-angel-referendum/)
-- **1×** [Archangels withdraw claim of Skarkon (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/archangels-withdraw-skarkon-annexation-claim/ https://community.eveonline.com/news/news-channels/eve-online-news/discussion-continues-over-angel-claim-in-skarkon/)
 - **1×** [Minmatar Republic, Thukker Tribe launch joint manhunt (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/minmatar-republic-thukker-tribe-launch-joint-manhunt/)
 - **1×** [Thukker Tribe to join Republic with full autonomy in the Great Wildlands (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands/)
 - **1×** [Sansha’s Nation invade Oruse (YC 112) (YC112)](https://community.eveonline.com/news/news-channels/eve-online-news/sanshas-nation-invade-oruse/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Solitude/Oruse"",""label"":""Oruse""}])
@@ -256,6 +268,6 @@ Sansha cybernetic forced-merger drones produced from captured slaves via the Tru
 - **1×** [Serpentis corporation strikes back against Upwell Consortium (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/serpentis-corporation-strikes-back-against-upwell-consortium/)
 - **1×** [SoE splinter group warns of shift in Drifter activity; Thukker Tribe confirms (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior/)
 - **1×** [Omir Sarikusa defiant in loss of Sotiyo shipyard (YC 119) (YC119)](https://community.eveonline.com/news/news-channels/world-news/blood-raider-leader-defiant-in-aftermath-of-capsuleer-destruction-of-shipyard/)
-- **1×** [Galactic Hour news roundup: Skarkon falls after heavy fighting (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-skarkon-falls-after-heavy-fighting-in-minmatar-republic-system/)
+- **1×** [General Akuras to oversee Legion forces on Caldari Prime (YC 120) (YC120)](https://community.eveonline.com/news/news-channels/world-news/general-akuras-to-oversee-legion-forces-on-caldari-prime/)
 - **1×** [Sansha's Nation destroyed (YC 37) (YC37)](http://wiki.eve-inspiracy.com/index.php?title=Sansha"",""label"":""Wikie""}])
 - **1×** [Sansha's Nation began forming (YC 5) (YC5)](http://wiki.eve-inspiracy.com/index.php?title=Sansha)

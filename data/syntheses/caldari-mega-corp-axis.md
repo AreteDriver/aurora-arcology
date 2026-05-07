@@ -4,6 +4,13 @@
 
 *Source-grounded synthesis. Curator-authored claim text, deduplicated. Every citation traces to a primary source.*
 
+## Events
+
+### Crielere Project (collapse) *(YC105)*
+
+YC105 Federation–State joint research project announced as a milestone in inter-empire cooperation. Caldari police were investigated after sabotage and vandalism accusations, and the project collapsed amid intra-State factional conflict. Foreshadowed the modern Mountain/Ocean axis: pro-cooperation factions (later Ishukone-aligned) vs anti-Federation factions (later Provist/Heth-aligned).
+**Cited in:** [Caldari and Gallente dignitaries attend conference at Crielere - Foiritan causes stir (YC 105)](http://community.eveonline.com/news/news-channels/eve-online-news/caldari-and-gallente-dignitaries-attend-conference-at-crielere-foiritan-causes-stir/) · [Caldari police forces in Crielere under investigation after accusations (YC 105)](https://www.eveonline.com/article/caldari-police-forces-in-crielere-are-currently-under-investigation-after-serious-accusations.) · [Crielere Project announced (YC105)](https://www.eveonline.com/article/the-state-and-federation-open-new-research-center-1 https://fiction.eveonline.com/new-eden/lore/crielere-research-laboratories) · [Ishukone CEO reveals new techologies from Crielere (YC 105)](http://community.eveonline.com/news/news-channels/world-news/ishukone-ceo-gariushi-unveils-crielere-discoveries/ http://community.eveonline.com/news/news-channels/world-news/minmatars-excited-over-new-technologies/) · [Valuable blueprints missing from the Crielere Research facility (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/valuable-blueprints-missing-from-the-crielere-research-facility/)
+
 ## Persons
 
 ### Akimaka Saraki
@@ -93,6 +100,10 @@ Caldari State core region. Contains Jita (the trade hub) and the major State ind
 
 The whiteboard. Durable rivalry running through 20+ years of Caldari political realignment. Mountain+Ocean cluster on Ishukone side; Forest on Lai Dai side. SoE / Mordu's Legion / Ytiri / Star Seed map to Ishukone; NOH / CBD / Forest / Quafe / Sarpati line maps to Lai Dai. Without this frame the Warpath beats look like empire-vs-empire; with it they look like a hostile takeover.
 **Cited in:** [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+
+### Mountain / Ocean / Forest factional split (Caldari)
+
+The three Caldari political factions inside the State: Mountain (state-loyalist militants — Heth/Provists/Saraki), Ocean (corporate cooperationists — Otro/Mens/Ishukone), Forest (industrial-traditionalist neutrals — Hyasyoda/Lai Dai). The Crielere Project YC105 was the Ocean-faction signature initiative; its collapse marked Mountain ascendancy. The current YC128 Saraki consolidation is structurally a Mountain reassertion against Ocean tendencies.
 
 ### Soft Drink Wars
 
@@ -270,8 +281,13 @@ Caldari political faction. Mountain ally. Ishukone-axis. The less-visible half o
 - **1×** [Ishukone and CEP Battle SARO in CONCORD Assembly Over Dangerous Research Materials (2019-02-12)](https://universe.eveonline.com/new-eden-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials)
 - **1×** [BREAKING - Caldari Navy Seizes Control of Athounon Strategic Sites (2022-11-09)](https://universe.eveonline.com/new-eden-news/breaking-caldari-navy-seizes-control-of-athounon-strategic-sites)
 - **1×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident (2026-05-01)](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
+- **1×** [Caldari and Gallente dignitaries attend conference at Crielere - Foiritan causes stir (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/caldari-and-gallente-dignitaries-attend-conference-at-crielere-foiritan-causes-stir/)
+- **1×** [Caldari police forces in Crielere under investigation after accusations (YC 105) (YC105)](https://www.eveonline.com/article/caldari-police-forces-in-crielere-are-currently-under-investigation-after-serious-accusations.)
+- **1×** [Crielere Project announced (YC105) (YC105)](https://www.eveonline.com/article/the-state-and-federation-open-new-research-center-1 https://fiction.eveonline.com/new-eden/lore/crielere-research-laboratories)
+- **1×** [Ishukone CEO reveals new techologies from Crielere (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/world-news/ishukone-ceo-gariushi-unveils-crielere-discoveries/ http://community.eveonline.com/news/news-channels/world-news/minmatars-excited-over-new-technologies/)
 - **1×** [Chief Executive Panel promises an investigation into Delicacies claims (YC 105) (YC105)](https://www.eveonline.com/article/chief-executive-panel-promises-an-investigation-into-delicacies-claims)
 - **1×** [Quafe Company Accused of Arms Running (YC 105) (YC105)](https://www.eveonline.com/article/quafe-company-accused-of-arms-running)
+- **1×** [Valuable blueprints missing from the Crielere Research facility (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/valuable-blueprints-missing-from-the-crielere-research-facility/)
 - **1×** [Otro Gariushi defends Dark Amarr deal - claims chips improve slaves' lives (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/otro-gariushi-defends-dark-amarr-deal-claims-chips-improve-slaves-lives-1/)
 - **1×** [Guristas Pirates strike against Caldari Navy convoy (YC 108) (YC108)](http://forum.battleclinic.com/index.php?topic=7174.0;wap)
 - **1×** [Caldari Navy claims a heavy blow (YC 108) (YC109)](https://community.eveonline.com/news/news-channels/eve-online-news/caldari-navy-claims-a-heavy-blow/)

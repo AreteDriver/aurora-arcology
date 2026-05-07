@@ -282,6 +282,10 @@ The immortal pilot caste — humans who undergo subcranial-implant-and-cloning t
 Upcoming Faction Warfare expansion mechanic announced for the YC128 expansion cycle. Predicted Mil-Campaign #1: Fate of Syndicate. Predicted Mil-Campaign #2: Ammatar Mandate, with a Starkmanir vs Nefantar tribal axis.
 **Cited in:** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
 
+### Mountain / Ocean / Forest factional split (Caldari)
+
+The three Caldari political factions inside the State: Mountain (state-loyalist militants — Heth/Provists/Saraki), Ocean (corporate cooperationists — Otro/Mens/Ishukone), Forest (industrial-traditionalist neutrals — Hyasyoda/Lai Dai). The Crielere Project YC105 was the Ocean-faction signature initiative; its collapse marked Mountain ascendancy. The current YC128 Saraki consolidation is structurally a Mountain reassertion against Ocean tendencies.
+
 ### Warpath Message Text
 
 The CCP text appearing on impacted CONCORD terminals at the moment of attack. Tone is playful-malicious. Origin unattributed; Ash leans Guristas, rules out Deathless / EOM / Sansha. Functions as the only direct creator-inserted clue to Warpath's authorship.

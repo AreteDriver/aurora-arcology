@@ -25,6 +25,11 @@ YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the pl
 YC117 Amarr–Minmatar capital-fleet engagement above Floseswin IV — pitched dreadnought-class warfare. Triggered the Drifter assassination of Empress Jamyl I (Drifters intervened to kill her during the battle). Floseswin marks the moment when the Drifter conflict went from background phenomenon to direct intervention in empire politics.
 **Cited in:** [BREAKING: Amarr Dreadnoughts Destroyed in Pitched Amarr-Minmatar Battle over Floseswin IV](https://universe.eveonline.com/new-eden-news/breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv)
 
+### Fall of Niarja *(YC122)*
+
+YC122 Triglavian conquest of Niarja during the Triglavian Invasion — severing the high-sec trade corridor between Amarr and Caldari space and collapsing what was historically the most heavily-trafficked sub-cluster route. The Niarja severance is the structural cause of the Amarr-Caldari trade reorientation that Catiz I's territorial reorganization later codified.
+**Cited in:** [Galactic Hour news roundup: Fall of Niarja (YC 122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-fall-of-niarja-shocks-amarr-empire-and-caldari-state/) · [Galactic Hour news roundup: Triglavian invasion of Niarja (YC 122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route/)
+
 ### Triglavian Invasion *(YC122)*
 
 YC122 Triglavian conquest of 27 systems via the abyssal-filament invasion mechanic. Formed Pochven, opened the Triglavian-Drifter conflict to capsuleer participation, and exposed the Niarja trade-route severance that broke the Amarr-Caldari high-sec corridor. EDENCOM's formation as an inter-empire defensive coalition came directly from the Invasion response. Structurally a third-power eruption between the four-empire system and Drifter forces.
@@ -82,6 +87,11 @@ Ishukone-built research project. Major CONCORD funding shifted to AIR around the
 
 Anoyus Mapping Project. Capsuleer initiative working with the Federation. Continuous monitoring of every system in wormhole space. Founded by Rio Talifo. First public sounding on Drifter-tech risks; vindicated by Jita-gate.
 
+### Cult of Tetrimon
+
+Amarr orthodox religious sect — the doctrinal-purity wing of the Amarr theology. Investigates clone-tech for theological compliance; ran the Order of St. Tetrimon investigation into the Hollow Clone Disaster. Cult's posture is anti-capsuleer-immortality on theological grounds; Heideran VII tolerated them but Catiz I's reorganization curbed their influence.
+**Cited in:** [Theology Council to lift suppression edict for Tetrimon case (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/theology-council-to-lift-suppression-edict-for-tetrimon-case/) · [Privy Council orders investigation into Tetrimon temple (YC 108)](https://community.eveonline.com/news/news-channels/eve-online-news/privy-council-orders-investigation-into-tetrimon-temple/) · [St. Tetrimon Edict lifted – Order allowed to return to Amarr Empire (YC 108)](http://community.eveonline.com/news/news-channels/eve-online-news/st.-tetrimon-edict-lifted-order-allowed-to-return-to-amarr-empire/) · [Stolen relics retrieved by Tetrimon cult (YC 108)](https://community.eveonline.com/news/news-channels/eve-online-news/stolen-relics-retrieved-by-tetrimon-cult/) · [Tetrimon Grand Master granted sainthood (YC 108)](https://community.eveonline.com/news/news-channels/eve-online-news/tetrimon-grand-master-granted-sainthood/)
+
 ### EDENCOM
 
 Inter-empire defensive coalition. Ships built by Upwell. Drifter wormhole occupier (one of five). Partnered with Upwell on Sentinel-MZ research. Lost CONCORD funding to AIR Labs in the Mountain/Ocean realignment.
@@ -91,6 +101,10 @@ Inter-empire defensive coalition. Ships built by Upwell. Drifter wormhole occupi
 
 Lost Jovian-descended civilization in Anoikis wormhole space — Jove consciousnesses that committed fully to the Construct and never came out. Awakened during the Apocrypha-era wormhole opening (post-Seyllin). The Sleeper-to-Drifter transition is one of the Drifter Crisis's central canonical mysteries; AIR Labs and SoE both research the boundary.
 **Cited in:** [SCC set to increase prices on sleeper components](https://universe.eveonline.com/new-eden-news/scc-set-to-increase-prices-on-sleeper-components)
+
+### Third Jovian Empire
+
+Current iteration of the Jovian polity following the Second Empire's collapse. Diminished, isolated; the Construct-extracted survivors of the Second Empire form its core. Jovian Admiral Ouria's YC105 rogue defection was a Third-Empire-era crisis. Operationally inscrutable; the Drifter emergence is the cosmic-scale crisis they have not formally claimed.
 
 ### Triglavian Collective
 
@@ -185,6 +199,7 @@ Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-i
 - **2×** [Triglavian Abyssal Filament Technology Present in Data Sites, Confirms Reporter Embedded With Thukker Raiding Party (2018-05-29)](https://universe.eveonline.com/new-eden-news/triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party)
 - **2×** [Lore Tourism - The Redemption of the Ammatar (2026-02)](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 - **2×** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05 (2026-05-05)](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+- **2×** [Galactic Hour news roundup: Triglavian invasion of Niarja (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route/)
 - **2×** [The Scope - EDENCOM prepares for Triglavian invasion (YC 122) (YC122)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Jovian admiral Ouria known to have the Jovian disease (2003-08-10)](https://universe.eveonline.com/new-eden-news/jovian-admiral-ouria-known-to-have-the-jovian-disease)
 - **1×** [BREAKING NEWS: Mystery Armada Containing Thukker Tribe Warships Surround CONCORD Bureau Station (2008-05-30)](https://universe.eveonline.com/new-eden-news/breaking-news-mystery-armada-containing-thukker-tribe-warships-surround-concord-bureau-station)
@@ -243,7 +258,12 @@ Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-i
 - **1×** [Gates into Jita Damaged As Tensions Between Empires Rise (2026-04-21)](https://universe.eveonline.com/new-eden-news/gates-into-jita-damaged-as-tensions-between-empires-rise)
 - **1×** [New Eden News: Warpath YC128-04-21 - YC128-04-30 (2026-04-30)](https://www.youtube.com/watch?v=QUoUNxfSXUk)
 - **1×** [Hoboleaks — Warpath Cycle Items (2026-04-30)](https://sde.hoboleaks.space/)
+- **1×** [Theology Council to lift suppression edict for Tetrimon case (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/theology-council-to-lift-suppression-edict-for-tetrimon-case/)
 - **1×** [EVE gate bears witness to a beautiful union (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/eve-gate-bears-witness-to-a-beautiful-union/)
+- **1×** [Privy Council orders investigation into Tetrimon temple (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/privy-council-orders-investigation-into-tetrimon-temple/)
+- **1×** [St. Tetrimon Edict lifted – Order allowed to return to Amarr Empire (YC 108) (YC108)](http://community.eveonline.com/news/news-channels/eve-online-news/st.-tetrimon-edict-lifted-order-allowed-to-return-to-amarr-empire/)
+- **1×** [Stolen relics retrieved by Tetrimon cult (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/stolen-relics-retrieved-by-tetrimon-cult/)
+- **1×** [Tetrimon Grand Master granted sainthood (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/tetrimon-grand-master-granted-sainthood/)
 - **1×** [Commerce and travel between Thukker tribe and Minmatar Republic increasing (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/commerce-between-thukker-tribe-and-minmatar-republic-increasing/ https://community.eveonline.com/news/news-channels/eve-online-news/travel-by-minmatar-into-thukker-tribe-space-increases/)
 - **1×** [Seyllin Disaster as wormholes emerge (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/weather-satellite-glitch-causes-travel-disruption-1/ https://community.eveonline.com/news/news-channels/eve-online-news/report-communications-lost-with-ore-survey-team-in-outer-ring-1/"",""label"":""News 2""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/breaking-news-all-contact-lost-with-seyllin-1/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/report-seyllin-fluid-routers-located-kilometers-beneath-surface-1/"",""label"":""News 4""}])
 - **1×** [Minmatar Republic, Thukker Tribe launch joint manhunt (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/minmatar-republic-thukker-tribe-launch-joint-manhunt/)
@@ -255,6 +275,6 @@ Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-i
 - **1×** [SoE splinter group warns of shift in Drifter activity; Thukker Tribe confirms (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior/)
 - **1×** [The Scope - The Triglavian Collective Revealed (YC 120) (YC120)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [The Scope - Triglavian Invasion Escalates (YC 121) (YC121)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
-- **1×** [Galactic Hour news roundup: Triglavian invasion of Niarja (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route/)
+- **1×** [Galactic Hour news roundup: Fall of Niarja (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-fall-of-niarja-shocks-amarr-empire-and-caldari-state/)
 - **1×** [Formation of EdenCom announced following Triglavian attacks (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/formation-of-edencom-announced-following-triglavian-attacks-amidst-capsuleer-day-celebrations/)
 - **1×** [The Scope - War in Delve and formation of Pochven (YC 122) (YC122)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)

@@ -10,6 +10,16 @@
 
 YC ~80s Caldari secession from the Gallente Federation, fought over the Federation's culturally-Gallente integration policy. The Caldari Prime homeworld was lost during the war; the Caldari-sympathetic Intaki exiles who became the Intaki Syndicate emerged from this period. Founded the modern four-empire system. The YC112 invasion of Caldari Prime was framed as the Rebellion's eventual closure.
 
+### Crielere Project (collapse) *(YC105)*
+
+YC105 Federation–State joint research project announced as a milestone in inter-empire cooperation. Caldari police were investigated after sabotage and vandalism accusations, and the project collapsed amid intra-State factional conflict. Foreshadowed the modern Mountain/Ocean axis: pro-cooperation factions (later Ishukone-aligned) vs anti-Federation factions (later Provist/Heth-aligned).
+**Cited in:** [Caldari and Gallente dignitaries attend conference at Crielere - Foiritan causes stir (YC 105)](http://community.eveonline.com/news/news-channels/eve-online-news/caldari-and-gallente-dignitaries-attend-conference-at-crielere-foiritan-causes-stir/) · [Caldari police forces in Crielere under investigation after accusations (YC 105)](https://www.eveonline.com/article/caldari-police-forces-in-crielere-are-currently-under-investigation-after-serious-accusations.) · [Crielere Project announced (YC105)](https://www.eveonline.com/article/the-state-and-federation-open-new-research-center-1 https://fiction.eveonline.com/new-eden/lore/crielere-research-laboratories) · [Ishukone CEO reveals new techologies from Crielere (YC 105)](http://community.eveonline.com/news/news-channels/world-news/ishukone-ceo-gariushi-unveils-crielere-discoveries/ http://community.eveonline.com/news/news-channels/world-news/minmatars-excited-over-new-technologies/) · [Valuable blueprints missing from the Crielere Research facility (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/valuable-blueprints-missing-from-the-crielere-research-facility/)
+
+### Caldari State Invasion of Luminaire *(YC110)*
+
+YC110 Caldari military strike into the Luminaire system — the Gallente capital. Pre-Heth State military buildup; established the State's willingness to project force into Federation core space. Coincided with the Tibus Heth coup at Caldari Constructions; the two events together produced the Empyrean Age State.
+**Cited in:** [Caldari State Invades the Luminaire system (YC110)](http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-task-force-crosses-federation-border-invades-gallente-space/ http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-task-force-locks-down-luminaire/"",""label"":""News 2""},{""url"":""http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-bombards-caldari-prime-dropships-land-on-surface/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/breaking-news-tibus-heth-conquers-caldari-prime-foiritan-cedes-control-1/"",""label"":""News 4""}])
+
 ### Malkalen Disaster *(YC110)*
 
 YC110 Caldari–Federation summit aboard Ishukone Headquarters station at Malkalen. Alexander Noir's Nyx struck the station with safety protocols disabled, killing Otro Gariushi and tens of thousands. The 'broker' plot targeted Otro to stop Ishukone's Insorum development. The disaster became Tibus Heth's pretext to militarize the State and triggered the YC112 Caldari invasion of Caldari Prime — the largest interstate war of the modern era.
@@ -135,6 +145,12 @@ Synthetic Vitoxin antidote co-developed by Ishukone and Galente parties. Threate
 Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains slave dependence on Amarr supply. The pharmacological backbone of the Amarr economy; disrupting it threatens the entire Khanid agricultural base.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one)
 
+## Concepts
+
+### Mountain / Ocean / Forest factional split (Caldari)
+
+The three Caldari political factions inside the State: Mountain (state-loyalist militants — Heth/Provists/Saraki), Ocean (corporate cooperationists — Otro/Mens/Ishukone), Forest (industrial-traditionalist neutrals — Hyasyoda/Lai Dai). The Crielere Project YC105 was the Ocean-faction signature initiative; its collapse marked Mountain ascendancy. The current YC128 Saraki consolidation is structurally a Mountain reassertion against Ocean tendencies.
+
 ---
 
 ## Sources cited
@@ -164,6 +180,7 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **2×** [New Caldari Ishukone Erection 3 Meters Taller Than Kaalakiota Erection (2019-04-01)](https://universe.eveonline.com/new-eden-news/new-caldari-ishukone-erection-3-meters-taller-than-kaalakiota-erection)
 - **2×** [Kaalakiota Backs Sukuuvestaa Over Lai Dai in "Ghost Ship" Tussle (2020-04-01)](https://universe.eveonline.com/new-eden-news/kaalakiota-backs-sukuuvestaa-over-lai-dai-in-ghost-ship-tussle)
 - **2×** [Lore Tourism - The Redemption of the Ammatar (2026-02)](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+- **2×** [Caldari State Invades the Luminaire system (YC110) (YC110)](http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-task-force-crosses-federation-border-invades-gallente-space/ http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-task-force-locks-down-luminaire/"",""label"":""News 2""},{""url"":""http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-bombards-caldari-prime-dropships-land-on-surface/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/breaking-news-tibus-heth-conquers-caldari-prime-foiritan-cedes-control-1/"",""label"":""News 4""}])
 - **2×** [Tibus Heth denounces Caldari Prime DMZ (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/tibus-heth-angrily-denounces-caldari-prime-dmz-blasts-ishukone-and-suvee-participation/)
 - **1×** [Gallente citizens voice concerns with Sukuuvestaa deal (2003-10-31)](https://universe.eveonline.com/new-eden-news/gallente-citizens-voice-concerns-with-sukuuvestaa-deal)
 - **1×** [Ishukone Decries Delicacies Scandal, Offers to Reimburse (2003-11-10)](https://universe.eveonline.com/new-eden-news/ishukone-decries-delicacies-scandal-offers-to-reimburse)
@@ -333,6 +350,11 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [Alix Moreau Elected President of Gallente Federation (2026-04-17)](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation)
 - **1×** [Caldari State Conquers Syndicate, Breakout Expected (2026-05-05)](https://universe.eveonline.com/new-eden-news/caldari-state-conquers-syndicate-breakout-expected)
 - **1×** [Caldari State Conquers Syndicate, Breakout Expected (2026-05-05)](https://universe.eveonline.com/new-eden-news/caldari-state-conquers-syndicate-breakout-expected)
+- **1×** [Caldari and Gallente dignitaries attend conference at Crielere - Foiritan causes stir (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/caldari-and-gallente-dignitaries-attend-conference-at-crielere-foiritan-causes-stir/)
+- **1×** [Caldari police forces in Crielere under investigation after accusations (YC 105) (YC105)](https://www.eveonline.com/article/caldari-police-forces-in-crielere-are-currently-under-investigation-after-serious-accusations.)
+- **1×** [Crielere Project announced (YC105) (YC105)](https://www.eveonline.com/article/the-state-and-federation-open-new-research-center-1 https://fiction.eveonline.com/new-eden/lore/crielere-research-laboratories)
+- **1×** [Ishukone CEO reveals new techologies from Crielere (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/world-news/ishukone-ceo-gariushi-unveils-crielere-discoveries/ http://community.eveonline.com/news/news-channels/world-news/minmatars-excited-over-new-technologies/)
+- **1×** [Valuable blueprints missing from the Crielere Research facility (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/valuable-blueprints-missing-from-the-crielere-research-facility/)
 - **1×** [Caldari State Announces Opening of Sign-Up For COLOSSUS Race Series (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/press-release-caldari-state-announces-opening-of-sign-up-for-colossus-race-series-1/)
 - **1×** [Caldari State issues statement of condemnation on Curse Alliance response (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/caldari-state-issues-statement-of-condemnation-on-curse-alliance-response-1/)
 - **1×** [Otro Gariushi defends Dark Amarr deal - claims chips improve slaves' lives (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/otro-gariushi-defends-dark-amarr-deal-claims-chips-improve-slaves-lives-1/)
@@ -347,7 +369,6 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [Caldari Navy claims a heavy blow (YC 108) (YC109)](https://community.eveonline.com/news/news-channels/eve-online-news/caldari-navy-claims-a-heavy-blow/)
 - **1×** [Further riots in the Caldari State (YC 109) (YC109)](https://community.eveonline.com/news/news-channels/eve-online-news/further-riots-in-the-caldari-state/)
 - **1×** [Planned protest fails in wake of Malkalen disaster (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/planned-protest-fails-in-wake-of-malkalen-disaster/)
-- **1×** [Caldari State Invades the Luminaire system (YC110) (YC110)](http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-task-force-crosses-federation-border-invades-gallente-space/ http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-task-force-locks-down-luminaire/"",""label"":""News 2""},{""url"":""http://community.eveonline.com/news/news-channels/world-news/breaking-news-caldari-navy-bombards-caldari-prime-dropships-land-on-surface/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/world-news/breaking-news-tibus-heth-conquers-caldari-prime-foiritan-cedes-control-1/"",""label"":""News 4""}])
 - **1×** [Cautious reaction to Shakor inauguration from Caldari State (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/cautious-reaction-to-shakor-inauguration-from-caldari-state-1/)
 - **1×** [Ethnic violence spreads to the Caldari State (YC 110) (YC110)](http://community.eveonline.com/news/news-channels/world-news/ethnic-violence-spreads-throughout-caldari-state/ http://community.eveonline.com/news/news-channels/world-news/breaking-news-ishukone-ceo-pleads-for-calm-denounces-tibus-heth/"",""label"":""News 2""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/khanid-corporations-rally-behind-gariushi/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/minmatar-diaspora-welcomes-gariushi-speech/"",""label"":""News 4""}])
 - **1×** [Friction mounts between CONCORD and Caldari State (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/friction-mounts-between-concord-and-caldari-state/)

@@ -24,10 +24,20 @@ Empress Jamyl I murdered by Drifters mid-incursion. Triggered the Amarr champion
 Khanid II — who had previously avoided sheal-sin by defecting to form the Khanid Kingdom — lost the post-Jamyl championship and was finally forced to perform the ritual. Closes the centuries-long Khanid avoidance arc and structurally subordinates the Khanid Kingdom to Catiz's authority.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 
+### Publication of Pax Amarria *(YC105)*
+
+Heideran VII's seminal philosophical book on imperial governance, religious orthodoxy, and the Reclaiming. Published YC105; established the modern Amarr theological consensus and was the canonical reference text Catiz I's reorganization later partially repudiated. Commonly cited in Imperial Court rhetoric and the Five Heirs succession debates.
+**Cited in:** [Heideran VII's much appraised book 'Pax Amarria' published (YC 105)](https://www.eveonline.com/article/heideran-viis-much-appraised-book-pax-amarria-published-1)
+
 ### Minmatar Elder War *(YC110)*
 
 The YC110 reappearance of the Minmatar Elder Fleet from Anoikis after centuries of exile. Triggered Republic invasions of the Ammatar Mandate and Amarr Empire, the Empress Jamyl I crisis, and the Sansha capital fleet incident in Jove space. The Elder War is the structural mirror of Heth's YC112 Caldari Prime invasion — both are 'reclamation' wars that reset the four-empire balance.
 **Cited in:** [BREAKING NEWS: IMPERIAL NAVY EMERGES IN KOR-AZOR REGION WITH JAMYL SARUM, ELDER FLEETS RETREATING](https://universe.eveonline.com/new-eden-news/breaking-news-imperial-navy-emerges-in-kor-azor-region-with-jamyl-sarum-elder-fleets-retreating)
+
+### Kador Invasion of Gallente Space *(YC110)*
+
+YC110 House Kador military operation across the Federation border — an Amarr Royal House conducting unilateral military action without Imperial sanction. Empress Jamyl I subsequently reprimanded Heir Kador and confiscated their fleet. Marks the Kador house's break with Imperial central authority and the structural origin of the modern Sarum-Kador rivalry.
+**Cited in:** [Kador invasion of Gallente space (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/breaking-report-amarrian-warships-cross-federation-border-in-solitude-1/ https://community.eveonline.com/news/news-channels/eve-online-news/breaking-report-warships-reportedly-acting-on-orders-from-amarr-heir-uriam-kador-1/"",""label"":""News 2""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/report-kador-fleet-launches-invasion-of-gallente-federation-in-solitude-heavy-casualties-reported-as-fighting-is-underway-2/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/imperial-fleet-spokesperson-we-have-not-sanctioned-this-attack-1/"",""label"":""News 4""}])
 
 ### Sarum Prime Superweapon Strike *(YC110)*
 
@@ -76,6 +86,11 @@ Wielded the Sarum Prime superweapon against the Elder Fleet. Later murdered by D
 Defected from Amarr ~200+ years ago to avoid sheal-sin after his first championship loss; founded the Khanid Kingdom. Lost the post-Jamyl championship and was finally forced to perform the ritual. His arc closes the long-running Khanid-as-rebel-kingdom narrative.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [Empress Jamly I meets with King Khanid II (YC 111)](http://community.eveonline.com/news/news-channels/world-news/empress-jamyl-i-meets-with-king-khanid-ii/) · [Khanid II departs Tash-Murkon Prime, arrives in Amarr (YC 111)](http://community.eveonline.com/news/news-channels/world-news/king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Tash-Murkon/Tash-Murkon_Prime"",""label"":""Tash-Murkon Prime""},{""url"":""http://evemaps.dotlan.net/map/Domain/Amarr"",""label"":""Amarr""}]) · [The Khanid Kingdom](https://universe.eveonline.com/chronicles/the-khanid-kingdom) · [Empress Jamyl I meets with King Khanid II](https://universe.eveonline.com/new-eden-news/empress-jamyl-i-meets-with-king-khanid-ii) · [King Khanid II departs Tash-Murkon Prime, arrives in Amarr](https://universe.eveonline.com/new-eden-news/king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr)
 
+### Stavros (YC105 Amarr throne pretender) *(YC105)*
+
+Made bid for the Amarr throne during the YC105 succession trial. Notable failed challenger in the Heideran-Doriam succession cycle; structurally the same role as later figures who challenge the Empress's authority but lack a House backing strong enough to convert the bid.
+**Cited in:** [Stavros Acknowledges Bid for Amarr Throne (YC 105)](https://www.eveonline.com/article/stavros-acknowledges-bid-for-amarr-throne https://www.eveonline.com/article/amarrian-commitee-of-moral-purity-and-elimination-of-vice-regrets-stavros-claim-to-throne-condemns-his-actions-as-heretical-1)
+
 ## Organizations
 
 ### 24th Imperial Crusade
@@ -87,6 +102,11 @@ Amarr Faction Warfare militia. The Empire's volunteer / capsuleer-pilot frontlin
 
 Amarr Empire military fleet. Operates across all five Royal Houses' territories under the Empress's direct authority. Currently engaged in operations against Drifters in Khanid space and against capsuleer disruption of slave-shipment lanes — and Catiz I's territorial reorganization restructured their command chain.
 **Cited in:** [Amarr Navy Forces in Combat with Drifters in Khanid Kingdom](https://universe.eveonline.com/new-eden-news/amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom)
+
+### Cult of Tetrimon
+
+Amarr orthodox religious sect — the doctrinal-purity wing of the Amarr theology. Investigates clone-tech for theological compliance; ran the Order of St. Tetrimon investigation into the Hollow Clone Disaster. Cult's posture is anti-capsuleer-immortality on theological grounds; Heideran VII tolerated them but Catiz I's reorganization curbed their influence.
+**Cited in:** [Theology Council to lift suppression edict for Tetrimon case (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/theology-council-to-lift-suppression-edict-for-tetrimon-case/) · [Privy Council orders investigation into Tetrimon temple (YC 108)](https://community.eveonline.com/news/news-channels/eve-online-news/privy-council-orders-investigation-into-tetrimon-temple/) · [St. Tetrimon Edict lifted – Order allowed to return to Amarr Empire (YC 108)](http://community.eveonline.com/news/news-channels/eve-online-news/st.-tetrimon-edict-lifted-order-allowed-to-return-to-amarr-empire/) · [Stolen relics retrieved by Tetrimon cult (YC 108)](https://community.eveonline.com/news/news-channels/eve-online-news/stolen-relics-retrieved-by-tetrimon-cult/) · [Tetrimon Grand Master granted sainthood (YC 108)](https://community.eveonline.com/news/news-channels/eve-online-news/tetrimon-grand-master-granted-sainthood/)
 
 ### Imperial Court
 
@@ -173,6 +193,7 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **2×** [Amarr Empire Celebrates the Reign of Empress Jamyl I with State Funeral (2015-09-20)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-the-reign-of-empress-jamyl-i-with-state-funeral)
 - **2×** [Amarr Empire Looks Forward to First Jubilee of Coronation of Empress Catiz I (2017-09-22)](https://universe.eveonline.com/new-eden-news/amarr-empire-looks-forward-to-first-jubilee-of-coronation-of-empress-catiz-i)
 - **2×** [Amarr Empire Celebrates Catiz I's Second Year as Empress with Military Parade (2018-09-27)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-catiz-is-second-year-as-empress-with-military-parade)
+- **2×** [St. Tetrimon Edict lifted – Order allowed to return to Amarr Empire (YC 108) (YC108)](http://community.eveonline.com/news/news-channels/eve-online-news/st.-tetrimon-edict-lifted-order-allowed-to-return-to-amarr-empire/)
 - **2×** [Penal Brigade drawn from Ammatar Mandate sent to support 24th Imperial Crusade (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade-1/)
 - **2×** [Amarr Empire declares war on Drifters, Drifter force spotted in Khanid Kingdom (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/breaking-news-amarr-empire-declares-war-on-drifters/ http://community.eveonline.com/news/news-channels/world-news/breaking-amarr-navy-forces-in-combat-with-drifters-in-khanid-kingdom/"",""label"":""News 2""},{""url"":""http://evemaps.dotlan.net/map/Khanid/Nandeza"",""label"":""Nandeza""}])
 - **1×** [The Ammatars (2000-12-18)](https://universe.eveonline.com/chronicles/the-ammatars)
@@ -278,17 +299,23 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **1×** [Tash-Murkon celebrates as Cluster Fights Back (2025-02-11)](https://universe.eveonline.com/new-eden-news/tash-murkon-celebrates-as-cluster-fights-back)
 - **1×** [New Eden News: Warpath YC128-04-21 - YC128-04-30 (2026-04-30)](https://www.youtube.com/watch?v=QUoUNxfSXUk)
 - **1×** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05 (2026-05-05)](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+- **1×** [Heideran VII's much appraised book 'Pax Amarria' published (YC 105) (YC105)](https://www.eveonline.com/article/heideran-viis-much-appraised-book-pax-amarria-published-1)
 - **1×** [Idonis Ardishapur: &#34;No undeserving creature can represent us&#34; - Journalist missing (YC 105) (YC105)](https://www.eveonline.com/article/idonis-ardishapur-no-undeserving-creature-can-represent-us-journalist-missing)
+- **1×** [Stavros Acknowledges Bid for Amarr Throne (YC 105) (YC105)](https://www.eveonline.com/article/stavros-acknowledges-bid-for-amarr-throne https://www.eveonline.com/article/amarrian-commitee-of-moral-purity-and-elimination-of-vice-regrets-stavros-claim-to-throne-condemns-his-actions-as-heretical-1)
 - **1×** [Ishukone Vessel Missing in Domain Region, Reward Offered (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/ishukone-vessel-missing-in-domain-region-reward-offered/)
 - **1×** [Sarum forces, Amarr Navy increase presence in Sarum Prime (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/sarum-forces-amarr-navy-increase-presence-in-sarum-prime-security-status-change-imminent/)
 - **1×** [Apocalypse Winners To Give Ship Back To Amarr Empire (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/apocalypse-winners-to-give-ship-back-to-amarr-empire/)
 - **1×** [Imperial Apoc Returned To Amarr Empire Amid Fierce Minmatar Resistance (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/imperial-apoc-returned-to-amarr-empire-amid-fierce-minmatar-resistance/)
+- **1×** [Theology Council to lift suppression edict for Tetrimon case (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/theology-council-to-lift-suppression-edict-for-tetrimon-case/)
 - **1×** [Ishukone and Khanid Kingdom sign multitrillion trade deal on Transcranial Microcontrollers (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/ishukone-and-khanid-kingdom-sign-multitrillion-trade-deal-on-transcranial-microcontrollers/)
 - **1×** [Khanid Kingdom strenuously denies ill treatment of slaves (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/khanid-kingdom-strenuously-denies-ill-treatment-of-slaves-1/)
-- **1×** [St. Tetrimon Edict lifted – Order allowed to return to Amarr Empire (YC 108) (YC108)](http://community.eveonline.com/news/news-channels/eve-online-news/st.-tetrimon-edict-lifted-order-allowed-to-return-to-amarr-empire/)
+- **1×** [Privy Council orders investigation into Tetrimon temple (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/privy-council-orders-investigation-into-tetrimon-temple/)
+- **1×** [Stolen relics retrieved by Tetrimon cult (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/stolen-relics-retrieved-by-tetrimon-cult/)
+- **1×** [Tetrimon Grand Master granted sainthood (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/tetrimon-grand-master-granted-sainthood/)
 - **1×** [Imperial Court remains silent about Bleak Lands (YC 109) (YC109)](http://community.eveonline.com/news/news-channels/world-news/imperial-court-remains-silent-about-bleak-land-troubles/)
 - **1×** [Amarr Navy patrols the Bleak Lands (YC 109) (YC109)](http://community.eveonline.com/news/news-channels/world-news/amarr-navy-patrols-the-bleak-lands-in-force/ http://community.eveonline.com/news/news-channels/world-news/amarr-7th-fleet-fortifies-bases-in-the-bleak-lands/)
 - **1×** [Grim outlook for The Bleak Lands (YC 109) (YC109)](http://community.eveonline.com/news/news-channels/world-news/outlook-grim-for-the-bleak-lands/)
+- **1×** [Kador invasion of Gallente space (YC110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/breaking-report-amarrian-warships-cross-federation-border-in-solitude-1/ https://community.eveonline.com/news/news-channels/eve-online-news/breaking-report-warships-reportedly-acting-on-orders-from-amarr-heir-uriam-kador-1/"",""label"":""News 2""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/report-kador-fleet-launches-invasion-of-gallente-federation-in-solitude-heavy-casualties-reported-as-fighting-is-underway-2/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/imperial-fleet-spokesperson-we-have-not-sanctioned-this-attack-1/"",""label"":""News 4""}])
 - **1×** [24th Imperial Crusade aids in rescue of Imperial Scientist (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/24th-imperial-crusade-aids-in-rescue-of-imperial-scientist/)
 - **1×** [Minmatar Elders launch invasion of Amarr Empire (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/report-minmatar-thukker-armada-invades-ammatar-mandate/ https://community.eveonline.com/news/news-channels/eve-online-news/minmatar-populace-takes-to-the-streets/"",""label"":""News 2""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/mandate-technician-speaks-of-jarizza-assault/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/breaking-news-minmatar-thukker-ragnarok-titan-jumps-into-jarizza-dropships-reportedly-landing-on-halturzhan/"",""label"":""News 4""}])
 - **1×** [Political Vacuum in Ammatar Mandate continues; populace in turmoil (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/political-vacuum-in-ammatar-mandate-continues-populace-in-turmoil/)

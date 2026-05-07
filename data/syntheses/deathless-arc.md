@@ -48,6 +48,10 @@ Mercenary group under Muryia Mordu. Co-developer of clone-soldier / Templar tech
 Lost Jovian-descended civilization in Anoikis wormhole space — Jove consciousnesses that committed fully to the Construct and never came out. Awakened during the Apocrypha-era wormhole opening (post-Seyllin). The Sleeper-to-Drifter transition is one of the Drifter Crisis's central canonical mysteries; AIR Labs and SoE both research the boundary.
 **Cited in:** [SCC set to increase prices on sleeper components](https://universe.eveonline.com/new-eden-news/scc-set-to-increase-prices-on-sleeper-components)
 
+### Third Jovian Empire
+
+Current iteration of the Jovian polity following the Second Empire's collapse. Diminished, isolated; the Construct-extracted survivors of the Second Empire form its core. Jovian Admiral Ouria's YC105 rogue defection was a Third-Empire-era crisis. Operationally inscrutable; the Drifter emergence is the cosmic-scale crisis they have not formally claimed.
+
 ### Triglavian Collective
 
 Abyssal humanoid civilization that emerged from Abyssal Deadspace via the Drifter Crisis upheavals. Conquered 27 systems through the Invasion arc to form Pochven. Tied to abyssal-filament technology and a multi-front conflict with the Drifters. Their proxis-class doctrine sits adjacent to Construct-derived tech without using it the same way — making them a third pole next to Drifter and capsuleer civilizations.
