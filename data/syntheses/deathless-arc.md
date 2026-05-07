@@ -95,6 +95,11 @@ Most distant Minmatar tribe. Operates in Great Wildlands. Wormhole-interested. S
 
 The wormhole-space cluster — formerly Sleeper civilization territory, exposed to capsuleer access by the YC111 Apocrypha-era opening. Site of Thera (SoE deep-research base), the Drifter hyperspace network, the prismatic-sites phenomena, and the Sleeper-civilization remnants. Every wormhole-tech storyline operates in or through Anoikis.
 
+### Cloud Ring region
+
+Sov-null region. Capsuleer-alliance contested territory; major null-sec power-bloc battleground. Sits between Outer Ring and Pure Blind. Mordu's Legion's Pureblind position-strengthening YC107 was Cloud-Ring-adjacent.
+**Cited in:** [Syndicate and Cloud Ring shaken by yet another war! (YC 105)](http://community.eveonline.com/news/news-channels/eve-online-news/syndicate-and-cloud-ring-shaken-by-yet-another-war/) · [Biomass harvesters reported in Pure Blind (YC 107)](https://community.eveonline.com/news/news-channels/eve-online-news/biomass-harvesters-reported-in-pure-blind/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Pure_Blind/EC-P8R"",""label"":""EC-P8R""}]) · [Pure Blind plays host to the Mordu’s Legion fleet (YC 107)](http://community.eveonline.com/news/news-channels/eve-online-news/pure-blind-plays-host-to-the-mordus-legion-fleet/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Pure_Blind/5ZXX-K"",""label"":""5ZXX-K""}])
+
 ### EVE Gate
 
 The collapsed wormhole connecting New Eden to humanity's home cluster. Located in New Eden system. The original passage through which the four-empire ancestors arrived; collapsed catastrophically in pre-history (the eve_gate_collapse event), stranding the colonists. Sisters of EVE research focus; structurally adjacent to the Drifter network and Caroline's Star phenomena. Zarzakh sits in EVE-Gate-adjacent space.
@@ -103,6 +108,10 @@ The collapsed wormhole connecting New Eden to humanity's home cluster. Located i
 ### Genesis region
 
 Federation–CONCORD borderland region. Contains Yulai (CONCORD HQ) and EVE-Gate-adjacent territory. The structural neutral zone between Federation and Empire spheres. Catiz I's territorial reorganization affected the Genesis frontier.
+
+### Outer Ring region
+
+Sov-null region. ORE (Outer Ring Excavations) home territory; rare ore reserves and capsuleer-alliance industrial extraction zones. Adjacent to Cloud Ring and Curse.
 
 ### Pochven
 
@@ -147,6 +156,7 @@ Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121 (
 - **2×** [Triglavian Abyssal Filament Technology Present in Data Sites, Confirms Reporter Embedded With Thukker Raiding Party (2018-05-29)](https://universe.eveonline.com/new-eden-news/triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party)
 - **2×** [Zarzakh Report: Shikari Consequences and the Deathless (2024-11-21)](https://universe.eveonline.com/new-eden-news/zarzakh-report-consequences-and-the-deathless)
 - **2×** [EVE Lore 2025 Part 1 — The Deathless (2025)](https://www.youtube.com/watch?v=rL-fHzuQ5iE)
+- **2×** [Pure Blind plays host to the Mordu’s Legion fleet (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/pure-blind-plays-host-to-the-mordus-legion-fleet/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Pure_Blind/5ZXX-K"",""label"":""5ZXX-K""}])
 - **1×** [Mordu’s Legion (2001-10-01)](https://universe.eveonline.com/chronicles/mordus-legion)
 - **1×** [Mordu's Legion and Guardian Angels clash in Fountain region (2004-08-03)](https://universe.eveonline.com/new-eden-news/mordus-legion-and-guardian-angels-clash-in-fountain-region)
 - **1×** [Mordu's Legion hunts and kills Serpentis battleship (2005-07-12)](https://universe.eveonline.com/new-eden-news/mordus-legion-hunts-and-kills-serpentis-battleship)
@@ -227,6 +237,7 @@ Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121 (
 - **1×** [New Eden News - Warnings Raised Over Drifter Wormhole Experiments (YC127-10-30) (2025-10-30)](https://www.youtube.com/watch?v=hPbfRmzc1bI)
 - **1×** [The Empyrean Age (YC 105 -) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Jovian Admiral Ouria goes rogue, is defeated (YC 105) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+- **1×** [Syndicate and Cloud Ring shaken by yet another war! (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/syndicate-and-cloud-ring-shaken-by-yet-another-war/)
 - **1×** [Mordu's Legion and Serpentis forces clash in Fountain (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/world-news/mordus-legion-and-guardian-angels-clash-in-fountain-region/)
 - **1×** [Mordu's Legion infiltrates Serpentis space (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/world-news/mordu-infiltrates-serpentis-space-but-avoids-conflict/)
 - **1×** [Mordu's Legion mobilizing (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/muryia-mordu-arrives-safely-at-his-headquarters-region-in-uproar/ http://community.eveonline.com/news/news-channels/world-news/mordus-legion-mobilizing-what-is-ore-up-to/)
@@ -238,7 +249,7 @@ Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121 (
 - **1×** [Mordu's Legion to strengthen its Pureblind position (YC 107) (YC107)](https://community.eveonline.com/news/news-channels/eve-online-news/mordus-legion-to-strengthen-its-pureblind-position/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Pure_Blind/5ZXX-K"",""label"":""5ZXX-K""}])
 - **1×** [Mordus Legion meet DCM in a cloud of conspiracy theories (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/mordus-legion-meet-dcm-in-a-cloud-of-conspiracy-theories/)
 - **1×** [Possible new overseer of the Mordus Legion exodus (YC 107) (YC107)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
-- **1×** [Pure Blind plays host to the Mordu’s Legion fleet (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/pure-blind-plays-host-to-the-mordus-legion-fleet/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Pure_Blind/5ZXX-K"",""label"":""5ZXX-K""}])
+- **1×** [Biomass harvesters reported in Pure Blind (YC 107) (YC107)](https://community.eveonline.com/news/news-channels/eve-online-news/biomass-harvesters-reported-in-pure-blind/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Pure_Blind/EC-P8R"",""label"":""EC-P8R""}])
 - **1×** [EVE gate bears witness to a beautiful union (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/eve-gate-bears-witness-to-a-beautiful-union/)
 - **1×** [Intaki Bank secures R&amp;D funding (YC 109) (YC109)](http://community.eveonline.com/news/news-channels/world-news/intaki-bank-secures-funding-for-syndicate-r-d-program/)
 - **1×** [Mordu's Legion launches Flagship vessel (YC 109) (YC109)](http://forum.battleclinic.com/index.php?topic=9727.0;wap)

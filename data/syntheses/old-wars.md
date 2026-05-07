@@ -76,6 +76,11 @@ Heideran VII's seminal philosophical book on imperial governance, religious orth
 YC106 destruction of an Imperial transport carrying Doriam II's retainers — Doriam II killed in the strike. Triggered the succession crisis that produced Court Chamberlain Dochuta Karsoth's regency. The succession theft by Karsoth is the structural origin of the Sarum-claim subversion arc that continued into Jamyl I's reign.
 **Cited in:** [Doriam Kor-Azor Inaugurated Emperor of Amarr (YC 105)](https://www.eveonline.com/article/amarr-imperial-fleet-on-alert-as-inauguration-draws-closer-miner-executed-1 https://www.eveonline.com/article/tight-security-surrounds-emperor-inauguration-as-applications-pile-up-for-attendance-1"",""label"":""News 2""},{""url"":""https://www.eveonline.com/article/doriam-kor-azor-inaugurated-as-other-heirs-commit-shatholsyn-ceremony-disturbed"",""label"":""News 3""},{""url"":""https://www.eveonline.com/article/inauguration-assassination-plot-thwarted-sarum-empire-decapitated-as-kor-azor-ascends-to-power"",""label"":""News 4""}]) · [Doriam Kor-Azor renames planets to commemorate Champion (YC 105)](http://community.eveonline.com/news/news-channels/eve-online-news/doriam-kor-azor-renames-planets-to-commemorate-champion-pirate-violence-on-the-rise-1/) · [Doriam Kor-Azor will be the next emperor (YC 105)](https://www.eveonline.com/article/doriam-kor-azor-will-be-the-next-emperor https://www.eveonline.com/article/amarr-imperial-succession-committee-declares-doriam-kor-azor-emperor-doriam-reaction-humble-and-exultant)
 
+### Kor-Azor Cathedral Incident *(YC106)*
+
+YC106 incident at the Tash-Murkon-renovation cathedral with Aritcio Kor-Azor implicated. Followed the Catiz Tash-Murkon controversy over renovation plans and the Kador escalation. Marker event in the post-Doriam succession friction between the Five Heir houses.
+**Cited in:** [Amarr Emperor takes notice of cathedral debate (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/amarr-emperor-takes-notice-of-cathedral-debate/) · [Catiz Tash-Murkon sparks controversy over cathedral renovation plan (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/catiz-tash-murkon-sparks-controversy-over-cathedral-renovation-plan-1/) · [Doriam II makes unprecedented intervention in cathedral debate (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/doriam-ii-makes-unprecedented-intervention-in-cathedral-debate/) · [Kador ups the ante in cathedral debate – Amarr pilot community says no to tourists (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/kador-ups-the-ante-in-cathedral-debate-amarr-pilot-community-says-no-to-tourists-1/)
+
 ### Ammatar Mass Defection *(YC110)*
 
 Anaras Ult enabled mass Ammatar defection back to the Republic during the Elder Fleet operation. Slave owners and Navy alike crossed over with their Starkmanir charges. Demonstrated that the Mandate's Nefantar leadership had been long-game protecting Starkmanir — partial redemption of the Ammatar treachery narrative.
@@ -264,6 +269,11 @@ Three-strike-group Mimitar dreadnought-heavy navy built in secret with Thukker m
 
 Mythological progenitor council of the seven tribes. Believed lost; secretly active. Funded the Elder Fleet through Thukker channels. The organizational shape of the Mimitar deep state.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Theology Council (Amarr)
+
+Amarr Empire's religious-doctrinal authority. Coordinates with the Imperial Court on succession and religious-civic matters; declared the official day of mourning for Malkalen victims YC110. Operates parallel to the Cult of Tetrimon — Tetrimon is the orthodox-purity wing, Theology Council is the institutional consensus.
+**Cited in:** [Theology Council concludes inquiry into heir ‘incident’ – Articio cleared (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/theology-council-concludes-inquiry-into-heir-incident-articio-cleared-1/) · [Theology Council to lift suppression edict for Tetrimon case (YC 106)](http://community.eveonline.com/news/news-channels/eve-online-news/theology-council-to-lift-suppression-edict-for-tetrimon-case/) · [Order of St. Tetrimon petitions Theology Council (YC 108)](http://forum.battleclinic.com/index.php?topic=5711.0;Order-of-St-Tetrimon-petitions-Theology-Council;wap)
 
 ### Tribal Council
 
@@ -627,8 +637,14 @@ Amarr superweapon used by Empress Jamyl I to destroy the Elder Fleet during the 
 - **1×** [Sarum forces, Amarr Navy increase presence in Sarum Prime (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/sarum-forces-amarr-navy-increase-presence-in-sarum-prime-security-status-change-imminent/)
 - **1×** [Capsuleer alliances recognized (YC 106) (YC106)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Archangels' unexpected expedition - officials baffled (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/archangels-unexpected-expedition-officials-baffled/)
+- **1×** [Amarr Emperor takes notice of cathedral debate (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/amarr-emperor-takes-notice-of-cathedral-debate/)
+- **1×** [Catiz Tash-Murkon sparks controversy over cathedral renovation plan (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/catiz-tash-murkon-sparks-controversy-over-cathedral-renovation-plan-1/)
+- **1×** [Doriam II makes unprecedented intervention in cathedral debate (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/doriam-ii-makes-unprecedented-intervention-in-cathedral-debate/)
+- **1×** [Kador ups the ante in cathedral debate – Amarr pilot community says no to tourists (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/kador-ups-the-ante-in-cathedral-debate-amarr-pilot-community-says-no-to-tourists-1/)
 - **1×** [Ishukone and Khanid Kingdom sign multitrillion trade deal on Transcranial Microcontrollers (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/ishukone-and-khanid-kingdom-sign-multitrillion-trade-deal-on-transcranial-microcontrollers/)
 - **1×** [Khanid Kingdom strenuously denies ill treatment of slaves (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/khanid-kingdom-strenuously-denies-ill-treatment-of-slaves-1/)
+- **1×** [Theology Council concludes inquiry into heir ‘incident’ – Articio cleared (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/theology-council-concludes-inquiry-into-heir-incident-articio-cleared-1/)
+- **1×** [Theology Council to lift suppression edict for Tetrimon case (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/theology-council-to-lift-suppression-edict-for-tetrimon-case/)
 - **1×** [Foiritan convinces Articio to concede scientists (YC 105) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/foiritan-convinces-articio-to-concede-scientists/)
 - **1×** [President Foiritan makes an unannounced visit to Crielere (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/president-foiritan-makes-an-unannounced-visit-to-crielere/)
 - **1×** [Republic Parliament Issues “Statement of Concern” Regarding Foiritan’s Promises to Articio Kor-Azor (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/republic-parliament-issues-statement-of-concern-regarding-foiritans-promises-to-articio-kor-azor/)
@@ -639,6 +655,7 @@ Amarr superweapon used by Empress Jamyl I to destroy the Elder Fleet during the 
 - **1×** [Ushra’Khan under assault from new foe (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/ushrakhan-under-assault-from-new-foe/)
 - **1×** [Federation Mothership Stolen, CONCORD Ships Destroyed (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/federation-mothership-stolen-concord-ships-destroyed/)
 - **1×** [Angel Cartel opens ties with capsuleer alliances (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/angel-cartel-opens-ties-with-capsuleer-alliances/)
+- **1×** [Order of St. Tetrimon petitions Theology Council (YC 108) (YC108)](http://forum.battleclinic.com/index.php?topic=5711.0;Order-of-St-Tetrimon-petitions-Theology-Council;wap)
 - **1×** [Presidential Candidate remembers Hueromont dead (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/presidential-candidate-remembers-hueromont-dead-1/)
 - **1×** [Mercenary Coalition Titan destroyed (YC 109) (YC109)](http://forum.battleclinic.com/index.php?topic=12763.0;wap)
 - **1×** [Federation celebrates Federation Day (YC 109) (YC109)](https://community.eveonline.com/news/news-channels/eve-online-news/gallente-federation-celebrates-federation-day/)

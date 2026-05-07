@@ -79,6 +79,10 @@ Minmatar preacher who led the YC111 Salvation Crusade — a religious mobilizati
 Gallente Federation Faction Warfare militia. The Federation's volunteer / capsuleer-pilot frontline against the State in the FW war zone. Operationally the FDU executed the YC124 Intaki seizure that the Republic and SoE later condemned. Operates under Federation Navy authority.
 **Cited in:** [First Federal Defense Union carrier killed (YC 110)](https://community.eveonline.com/news/news-channels/eve-online-news/first-federal-defense-union-carrier-killed/ https://community.eveonline.com/news/news-channels/eve-online-news/federal-defence-union-responds-to-heydieles-carrier-loss/)
 
+### Federation Senate
+
+Federation governance body. Hawkish vs Autonomist factional split surfaces in the Moreau era — hawks worry the Autonomist president is unable to direct the Federation Navy firmly. Senate operates from Caille; presidential candidate rallies (Aguard, Roden, Moreau) are oriented to Senate-faction politics.
+
 ### Ida Faith / Ida Monastery
 
 Intaki religion. Believes in reincarnation; Adamas reincarnate without technology. The structural source of Intaki political-cultural distinctiveness inside the Federation — and the cause that radicalized Intaki extremists in YC120.
@@ -92,6 +96,10 @@ Loose autonomous federation in the Syndicate region. Founded by Caldari-sympathe
 
 Khanid Kingdom's autonomous military fleet, separate from the Imperial Navy. Carries the Empire's military burden in the southern frontier — repulsed the Pure Faith Harvest raid YC120, conducted the brutal Kahah pacification under Allar Chakaide, and engages Blood Raider incursions on a sustained basis. The 19th Royal Uolans is one of its elite units.
 **Cited in:** [Royal Khanid Navy releases statement on Blood Raider attacks](https://universe.eveonline.com/new-eden-news/royal-khanid-navy-releases-statement-on-blood-raider-attacks)
+
+### Sani Sabik (heretical sect)
+
+Blood-cult heretical Amarr sect — theological foundation of the Blood Raider Covenant. Believes in blood as sacrament; the doctrinal complement of orthodox Amarr Reclaiming. Cardinal Omir Sarikusa's YC106 blood-quest declaration was a Sani Sabik mobilization. Achura sub-bloodline thinkers disproportionately convert to Sani Sabik.
 
 ## Factions
 

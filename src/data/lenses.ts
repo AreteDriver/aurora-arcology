@@ -92,6 +92,8 @@ export const LENSES: Lens[] = [
       "evt_capsuleer_day",
       "art_nyx_mothership",
       "phn_drifter_battleship",
+      "org_federation_senate",
+      "org_zainou_biotech",
     ],
   },
   {
@@ -144,6 +146,10 @@ export const LENSES: Lens[] = [
       "fac_caldari",
       "per_marcus_jror",
       "per_vince_barthelo",
+      "org_genotech_systems",
+      "org_zainou_biotech",
+      "org_innovaatio_varustukset",
+      "evt_innovaatio_scandal",
     ],
   },
   {
@@ -237,6 +243,8 @@ export const LENSES: Lens[] = [
       "art_servitor_superweapon",
       "evt_starkmanir_mass_driver",
       "per_kresh",
+      "org_theology_council",
+      "evt_kor_azor_cathedral",
     ],
   },
   {
@@ -291,6 +299,7 @@ export const LENSES: Lens[] = [
       "phn_drifter_battleship",
       "phn_sleeper_drone",
       "cnc_three_quintons",
+      "org_eifyr_co",
     ],
   },
   {
@@ -327,6 +336,7 @@ export const LENSES: Lens[] = [
       "cnc_capsuleer_alliances",
       "evt_capsuleer_day",
       "cnc_empyrean_age",
+      "org_eifyr_co",
     ],
   },
   {
@@ -361,6 +371,8 @@ export const LENSES: Lens[] = [
       "plc_intaki",
       "fac_minmatar",
       "fac_amarr",
+      "org_sani_sabik",
+      "evt_semiki_biohazard",
     ],
   },
   {
@@ -393,6 +405,8 @@ export const LENSES: Lens[] = [
       "cnc_empyrean_age",
       "per_sansha_kuvakei_ii",
       "cnc_three_quintons",
+      "plc_outer_ring",
+      "plc_cloud_ring",
     ],
   },
   {
@@ -440,6 +454,9 @@ export const LENSES: Lens[] = [
       "evt_caldari_liberation_day",
       "per_marcus_jror",
       "per_vince_barthelo",
+      "org_innovaatio_varustukset",
+      "evt_innovaatio_scandal",
+      "evt_zainou_breach",
     ],
   },
   {
@@ -473,6 +490,8 @@ export const LENSES: Lens[] = [
       "plc_intaki",
       "fac_jin_mei",
       "fac_gallente",
+      "org_sani_sabik",
+      "org_federation_senate",
     ],
   },
   {
@@ -525,6 +544,9 @@ export const LENSES: Lens[] = [
       "per_arrach_sarum",
       "art_servitor_superweapon",
       "evt_starkmanir_mass_driver",
+      "org_theology_council",
+      "org_sani_sabik",
+      "evt_kor_azor_cathedral",
     ],
   },
   {
@@ -559,6 +581,10 @@ export const LENSES: Lens[] = [
       "org_dread_guristas",
       "fac_minmatar",
       "per_sansha_kuvakei_ii",
+      "org_sani_sabik",
+      "plc_outer_ring",
+      "plc_cloud_ring",
+      "plc_insmother",
     ],
   },
   {
@@ -598,6 +624,12 @@ export const LENSES: Lens[] = [
       "fac_deteis",
       "fac_achura",
       "fac_caldari",
+      "org_genotech_systems",
+      "org_zainou_biotech",
+      "org_innovaatio_varustukset",
+      "evt_innovaatio_scandal",
+      "evt_semiki_biohazard",
+      "org_eifyr_co",
     ],
   },
   {
