@@ -636,9 +636,8 @@
     {
       "canonical": "Tash-Murkon",
       "type": "Place",
-      "variants": [
-        "Tash-Murkon region"
-      ]
+      "variants": [],
+      "_note": "'Tash-Murkon Region' is a distinct entity (the geographic region) from House Tash-Murkon."
     },
     {
       "canonical": "Aridia",

@@ -8,8 +8,8 @@
     "phase": 0,
     "license_mode": "L3-user-paste",
     "extraction_source": "Five Ashterothi transcripts (auto-captions pulled via yt-dlp). Curator-owned annotation; not a republication of source material. Mil-Campaign #2 region (Ammatar / Starkmanir / Old Wars / Tanu dread attack) extracted from ash_ammatar_tourism transcript.",
-    "node_count": 195,
-    "connection_count": 327
+    "node_count": 200,
+    "connection_count": 368
   },
   "sources": [
     {
@@ -3286,6 +3286,57 @@
         "src_news_prime-minister-calm-as-minmatar-republic-reacts-to-karsoth-affair",
         "src_news_text-of-empire-address-delivered-by-court-chamberlain-dochuta-karsoth-accused-council-members-executed"
       ]
+    },
+    {
+      "id": "org_house_sarum",
+      "type": "Faction",
+      "name": "House Sarum",
+      "brief": "One of the five Amarr royal houses. The most martial / military-traditionalist of the five; produced Jamyl Sarum (Empress Jamyl I).",
+      "master_summary": "House Sarum's institutional identity is military sufficiency. Their territorial seat is centered on Sarum Prime (destroyed by Jamyl's superweapon during the Elder Fleet attack — an in-house event with massive symbolic weight). Sarum's combat-doctrine focus made it the natural counterweight to Karsoth's bureaucratic interregnum, and Jamyl's emergence from this house reset the Empire's institutional center of gravity for a generation.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "org_house_tash_murkon",
+      "type": "Faction",
+      "name": "House Tash-Murkon",
+      "brief": "The youngest of the five Amarr royal houses, and the only one of Udorian rather than Amarr bloodline. Stewards the Tash-Murkon Region (territorial seat). Politically the empire's softest edge.",
+      "master_summary": "House Tash-Murkon's distinctness is structural — Udorian rather than Amarr bloodline means it operates inside the Amarr political system without quite being of it. The youngest house, the most progressive on slave reform, and the natural diplomatic interlocutor when Empire–Federation or Empire–Republic talks need a non-confrontational Amarr counterparty. Tash-Murkon's region is also the Empire's southern frontier with Khanid (defected) and Aridia (lawless), giving the house operational reasons to maintain pragmatic borders.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_house-tash-murkon-dominates-in-imperial-succession-trials-finals-set-against-house-kor-azor"
+      ]
+    },
+    {
+      "id": "org_house_kor_azor",
+      "type": "Faction",
+      "name": "House Kor-Azor",
+      "brief": "One of the five Amarr royal houses. Doriam Kor-Azor's house. Reformist tradition tarnished by Aritcio's Provost-era corruption.",
+      "master_summary": "House Kor-Azor's institutional identity is reformist: Doriam II's brief reign was the modern Empire's last significant attempt at reform-from-the-throne. The house's reputation took a long-term hit when Aritcio's involvement in the Karsoth-era corrupt Provost Marshal apparatus tarnished the lineage. Kor-Azor's reduced political weight relative to Sarum and Tash-Murkon during Jamyl's rise is the structural memory of that failure — and the cautionary precedent every future Amarr reformist program references.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_house-tash-murkon-dominates-in-imperial-succession-trials-finals-set-against-house-kor-azor"
+      ]
+    },
+    {
+      "id": "org_house_kador",
+      "type": "Faction",
+      "name": "House Kador",
+      "brief": "One of the five Amarr royal houses. The most conservative slaver-traditionalist of the five. Hardline on the religious-political axis.",
+      "master_summary": "House Kador anchors the conservative end of Amarr royal politics — most committed to traditional slaver economics, most resistant to the kind of incremental reform Tash-Murkon and Kor-Azor periodically push. When the Empire needs an institutional voice for 'the old order is non-negotiable', Kador provides it. Strategically aligned with Ardishapur on most religious-political questions; structurally opposed to Tash-Murkon's pragmatic accommodation strategies.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "org_house_ardishapur",
+      "type": "Faction",
+      "name": "House Ardishapur",
+      "brief": "One of the five Amarr royal houses. Slaver-conservative; the house responsible for the Starkmanir genocide via Archon Ardishapur's son Idonis. Damyas III bestowed the Ammatar honorific on the Nefantar.",
+      "master_summary": "House Ardishapur carries the historical weight of the Starkmanir genocide — Archon Ardishapur's hardline replacement of the liberal Arzad Hamri provoked the uprising, and Idonis's orbital bombardment annihilated Starkmanir Prime. The Imperian Age reveal that the Ammatar had been hiding Starkmanir survivors throughout was a direct rebuke to Ardishapur's centuries-long claim that the genocide was complete. House Ardishapur's modern political posture is aligned with Kador on conservative slaver economics; its reputational baggage limits its diplomatic reach.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_house-ardishapur-issues-a-statement"
+      ]
     }
   ],
   "connections": [
@@ -5529,6 +5580,290 @@
       "tgt": "org_amarr_empire",
       "rel": "member-of",
       "conf": 1
+    },
+    {
+      "src": "org_house_sarum",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "One of the five royal houses"
+    },
+    {
+      "src": "org_house_tash_murkon",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "One of the five royal houses"
+    },
+    {
+      "src": "org_house_kor_azor",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "One of the five royal houses"
+    },
+    {
+      "src": "org_house_kador",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "One of the five royal houses"
+    },
+    {
+      "src": "org_house_ardishapur",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "One of the five royal houses"
+    },
+    {
+      "src": "org_house_sarum",
+      "tgt": "cnc_three_tier_amarr",
+      "rel": "member-of",
+      "conf": 0.9
+    },
+    {
+      "src": "org_house_tash_murkon",
+      "tgt": "cnc_three_tier_amarr",
+      "rel": "member-of",
+      "conf": 0.9
+    },
+    {
+      "src": "org_house_kor_azor",
+      "tgt": "cnc_three_tier_amarr",
+      "rel": "member-of",
+      "conf": 0.9
+    },
+    {
+      "src": "org_house_kador",
+      "tgt": "cnc_three_tier_amarr",
+      "rel": "member-of",
+      "conf": 0.9
+    },
+    {
+      "src": "org_house_ardishapur",
+      "tgt": "cnc_three_tier_amarr",
+      "rel": "member-of",
+      "conf": 0.9
+    },
+    {
+      "src": "per_jamyl_i",
+      "tgt": "org_house_sarum",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "Jamyl Sarum was the house's most prominent modern figure"
+    },
+    {
+      "src": "per_doriam_kor_azor",
+      "tgt": "org_house_kor_azor",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "Doriam II of House Kor-Azor"
+    },
+    {
+      "src": "per_aritcio_kor_azor",
+      "tgt": "org_house_kor_azor",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "House heir; Provost-era corruption tarnished the lineage"
+    },
+    {
+      "src": "per_idonis_ardishapur",
+      "tgt": "org_house_ardishapur",
+      "rel": "member-of",
+      "conf": 1,
+      "claim": "Son of Archon Ardishapur; ordered Starkmanir Prime bombardment"
+    },
+    {
+      "src": "per_archon_ardishapur",
+      "tgt": "org_house_ardishapur",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "per_damyas_iii",
+      "tgt": "org_house_ardishapur",
+      "rel": "aligned-with",
+      "conf": 0.55,
+      "claim": "Bestowed Ammatar honorific during Ardishapur-influenced era",
+      "contested-by": "House attribution inferred"
+    },
+    {
+      "src": "per_catiz_i",
+      "tgt": "org_house_tash_murkon",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "Catiz I of House Tash-Murkon (alignment)",
+      "contested-by": "Curator inference"
+    },
+    {
+      "src": "org_house_tash_murkon",
+      "tgt": "plc_tash_murkon_region",
+      "rel": "located-in",
+      "conf": 1
+    },
+    {
+      "src": "org_house_sarum",
+      "tgt": "plc_sarum_prime",
+      "rel": "located-in",
+      "conf": 1,
+      "claim": "Sarum Prime was the house's territorial seat"
+    },
+    {
+      "src": "org_house_kador",
+      "tgt": "org_house_ardishapur",
+      "rel": "aligned-with",
+      "conf": 0.75,
+      "claim": "Conservative slaver bloc"
+    },
+    {
+      "src": "org_house_kor_azor",
+      "tgt": "org_house_tash_murkon",
+      "rel": "aligned-with",
+      "conf": 0.55,
+      "claim": "Reformist-pragmatist alignment, periodically",
+      "contested-by": "Cycle-dependent"
+    },
+    {
+      "src": "per_karsoth",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "per_karsoth",
+      "tgt": "per_jamyl_i",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Karsoth resisted Royal Heir succession until Jamyl forced restoration"
+    },
+    {
+      "src": "per_karsoth",
+      "tgt": "per_aritcio_kor_azor",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Aritcio's involvement in the corrupt Provost Marshal era"
+    },
+    {
+      "src": "per_heideran_vii",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 1
+    },
+    {
+      "src": "org_brutor_tribe",
+      "tgt": "org_krusual_tribe",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Two warrior-tradition Mimitar tribes"
+    },
+    {
+      "src": "org_brutor_tribe",
+      "tgt": "evt_great_rebellion",
+      "rel": "participated-in",
+      "conf": 0.85,
+      "claim": "Brutor martial tradition was the Republic's military spine during the rebellion"
+    },
+    {
+      "src": "org_krusual_tribe",
+      "tgt": "evt_great_rebellion",
+      "rel": "participated-in",
+      "conf": 0.85,
+      "claim": "Krusoral 'unbroken' identity emerged from rebellion-era resistance"
+    },
+    {
+      "src": "org_sebiestor_tribe",
+      "tgt": "evt_great_rebellion",
+      "rel": "participated-in",
+      "conf": 0.7,
+      "claim": "Sebiestor engineering tribe rebuilt Republic infrastructure post-rebellion"
+    },
+    {
+      "src": "org_nefantar_tribe",
+      "tgt": "evt_day_of_darkness",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "Defection during the Day of Darkness produced the Mandate"
+    },
+    {
+      "src": "org_nefantar_tribe",
+      "tgt": "evt_starkmanir_genocide",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "Began covertly hiding Starkmanir survivors after Idonis's bombardment"
+    },
+    {
+      "src": "org_nefantar_tribe",
+      "tgt": "evt_imperian_age_starkmanir_reveal",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "Mass defection back to Republic with Starkmanir charges"
+    },
+    {
+      "src": "plc_great_wildlands",
+      "tgt": "plc_molden_heath",
+      "rel": "located-in",
+      "conf": 0.55,
+      "claim": "Adjacent regions; the tribal-to-tribal handoff",
+      "contested-by": "Adjacency, not containment"
+    },
+    {
+      "src": "plc_black_rise",
+      "tgt": "plc_jita",
+      "rel": "located-in",
+      "conf": 0.5,
+      "claim": "Adjacent to The Forge (Jita's region)",
+      "contested-by": "Regional adjacency"
+    },
+    {
+      "src": "plc_great_wildlands",
+      "tgt": "evt_skarkon_angel_takeover",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Cartel administration of NPC-nullsec frontier"
+    },
+    {
+      "src": "org_sansha_nation",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Periodic incursion target"
+    },
+    {
+      "src": "org_sansha_nation",
+      "tgt": "org_caldari_state",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Periodic incursion target"
+    },
+    {
+      "src": "org_sansha_nation",
+      "tgt": "org_concord",
+      "rel": "opposed-to",
+      "conf": 0.9,
+      "claim": "Standing CONCORD enemy designation"
+    },
+    {
+      "src": "plc_caille",
+      "tgt": "evt_gallente_election_yc128",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Inauguration site"
+    },
+    {
+      "src": "fac_intaki",
+      "tgt": "org_minmatar_republic",
+      "rel": "opposed-to",
+      "conf": 0.4,
+      "claim": "Pacifist Intaki periodically uneasy with Republic militarism",
+      "contested-by": "Curator inference"
+    },
+    {
+      "src": "per_aritcio_kor_azor",
+      "tgt": "per_karsoth",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Provost-era corrupt apparatus"
     }
   ],
   "_curation_notes": [
@@ -5551,7 +5886,8 @@
     "Silphy/SoE region extension 2026-05-06: +2 nodes (Thera, Muryia Mordu), +8 connections drawing the Antagonists-chronicle data-trade edges directly and adding the Thera SoE base. Khanid connection from the user's prompt deferred — no chronicle reference in the extracted material; awaiting source.",
     "Source ID 2026-05-06: renamed src_chronicle_antagonists → src_chronicle_ante. The canonical CCP chronicle title is 'Ante' (published 2010-04-19); my earlier label 'Antagonists' was informal. URL fixed to canonical chronicle path.",
     "Chronicle reconciliation 2026-05-06: fixed Silphy date 2008→2001-08-06; renamed src_chronicle_nefantar → src_chronicle_the-ammatars (canonical CCP slug, affecting 4 nodes); dropped orphan src_chronicle_starkmanir, replaced by src_chronicle_lost-stars (affecting 3 nodes); wired 17 canonical-chronicle citations across 10 chronicle sources.",
-    "Canonical promotions 2026-05-07: +10 nodes (Caldari Prime, Tibus Heth, Kaalakiota, Sukuuvestaa, Hyasyoda, Wiyrkomi, Tash-Murkon region, Sebiestor Tribe, Angel Cartel, Intaki faction) with curator-authored briefs + master_summary. +33 structural edges anchoring them into the existing graph. Citations will surface on the next NER pass via the gazetteer→node containment match.",
-    "Round-3 promotions 2026-05-07: +13 nodes (3 Mimitar tribes, 4 regions, Caldari Business Tribunal, Sansha's Nation, Heideran VII / Doriam / Aritcio Kor-Azor / Karsoth). +30 edges anchoring the royal-succession lineage and the Republic tribal-region structure."
+    "Canonical promotions 2026-05-07: +10 nodes (Caldari Prime, Tibus Heth, Kaalakiota, Sukuuvestaa, Hyasyoda, Wiyrkomi, Tash-Murkon Region (territorial seat), Sebiestor Tribe, Angel Cartel, Intaki faction) with curator-authored briefs + master_summary. +33 structural edges anchoring them into the existing graph. Citations will surface on the next NER pass via the gazetteer→node containment match.",
+    "Round-3 promotions 2026-05-07: +13 nodes (3 Mimitar tribes, 4 regions, Caldari Business Tribunal, Sansha's Nation, Heideran VII / Doriam / Aritcio Kor-Azor / Karsoth). +30 edges anchoring the royal-succession lineage and the Republic tribal-region structure.",
+    "Depth pass 2026-05-07: +5 royal House nodes (Sarum / Tash-Murkon / Kor-Azor / Kador / Ardishapur) + 41 edges wiring underconnected round-3 promotions to the broader graph."
   ]
 }

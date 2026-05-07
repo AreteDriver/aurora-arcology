@@ -116,6 +116,9 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
   // Cluster toggle: when on, same-type nodes are pulled toward shared anchors
   // so the eye can read regions instead of one undifferentiated cloud.
   const [clusterByType, setClusterByType] = useState(true);
+  // Subway-style toggle: snap nodes to a grid + render edges as orthogonal
+  // L-shapes. The closest the force layout gets to a transit-map aesthetic.
+  const [subwayMode, setSubwayMode] = useState(false);
 
   // D3 force simulation — runs once per visible-set change OR cluster toggle.
   // Deliberately does NOT depend on selectedId; a separate effect below
@@ -190,15 +193,20 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       });
     svg.call(zoom);
 
-    // Edges
+    // Edges — line in default mode, orthogonal L-shaped polyline in subway mode
     const link = g
       .append("g")
       .attr("stroke", "#52525b")
-      .selectAll("line")
+      .attr("fill", "none")
+      .selectAll<SVGElement, SimLink>(subwayMode ? "polyline" : "line")
       .data(simLinks)
-      .join("line")
-      .attr("stroke-width", (d) => Math.max(0.5, d.confidence * 2))
-      .attr("stroke-opacity", (d) => (d.confidence < 0.5 ? 0.2 : 0.5))
+      .join(subwayMode ? "polyline" : "line")
+      .attr("stroke-width", (d) =>
+        subwayMode ? Math.max(2, d.confidence * 4) : Math.max(0.5, d.confidence * 2),
+      )
+      .attr("stroke-opacity", (d) => (d.confidence < 0.5 ? 0.2 : subwayMode ? 0.7 : 0.5))
+      .attr("stroke-linejoin", "round")
+      .attr("stroke-linecap", "round")
       .attr("stroke-dasharray", (d) => (d.confidence < 0.5 ? "3,3" : null));
 
     link.append("title").text((d) =>
@@ -285,20 +293,42 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
         .force("clusterY", d3.forceY<SimNode>(anchorY).strength(0.08));
     }
 
+    const GRID = 40;
+    const snap = (v: number) => Math.round(v / GRID) * GRID;
+
     sim.on("tick", () => {
-      link
-        .attr("x1", (d) => (d.source as SimNode).x ?? 0)
-        .attr("y1", (d) => (d.source as SimNode).y ?? 0)
-        .attr("x2", (d) => (d.target as SimNode).x ?? 0)
-        .attr("y2", (d) => (d.target as SimNode).y ?? 0);
-      node.attr("transform", (d) => `translate(${d.x ?? 0},${d.y ?? 0})`);
+      if (subwayMode) {
+        link.attr("points", (d) => {
+          const sx = snap((d.source as SimNode).x ?? 0);
+          const sy = snap((d.source as SimNode).y ?? 0);
+          const tx = snap((d.target as SimNode).x ?? 0);
+          const ty = snap((d.target as SimNode).y ?? 0);
+          // Right-angle L-shape; pick orientation by which delta is larger
+          // so most edges read as predominantly horizontal or vertical.
+          const dx = Math.abs(tx - sx);
+          const dy = Math.abs(ty - sy);
+          if (dx >= dy) return `${sx},${sy} ${tx},${sy} ${tx},${ty}`;
+          return `${sx},${sy} ${sx},${ty} ${tx},${ty}`;
+        });
+        node.attr(
+          "transform",
+          (d) => `translate(${snap(d.x ?? 0)},${snap(d.y ?? 0)})`,
+        );
+      } else {
+        link
+          .attr("x1", (d) => (d.source as SimNode).x ?? 0)
+          .attr("y1", (d) => (d.source as SimNode).y ?? 0)
+          .attr("x2", (d) => (d.target as SimNode).x ?? 0)
+          .attr("y2", (d) => (d.target as SimNode).y ?? 0);
+        node.attr("transform", (d) => `translate(${d.x ?? 0},${d.y ?? 0})`);
+      }
     });
 
     return () => {
       sim.stop();
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [scopeKey, clusterByType]);
+  }, [scopeKey, clusterByType, subwayMode]);
 
   // Selection highlight — imperative DOM update, no layout disturbance.
   // Recompute degree-based base radius so the highlight bumps it up by a
@@ -374,6 +404,14 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
             title="Pull same-type nodes toward shared anchor regions"
           >
             cluster
+          </button>
+
+          <button
+            onClick={() => setSubwayMode((v) => !v)}
+            className={`px-1.5 py-0.5 border ${subwayMode ? "bg-zinc-100 text-black border-zinc-100" : "bg-zinc-900 text-zinc-400 border-zinc-700 hover:border-zinc-500"}`}
+            title="Snap nodes to a 40px grid + render edges as right-angle L-shapes (transit-map aesthetic)"
+          >
+            subway
           </button>
 
           <div className="flex items-center gap-1.5">

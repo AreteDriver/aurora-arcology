@@ -8,8 +8,13 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  // One static board for now; if more land, query the boards table here
-  return [{ id: "warpath_yc128" }];
+  // Emit a static page for every board that has at least one node.
+  // Source-only seeds (news / chronicle archives) get filtered.
+  const boardsWithNodes = db
+    .selectDistinct({ id: schema.boardNodes.boardId })
+    .from(schema.boardNodes)
+    .all();
+  return boardsWithNodes.map((b) => ({ id: b.id }));
 }
 
 export default async function BoardPage({ params }: Props) {

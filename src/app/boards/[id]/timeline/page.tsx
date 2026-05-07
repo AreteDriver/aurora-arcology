@@ -8,7 +8,11 @@ interface Props {
 }
 
 export async function generateStaticParams() {
-  return [{ id: "warpath_yc128" }];
+  const boardsWithNodes = db
+    .selectDistinct({ id: schema.boardNodes.boardId })
+    .from(schema.boardNodes)
+    .all();
+  return boardsWithNodes.map((b) => ({ id: b.id }));
 }
 
 export default async function BoardTimelinePage({ params }: Props) {
