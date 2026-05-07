@@ -197,6 +197,13 @@ Amarr ritual of ceremonial self-termination required of failed championship cont
 Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each tier has distinct allegiance, governance, and tribal origin. The frame that makes the Mil-Campaign #2 prediction structurally legible — Mandate is the seam where Amarr internal politics is most exposed.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Khanid Kingdom](https://universe.eveonline.com/chronicles/the-khanid-kingdom)
 
+## Artifacts
+
+### Imperial Armageddon (capsuleer trophy) *(YC107)*
+
+Amarr battleship captured by the Ushra'Khan capsuleer alliance in YC107. The capture is the canonical capsuleer-faction propaganda victory of the era; established the precedent that capsuleer alliances can humiliate empire militaries through coordinated action. Modern null-sec pop culture continues to reference the Armageddon capture.
+**Cited in:** [Empire set back - Ushra'Khan acquires Imperial Armageddon (YC 107)](http://community.eveonline.com/news/news-channels/eve-online-news/empire-set-back-ushrakhan-acquires-imperial-armageddon/)
+
 ---
 
 ## Sources cited
@@ -334,6 +341,7 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **1×** [Theology Council to lift suppression edict for Tetrimon case (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/theology-council-to-lift-suppression-edict-for-tetrimon-case/)
 - **1×** [Ishukone and Khanid Kingdom sign multitrillion trade deal on Transcranial Microcontrollers (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/ishukone-and-khanid-kingdom-sign-multitrillion-trade-deal-on-transcranial-microcontrollers/)
 - **1×** [Khanid Kingdom strenuously denies ill treatment of slaves (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/khanid-kingdom-strenuously-denies-ill-treatment-of-slaves-1/)
+- **1×** [Empire set back - Ushra'Khan acquires Imperial Armageddon (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/empire-set-back-ushrakhan-acquires-imperial-armageddon/)
 - **1×** [Privy Council orders investigation into Tetrimon temple (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/privy-council-orders-investigation-into-tetrimon-temple/)
 - **1×** [Stolen relics retrieved by Tetrimon cult (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/stolen-relics-retrieved-by-tetrimon-cult/)
 - **1×** [Tetrimon Grand Master granted sainthood (YC 108) (YC108)](https://community.eveonline.com/news/news-channels/eve-online-news/tetrimon-grand-master-granted-sainthood/)

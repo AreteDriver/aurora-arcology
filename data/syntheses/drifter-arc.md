@@ -220,6 +220,11 @@ YC117 cosmic anomaly — a bright new object that appeared overnight, visible ac
 Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-in for Consortium tractor blueprints. Ash's theory: ties to needle-jack filament technology potentially developed by rogue drones — graviton manipulation is the underlying physics of all Eve spacetime tech.
 **Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI)
 
+### World Ark (Triglavian flagship)
+
+Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121 (impending-invasion announcement). Carries the Triglavian conquest doctrine to target systems; canonical example of cross-civilizational hardware exposure during the Invasion cycle. Each World Ark deployment was a major news event.
+**Cited in:** [Galactic Hour News Roundup: World Ark Aftermath (YC 121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-world-ark-aftermath-edition/)
+
 ---
 
 ## Sources cited
@@ -314,6 +319,7 @@ Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-i
 - **1×** [Jovian Directorate withdraws from CONCORD Inner Circle and designates SOCT as successor (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/jovian-directorate-withdraws-from-concord-inner-circle-and-designates-soct-as-successor/)
 - **1×** [SoE splinter group warns of shift in Drifter activity; Thukker Tribe confirms (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior/)
 - **1×** [Capsuleer delegates at SOCT gathering to receive briefing (YC 120) (YC120)](https://community.eveonline.com/news/news-channels/world-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing/)
+- **1×** [Galactic Hour News Roundup: World Ark Aftermath (YC 121) (YC121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-world-ark-aftermath-edition/)
 - **1×** [The Scope - Triglavian Invasion Escalates (YC 121) (YC121)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Galactic Hour News Roundup: Triglavian billboard takeover edition (YC 121) (YC121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-triglavian-billboard-takeover-edition/)
 - **1×** [The Scope - Triglavians take over billboards (YC 121) (YC121)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)

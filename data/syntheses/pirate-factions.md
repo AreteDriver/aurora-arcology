@@ -55,6 +55,11 @@ Southern New Eden's enduring pirate organization. Angel Cartel financing has bee
 Heretical Amarr blood-cult faction. Tied to early Insorum chemical attacks (pre-YC120) and Death Glow harvesting. Allar Chakaide accused them and the Ammatar of conspiring against the Khanid; the Mimitar accused him in return.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo) · [The Blood Raiders](https://universe.eveonline.com/chronicles/the-blood-raiders) · [Blood Raider Covenant Calls on Sani Sabik Cultists to "Rise Up" and Raid Military Cloning Facilities](https://universe.eveonline.com/new-eden-news/blood-raider-covenant-calls-on-sani-sabik-cultists-to-rise-up-and-raid-military-cloning-facilities) · [“Insorum Imbroglio” Puts Focus on Capsuleers as Eyes Turn Toward Blood Raider Covenant](https://universe.eveonline.com/new-eden-news/insorum-imbroglio-puts-focus-on-capsuleers-as-eyes-turn-toward-blood-raider-covenant)
 
+### Dread Guristas
+
+Elite Guristas sub-faction. Conducted YC117 daring raid that stole a supercarrier — the highest-tier piracy of the capsuleer era. Operationally distinct from rank-and-file Guristas; the Dread sub-faction handles capital-class operations and high-value strategic raids.
+**Cited in:** [Dread Guristas steal supercarrier in daring raid (YC 117)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+
 ### Guristas Pirates
 
 Pirate faction. Historically used by Ishukone to expose Lai Dai corruption. Ash's lead candidate for the Warpath message origin — the 'toys are meant to be played with' tone reads as Guristas-flavored.
@@ -275,6 +280,7 @@ Sansha cybernetic forced-merger drones produced from captured slaves via the Tru
 - **1×** [Mordu's Legion intervenes in Caldari Ground Combat (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/mordus-legion-intervenes-in-caldari-ground-combat-escapes-unscathed/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Lonetrek/Autama"",""label"":""Autama""},{""url"":""http://evemaps.dotlan.net/map/The_Citadel/Sujarento"",""label"":""Sujarento""}])
 - **1×** [Thukker tribe invites cloned mercenaries to police Molden Heath (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Molden_Heath"",""label"":""Molden Heath""}])
 - **1×** [Muryia Mordu issues Operation Highlander Decoration (YC 116) (YC116)](http://community.eveonline.com/news/news-channels/world-news/muryia-mordu-issues-operation-highlander-decoration/)
+- **1×** [Dread Guristas steal supercarrier in daring raid (YC 117) (YC117)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Serpentis corporation strikes back against Upwell Consortium (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/serpentis-corporation-strikes-back-against-upwell-consortium/)
 - **1×** [SoE splinter group warns of shift in Drifter activity; Thukker Tribe confirms (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior/)
 - **1×** [Omir Sarikusa defiant in loss of Sotiyo shipyard (YC 119) (YC119)](https://community.eveonline.com/news/news-channels/world-news/blood-raider-leader-defiant-in-aftermath-of-capsuleer-destruction-of-shipyard/)

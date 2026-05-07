@@ -4716,6 +4716,146 @@
       "sources": [
         "src_ash_tl_yc106_capsuleer-alliances-recognized-yc-106"
       ]
+    },
+    {
+      "id": "per_jacus_roden",
+      "type": "Person",
+      "name": "Jacus Roden",
+      "date": "YC111+",
+      "brief": "Federation President from YC111 cycle. Roden Shipyards family \u2014 capsuleer-friendly Federation candidate.",
+      "master_summary": "Federation President from the YC111 election cycle. Roden Shipyards family \u2014 capsuleer-friendly Federation candidate; structural ancestor of the Soraya Roden YC128 candidacy. The Roden political dynasty connects industrial capital to the Federation presidency.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc111_jacus-roden-files-for-presidential-candidacy-yc-11",
+        "src_ash_tl_yc115_jacus-roden-reveals-clone-soldiers-announces-purge"
+      ]
+    },
+    {
+      "id": "per_souro_foiritan",
+      "type": "Person",
+      "name": "Souro Foiritan",
+      "date": "YC105",
+      "brief": "Federation President during Heideran VII / Crielere era. Concerned about Heideran's health post-Aidonis cycle.",
+      "master_summary": "Federation President during the Heideran VII / Crielere era. Concerned about Heideran's health post-Aidonis cycle. Pre-Heth-era diplomat who navigated the Federation-Empire-State triangle before the YC110 wars decade upended it.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc105_gallente-president-foiritan-concerned-for-emperor-",
+        "src_ash_tl_yc105_caldari-and-gallente-dignitaries-attend-conference",
+        "src_ash_tl_yc106_president-foiritan-makes-an-unannounced-visit-to-c",
+        "src_ash_tl_yc106_foiritan-convinces-articio-to-concede-scientists-y",
+        "src_ash_tl_yc106_republic-parliament-issues-statement-of-concern-re"
+      ]
+    },
+    {
+      "id": "fac_jin_mei",
+      "type": "Faction",
+      "name": "Jin-Mei",
+      "brief": "Gallente Federation bloodline. Agriculturally-focused; intersected the YC110 FedMart agricultural intervention cycle.",
+      "master_summary": "Gallente Federation bloodline; one of the four Gallente sub-bloodlines (Gallente / Intaki / Mannar / Jin-Mei). Agriculturally-focused; intersected the YC110 FedMart agricultural-intervention cycle. Aguard's pre-presidency campaigning rallies targeted the Jin-Mei vote.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc110_fedmart-intervention-in-jin-mei-agriculture-yc-110",
+        "src_ash_tl_yc111_presidential-candidate-aguard-holds-political-rall"
+      ]
+    },
+    {
+      "id": "org_nugoeihuvi",
+      "type": "Organization",
+      "name": "Nugoeihuvi Corporation (NOH)",
+      "brief": "Caldari entertainment / media megacorp. Forest-faction-aligned. Mind Clash league sponsor.",
+      "master_summary": "Caldari entertainment / media megacorp. Forest-faction-aligned within the State political system. Mind Clash league sponsor; Kaalakiota\u2013NOH qualifier matches are the highest-rated cultural events in the State. Operates the Ev0ke trademark dispute cycle. The NOH-Kaalakiota-Wiyrkomi triangle is the structural cultural axis underneath the Mountain/Ocean/Forest political split.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc106_kaalakiota-nugoeihuvi-qualifiers-rife-with-violenc",
+        "src_ash_tl_yc110_noh-attempts-to-trademark-ev0ke-for-use-on-merchan",
+        "src_ash_tl_yc110_noh-executives-divert-essential-supplies-yc-110",
+        "src_ash_tl_yc115_nugoeihuvi-visits-caldari-prime-reports-significan",
+        "src_ash_tl_yc120_nugoeihuvi-and-wiyrkomi-clash-over-comedy-holodram"
+      ]
+    },
+    {
+      "id": "art_imperial_armageddon",
+      "type": "Artifact",
+      "name": "Imperial Armageddon (capsuleer trophy)",
+      "date": "YC107",
+      "brief": "Amarr battleship captured by Ushra'Khan capsuleer alliance YC107. Major capsuleer-faction propaganda victory.",
+      "master_summary": "Amarr battleship captured by the Ushra'Khan capsuleer alliance in YC107. The capture is the canonical capsuleer-faction propaganda victory of the era; established the precedent that capsuleer alliances can humiliate empire militaries through coordinated action. Modern null-sec pop culture continues to reference the Armageddon capture.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc107_empire-set-back-ushra-khan-acquires-imperial-armag"
+      ]
+    },
+    {
+      "id": "evt_sansha_incursion_yc112",
+      "type": "Event",
+      "name": "Sansha Incursions (YC112)",
+      "date": "YC112",
+      "brief": "YC112 Sansha invasion underway across high-sec. Markets affected by Nation raids; first major sustained Sansha cycle of the modern era.",
+      "master_summary": "YC112 sustained Sansha incursion cycle \u2014 Sansha's Nation strikes at the empires across high-sec, market disruption in Luminaire and Empire core systems. Show of force brought over 1,000 capsuleer pilots to Nation space in response. First major sustained Sansha cycle of the modern era; structural prototype for the Triglavian Invasion that followed YC122.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc112_sansha-invasion-underway-yc-112",
+        "src_ash_tl_yc112_luminaire-s-market-affected-by-nation-raids-yc-112",
+        "src_ash_tl_yc112_sansha-s-nation-strikes-at-the-empires-yc-112"
+      ]
+    },
+    {
+      "id": "org_dread_guristas",
+      "type": "Organization",
+      "name": "Dread Guristas",
+      "brief": "Elite Guristas sub-faction. Conducted YC117 daring raid that stole a supercarrier \u2014 major capsuleer-era pirate operation.",
+      "master_summary": "Elite Guristas sub-faction. Conducted YC117 daring raid that stole a supercarrier \u2014 the highest-tier piracy of the capsuleer era. Operationally distinct from rank-and-file Guristas; the Dread sub-faction handles capital-class operations and high-value strategic raids.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc117_dread-guristas-steal-supercarrier-in-daring-raid-y"
+      ]
+    },
+    {
+      "id": "art_world_ark",
+      "type": "Artifact",
+      "name": "World Ark (Triglavian flagship)",
+      "brief": "Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121. Carries the Triglavian conquest doctrine to target systems.",
+      "master_summary": "Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121 (impending-invasion announcement). Carries the Triglavian conquest doctrine to target systems; canonical example of cross-civilizational hardware exposure during the Invasion cycle. Each World Ark deployment was a major news event.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc121_galactic-hour-news-roundup-world-ark-aftermath-yc-"
+      ]
+    },
+    {
+      "id": "evt_noir_aidonis",
+      "type": "Event",
+      "name": "Aidonis Award to Alexander Noir",
+      "date": "YC110",
+      "brief": "Alexander Noir received the Aidonis (peace-prize) award in YC110 \u2014 the same year his Nyx struck Ishukone HQ at Malkalen.",
+      "master_summary": "Alexander Noir received the Aidonis (peace-prize) award in YC110 \u2014 the same year his Nyx mothership struck Ishukone HQ at Malkalen and killed Otro Gariushi. The structural ambiguity: Noir was being publicly honored as the Federation's peace champion at the moment the broker plot used him for the Empyrean Age's signature assassination. Whether Noir was set up or willingly participated is canonically unresolved.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc110_admiral-alexander-noir-receives-the-aidonis-yc-110"
+      ]
+    },
+    {
+      "id": "plc_intaki",
+      "type": "Place",
+      "name": "Intaki system",
+      "brief": "Intaki bloodline homeworld. Federation system seized YC124. Site of Lost Adama religious arc and Ishukone development rights.",
+      "master_summary": "Intaki bloodline homeworld system. Federation member system seized YC124 in the Federation Navy invasion that triggered the Uprising arc. Site of the YC120 Lost Adama religious arc and the Ishukone development rights deal that gave Mordu's Legion full military access. The Intaki Syndicate's name origin \u2014 exiles from this system founded the dissident-exile federation.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc108_intaki-spiritual-leader-to-resign-caille-position-",
+        "src_ash_tl_yc111_violence-on-intaki-prime-as-caldari-occupy-system-",
+        "src_ash_tl_yc111_confusion-shortages-spreading-on-intaki-prime-yc-1",
+        "src_ash_tl_yc111_panic-on-intaki-prime-as-word-of-memorandum-spread",
+        "src_ash_tl_yc111_farming-community-on-intaki-prime-involved-in-poli"
+      ]
+    },
+    {
+      "id": "org_inner_zone_shipping",
+      "type": "Organization",
+      "name": "Inner Zone Shipping",
+      "brief": "Federation logistics megacorp. Major shipping company \u2014 backbone of Federation trade and a structural pillar of the Federation industrial economy.",
+      "master_summary": "Federation logistics megacorp. Major shipping company \u2014 backbone of Federation trade and a structural pillar of the Federation industrial economy. The Federation analog of Ishukone Watch in the State or Carthum Conglomerate in the Empire \u2014 a logistics company that doubles as a polity-of-influence within the Federation Senate.",
+      "canonicity": "ccp-canon",
+      "sources": []
     }
   ],
   "connections": [
@@ -12015,6 +12155,352 @@
       "rel": "aligned-with",
       "conf": 0.85,
       "claim": "Restored seven-tribes structure leadership.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jacus_roden",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Federation President YC111+.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jacus_roden",
+      "tgt": "org_roden_shipyards",
+      "rel": "aligned-with",
+      "conf": 0.95,
+      "claim": "Roden family.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jacus_roden",
+      "tgt": "per_soraya_roden",
+      "rel": "descends-from",
+      "conf": 0.92,
+      "claim": "Roden political dynasty; Soraya descends.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jacus_roden",
+      "tgt": "per_celestis_aguard",
+      "rel": "succeeded-by",
+      "conf": 0.85,
+      "claim": "Federation presidential succession.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_souro_foiritan",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Pre-Aguard Federation President.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_souro_foiritan",
+      "tgt": "per_heideran_vii",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Concerned for Heideran's health post-Aidonis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_souro_foiritan",
+      "tgt": "per_jacus_roden",
+      "rel": "succeeded-by",
+      "conf": 0.85,
+      "claim": "Pre-Roden Federation presidential lineage.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_jin_mei",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Federation bloodline.",
+      "supporting_sources": []
+    },
+    {
+      "src": "fac_jin_mei",
+      "tgt": "per_celestis_aguard",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Aguard pre-presidency rallies targeted Jin-Mei vote.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_nugoeihuvi",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Caldari megacorp.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_nugoeihuvi",
+      "tgt": "org_forest_faction",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Forest-faction-aligned.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_nugoeihuvi",
+      "tgt": "org_kaalakiota",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Mind Clash qualifier rivalry.",
+      "supporting_sources": [
+        "src_news_kaalakiota-backs-sukuuvestaa-over-lai-dai-in-ghost-ship-tussle"
+      ]
+    },
+    {
+      "src": "org_nugoeihuvi",
+      "tgt": "org_wiyrkomi",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "NOH-Kaalakiota-Wiyrkomi cultural triangle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_imperial_armageddon",
+      "tgt": "org_amarr_empire",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Amarr battleship.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_imperial_armageddon",
+      "tgt": "org_ushra_khan",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Captured by Ushra'Khan YC107.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_imperial_armageddon",
+      "tgt": "cnc_capsuleers",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Major capsuleer-faction propaganda victory.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_sansha_incursion_yc112",
+      "tgt": "org_sansha_nation",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Sansha operation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_sansha_incursion_yc112",
+      "tgt": "per_sansha_kuvakei",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Resurrection era Kuvakei coordination.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_sansha_incursion_yc112",
+      "tgt": "phn_true_slaves",
+      "rel": "participated-in",
+      "conf": 0.92,
+      "claim": "True Slave drones deployed.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_sansha_incursion_yc112",
+      "tgt": "cnc_capsuleers",
+      "rel": "opposed-to",
+      "conf": 0.92,
+      "claim": "1,000+ pilot response.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_sansha_incursion_yc112",
+      "tgt": "evt_triglavian_invasion",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "Structural prototype for the YC122 Invasion cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_dread_guristas",
+      "tgt": "org_guristas",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Elite Guristas sub-faction.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_dread_guristas",
+      "tgt": "per_omir_sarikusa",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Sarikusa command.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_world_ark",
+      "tgt": "org_triglavian_collective",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Triglavian flagship.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_world_ark",
+      "tgt": "evt_triglavian_invasion",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "Deployed in Invasion cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_world_ark",
+      "tgt": "per_zorya_triglav",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Senior Triglavian voice on World Ark deployments.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_noir_aidonis",
+      "tgt": "per_alexander_noir",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Award to Noir.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_noir_aidonis",
+      "tgt": "evt_malkalen_disaster",
+      "rel": "parallels",
+      "conf": 0.95,
+      "claim": "Same-year peace prize and Malkalen strike.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_noir_aidonis",
+      "tgt": "org_gallente_federation",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Federation-issued peace prize.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_intaki",
+      "tgt": "fac_intaki",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Intaki bloodline homeworld.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_intaki",
+      "tgt": "evt_intaki_seizure_uprising",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Federation seized YC124.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_intaki",
+      "tgt": "evt_lost_adama_discovery",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Lost Adama religious arc.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_intaki",
+      "tgt": "evt_ishukone_intaki_dev_rights",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Ishukone development rights deal.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_intaki",
+      "tgt": "plc_placid",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Intaki sits in Placid region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_inner_zone_shipping",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Federation logistics megacorp.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_inner_zone_shipping",
+      "tgt": "org_federation_navy",
+      "rel": "supplies",
+      "conf": 0.7,
+      "claim": "Federation logistics support.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_wiyrkomi",
+      "tgt": "org_forest_faction",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Forest-faction-aligned within State.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_quafe",
+      "tgt": "fac_jin_mei",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Quafe-Jin-Mei agricultural ties.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_society_of_conscious_thought",
+      "tgt": "org_concord",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Inter-empire research; SoCT briefings convened with CONCORD.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jarek",
+      "tgt": "org_minmatar_republic",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Minmatar preacher.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jarek",
+      "tgt": "plc_heimatar",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Heimatar firefights during Crusade.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jarek",
+      "tgt": "org_24th_imperial_crusade",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Crusade encountered Empire FW militia.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jarek",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Crossed into Amarr space.",
       "supporting_sources": []
     }
   ],

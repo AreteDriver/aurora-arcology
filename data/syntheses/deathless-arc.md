@@ -116,6 +116,13 @@ The Deathless's home base. A hidden system with EVE-gate-adjacent properties rev
 The Construct is the Jovian deep state — every Jove who matters has spent significant subjective time inside it. The 'one body, one mind' law is the constitutional safeguard around it. The Sleeper civilization is what happens when Jove-bound consciousnesses commit fully to the Construct and never come out. The Drifter emergence is canonically tied to whatever happened to those consciousnesses afterward.
 **Cited in:** [The Lore You Need For EVE In 2025 - Part 1 - The Deathless](https://www.youtube.com/watch?v=J8SFloh6Q2s)
 
+## Artifacts
+
+### World Ark (Triglavian flagship)
+
+Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121 (impending-invasion announcement). Carries the Triglavian conquest doctrine to target systems; canonical example of cross-civilizational hardware exposure during the Invasion cycle. Each World Ark deployment was a major news event.
+**Cited in:** [Galactic Hour News Roundup: World Ark Aftermath (YC 121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-world-ark-aftermath-edition/)
+
 ---
 
 ## Sources cited
@@ -243,6 +250,7 @@ The Construct is the Jovian deep state — every Jove who matters has spent sign
 - **1×** [Capsuleer delegates at SOCT gathering to receive briefing (YC 120) (YC120)](https://community.eveonline.com/news/news-channels/world-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing/)
 - **1×** [The Scope - The Triglavian Collective Revealed (YC 120) (YC120)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Upwell Consortium looks forward to increased (YC120)](https://community.eveonline.com/news/news-channels/world-news/upwell-consortium-looks-forward-to-increased-profits-ahead-of-flex-product-line-launch/)
+- **1×** [Galactic Hour News Roundup: World Ark Aftermath (YC 121) (YC121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-world-ark-aftermath-edition/)
 - **1×** [Galactic Hour News Roundup: Triglavian billboard takeover edition (YC 121) (YC121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-triglavian-billboard-takeover-edition/)
 - **1×** [The Scope - Triglavians take over billboards (YC 121) (YC121)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [The Scope - War in Delve and formation of Pochven (YC 122) (YC122)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)

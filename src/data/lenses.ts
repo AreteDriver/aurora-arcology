@@ -79,6 +79,11 @@ export const LENSES: Lens[] = [
       "org_roden_shipyards",
       "org_society_of_conscious_thought",
       "cnc_capsuleer_alliances",
+      "per_jacus_roden",
+      "per_souro_foiritan",
+      "fac_jin_mei",
+      "plc_intaki",
+      "org_inner_zone_shipping",
     ],
   },
   {
@@ -125,6 +130,7 @@ export const LENSES: Lens[] = [
       "org_carthum_conglomerate",
       "org_creodron",
       "org_egonics",
+      "org_nugoeihuvi",
     ],
   },
   {
@@ -199,6 +205,9 @@ export const LENSES: Lens[] = [
       "org_ushra_khan",
       "evt_minmatar_elders_invasion",
       "cnc_capsuleer_alliances",
+      "per_jacus_roden",
+      "per_souro_foiritan",
+      "art_imperial_armageddon",
     ],
   },
   {
@@ -248,6 +257,7 @@ export const LENSES: Lens[] = [
       "per_zorya_triglav",
       "evt_triglavian_revealed",
       "evt_hilen_tukoss_defection",
+      "art_world_ark",
     ],
   },
   {
@@ -313,6 +323,7 @@ export const LENSES: Lens[] = [
       "org_provost_marshal_office",
       "evt_salvation_crusade",
       "org_ushra_khan",
+      "plc_intaki",
     ],
   },
   {
@@ -341,6 +352,7 @@ export const LENSES: Lens[] = [
       "evt_jove_ouria_revolt",
       "per_zorya_triglav",
       "org_society_of_conscious_thought",
+      "art_world_ark",
     ],
   },
   {
@@ -378,6 +390,8 @@ export const LENSES: Lens[] = [
       "cnc_mountain_ocean_forest",
       "evt_caldari_constructions_revolt",
       "per_tovil_toba",
+      "evt_noir_aidonis",
+      "org_nugoeihuvi",
     ],
   },
   {
@@ -408,6 +422,8 @@ export const LENSES: Lens[] = [
       "plc_verge_vendor",
       "evt_salvation_crusade",
       "per_jarek",
+      "plc_intaki",
+      "fac_jin_mei",
     ],
   },
   {
@@ -452,6 +468,7 @@ export const LENSES: Lens[] = [
       "evt_aidonis_heideran",
       "org_carthum_conglomerate",
       "evt_minmatar_elders_invasion",
+      "art_imperial_armageddon",
     ],
   },
   {
@@ -483,6 +500,7 @@ export const LENSES: Lens[] = [
       "evt_archangels_skarkon_annex_yc110",
       "per_general_akuras",
       "plc_great_wildlands",
+      "org_dread_guristas",
     ],
   },
   {
@@ -517,6 +535,7 @@ export const LENSES: Lens[] = [
       "org_outer_ring_excavations",
       "per_yani_sar_arteu",
       "org_egonics",
+      "org_nugoeihuvi",
     ],
   },
   {
