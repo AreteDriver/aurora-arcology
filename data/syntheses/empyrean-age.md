@@ -6,6 +6,11 @@
 
 ## Events
 
+### Malkalen Disaster *(YC110)*
+
+YC110 Caldari–Federation summit aboard Ishukone Headquarters station at Malkalen. Alexander Noir's Nyx struck the station with safety protocols disabled, killing Otro Gariushi and tens of thousands. The 'broker' plot targeted Otro to stop Ishukone's Insorum development. The disaster became Tibus Heth's pretext to militarize the State and triggered the YC112 Caldari invasion of Caldari Prime — the largest interstate war of the modern era.
+**Cited in:** [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one) · [Anti-Provist Rally Sparks Civil Unrest On Malkalen V](https://universe.eveonline.com/new-eden-news/anti-provist-rally-sparks-civil-unrest-on-malkalen-v) · [Ishukone Announces Investment In Malkalen Reconstruction](https://universe.eveonline.com/new-eden-news/ishukone-announces-investment-in-malkalen-reconstruction) · [ISHUKONE STATEMENT: OTRO GARIUSHI CONFIRMED DEAD](https://universe.eveonline.com/new-eden-news/ishukone-statement-otro-gariushi-confirmed-dead)
+
 ### Death of Otro Gariushi (Quantum Rise summit) *(YC110)*
 
 The killing of Otro Gariushi at the YC110 Caldari–Federation summit, when Alexander Noir's Nyx hit the station with safety protocols disabled. The 'broker' plot targeted Otro because Ishukone was developing Insorum, the Vitoxin antidote that threatened the structural basis of Amarr slavery. Mens Reppola inherited the CEO seat and the Insorum mandate.
@@ -88,13 +93,13 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 
 ## Sources cited
 
-- **4×** [EVE: Templar One (Tony Gonzales) (2012)](https://www.eveonline.com/news/view/templar-one)
+- **5×** [EVE: Templar One (Tony Gonzales) (2012)](https://www.eveonline.com/news/view/templar-one)
 - **3×** [EVE: The Empyrean Age (Tony Gonzales) (2008)](https://www.eveonline.com/news/view/the-empyrean-age)
+- **3×** [ISHUKONE STATEMENT: OTRO GARIUSHI CONFIRMED DEAD (2008-05-16)](https://universe.eveonline.com/new-eden-news/ishukone-statement-otro-gariushi-confirmed-dead)
 - **3×** [Tibus Heth angrily denounces Caldari Prime DMZ, blasts Ishukone and SuVee participation (2013-04-04)](https://universe.eveonline.com/new-eden-news/tibus-heth-angrily-denounces-caldari-prime-dmz-blasts-ishukone-and-suvee-participation)
 - **3×** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04) (2024-04-04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI)
 - **2×** [Inspired by Tibus Heth, Revolts Break Out in Caldari State (2008-05-02)](https://universe.eveonline.com/new-eden-news/inspired-by-tibus-heth-revolts-break-out-in-caldari-state)
 - **2×** [Breaking News: Ishukone CEO Pleads for Calm, Denounces Tibus Heth (2008-05-12)](https://universe.eveonline.com/new-eden-news/breaking-news-ishukone-ceo-pleads-for-calm-denounces-tibus-heth)
-- **2×** [ISHUKONE STATEMENT: OTRO GARIUSHI CONFIRMED DEAD (2008-05-16)](https://universe.eveonline.com/new-eden-news/ishukone-statement-otro-gariushi-confirmed-dead)
 - **2×** [VIOLENCE ON CALDARI PRIME CONTINUES AS GALLENTEAN EXPATRIATES FLEE CALDARI STATE (2008-06-02)](https://universe.eveonline.com/new-eden-news/violence-on-caldari-prime-continues-as-gallentean-expatriates-flee-caldari-state)
 - **2×** [BREAKING NEWS: TIBUS HETH CONQUERS CALDARI PRIME, FOIRITAN CEDES CONTROL (2008-06-10)](https://universe.eveonline.com/new-eden-news/breaking-news-tibus-heth-conquers-caldari-prime-foiritan-cedes-control)
 - **2×** [Ishukone Watch CEO Speaks Out About Caldari Prime (2009-02-02)](https://universe.eveonline.com/new-eden-news/ishukone-watch-ceo-speaks-out-about-caldari-prime)
@@ -104,6 +109,7 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **2×** [Caldari Prime relief effort continues, Ishukone request access to devastated planet (2013-03-24)](https://universe.eveonline.com/new-eden-news/caldari-prime-relief-effort-continues-ishukone-request-access-to-devastated-planet)
 - **2×** [Ishukone access to Caldari Prime approved, full negotiations still ongoing (2013-03-25)](https://universe.eveonline.com/new-eden-news/ishukone-access-to-caldari-prime-approved-full-negotiations-still-ongoing)
 - **2×** [Ishukone relief convoy safely makes it to Caldari Prime after attempted capsuleer interdiction (2013-03-29)](https://universe.eveonline.com/new-eden-news/ishukone-relief-convoy-safely-makes-it-to-caldari-prime-after-attempted-capsuleer-interdiction)
+- **2×** [Ishukone Announces Investment In Malkalen Reconstruction (2014-01-28)](https://universe.eveonline.com/new-eden-news/ishukone-announces-investment-in-malkalen-reconstruction)
 - **2×** [Ishukone meets with Gallente Senate on Caldari Prime (2014-03-20)](https://universe.eveonline.com/new-eden-news/ishukone-meets-with-gallente-senate-on-caldari-prime)
 - **2×** [Caldari Megacorps Lead Military Cloning Efforts as Kaalakiota and Sukuuvestaa Provide Support to Caldari Navy (2016-10-25)](https://universe.eveonline.com/new-eden-news/caldari-megacorps-lead-military-cloning-efforts-as-kaalakiota-and-sukuuvestaa-provide-support-to-caldari-navy)
 - **2×** [New Caldari Ishukone Erection 3 Meters Taller Than Kaalakiota Erection (2019-04-01)](https://universe.eveonline.com/new-eden-news/new-caldari-ishukone-erection-3-meters-taller-than-kaalakiota-erection)
@@ -198,6 +204,7 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [Ishukone Negotiates Terms With Federation Regulators (2010-04-12)](https://universe.eveonline.com/new-eden-news/ishukone-negotiates-terms-with-federation-regulators)
 - **1×** [TIBUS HETH SHOT BY MYSTERY ASSAILANT AT NEW CALDARI POLITICAL RALLY, CONDITION UNKNOWN (2012-11-30)](https://universe.eveonline.com/new-eden-news/tibus-heth-shot-by-mystery-assailant-at-new-caldari-political-rally-condition-unknown)
 - **1×** [Massive military mobilization in Caldari State (2013-01-28)](https://universe.eveonline.com/new-eden-news/massive-military-mobilization-in-caldari-state)
+- **1×** [Anti-Provist Rally Sparks Civil Unrest On Malkalen V (2013-02-05)](https://universe.eveonline.com/new-eden-news/anti-provist-rally-sparks-civil-unrest-on-malkalen-v)
 - **1×** [Tibus Heth denounces Blaque's rally speech (2013-02-25)](https://universe.eveonline.com/new-eden-news/tibus-heth-denounces-blaques-rally-speech)
 - **1×** [Reports of unrest among Kaalakiota factory workers (2013-02-27)](https://universe.eveonline.com/new-eden-news/reports-of-unrest-among-kaalakiota-factory-workers)
 - **1×** [Mentas Blaque condemns Caldari State for “brutal oppression” (2013-03-01)](https://universe.eveonline.com/new-eden-news/mentas-blaque-condemns-caldari-state-for-brutal-oppression)
@@ -236,7 +243,6 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [Oiritsuu appointed interim CEO in Kaalakiota press release (2013-07-30)](https://universe.eveonline.com/new-eden-news/oiritsuu-appointed-interim-ceo-in-kaalakiota-press-release)
 - **1×** [Caldari Funds Unlimited to invest heavily in Kaalakiota (2013-09-09)](https://universe.eveonline.com/new-eden-news/caldari-funds-unlimited-to-invest-heavily-in-kaalakiota)
 - **1×** [Clashes on Caldari Prime quelled by Mordu's Legion (2013-11-19)](https://universe.eveonline.com/new-eden-news/clashes-on-caldari-prime-quelled-by-mordus-legion)
-- **1×** [Ishukone Announces Investment In Malkalen Reconstruction (2014-01-28)](https://universe.eveonline.com/new-eden-news/ishukone-announces-investment-in-malkalen-reconstruction)
 - **1×** [Caldari Prime salvage plans announced (2014-02-05)](https://universe.eveonline.com/new-eden-news/caldari-prime-salvage-plans-announced)
 - **1×** [Body of disgraced Caldari Navy officer found on Caldari Prime (2014-03-06)](https://universe.eveonline.com/new-eden-news/body-of-disgraced-caldari-navy-officer-found-on-caldari-prime)
 - **1×** [Caldari Prime administrators unveil Operation Highlander monument (2014-03-22)](https://universe.eveonline.com/new-eden-news/caldari-prime-administrators-unveil-operation-highlander-monument)

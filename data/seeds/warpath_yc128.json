@@ -3337,6 +3337,71 @@
       "sources": [
         "src_news_house-ardishapur-issues-a-statement"
       ]
+    },
+    {
+      "id": "per_sansha_kuvakei",
+      "type": "Person",
+      "name": "Sansha Kuvakei",
+      "date": "deceased",
+      "brief": "Founder of Sansha's Nation. Megalomaniac who pursued forced cybernetic enslavement under the banner of post-human evolution. Killed in YC36; later resurrected as a True Slave-Master.",
+      "master_summary": "Founder of Sansha's Nation. Megalomaniac who pursued forced cybernetic enslavement under the banner of post-human evolution. Killed in YC36, then later resurrected as a True Slave-Master and continues to coordinate Sansha incursions across New Eden. The structural prototype for every later 'transcend humanity through forced merger' antagonist \u2014 including the Deathless framing.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_the-master-speaks-an-interview-with-sansha-kuvakei",
+        "src_news_sansha-kuvakeis-resurrection-truth-or-trickery"
+      ]
+    },
+    {
+      "id": "evt_malkalen_disaster",
+      "type": "Event",
+      "name": "Malkalen Disaster",
+      "date": "YC110",
+      "brief": "YC110 Caldari\u2013Federation summit aboard Ishukone Headquarters station at Malkalen. Alexander Noir's Nyx struck the station with safety protocols disabled, killing Otro Gariushi and triggering the State's invasion of Caldari Prime in YC112.",
+      "master_summary": "YC110 Caldari\u2013Federation summit aboard Ishukone Headquarters station at Malkalen. Alexander Noir's Nyx struck the station with safety protocols disabled, killing Otro Gariushi and tens of thousands. The 'broker' plot targeted Otro to stop Ishukone's Insorum development. The disaster became Tibus Heth's pretext to militarize the State and triggered the YC112 Caldari invasion of Caldari Prime \u2014 the largest interstate war of the modern era.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_book_templar_one",
+        "src_news_ishukone-statement-otro-gariushi-confirmed-dead",
+        "src_news_ishukone-announces-investment-in-malkalen-reconstruction",
+        "src_news_anti-provist-rally-sparks-civil-unrest-on-malkalen-v"
+      ]
+    },
+    {
+      "id": "org_triglavian_collective",
+      "type": "Organization",
+      "name": "Triglavian Collective",
+      "brief": "Abyssal humanoid civilization that emerged from Abyssal Deadspace. Conquered 27 systems via the Invasion arc to form Pochven. Tied to abyssal-filament tech and the Drifter conflict.",
+      "master_summary": "Abyssal humanoid civilization that emerged from Abyssal Deadspace via the Drifter Crisis upheavals. Conquered 27 systems through the Invasion arc to form Pochven. Tied to abyssal-filament technology and a multi-front conflict with the Drifters. Their proxis-class doctrine sits adjacent to Construct-derived tech without using it the same way \u2014 making them a third pole next to Drifter and capsuleer civilizations.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_soct-confirms-triglavian-drifter-conflict-amidst-calls-for-capsuleer-aid",
+        "src_news_galactic-hour-news-roundup-images-from-athounon-v-indicate-triglavian-activity",
+        "src_news_triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party"
+      ]
+    },
+    {
+      "id": "plc_pochven",
+      "type": "Place",
+      "name": "Pochven",
+      "brief": "Triglavian-controlled region formed from the 27 Invasion-arc conquered systems. Bordered region between Triglavian space and standard New Eden. Site of recent Deathless / Archbine activity.",
+      "master_summary": "Triglavian-controlled region formed from the 27 Invasion-arc conquered systems. Bordered space between Triglavian abyssal territory and standard New Eden. Recent Deathless / Archbine activity has used Pochven as a staging zone, and the Zarzakh-to-Pochven corridor is one of the few non-empire transit routes the Deathless Network exploits.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_the-scope-one-year-anniversary-of-pochven",
+        "src_news_the-scope-war-in-delve-and-formation-of-pochven"
+      ]
+    },
+    {
+      "id": "plc_zarzakh",
+      "type": "Place",
+      "name": "Zarzakh",
+      "brief": "The Deathless's home base. Hidden system with EVE-gate-adjacent properties. Coordination center for the Deathless Network.",
+      "master_summary": "The Deathless's home base. A hidden system with EVE-gate-adjacent properties revealed during the Equinox-era Deathless arc. The Deathless Network's coordination hub \u2014 pirate factions report to Zarzakh, Archbine defectors transit through it, and the Shikari operations are run from it. Sits structurally where Pochven meets the Eve Gate periphery.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_zarzakh-report-consequences-and-the-deathless",
+        "src_news_zarzakh-report-hrada-oki-memorial"
+      ]
     }
   ],
   "connections": [
@@ -6085,6 +6150,216 @@
       "claim": "Muryia Mordu \u2014 founder and current commander of Mordu's Legion.",
       "supporting_sources": [
         "src_chronicle_mordus-legion"
+      ]
+    },
+    {
+      "src": "per_sansha_kuvakei",
+      "tgt": "org_sansha_nation",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Founder of Sansha's Nation; later resurrected as True Slave-Master.",
+      "supporting_sources": [
+        "src_news_the-master-speaks-an-interview-with-sansha-kuvakei"
+      ]
+    },
+    {
+      "src": "per_sansha_kuvakei",
+      "tgt": "per_deathless",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Structural prototype for the Deathless: the resurrected immortal antagonist running a centralized network of forced merger.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_malkalen_disaster",
+      "tgt": "per_otro_gariushi",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Killed Otro Gariushi at the Caldari-Federation summit.",
+      "supporting_sources": [
+        "src_news_ishukone-statement-otro-gariushi-confirmed-dead",
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "evt_otro_assassination",
+      "tgt": "evt_malkalen_disaster",
+      "rel": "parallels",
+      "conf": 0.95,
+      "claim": "The assassination IS the Malkalen Disaster \u2014 same event from different framings (curator-internal duplicate; canonical name is Malkalen).",
+      "supporting_sources": [
+        "src_news_ishukone-statement-otro-gariushi-confirmed-dead"
+      ]
+    },
+    {
+      "src": "evt_malkalen_disaster",
+      "tgt": "per_tibus_heth",
+      "rel": "succeeded-by",
+      "conf": 0.92,
+      "claim": "Heth weaponized the disaster as pretext for State militarization and the YC112 invasion.",
+      "supporting_sources": [
+        "src_news_ishukone-announces-investment-in-malkalen-reconstruction",
+        "src_news_anti-provist-rally-sparks-civil-unrest-on-malkalen-v"
+      ]
+    },
+    {
+      "src": "evt_malkalen_disaster",
+      "tgt": "phn_insorum",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "The 'broker' plot targeted Otro to halt Ishukone's Insorum development.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "plc_pochven",
+      "tgt": "org_triglavian_collective",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Pochven is Triglavian-controlled territory formed from the 27 Invasion-arc systems.",
+      "supporting_sources": [
+        "src_news_the-scope-one-year-anniversary-of-pochven"
+      ]
+    },
+    {
+      "src": "org_triglavian_collective",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "opposed-to",
+      "conf": 0.92,
+      "claim": "Active Triglavian-Drifter conflict reported across the post-Invasion arcs.",
+      "supporting_sources": [
+        "src_news_soct-confirms-triglavian-drifter-conflict-amidst-calls-for-capsuleer-aid"
+      ]
+    },
+    {
+      "src": "org_thukker_tribe",
+      "tgt": "org_triglavian_collective",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Thukker reporters embedded with Triglavian raiding party; abyssal filament tech present in Thukker data sites.",
+      "supporting_sources": [
+        "src_news_triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party"
+      ]
+    },
+    {
+      "src": "per_deathless",
+      "tgt": "plc_zarzakh",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "The Deathless operates from Zarzakh.",
+      "supporting_sources": [
+        "src_news_zarzakh-report-consequences-and-the-deathless"
+      ]
+    },
+    {
+      "src": "org_deathless_circle",
+      "tgt": "plc_zarzakh",
+      "rel": "located-in",
+      "conf": 0.9,
+      "claim": "Deathless Circle command-and-control runs out of Zarzakh.",
+      "supporting_sources": [
+        "src_news_zarzakh-report-hrada-oki-memorial"
+      ]
+    },
+    {
+      "src": "plc_zarzakh",
+      "tgt": "plc_pochven",
+      "rel": "parallels",
+      "conf": 0.8,
+      "claim": "Zarzakh-to-Pochven corridor is one of the few non-empire transit routes the Deathless Network uses.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_drifter_crisis",
+      "tgt": "org_caldari_state",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "One of the five empire-and-collective occupiers of Drifter pillar formations post-Crisis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_drifter_crisis",
+      "tgt": "org_gallente_federation",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "One of the five Drifter-pillar occupiers.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_drifter_crisis",
+      "tgt": "org_amarr_empire",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "One of the five Drifter-pillar occupiers.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_drifter_crisis",
+      "tgt": "org_minmatar_republic",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "One of the five Drifter-pillar occupiers.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_concord",
+      "tgt": "evt_warpath_protocol_failure",
+      "rel": "participated-in",
+      "conf": 0.99,
+      "claim": "CONCORD's Warpath Protocol failed YC128.04.30 \u2014 first targeted system breach since Yulai YC110.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_concord",
+      "tgt": "evt_jita_gate_incident",
+      "rel": "participated-in",
+      "conf": 0.92,
+      "claim": "CONCORD investigates the Jita-gate incident; the Warpath Protocol activation is its response.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_concord",
+      "tgt": "evt_drifter_crisis",
+      "rel": "participated-in",
+      "conf": 0.85,
+      "claim": "CONCORD coordinated the inter-empire response to the Drifter Crisis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_jovian_disease",
+      "tgt": "phn_construct",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "The Jovian turn to the Construct is the response to the Disease \u2014 escape upward into simulated time.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_jovian_disease",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "parallels",
+      "conf": 0.8,
+      "claim": "Drifter emergence is canonically tied to whatever happened to consciousnesses that committed fully to the Construct.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_otro_gariushi",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Ishukone CEO and de-facto Mountain/Ocean axis voice within the State.",
+      "supporting_sources": [
+        "src_news_otro-gariushi-defends-dark-amarr-deal-claims-chips-improve-slaves-lives"
+      ]
+    },
+    {
+      "src": "evt_malkalen_disaster",
+      "tgt": "plc_caldari_prime",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "The disaster directly precipitated the YC112 State invasion of Caldari Prime.",
+      "supporting_sources": [
+        "src_news_anti-provist-rally-sparks-civil-unrest-on-malkalen-v"
       ]
     }
   ],

@@ -68,6 +68,11 @@ Anoyus Mapping Project. Capsuleer initiative working with the Federation. Contin
 Inter-empire defensive coalition. Ships built by Upwell. Drifter wormhole occupier (one of five). Partnered with Upwell on Sentinel-MZ research. Lost CONCORD funding to AIR Labs in the Mountain/Ocean realignment.
 **Cited in:** [Controversial EDENCOM Policy Endorsed during "Drifter Summit"](https://universe.eveonline.com/new-eden-news/controversial-edencom-policy-endorsed-during-drifter-summit) · [DED and EDENCOM Security Briefing Highlights Concerns Over Empires "Shadow War" Violence](https://universe.eveonline.com/new-eden-news/ded-and-edencom-security-briefing-highlights-concerns-over-empires-shadow) · [Formation of EDENCOM Announced Following Triglavian Attacks Amidst Capsuleer Day Celebrations](https://universe.eveonline.com/new-eden-news/formation-of-edencom-announced-following-triglavian-attacks-amidst-capsuleer-day-celebrations) · [Galactic Hour News Roundup: Inner Circle Security Summit Reduces EDENCOM Funding](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-inner-circle-security-summit-reduces-edencom) · [Galactic Hour News Roundup: Triglavian Conquests and EDENCOM Fortresses Edition](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-triglavian-conquests-and-edencom-fortresses-edition) · [Shipcaster Spying Row Intensifies with Recriminations Over CONCORD/EDENCOM Taskforce](https://universe.eveonline.com/new-eden-news/shipcaster-spying-row-intensifies-with-recriminations-over-concord-edencom)
 
+### Triglavian Collective
+
+Abyssal humanoid civilization that emerged from Abyssal Deadspace via the Drifter Crisis upheavals. Conquered 27 systems through the Invasion arc to form Pochven. Tied to abyssal-filament technology and a multi-front conflict with the Drifters. Their proxis-class doctrine sits adjacent to Construct-derived tech without using it the same way — making them a third pole next to Drifter and capsuleer civilizations.
+**Cited in:** [Galactic Hour News Roundup: Images from Athounon V Indicate Triglavian Activity as Militia Offensives Sweep Across Warzones](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-images-from-athounon-v-indicate-triglavian-activity) · [SoCT confirms Triglavian-Drifter Conflict Amidst Calls for Capsuleer Aid](https://universe.eveonline.com/new-eden-news/soct-confirms-triglavian-drifter-conflict-amidst-calls-for-capsuleer-aid) · [Triglavian Abyssal Filament Technology Present in Data Sites, Confirms Reporter Embedded With Thukker Raiding Party](https://universe.eveonline.com/new-eden-news/triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party)
+
 ## Factions
 
 ### Talocan
@@ -86,6 +91,11 @@ One of three pre-collapse civilizations. Yan Jung gravitonic technology is the s
 **Cited in:** [The Lore You Need For EVE In 2025 - Part 1 - The Deathless](https://www.youtube.com/watch?v=J8SFloh6Q2s)
 
 ## Places
+
+### Pochven
+
+Triglavian-controlled region formed from the 27 Invasion-arc conquered systems. Bordered space between Triglavian abyssal territory and standard New Eden. Recent Deathless / Archbine activity has used Pochven as a staging zone, and the Zarzakh-to-Pochven corridor is one of the few non-empire transit routes the Deathless Network exploits.
+**Cited in:** [The Scope – One Year Anniversary Of Pochven](https://universe.eveonline.com/new-eden-news/the-scope-one-year-anniversary-of-pochven) · [The Scope - War in Delve and Formation of Pochven](https://universe.eveonline.com/new-eden-news/the-scope-war-in-delve-and-formation-of-pochven)
 
 ### Tanu II
 
@@ -134,6 +144,7 @@ Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-i
 
 - **5×** [The Lore You Need For EVE In 2025 - Part 1 - The Deathless (2025)](https://www.youtube.com/watch?v=J8SFloh6Q2s)
 - **5×** [New Eden News - Warnings Raised Over Drifter Wormhole Experiments (YC127-10-30) (2025-10-30)](https://www.youtube.com/watch?v=hPbfRmzc1bI)
+- **2×** [Triglavian Abyssal Filament Technology Present in Data Sites, Confirms Reporter Embedded With Thukker Raiding Party (2018-05-29)](https://universe.eveonline.com/new-eden-news/triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party)
 - **2×** [Lore Tourism - The Redemption of the Ammatar (2026-02)](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 - **2×** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05 (2026-05-05)](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
 - **1×** [Jovian admiral Ouria known to have the Jovian disease (2003-08-10)](https://universe.eveonline.com/new-eden-news/jovian-admiral-ouria-known-to-have-the-jovian-disease)
@@ -171,14 +182,17 @@ Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-i
 - **1×** [Thukker Tribe invites cloned mercenaries to police Molden Heath (2013-05-14)](https://universe.eveonline.com/new-eden-news/thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath)
 - **1×** [SOE Splinter Group Warns of Shift in Drifter Activity; Thukker Tribe Confirms Anomalous Behavior (2016-11-10)](https://universe.eveonline.com/new-eden-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior)
 - **1×** [Thukker Mix Transfers Key Assets to Core Complexion (2018-02-13)](https://universe.eveonline.com/new-eden-news/thukker-mix-transfers-key-assets-to-core-complexion)
-- **1×** [Triglavian Abyssal Filament Technology Present in Data Sites, Confirms Reporter Embedded With Thukker Raiding Party (2018-05-29)](https://universe.eveonline.com/new-eden-news/triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party)
 - **1×** [Formation of EDENCOM Announced Following Triglavian Attacks Amidst Capsuleer Day Celebrations (2020-05-07)](https://universe.eveonline.com/new-eden-news/formation-of-edencom-announced-following-triglavian-attacks-amidst-capsuleer-day-celebrations)
 - **1×** [Galactic Hour News Roundup: Triglavian Conquests and EDENCOM Fortresses Edition (2020-06-15)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-triglavian-conquests-and-edencom-fortresses-edition)
+- **1×** [The Scope - War in Delve and Formation of Pochven (2020-11-03)](https://universe.eveonline.com/new-eden-news/the-scope-war-in-delve-and-formation-of-pochven)
 - **1×** [Galactic Hour News Roundup: Inner Circle Security Summit Reduces EDENCOM Funding (2021-07-26)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-inner-circle-security-summit-reduces-edencom)
+- **1×** [The Scope – One Year Anniversary Of Pochven (2021-10-15)](https://universe.eveonline.com/new-eden-news/the-scope-one-year-anniversary-of-pochven)
+- **1×** [Galactic Hour News Roundup: Images from Athounon V Indicate Triglavian Activity as Militia Offensives Sweep Across Warzones (2022-07-20)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-images-from-athounon-v-indicate-triglavian-activity)
 - **1×** [Shipcaster Spying Row Intensifies with Recriminations Over CONCORD/EDENCOM Taskforce (2023-02-16)](https://universe.eveonline.com/new-eden-news/shipcaster-spying-row-intensifies-with-recriminations-over-concord-edencom)
 - **1×** [DED and EDENCOM Security Briefing Highlights Concerns Over Empires "Shadow War" Violence (2023-03-24)](https://universe.eveonline.com/new-eden-news/ded-and-edencom-security-briefing-highlights-concerns-over-empires-shadow)
 - **1×** [The Seven Tribes of the Mimitar Republic (2024)](https://www.youtube.com/@Ashterothi)
 - **1×** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04) (2024-04-04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI)
+- **1×** [SoCT confirms Triglavian-Drifter Conflict Amidst Calls for Capsuleer Aid (2024-04-24)](https://universe.eveonline.com/new-eden-news/soct-confirms-triglavian-drifter-conflict-amidst-calls-for-capsuleer-aid)
 - **1×** [Thukker Mix CEO Outraged at Hrada-Oki Convoy Heist (2024-10-09)](https://universe.eveonline.com/new-eden-news/thukker-mix-ceo-outraged-at-hrada-oki-convoy-heist)
 - **1×** [Controversial EDENCOM Policy Endorsed during "Drifter Summit" (2025-05-08)](https://universe.eveonline.com/new-eden-news/controversial-edencom-policy-endorsed-during-drifter-summit)
 - **1×** [Warnings Raised Over Drifter Wormhole Experiments (2025-10-30)](https://universe.eveonline.com/new-eden-news/warnings-raised-over-drifter-wormhole-experiments)

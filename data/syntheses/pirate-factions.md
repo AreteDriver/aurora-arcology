@@ -23,6 +23,11 @@ Mordu's Legion's founder. Independent mercenary commander operating outside the 
 Head of Serpentis Corporation. Sentona's brother. Silphy's collaborator during her black-market consolidation. The Sarpati siblings are the structural bridge between Sisters of Eve, Serpentis, and the Syndicate — the soft underbelly of the Federation's drug economy.
 **Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [The Sarpati Family ](https://universe.eveonline.com/chronicles/the-sarpati-family)
 
+### Sansha Kuvakei *(deceased)*
+
+Founder of Sansha's Nation. Megalomaniac who pursued forced cybernetic enslavement under the banner of post-human evolution. Killed in YC36, then later resurrected as a True Slave-Master and continues to coordinate Sansha incursions across New Eden. The structural prototype for every later 'transcend humanity through forced merger' antagonist — including the Deathless framing.
+**Cited in:** [Sansha Kuvakei's Resurrection: Truth or Trickery?](https://universe.eveonline.com/new-eden-news/sansha-kuvakeis-resurrection-truth-or-trickery) · [The Master Speaks: An Interview With Sansha Kuvakei](https://universe.eveonline.com/new-eden-news/the-master-speaks-an-interview-with-sansha-kuvakei)
+
 ## Organizations
 
 ### Angel Cartel
@@ -51,6 +56,11 @@ Salvador Sarpati's black-market / drug pipeline. Silphy's collaborator pre-arres
 **Cited in:** [The Sarpati Family ](https://universe.eveonline.com/chronicles/the-sarpati-family) · [Serpentis Corporation Strikes Back Against Upwell Consortium](https://universe.eveonline.com/new-eden-news/serpentis-corporation-strikes-back-against-upwell-consortium)
 
 ## Factions
+
+### Sansha's Nation
+
+The fourth major canonical pirate empire — Sansha's signature is the True-Slave neural conditioning, an extreme of the Vitoxin / mind-control technology spectrum. Periodic incursions historically targeted both high-sec and faction territory; many of CCP's earlier expansion arcs (incursion mechanic, response protocols) were shaped around Sansha's behavior pattern. Genealogically related to the Sarpati line through Sansha Kuvakei's family — one of the few canonical bridges between the southern pirate factions and the Sarpati black-market network.
+**Cited in:** [Sansha's Nation Attempt Jita Blockade](https://universe.eveonline.com/new-eden-news/sanshas-nation-attempt-jita-blockade) · [Sansha's Nation forces move on Angel Cartel Territory](https://universe.eveonline.com/new-eden-news/sanshas-nation-forces-move-on-angel-cartel-territory) · [Sansha's Nation showing signs of revival](https://universe.eveonline.com/new-eden-news/sanshas-nation-showing-signs-of-revival) · [Umokka Raided By Sansha's Nation, Abductions Escalate](https://universe.eveonline.com/new-eden-news/umokka-raided-by-sanshas-nation-abductions-escalate)
 
 ### Thukker Tribe
 
@@ -84,6 +94,7 @@ Hallucinogenic illegal booster derived from chronodynamic-tricaroxal. Weaponized
 - **2×** [The Blood Raiders (2000-09-04)](https://universe.eveonline.com/chronicles/the-blood-raiders)
 - **2×** [The Sarpati Family  (2001-05-14)](https://universe.eveonline.com/chronicles/the-sarpati-family)
 - **2×** [Mordu’s Legion (2001-10-01)](https://universe.eveonline.com/chronicles/mordus-legion)
+- **2×** [Sansha's Nation forces move on Angel Cartel Territory (2006-01-20)](https://universe.eveonline.com/new-eden-news/sanshas-nation-forces-move-on-angel-cartel-territory)
 - **2×** [Ante (Chronicle) (2010-04-19)](https://universe.eveonline.com/chronicles/ante)
 - **2×** [EVE: Templar One (Tony Gonzales) (2012)](https://www.eveonline.com/news/view/templar-one)
 - **2×** [Mordu's Legion and Angel Cartel join Guristas in offering to aid Caldari targets (2013-02-12)](https://universe.eveonline.com/new-eden-news/mordus-legion-and-angel-cartel-join-guristas-in-offering-to-aid-caldari-targets)
@@ -98,8 +109,8 @@ Hallucinogenic illegal booster derived from chronodynamic-tricaroxal. Weaponized
 - **1×** [“Insorum Imbroglio” Puts Focus on Capsuleers as Eyes Turn Toward Blood Raider Covenant (2005-06-01)](https://universe.eveonline.com/new-eden-news/insorum-imbroglio-puts-focus-on-capsuleers-as-eyes-turn-toward-blood-raider-covenant)
 - **1×** [Mordu's Legion hunts and kills Serpentis battleship (2005-07-12)](https://universe.eveonline.com/new-eden-news/mordus-legion-hunts-and-kills-serpentis-battleship)
 - **1×** [Mordu's Legion Clashes In Syndicate (2005-11-17)](https://universe.eveonline.com/new-eden-news/mordus-legion-clashes-in-syndicate)
-- **1×** [Sansha's Nation forces move on Angel Cartel Territory (2006-01-20)](https://universe.eveonline.com/new-eden-news/sanshas-nation-forces-move-on-angel-cartel-territory)
 - **1×** [Angel Cartel opens ties with capsuleer alliances (2006-06-08)](https://universe.eveonline.com/new-eden-news/angel-cartel-opens-ties-with-capsuleer-alliances)
+- **1×** [Sansha's Nation showing signs of revival (2006-07-26)](https://universe.eveonline.com/new-eden-news/sanshas-nation-showing-signs-of-revival)
 - **1×** [Guristas Pirates strike against Caldari Navy convoy. (2006-11-03)](https://universe.eveonline.com/new-eden-news/guristas-pirates-strike-against-caldari-navy-convoy)
 - **1×** [Mordu's Legion launches Flagship vessel. (2007-04-14)](https://universe.eveonline.com/new-eden-news/mordus-legion-launches-flagship-vessel)
 - **1×** [Archangels "Annex" Skarkon From Minmatar Republic; Popular Vote Confirms (2008-05-28)](https://universe.eveonline.com/new-eden-news/archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms)
@@ -134,10 +145,14 @@ Hallucinogenic illegal booster derived from chronodynamic-tricaroxal. Weaponized
 - **1×** [Minmatar Republic, Thukker Tribe Launch Joint Manhunt (2009-09-14)](https://universe.eveonline.com/new-eden-news/minmatar-republic-thukker-tribe-launch-joint-manhunt)
 - **1×** [Crime Lord Krullefor Detained by Thukker Fleet, 'Will Not Be Extradited' (2009-09-17)](https://universe.eveonline.com/new-eden-news/crime-lord-krullefor-detained-by-thukker-fleet-will-not-be-extradited)
 - **1×** [Republic Justice Accepts Thukker Demand for Krullefor (2009-09-18)](https://universe.eveonline.com/new-eden-news/republic-justice-accepts-thukker-demand-for-krullefor)
+- **1×** [Umokka Raided By Sansha's Nation, Abductions Escalate (2010-05-16)](https://universe.eveonline.com/new-eden-news/umokka-raided-by-sanshas-nation-abductions-escalate)
+- **1×** [Sansha Kuvakei's Resurrection: Truth or Trickery? (2010-06-03)](https://universe.eveonline.com/new-eden-news/sansha-kuvakeis-resurrection-truth-or-trickery)
 - **1×** [Thukker Caravans Increasingly Present in Minmatar Space (2010-07-29)](https://universe.eveonline.com/new-eden-news/thukker-caravans-increasingly-present-in-minmatar-space)
 - **1×** [Thukker Political Integration Sees Difficulties and Delays (2010-07-29)](https://universe.eveonline.com/new-eden-news/thukker-political-integration-sees-difficulties-and-delays)
 - **1×** [Settled Thukker Deal With Tribal Identity Crisis (2010-08-31)](https://universe.eveonline.com/new-eden-news/settled-thukker-deal-with-tribal-identity-crisis)
 - **1×** [Intertribal Tensions Plague Resettled Thukker (2010-09-15)](https://universe.eveonline.com/new-eden-news/intertribal-tensions-plague-resettled-thukker)
+- **1×** [Sansha's Nation Attempt Jita Blockade (2011-07-26)](https://universe.eveonline.com/new-eden-news/sanshas-nation-attempt-jita-blockade)
+- **1×** [The Master Speaks: An Interview With Sansha Kuvakei (2011-08-08)](https://universe.eveonline.com/new-eden-news/the-master-speaks-an-interview-with-sansha-kuvakei)
 - **1×** [Angel Cartel conduct planetary attack in Oddelulf, hundreds dead (2012-09-28)](https://universe.eveonline.com/new-eden-news/angel-cartel-conduct-planetary-attack-in-oddelulf-hundreds-dead)
 - **1×** [Angel Cartel executes second planetary strike in two days (2012-09-28)](https://universe.eveonline.com/new-eden-news/angel-cartel-executes-second-planetary-strike-in-two-days)
 - **1×** [Mordu's Legion intervenes in Caldari ground combat, escapes unscathed (2013-02-08)](https://universe.eveonline.com/new-eden-news/mordus-legion-intervenes-in-caldari-ground-combat-escapes-unscathed)
