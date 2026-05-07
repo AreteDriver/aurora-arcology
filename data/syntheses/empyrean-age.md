@@ -73,6 +73,10 @@ One of the eight Caldari mega-corps. Kaalakiota's manufacturing base was the pol
 Tibus Heth's authoritarian faction that seized de-facto control of the Caldari State after the Malkalen Disaster (YC110). Built around Kaalakiota labor militancy and Mountain-faction ideology, the Provists ran the State through the YC112 invasion of Caldari Prime, the YC115 Caldari–Federation conflict resolution, and into the Empyrean Age. Their downfall — the rise of Akimaka Saraki and the post-Heth consolidation — is the proximate cause of the current Lai-Dai-vs-Ishukone axis.
 **Cited in:** [EVE: Templar One (Tony Gonzales)](https://www.eveonline.com/news/view/templar-one) · [Anti-Provist Rally Sparks Civil Unrest On Malkalen V](https://universe.eveonline.com/new-eden-news/anti-provist-rally-sparks-civil-unrest-on-malkalen-v)
 
+### Provost-Marshal Office (Khanid Kingdom)
+
+Khanid Kingdom's military-judicial office — combines military command authority with imperial-judicial powers in Khanid space. Allar Chakaide held the role during the YC120 Kahah pacification; the office is the Khanid analog of the Imperial Court chamberlainship in Domain. Aldrith Shutaq operates within the Provost-Marshal command structure.
+
 ### Star Seed Drink Co.
 
 Beverage corp founded by Ytiri. 'Official soft drink' of Caldari space; ran ad-removal campaigns against Quafe in YC106. The Ishukone-axis answer to Quafe and the centerpiece of the 'Soft Drink Wars' framing.
@@ -99,6 +103,10 @@ Moreau presidency, post-Roden defeat. Disputed the Caldari Jita-gate accusations
 **Cited in:** [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Election Special: Voting for New President Underway Across Gallente Federation in Delayed Weekend Poll](https://universe.eveonline.com/new-eden-news/election-special-voting-for-new-president-underway-across-gallente-federation-in-delayed-weekend-poll) · [Galactic Hour News Roundup: Gallente Federation Day YC122 Edition](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-gallente-federation-day-yc122-edition) · [Galactic Hour News Roundup: Gallente Federation Rocked by Loss of Systems to Triglavians, Amarr Empire Celebrates Foundation Day](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-gallente-federation-rocked-by-loss-of-systems-to-triglavians-amarr-empire-celebrates-foundation-day) · [Gallente Federation Calls For Calm](https://universe.eveonline.com/new-eden-news/gallente-federation-calls-for-calm) · [Gallente Federation celebrates Federation Day](https://universe.eveonline.com/new-eden-news/gallente-federation-celebrates-federation-day) · [Gallente Federation Responds To Plea From Grieving Spouse](https://universe.eveonline.com/new-eden-news/gallente-federation-responds-to-plea-from-grieving-spouse) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [REPORT: KADOR FLEET LAUNCHES INVASION OF GALLENTE FEDERATION IN SOLITUDE - HEAVY CASUALTIES REPORTED AS FIGHTING IS UNDERWAY](https://universe.eveonline.com/new-eden-news/report-kador-fleet-launches-invasion-of-gallente-federation-in-solitude-heavy-casualties-reported-as-fighting-is-underway)
 
 ## Places
+
+### Lonetrek region
+
+Caldari State core region. Contains Jita (the trade hub) and the major State industrial zones. Operational center for State Protectorate FW militia operations and the State Workers' Union activity. The Jita-gate incident occurred at Lonetrek's primary trade artery.
 
 ### Yulai system
 

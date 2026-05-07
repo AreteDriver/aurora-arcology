@@ -81,6 +81,12 @@ The Caldari Navy's primary capital-ship builder. Wiyrkomi's Wyvern-class line is
 
 Ninth-largest Caldari corp. Absorbed by Heth's Provost alliance. Founded Star Seed via its investment division. Concession statement praised Otro Gariushi explicitly — places Ytiri in the Ishukone axis structurally and gives Star Seed its Mountain/Ocean polarity.
 
+## Places
+
+### Lonetrek region
+
+Caldari State core region. Contains Jita (the trade hub) and the major State industrial zones. Operational center for State Protectorate FW militia operations and the State Workers' Union activity. The Jita-gate incident occurred at Lonetrek's primary trade artery.
+
 ## Concepts
 
 ### Lai Dai vs Ishukone Axis

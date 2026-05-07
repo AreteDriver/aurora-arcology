@@ -78,6 +78,14 @@ Most distant Minmatar tribe. Operates in Great Wildlands. Wormhole-interested. S
 
 Angel Cartel home region in southern null-sec. Operational base for the Cartel's smuggling and mercenary operations. Mordu's Legion has historic Cartel connections — Mordu's Legion's break from the Cartel is the founding myth of the Legion.
 
+### Lonetrek region
+
+Caldari State core region. Contains Jita (the trade hub) and the major State industrial zones. Operational center for State Protectorate FW militia operations and the State Workers' Union activity. The Jita-gate incident occurred at Lonetrek's primary trade artery.
+
+### Metropolis region
+
+Minmatar Republic region adjacent to Heimatar. Contains tribal homelands and Republic Fleet operational base. Brutor / Sebiestor heritage worlds sit here.
+
 ### Skarkon
 
 Mimitar system that defected to the Angel Cartel ~YC110 — symbol of Republic governance weakness and a cautionary precedent for what happens when an empire stops servicing a region.

@@ -3760,6 +3760,152 @@
       "sources": [
         "src_news_imperial-court-remains-silent-about-bleak-land-troubles"
       ]
+    },
+    {
+      "id": "org_tribal_council",
+      "type": "Organization",
+      "name": "Tribal Council",
+      "brief": "Minmatar Republic's governing body. Comprises tribal chiefs of each Minmatar tribe under the Sanmatar's chairmanship.",
+      "master_summary": "The Minmatar Republic's governing body. Comprises tribal chiefs of each Minmatar tribe (Brutor, Sebiestor, Krusual, Vherokior, Nefantar, Starkmanir, Thukker) under the Sanmatar's chairmanship. Approved Upwell workforce transfers post-conquest, drives the seven-tribes restoration narrative, and is the operational layer that gives the Republic its coalition pluralism. Maleatu Shakor (Sanmatar) chairs; Karin Midular (Sebiestor Chief) serves as senior diplomatic voice.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_tribal-council-approves-upwell-workforce-transfers"
+      ]
+    },
+    {
+      "id": "plc_domain",
+      "type": "Place",
+      "name": "Domain region",
+      "brief": "Amarr Empire's core region. Contains Amarr (the capital system) and the major imperial throne worlds.",
+      "master_summary": "Amarr Empire's core region containing Amarr system, the imperial throne worlds, and the Empress's residence. Capital of Reclaiming-era Amarr space. Heideran VII / Doriam II / Catiz I succession all played out here. Sarum Prime sits in Domain.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "plc_heimatar",
+      "type": "Place",
+      "name": "Heimatar region",
+      "brief": "Minmatar Republic core region. Contains Pator (the Minmatar capital system) and Matar.",
+      "master_summary": "Minmatar Republic core region. Contains Pator (the capital system) and Matar (the Minmatar homeworld). Center of post-Rebellion tribal restoration; Sanmatar Shakur's seat of government. Salvation Crusaders' Heimatar firefight is the canonical recent event in the region.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_salvation-crusaders-encounter-hostile-ships-in-heimatar-firefight-averted-by-mercenaries"
+      ]
+    },
+    {
+      "id": "plc_lonetrek",
+      "type": "Place",
+      "name": "Lonetrek region",
+      "brief": "Caldari State core region. Contains Jita (the trade hub) and the major State industrial zones.",
+      "master_summary": "Caldari State core region. Contains Jita (the trade hub) and the major State industrial zones. Operational center for State Protectorate FW militia operations and the State Workers' Union activity. The Jita-gate incident occurred at Lonetrek's primary trade artery.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "plc_genesis",
+      "type": "Place",
+      "name": "Genesis region",
+      "brief": "Federation\u2013CONCORD borderland region. Contains Yulai (CONCORD HQ) and the EVE-Gate-adjacent territory.",
+      "master_summary": "Federation\u2013CONCORD borderland region. Contains Yulai (CONCORD HQ) and EVE-Gate-adjacent territory. The structural neutral zone between Federation and Empire spheres. Catiz I's territorial reorganization affected the Genesis frontier.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "plc_bleak_lands",
+      "type": "Place",
+      "name": "The Bleak Lands",
+      "brief": "Faction Warfare war zone \u2014 Amarr-controlled but contested by Republic. Location of the Amarr\u2013Minmatar frontline.",
+      "master_summary": "Faction Warfare war zone region \u2014 Amarr-controlled but contested by Republic. Location of the Amarr\u2013Minmatar frontline; the 24th Imperial Crusade and Tribal Liberation Force fight over its constellations. Recent reporting: 'The Bleak Lands back under Amarr control' marks a major Crusade win in the YC128 cycle.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_the-bleak-lands-back-under-amarr-control"
+      ]
+    },
+    {
+      "id": "plc_devoid",
+      "type": "Place",
+      "name": "Devoid region",
+      "brief": "Faction Warfare war zone \u2014 Amarr\u2013Minmatar frontline territory adjacent to the Bleak Lands.",
+      "master_summary": "Faction Warfare war zone region \u2014 Amarr\u2013Minmatar frontline territory adjacent to the Bleak Lands. The 24th Imperial Crusade / Tribal Liberation Force operational zone.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "plc_placid",
+      "type": "Place",
+      "name": "Placid region",
+      "brief": "Faction Warfare war zone \u2014 Caldari\u2013Federation frontline. Adjacent to Solitude and the YC124 Federation seizure.",
+      "master_summary": "Faction Warfare war zone region \u2014 Caldari\u2013Federation frontline. Adjacent to Solitude. The YC124 Federation seizure of Intaki + adjacent constellations occurred at the Placid\u2013Verge Vendor border. State Protectorate / FDU operational zone.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "plc_verge_vendor",
+      "type": "Place",
+      "name": "Verge Vendor region",
+      "brief": "Federation-controlled FW war zone. Adjacent to Placid; site of YC124 Federation expansion.",
+      "master_summary": "Federation-controlled FW war zone adjacent to Placid. Site of YC124 Federation expansion that triggered the Uprising arc.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "plc_metropolis",
+      "type": "Place",
+      "name": "Metropolis region",
+      "brief": "Minmatar Republic region adjacent to Heimatar. Tribal homelands and Republic Fleet operational base.",
+      "master_summary": "Minmatar Republic region adjacent to Heimatar. Contains tribal homelands and Republic Fleet operational base. Brutor / Sebiestor heritage worlds sit here.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "plc_essence",
+      "type": "Place",
+      "name": "Essence region",
+      "brief": "Gallente Federation core region. Contains Caille (Federation capital) and the major Federation Senate worlds.",
+      "master_summary": "Gallente Federation core region. Contains Caille (Federation capital) and the major Federation Senate worlds. Seat of the Presidency; Aguard / Roden / Moreau succession all played out here.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "evt_floseswin_battle",
+      "type": "Event",
+      "name": "Battle of Floseswin IV",
+      "date": "YC117",
+      "brief": "YC117 Amarr\u2013Minmatar capital-fleet engagement above Floseswin IV. Triggered the Drifter assassination of Empress Jamyl I.",
+      "master_summary": "YC117 Amarr\u2013Minmatar capital-fleet engagement above Floseswin IV \u2014 pitched dreadnought-class warfare. Triggered the Drifter assassination of Empress Jamyl I (Drifters intervened to kill her during the battle). Floseswin marks the moment when the Drifter conflict went from background phenomenon to direct intervention in empire politics.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv"
+      ]
+    },
+    {
+      "id": "org_vherokior_tribe",
+      "type": "Organization",
+      "name": "Vherokior Tribe",
+      "brief": "One of the seven Minmatar tribes. Spiritual / mystic identity within the Republic's tribal pluralism.",
+      "master_summary": "One of the seven Minmatar tribes restored by the Elder War cycle. Spiritual / mystic identity within the Republic's tribal pluralism \u2014 Vherokior spiritual-leader expeditions are the canonical signal of Vherokior cultural autonomy.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_news_vherokior-spiritual-leader-mounts-expedition"
+      ]
+    },
+    {
+      "id": "org_provost_marshal_office",
+      "type": "Organization",
+      "name": "Provost-Marshal Office (Khanid Kingdom)",
+      "brief": "Khanid Kingdom's military-judicial office. Allar Chakaide held the role during the YC120 Kahah pacification.",
+      "master_summary": "Khanid Kingdom's military-judicial office \u2014 combines military command authority with imperial-judicial powers in Khanid space. Allar Chakaide held the role during the YC120 Kahah pacification; the office is the Khanid analog of the Imperial Court chamberlainship in Domain. Aldrith Shutaq operates within the Provost-Marshal command structure.",
+      "canonicity": "ccp-canon",
+      "sources": []
+    },
+    {
+      "id": "cnc_five_heirs",
+      "type": "Concept",
+      "name": "Five Heirs (Amarr Royal Houses)",
+      "brief": "The doctrinal Amarr-Empire structure of five Royal Houses (Sarum, Tash-Murkon, Kor-Azor, Kador, Ardishapur), each providing a Heir candidate for the throne.",
+      "master_summary": "The doctrinal Amarr-Empire structure of five Royal Houses (Sarum, Tash-Murkon, Kor-Azor, Kador, Ardishapur), each providing a Heir candidate for the throne under the championship-and-succession rules. The Heideran VII \u2192 Doriam II \u2192 Karsoth-subverted-Sarum \u2192 Jamyl I \u2192 Catiz I succession ran through this structure. The Three-Layer Amarr concept (Empire / Houses / Provost-Marshal frontier) interlocks with the Five Heirs.",
+      "canonicity": "ccp-canon",
+      "sources": []
     }
   ],
   "connections": [
@@ -8068,6 +8214,872 @@
       "conf": 0.92,
       "claim": "Amarr-loyalist Minmatar autonomous mandate within the Empire.",
       "supporting_sources": []
+    },
+    {
+      "src": "org_tribal_council",
+      "tgt": "org_minmatar_republic",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Republic's governing body.",
+      "supporting_sources": [
+        "src_news_tribal-council-approves-upwell-workforce-transfers"
+      ]
+    },
+    {
+      "src": "per_maleatu_shakur",
+      "tgt": "org_tribal_council",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Sanmatar \u2014 chairs the Tribal Council.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_karin_midular",
+      "tgt": "org_tribal_council",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Sebiestor Tribal Chief \u2014 senior diplomatic voice.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_brutor_tribe",
+      "tgt": "org_tribal_council",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Brutor seat on the Council.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_sebiestor_tribe",
+      "tgt": "org_tribal_council",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Sebiestor seat on the Council.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_krusual_tribe",
+      "tgt": "org_tribal_council",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Krusual seat on the Council.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_nefantar_tribe",
+      "tgt": "org_tribal_council",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Nefantar seat on the Council.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_starkmanir_tribe",
+      "tgt": "org_tribal_council",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Starkmanir seat on the Council.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_thukker_tribe",
+      "tgt": "org_tribal_council",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Thukker seat on the Council.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_vherokior_tribe",
+      "tgt": "org_tribal_council",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Vherokior seat on the Council.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_vherokior_tribe",
+      "tgt": "org_minmatar_republic",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Restored Republic tribe.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_seven_tribes",
+      "tgt": "org_vherokior_tribe",
+      "rel": "aligned-with",
+      "conf": 0.9,
+      "claim": "Vherokior is one of the Seven Tribes.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_domain",
+      "tgt": "org_amarr_empire",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Amarr Empire core region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_heimatar",
+      "tgt": "org_minmatar_republic",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Republic core region.",
+      "supporting_sources": [
+        "src_news_salvation-crusaders-encounter-hostile-ships-in-heimatar-firefight-averted-by-mercenaries"
+      ]
+    },
+    {
+      "src": "plc_lonetrek",
+      "tgt": "org_caldari_state",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "State core region containing Jita.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_genesis",
+      "tgt": "org_concord",
+      "rel": "located-in",
+      "conf": 0.92,
+      "claim": "CONCORD borderland; contains Yulai.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_essence",
+      "tgt": "org_gallente_federation",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Federation core region containing Caille.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_metropolis",
+      "tgt": "org_minmatar_republic",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Republic region adjacent to Heimatar.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_bleak_lands",
+      "tgt": "org_24th_imperial_crusade",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "24th Imperial Crusade FW operational zone.",
+      "supporting_sources": [
+        "src_news_the-bleak-lands-back-under-amarr-control"
+      ]
+    },
+    {
+      "src": "plc_bleak_lands",
+      "tgt": "org_amarr_empire",
+      "rel": "located-in",
+      "conf": 0.9,
+      "claim": "Currently under Amarr control.",
+      "supporting_sources": [
+        "src_news_the-bleak-lands-back-under-amarr-control"
+      ]
+    },
+    {
+      "src": "plc_devoid",
+      "tgt": "org_24th_imperial_crusade",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "24th Imperial Crusade FW operational zone.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_placid",
+      "tgt": "org_state_protectorate",
+      "rel": "located-in",
+      "conf": 0.9,
+      "claim": "State Protectorate FW operational zone.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_placid",
+      "tgt": "org_federal_defense_union",
+      "rel": "located-in",
+      "conf": 0.9,
+      "claim": "FDU FW operational zone (Federation side).",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_verge_vendor",
+      "tgt": "org_federal_defense_union",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "FDU operational zone.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_verge_vendor",
+      "tgt": "org_gallente_federation",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Federation-controlled war zone.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_intaki_seizure_uprising",
+      "tgt": "plc_placid",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "YC124 Federation seizure occurred at Placid\u2013Verge Vendor border.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_black_rise",
+      "tgt": "org_state_protectorate",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "State Protectorate FW operational zone.",
+      "supporting_sources": [
+        "src_news_caldari-navy-intercepts-guristas-convoy-in-black-rise"
+      ]
+    },
+    {
+      "src": "plc_sarum_prime",
+      "tgt": "plc_domain",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Sarum Prime sits in Domain.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_caille",
+      "tgt": "plc_essence",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Federation capital sits in Essence.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_jita",
+      "tgt": "plc_lonetrek",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Jita is in Lonetrek.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_matar",
+      "tgt": "plc_heimatar",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Matar (Minmatar homeworld) sits in Heimatar.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_yulai",
+      "tgt": "plc_genesis",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Yulai is in Genesis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_floseswin_battle",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Amarr capital fleet at Floseswin IV.",
+      "supporting_sources": [
+        "src_news_breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv"
+      ]
+    },
+    {
+      "src": "evt_floseswin_battle",
+      "tgt": "org_minmatar_republic",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Republic forces at Floseswin IV.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_jamyl_drifter_assassination",
+      "tgt": "evt_floseswin_battle",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "Drifter intervention occurred during the Floseswin battle.",
+      "supporting_sources": [
+        "src_news_breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv"
+      ]
+    },
+    {
+      "src": "org_provost_marshal_office",
+      "tgt": "org_khanid_kingdom",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Khanid Kingdom military-judicial office.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_allar_chakaide",
+      "tgt": "org_provost_marshal_office",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Plenipotentiary holding the Provost-Marshal role during the YC120 Kahah pacification.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_aldrith_shutaq",
+      "tgt": "org_provost_marshal_office",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Khanid noble within the Provost-Marshal command structure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_five_heirs",
+      "tgt": "org_amarr_empire",
+      "rel": "aligned-with",
+      "conf": 0.95,
+      "claim": "Doctrinal succession structure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_house_sarum",
+      "tgt": "cnc_five_heirs",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "One of the Five Heir houses.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_house_tash_murkon",
+      "tgt": "cnc_five_heirs",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "One of the Five Heir houses.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_house_kor_azor",
+      "tgt": "cnc_five_heirs",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "One of the Five Heir houses.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_house_kador",
+      "tgt": "cnc_five_heirs",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "One of the Five Heir houses.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_house_ardishapur",
+      "tgt": "cnc_five_heirs",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "One of the Five Heir houses.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jamyl_i",
+      "tgt": "org_house_kador",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Empress Jamyl reprimanded Heir Kador and confiscated their fleet.",
+      "supporting_sources": [
+        "src_news_empress-jamyl-reprimands-heir-kador-confiscates-fleet"
+      ]
+    },
+    {
+      "src": "evt_jamyl_drifter_assassination",
+      "tgt": "per_jamyl_i",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Drifter strike killed Jamyl I during Floseswin.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_jita",
+      "tgt": "evt_jita_gate_incident",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Jita-gate incident occurred at the Jita gate.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_jita",
+      "tgt": "org_caldari_state",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "State's primary trade hub.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_jita",
+      "tgt": "org_caldari_navy",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Caldari Navy operational base; State Protectorate dispatches from here.",
+      "supporting_sources": [
+        "src_news_caldari-navy-intercepts-guristas-convoy-in-black-rise"
+      ]
+    },
+    {
+      "src": "plc_jita",
+      "tgt": "cnc_capsuleers",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Capsuleer trade-and-fitting hub of New Eden.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_warpath_protocol_failure",
+      "tgt": "plc_jita",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Warpath Protocol failed at the Jita gate breach.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_jita",
+      "tgt": "org_state_protectorate",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "State Protectorate FW militia operates from Jita-area systems.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_jita",
+      "tgt": "org_ishukone",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Ishukone HQ on Caldari side; major Jita trade activity.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_poitot",
+      "tgt": "per_silphy_en_diabel",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Silphy's seat of governorship.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_poitot",
+      "tgt": "org_intaki_syndicate",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Syndicate region station system.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_poitot",
+      "tgt": "evt_caldari_conquers_syndicate",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Caldari conquest theater included Poitot.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_dorne_en_diabel",
+      "tgt": "plc_poitot",
+      "rel": "located-in",
+      "conf": 0.92,
+      "claim": "Original unifying Syndicate seat at Poitot.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_garyn_en_diabel",
+      "tgt": "plc_poitot",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Inherited Poitot from Dorne.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_poitot",
+      "tgt": "plc_syndicate_region",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Poitot is in the Syndicate region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_zephyr_distribution",
+      "tgt": "org_intaki_syndicate",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Syndicate executed the YC111 Zephyr distribution.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_zephyr_distribution",
+      "tgt": "org_ishukone",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Telemetry data funneled to Ishukone.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_zephyr_distribution",
+      "tgt": "per_valus_en_diabel",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "Polymath Valus authorized the distribution.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_zephyr_distribution",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Sleeper-ignored ship enabled wormhole mapping that exposed Drifter precursor data.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_mr_lacante",
+      "tgt": "org_ishukone",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Coordinated the Zephyr telemetry-data trade with Ishukone.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_mr_lacante",
+      "tgt": "per_silphy_en_diabel",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Antagonists-chronicle co-operative with Silphy.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_haikoriggo",
+      "tgt": "org_intaki_syndicate",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Syndicate-era operative.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_haikoriggo",
+      "tgt": "plc_poitot",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Operates within the Poitot governance structure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_catiz_i",
+      "tgt": "org_concord",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Empress represented in CONCORD Inner Circle authority.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_catiz_i",
+      "tgt": "per_maleatu_shakur",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Empire-Republic opposition; Catiz reorg vs Tribal Council restoration.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_maleatu_shakur",
+      "tgt": "evt_caldari_conquers_syndicate",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Republic-side condemnation of the Caldari conquest.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_celestis_aguard",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Pre-Moreau Federation President.",
+      "supporting_sources": [
+        "src_news_breaking-president-celes-aguard-addresses-federation-on-liberation-of-intaki"
+      ]
+    },
+    {
+      "src": "per_alexander_ducasse",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "Caldari State figure aligned with the Saraki consolidation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_ukumi_pol",
+      "tgt": "org_caldari_state",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Caldari executive figure in the YC128 cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_ukumi_pol",
+      "tgt": "per_akimaka_saraki",
+      "rel": "aligned-with",
+      "conf": 0.6,
+      "claim": "Saraki-aligned executive.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_serpentis",
+      "tgt": "per_silphy_en_diabel",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Silphy's collaborator pre-arrest.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_serpentis",
+      "tgt": "per_alix_moreau",
+      "rel": "opposed-to",
+      "conf": 0.65,
+      "claim": "Federation president stance on Serpentis-influenced amnesty politics.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_cep",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Chief Executive Panel \u2014 State governing body.",
+      "supporting_sources": [
+        "src_news_breaking-news-chief-executive-panel-orders-partial-closure-of-caldari-gallente-border-decommissions-embassies"
+      ]
+    },
+    {
+      "src": "org_cep",
+      "tgt": "evt_caldari_conquers_syndicate",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "CEP authorized the YC128 Syndicate conquest.",
+      "supporting_sources": [
+        "src_news_breaking-news-chief-executive-panel-orders-partial-closure-of-caldari-gallente-border-decommissions-embassies"
+      ]
+    },
+    {
+      "src": "org_cep",
+      "tgt": "per_akimaka_saraki",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Saraki's Mountain consolidation operates through the CEP authority chain.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_cep",
+      "tgt": "org_caldari_navy",
+      "rel": "aligned-with",
+      "conf": 0.95,
+      "claim": "Navy under CEP authority.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_drifter_hyperspace_network",
+      "tgt": "plc_thera",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Hyperspace network passes through Thera.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_drifter_hyperspace_network",
+      "tgt": "evt_warpath_protocol_failure",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Hyperspace manipulation triggered the Warpath Protocol activation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_drifter_hyperspace_network",
+      "tgt": "org_concord",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "CONCORD Warpath Protocol responds to drifter threats.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_highsec_cyno_tech",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "descends-from",
+      "conf": 0.85,
+      "claim": "Highsec cyno tech derived from drifter-hyperspace research.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_highsec_cyno_tech",
+      "tgt": "evt_jita_gate_incident",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Highsec cyno tech enabled the Jita gate breach.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_highsec_cyno_tech",
+      "tgt": "org_caldari_state",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "State capital deployment used highsec cyno tech.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_warpath_message",
+      "tgt": "evt_warpath_protocol_failure",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "The 'Warpath' message accompanied the Protocol activation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_warpath_message",
+      "tgt": "per_alix_moreau",
+      "rel": "referenced-in",
+      "conf": 0.7,
+      "claim": "Federation interpretation of the Warpath message.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_warpath_message",
+      "tgt": "org_concord",
+      "rel": "caused-by",
+      "conf": 0.65,
+      "claim": "CONCORD-issued message naming the Warpath Protocol activation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_military_campaigns",
+      "tgt": "org_caldari_navy",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Military Campaigns feature is the Navy operational layer.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_capsuleers",
+      "tgt": "evt_warpath_protocol_failure",
+      "rel": "participated-in",
+      "conf": 0.7,
+      "claim": "Capsuleer pilots responded to the Protocol failure across the war zone.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_capsuleer_day_xxiii_warpath",
+      "tgt": "cnc_capsuleers",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "Capsuleer Day expansion event.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_capital_doomsday_site",
+      "tgt": "org_caldari_navy",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "State capital deployment around the doomsday site rollout.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_capital_doomsday_site",
+      "tgt": "evt_caldari_conquers_syndicate",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Capital-class deployment phase of the conquest.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_silphy_summons",
+      "tgt": "per_silphy_en_diabel",
+      "rel": "caused-by",
+      "conf": 0.99,
+      "claim": "Silphy summoned to New Caldari.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_silphy_summons",
+      "tgt": "org_caldari_state",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "State authorities summoned her.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_syndicate_capital_breakout",
+      "tgt": "org_intaki_syndicate",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Syndicate capital ships fled the conquest.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_syndicate_capital_breakout",
+      "tgt": "plc_syndicate_region",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Breakout from Syndicate region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_syndicate_capital_breakout",
+      "tgt": "org_caldari_navy",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Navy attempted to intercept the capital breakout.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_inner_circle",
+      "tgt": "evt_warpath_protocol_failure",
+      "rel": "participated-in",
+      "conf": 0.7,
+      "claim": "Inner Circle authorized the Warpath Protocol activation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_imperial_court",
+      "tgt": "per_catiz_i",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Catiz administers via the Court.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_yulai",
+      "tgt": "evt_warpath_protocol_failure",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "CONCORD-issued Warpath Protocol coordinated from Yulai.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_yulai",
+      "tgt": "org_inner_circle",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Inner Circle meets at Yulai.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_tribal_council",
+      "tgt": "per_alix_moreau",
+      "rel": "aligned-with",
+      "conf": 0.65,
+      "claim": "Tribal Council coordinates with Federation against Caldari conquest.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_tribal_council",
+      "tgt": "org_upwell",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Tribal Council approved Upwell workforce transfers.",
+      "supporting_sources": [
+        "src_news_tribal-council-approves-upwell-workforce-transfers"
+      ]
     }
   ],
   "_curation_notes": [

@@ -90,6 +90,11 @@ YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the pl
 
 The YC115 capitulation theater that ended the Caldari–Federation conflict at Caldari Prime, concluding the Heth-era invasion cycle that began with the YC112 retake. The terms preserved Caldari sovereignty over Caldari Prime — the settlement the YC128 Syndicate conquest is structurally challenging.
 
+### Battle of Floseswin IV *(YC117)*
+
+YC117 Amarr–Minmatar capital-fleet engagement above Floseswin IV — pitched dreadnought-class warfare. Triggered the Drifter assassination of Empress Jamyl I (Drifters intervened to kill her during the battle). Floseswin marks the moment when the Drifter conflict went from background phenomenon to direct intervention in empire politics.
+**Cited in:** [BREAKING: Amarr Dreadnoughts Destroyed in Pitched Amarr-Minmatar Battle over Floseswin IV](https://universe.eveonline.com/new-eden-news/breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv)
+
 ## Persons
 
 ### Alika Valkanir
@@ -169,10 +174,20 @@ Three-strike-group Mimitar dreadnought-heavy navy built in secret with Thukker m
 Mythological progenitor council of the seven tribes. Believed lost; secretly active. Funded the Elder Fleet through Thukker channels. The organizational shape of the Mimitar deep state.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 
+### Tribal Council
+
+The Minmatar Republic's governing body. Comprises tribal chiefs of each Minmatar tribe (Brutor, Sebiestor, Krusual, Vherokior, Nefantar, Starkmanir, Thukker) under the Sanmatar's chairmanship. Approved Upwell workforce transfers post-conquest, drives the seven-tribes restoration narrative, and is the operational layer that gives the Republic its coalition pluralism. Maleatu Shakor (Sanmatar) chairs; Karin Midular (Sebiestor Chief) serves as senior diplomatic voice.
+**Cited in:** [Tribal Council Approves Upwell Workforce Transfers](https://universe.eveonline.com/new-eden-news/tribal-council-approves-upwell-workforce-transfers)
+
 ### Tribal Liberation Force
 
 Minmatar Republic Faction Warfare militia. The Republic's volunteer / capsuleer-pilot frontline against the Empire. The 'Stripes of Fury' campaign cycle is its highest-honor designation. Operates under the Tribal Council's authority.
 **Cited in:** [Total Victory of Tribal Liberation Force Marked by Award of Stripes of Fury Medal](https://universe.eveonline.com/new-eden-news/total-victory-of-tribal-liberation-force-marked-by-award-of-stripes-of-fury-medal)
+
+### Vherokior Tribe
+
+One of the seven Minmatar tribes restored by the Elder War cycle. Spiritual / mystic identity within the Republic's tribal pluralism — Vherokior spiritual-leader expeditions are the canonical signal of Vherokior cultural autonomy.
+**Cited in:** [Vherokior Spiritual Leader Mounts Expedition](https://universe.eveonline.com/new-eden-news/vherokior-spiritual-leader-mounts-expedition)
 
 ## Factions
 
@@ -203,6 +218,11 @@ Most distant Minmatar tribe. Operates in Great Wildlands. Wormhole-interested. S
 Amarr-invaded system where the Starkmanir tribe was first enslaved. Historic precedent for the Amarr invasion-and-conversion playbook.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 
+### Heimatar region
+
+Minmatar Republic core region. Contains Pator (the capital system) and Matar (the Minmatar homeworld). Center of post-Rebellion tribal restoration; Sanmatar Shakur's seat of government. Salvation Crusaders' Heimatar firefight is the canonical recent event in the region.
+**Cited in:** [Salvation Crusaders Encounter Hostile Ships in Heimatar; Firefight Averted by Mercenaries](https://universe.eveonline.com/new-eden-news/salvation-crusaders-encounter-hostile-ships-in-heimatar-firefight-averted-by-mercenaries)
+
 ### Hzeron
 
 Planet within the Ammatar Mandate where the Nefantar hid surviving Starkmanir for centuries. The geographic point where the Old Wars' biggest secret was kept — and revealed.
@@ -212,6 +232,10 @@ Planet within the Ammatar Mandate where the Nefantar hid surviving Starkmanir fo
 
 Mimitar homeworld. Pre-Amarr paradise planet. Weakened by moon-mining-induced ecological imbalance before the Day of Darkness. The origin point of every Minmatar character arc.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+
+### Metropolis region
+
+Minmatar Republic region adjacent to Heimatar. Contains tribal homelands and Republic Fleet operational base. Brutor / Sebiestor heritage worlds sit here.
 
 ### Sarum Prime
 
@@ -283,6 +307,7 @@ Amarr religious scepter. A Mimitar slave seizing one became the iconic moment of
 - **1×** [Minmatar to rise above hatred: Midular speaks on discovery of Republic Parliament's secret talks with Ammatar Consulate (2007-04-25)](https://universe.eveonline.com/new-eden-news/minmatar-to-rise-above-hatred-midular-speaks-on-discovery-of-republic-parliaments-secret-talks-with-ammatar-consulate)
 - **1×** [Ammatar Governor comments on Matari/Ammatar Talks (2007-05-07)](https://universe.eveonline.com/new-eden-news/ammatar-governor-comments-on-matariammatar-talks)
 - **1×** [EVE: The Empyrean Age (Tony Gonzales) (2008)](https://www.eveonline.com/news/view/the-empyrean-age)
+- **1×** [Vherokior Spiritual Leader Mounts Expedition (2008-03-10)](https://universe.eveonline.com/new-eden-news/vherokior-spiritual-leader-mounts-expedition)
 - **1×** [Arms Factory Saboteur Captured; Ammatar Link Exposed (2008-05-09)](https://universe.eveonline.com/new-eden-news/arms-factory-saboteur-captured-ammatar-link-exposed)
 - **1×** [Archangels "Annex" Skarkon From Minmatar Republic; Popular Vote Confirms (2008-05-28)](https://universe.eveonline.com/new-eden-news/archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms)
 - **1×** [BREAKING NEWS: Mystery Armada Containing Thukker Tribe Warships Surround CONCORD Bureau Station (2008-05-30)](https://universe.eveonline.com/new-eden-news/breaking-news-mystery-armada-containing-thukker-tribe-warships-surround-concord-bureau-station)
@@ -323,6 +348,7 @@ Amarr religious scepter. A Mimitar slave seizing one became the iconic moment of
 - **1×** [Travel by Minmatar into Thukker Tribe Space Increases (2008-12-26)](https://universe.eveonline.com/new-eden-news/travel-by-minmatar-into-thukker-tribe-space-increases)
 - **1×** [Minmatar and Thukker Trade Routes Increasingly Threatened by 'Breakaway' Angels (2008-12-30)](https://universe.eveonline.com/new-eden-news/minmatar-and-thukker-trade-routes-increasingly-threatened-by-breakaway-angels)
 - **1×** [Yonis Ardishapur arrests head of Ammatar Fleet (2009-02-04)](https://universe.eveonline.com/new-eden-news/yonis-ardishapur-arrests-head-of-ammatar-fleet)
+- **1×** [Salvation Crusaders Encounter Hostile Ships in Heimatar; Firefight Averted by Mercenaries (2009-02-13)](https://universe.eveonline.com/new-eden-news/salvation-crusaders-encounter-hostile-ships-in-heimatar-firefight-averted-by-mercenaries)
 - **1×** [Tensions Over Land Increase as Starkmanir and Nefantar Press Claims (2009-02-27)](https://universe.eveonline.com/new-eden-news/tensions-over-land-increase-as-starkmanir-and-nefantar-press-claims)
 - **1×** [Thukker Tribe to Join Republic with Full Autonomy in the Great Wildlands (2009-03-08)](https://universe.eveonline.com/new-eden-news/thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands)
 - **1×** [Minmatar Search For Thukker Caravan; Unable to Respond Significantly to Seyllin Disaster (2009-03-10)](https://universe.eveonline.com/new-eden-news/minmatar-search-for-thukker-caravan-unable-to-respond-significantly-to-seyllin-disaster)
@@ -399,6 +425,8 @@ Amarr religious scepter. A Mimitar slave seizing one became the iconic moment of
 - **1×** [Governor of Ammatar Mandate Elevated to Holder Rank; Ardishapur and Sarum Houses Hold Summit Amidst Ceremonies (2019-11-08)](https://universe.eveonline.com/new-eden-news/governor-of-ammatar-mandate-elevated-to-holder-rank-ardishapur-and-sarum-houses-hold-summit-amidst-ceremonies)
 - **1×** [CONCORD Inner Circle Summit Breakthrough on Emergency Militia War Powers Act (2020-03-24)](https://universe.eveonline.com/new-eden-news/concord-inner-circle-summit-breakthrough-on-emergency-militia-war-powers-act)
 - **1×** [Galactic Hour News Roundup: Skarkon Falls After Heavy Fighting in Minmatar Republic System (2020-09-17)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-skarkon-falls-after-heavy-fighting-in-minmatar-republic-system)
+- **1×** [BREAKING: Amarr Dreadnoughts Destroyed in Pitched Amarr-Minmatar Battle over Floseswin IV (2021-05-01)](https://universe.eveonline.com/new-eden-news/breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv)
+- **1×** [Tribal Council Approves Upwell Workforce Transfers (2024-06-05)](https://universe.eveonline.com/new-eden-news/tribal-council-approves-upwell-workforce-transfers)
 - **1×** [Thukker Mix CEO Outraged at Hrada-Oki Convoy Heist (2024-10-09)](https://universe.eveonline.com/new-eden-news/thukker-mix-ceo-outraged-at-hrada-oki-convoy-heist)
 - **1×** [Hoboleaks — Warpath Cycle Items (2026-04-30)](https://sde.hoboleaks.space/)
 - **1×** [New Eden News: Warpath YC128-04-21 - YC128-04-30 (2026-04-30)](https://www.youtube.com/watch?v=QUoUNxfSXUk)

@@ -34,6 +34,11 @@ The YC110 reappearance of the Minmatar Elder Fleet from Anoikis after centuries 
 Empress Jamyl I deployed her then-secret superweapon to destroy one Elder Fleet strike group at Sarum Prime. The other two strike groups simultaneously rescued Starkmanir and defecting Nefantar from the Mandate. Established Jamyl's superweapon as canon — a precedent that informs the Catalyst-era doomsday site rollout.
 **Cited in:** [Lore Tourism - The Redemption of the Ammatar](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 
+### Battle of Floseswin IV *(YC117)*
+
+YC117 Amarr–Minmatar capital-fleet engagement above Floseswin IV — pitched dreadnought-class warfare. Triggered the Drifter assassination of Empress Jamyl I (Drifters intervened to kill her during the battle). Floseswin marks the moment when the Drifter conflict went from background phenomenon to direct intervention in empire politics.
+**Cited in:** [BREAKING: Amarr Dreadnoughts Destroyed in Pitched Amarr-Minmatar Battle over Floseswin IV](https://universe.eveonline.com/new-eden-news/breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv)
+
 ## Persons
 
 ### Archon Ardishapur
@@ -88,6 +93,10 @@ Amarr Empire military fleet. Operates across all five Royal Houses' territories 
 Amarr Empire's executive court. The Court Chamberlain office serves as regent during succession gaps; held by Dochuta Karsoth during the post-Doriam-II era and used to subvert the Sarum succession. The Court is the procedural layer between the Empress and the Five Royal Houses; Catiz I's territorial-reorganization decree was administered through it.
 **Cited in:** [Imperial Court Remains Silent about Bleak Land Troubles](https://universe.eveonline.com/new-eden-news/imperial-court-remains-silent-about-bleak-land-troubles)
 
+### Provost-Marshal Office (Khanid Kingdom)
+
+Khanid Kingdom's military-judicial office — combines military command authority with imperial-judicial powers in Khanid space. Allar Chakaide held the role during the YC120 Kahah pacification; the office is the Khanid analog of the Imperial Court chamberlainship in Domain. Aldrith Shutaq operates within the Provost-Marshal command structure.
+
 ### Royal Khanid Navy
 
 Khanid Kingdom's autonomous military fleet, separate from the Imperial Navy. Carries the Empire's military burden in the southern frontier — repulsed the Pure Faith Harvest raid YC120, conducted the brutal Kahah pacification under Allar Chakaide, and engages Blood Raider incursions on a sustained basis. The 19th Royal Uolans is one of its elite units.
@@ -112,6 +121,15 @@ Third tier of Amarr space. Defected ~200 years ago under Khanid II. Hosts the br
 
 ## Places
 
+### The Bleak Lands
+
+Faction Warfare war zone region — Amarr-controlled but contested by Republic. Location of the Amarr–Minmatar frontline; the 24th Imperial Crusade and Tribal Liberation Force fight over its constellations. Recent reporting: 'The Bleak Lands back under Amarr control' marks a major Crusade win in the YC128 cycle.
+**Cited in:** [The Bleak Lands back under Amarr control](https://universe.eveonline.com/new-eden-news/the-bleak-lands-back-under-amarr-control)
+
+### Domain region
+
+Amarr Empire's core region containing Amarr system, the imperial throne worlds, and the Empress's residence. Capital of Reclaiming-era Amarr space. Heideran VII / Doriam II / Catiz I succession all played out here. Sarum Prime sits in Domain.
+
 ### Sarum Prime
 
 Adjacent to Amarr Prime. Site of the Elder Fleet's deepest strike — destroyed by Jamyl I's superweapon. The system whose destruction proved Amarr could field weapons CONCORD couldn't constrain.
@@ -123,6 +141,10 @@ The most progressive Amarr royal region — House Tash-Murkon is the only Udoria
 **Cited in:** [Ardishapur Family issues thanks to Tash-Murkon intervention](https://universe.eveonline.com/new-eden-news/ardishapur-family-issues-thanks-to-tash-murkon-intervention) · [Aritcio Kor-Azor and Catiz Tash-Murkon Meet with Championship Teams Amidst Final Preparations for Imperial Succession Trials](https://universe.eveonline.com/new-eden-news/aritcio-kor-azor-and-catiz-tash-murkon-meet-with-championship-teams-amidst-final-preparations-for-imperial-succession-trials) · [Caldari Trade Mission Visits Khanid Kingdom, Meets With Tash-Murkon](https://universe.eveonline.com/new-eden-news/caldari-trade-mission-visits-khanid-kingdom-meets-with-tash-murkon) · [Catiz Tash-Murkon moves forward visit to Kador Prime](https://universe.eveonline.com/new-eden-news/catiz-tash-murkon-moves-forward-visit-to-kador-prime) · [Catiz Tash-Murkon sparks controversy over cathedral renovation plan](https://universe.eveonline.com/new-eden-news/catiz-tash-murkon-sparks-controversy-over-cathedral-renovation-plan) · [Catiz Tash-Murkon to be Crowned Empress of Amarr as Champion Kelon Darklight and Team Triumph in Final Trials](https://universe.eveonline.com/new-eden-news/catiz-tash-murkon-to-be-crowned-empress-of-amarr-as-champion-kelon-darklight-and-team-triumph-in-final-trials) · [House Tash-Murkon Dominates In Imperial Succession Trials – Finals Set Against House Kor-Azor](https://universe.eveonline.com/new-eden-news/house-tash-murkon-dominates-in-imperial-succession-trials-finals-set-against-house-kor-azor) · [Khanid Convoy Rescued By Tash-Murkon Patrol](https://universe.eveonline.com/new-eden-news/khanid-convoy-rescued-by-tash-murkon-patrol) · [King Khanid II departs Tash-Murkon Prime, arrives in Amarr](https://universe.eveonline.com/new-eden-news/king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr) · [Report: Tash-Murkon may back Sarum's calls](https://universe.eveonline.com/new-eden-news/report-tash-murkon-may-back-sarums-calls) · [Tash-Murkon celebrates as Cluster Fights Back](https://universe.eveonline.com/new-eden-news/tash-murkon-celebrates-as-cluster-fights-back) · [Tash-Murkon Delegation Visits Imperial Palace](https://universe.eveonline.com/new-eden-news/tash-murkon-delegation-visits-imperial-palace) · [Tash-Murkon economy soars in the midst of cluster-wide turmoil](https://universe.eveonline.com/new-eden-news/tash-murkon-economy-soars-in-the-midst-of-cluster-wide-turmoil) · [Tash-Murkon Family Assumes Minority Stake in Carthum Conglomerate](https://universe.eveonline.com/new-eden-news/tash-murkon-family-assumes-minority-stake-in-carthum-conglomerate) · [Tash-Murkon Family Meets With Theology Council](https://universe.eveonline.com/new-eden-news/tash-murkon-family-meets-with-theology-council) · [Tash-Murkon Family Receives Khanid Innovation Delegation](https://universe.eveonline.com/new-eden-news/tash-murkon-family-receives-khanid-innovation-delegation) · [Tash-Murkon Holder charges neighbor with heresy for employing Transcranial Microcontrollers](https://universe.eveonline.com/new-eden-news/tash-murkon-holder-charges-neighbor-with-heresy-for-employing-transcranial-microcontrollers) · [Tash-Murkon Holder to move to Ammatar Mandate](https://universe.eveonline.com/new-eden-news/tash-murkon-holder-to-move-to-ammatar-mandate) · [Tash-Murkon Navy Officers Honored By Khanid Kingdom](https://universe.eveonline.com/new-eden-news/tash-murkon-navy-officers-honored-by-khanid-kingdom) · [Tash-Murkon State Visit Cut Short, Naval Forces Placed On Alert](https://universe.eveonline.com/new-eden-news/tash-murkon-state-visit-cut-short-naval-forces-placed-on-alert) · [Unannounced Military Training Exercise Detected in Tash-Murkon Region](https://universe.eveonline.com/new-eden-news/unannounced-military-training-exercise-detected-in-tash-murkon-region)
 
 ## Concepts
+
+### Five Heirs (Amarr Royal Houses)
+
+The doctrinal Amarr-Empire structure of five Royal Houses (Sarum, Tash-Murkon, Kor-Azor, Kador, Ardishapur), each providing a Heir candidate for the throne under the championship-and-succession rules. The Heideran VII → Doriam II → Karsoth-subverted-Sarum → Jamyl I → Catiz I succession ran through this structure. The Three-Layer Amarr concept (Empire / Houses / Provost-Marshal frontier) interlocks with the Five Heirs.
 
 ### Sheal-Sin
 
@@ -190,6 +212,7 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **1×** [Catiz Tash-Murkon moves forward visit to Kador Prime (2008-11-01)](https://universe.eveonline.com/new-eden-news/catiz-tash-murkon-moves-forward-visit-to-kador-prime)
 - **1×** [Unannounced Military Training Exercise Detected in Tash-Murkon Region (2008-11-07)](https://universe.eveonline.com/new-eden-news/unannounced-military-training-exercise-detected-in-tash-murkon-region)
 - **1×** [Tash-Murkon State Visit Cut Short, Naval Forces Placed On Alert (2008-11-12)](https://universe.eveonline.com/new-eden-news/tash-murkon-state-visit-cut-short-naval-forces-placed-on-alert)
+- **1×** [The Bleak Lands back under Amarr control (2008-11-13)](https://universe.eveonline.com/new-eden-news/the-bleak-lands-back-under-amarr-control)
 - **1×** [Tash-Murkon Family Assumes Minority Stake in Carthum Conglomerate (2008-11-22)](https://universe.eveonline.com/new-eden-news/tash-murkon-family-assumes-minority-stake-in-carthum-conglomerate)
 - **1×** [Tash-Murkon Family Receives Khanid Innovation Delegation (2008-11-24)](https://universe.eveonline.com/new-eden-news/tash-murkon-family-receives-khanid-innovation-delegation)
 - **1×** [Political Vacuum in Ammatar Mandate Continues; Populace in Turmoil (2008-11-27)](https://universe.eveonline.com/new-eden-news/political-vacuum-in-ammatar-mandate-continues-populace-in-turmoil)
@@ -245,6 +268,7 @@ Amarr space divided into Amarr proper, Khanid Kingdom, and Ammatar Mandate. Each
 - **1×** [Governor of Ammatar Mandate Elevated to Holder Rank; Ardishapur and Sarum Houses Hold Summit Amidst Ceremonies (2019-11-08)](https://universe.eveonline.com/new-eden-news/governor-of-ammatar-mandate-elevated-to-holder-rank-ardishapur-and-sarum-houses-hold-summit-amidst-ceremonies)
 - **1×** [Galactic Hour News Roundup: Gallente Federation Rocked by Loss of Systems to Triglavians, Amarr Empire Celebrates Foundation Day (2020-08-05)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-gallente-federation-rocked-by-loss-of-systems-to-triglavians-amarr-empire-celebrates-foundation-day)
 - **1×** [Galactic Hour News Roundup: Fall of Niarja Shocks Amarr Empire and Caldari State (2020-08-19)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-fall-of-niarja-shocks-amarr-empire-and-caldari-state)
+- **1×** [BREAKING: Amarr Dreadnoughts Destroyed in Pitched Amarr-Minmatar Battle over Floseswin IV (2021-05-01)](https://universe.eveonline.com/new-eden-news/breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv)
 - **1×** [Amarr Empire Celebrates Foundation Day YC123 (2021-08-05)](https://universe.eveonline.com/new-eden-news/amarr-empire-celebrates-foundation-day-yc123)
 - **1×** [Caldari State and Amarr Empire Establish Military HQs in Aftermath of Relay and Transmuter Research (2023-01-30)](https://universe.eveonline.com/new-eden-news/caldari-state-and-amarr-empire-establish-military-hqs-in-aftermath-of-relay)
 - **1×** [The Seven Tribes of the Mimitar Republic (2024)](https://www.youtube.com/@Ashterothi)

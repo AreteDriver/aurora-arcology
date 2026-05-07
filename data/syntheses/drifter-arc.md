@@ -20,6 +20,11 @@ The YC111 system-wide wormhole opening triggered by the Seyllin Disaster. Expose
 YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the planet. The Sisters of EVE 'Wormhole Colony Lost' announcement followed. The Seyllin event triggered the Apocrypha-era wormhole opening, the discovery of Anoikis, the Sleeper civilization remnants, and ultimately the Drifter emergence cycle. Every wormhole-tech thread in the warpath board traces back to Seyllin.
 **Cited in:** [The Fourth Seyllin Conference](https://universe.eveonline.com/new-eden-news/the-fourth-seyllin-conference)
 
+### Battle of Floseswin IV *(YC117)*
+
+YC117 Amarr–Minmatar capital-fleet engagement above Floseswin IV — pitched dreadnought-class warfare. Triggered the Drifter assassination of Empress Jamyl I (Drifters intervened to kill her during the battle). Floseswin marks the moment when the Drifter conflict went from background phenomenon to direct intervention in empire politics.
+**Cited in:** [BREAKING: Amarr Dreadnoughts Destroyed in Pitched Amarr-Minmatar Battle over Floseswin IV](https://universe.eveonline.com/new-eden-news/breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv)
+
 ### Triglavian Invasion *(YC122)*
 
 YC122 Triglavian conquest of 27 systems via the abyssal-filament invasion mechanic. Formed Pochven, opened the Triglavian-Drifter conflict to capsuleer participation, and exposed the Niarja trade-route severance that broke the Amarr-Caldari high-sec corridor. EDENCOM's formation as an inter-empire defensive coalition came directly from the Invasion response. Structurally a third-power eruption between the four-empire system and Drifter forces.
@@ -221,6 +226,7 @@ Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-i
 - **1×** [Galactic Hour News Roundup: Triglavian Conquests and EDENCOM Fortresses Edition (2020-06-15)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-triglavian-conquests-and-edencom-fortresses-edition)
 - **1×** [Galactic Hour News Roundup: Triglavian Invasion of Niarja Threatens Key Amarr-Caldari Trade Route (2020-08-17)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route)
 - **1×** [The Scope - War in Delve and Formation of Pochven (2020-11-03)](https://universe.eveonline.com/new-eden-news/the-scope-war-in-delve-and-formation-of-pochven)
+- **1×** [BREAKING: Amarr Dreadnoughts Destroyed in Pitched Amarr-Minmatar Battle over Floseswin IV (2021-05-01)](https://universe.eveonline.com/new-eden-news/breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv)
 - **1×** [Galactic Hour News Roundup: Inner Circle Security Summit Reduces EDENCOM Funding (2021-07-26)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-inner-circle-security-summit-reduces-edencom)
 - **1×** [The Scope – One Year Anniversary Of Pochven (2021-10-15)](https://universe.eveonline.com/new-eden-news/the-scope-one-year-anniversary-of-pochven)
 - **1×** [Galactic Hour News Roundup: Images from Athounon V Indicate Triglavian Activity as Militia Offensives Sweep Across Warzones (2022-07-20)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-images-from-athounon-v-indicate-triglavian-activity)

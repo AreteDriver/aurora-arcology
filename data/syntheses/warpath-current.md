@@ -208,6 +208,11 @@ Religious humanitarian order; Eve Gate research. Sentona Sarpati CEO. Long-runni
 Caldari Faction Warfare militia under Caldari Navy authority. The State's volunteer / capsuleer-pilot frontline against the Federation in the Black Rise / Placid / Verge Vendor war zone. The YC124 Federation seizure of Intaki + adjacent constellations that triggered the Uprising arc was an FW-zone consolidation against the Protectorate.
 **Cited in:** [State Protectorate to Recognize Top Militia Pilots](https://universe.eveonline.com/new-eden-news/state-protectorate-to-recognize-top-militia-pilots)
 
+### Tribal Council
+
+The Minmatar Republic's governing body. Comprises tribal chiefs of each Minmatar tribe (Brutor, Sebiestor, Krusual, Vherokior, Nefantar, Starkmanir, Thukker) under the Sanmatar's chairmanship. Approved Upwell workforce transfers post-conquest, drives the seven-tribes restoration narrative, and is the operational layer that gives the Republic its coalition pluralism. Maleatu Shakor (Sanmatar) chairs; Karin Midular (Sebiestor Chief) serves as senior diplomatic voice.
+**Cited in:** [Tribal Council Approves Upwell Workforce Transfers](https://universe.eveonline.com/new-eden-news/tribal-council-approves-upwell-workforce-transfers)
+
 ### Upwell Consortium
 
 Citadel-tech consortium. Includes Intaki Bank. Builds EDENCOM ships. Forest-faction / Lai Dai-anchored. Financial exposure to the Syndicate collapse cascades through Intaki Bank into Upwell — an angle CCP coverage has not surfaced and Ash is hammering on stream.
@@ -230,6 +235,10 @@ Moreau presidency, post-Roden defeat. Disputed the Caldari Jita-gate accusations
 ### Jita
 
 New Eden's primary trade hub. All seven gates damaged YC128.04.21. Resident-identity survey: most identify as 'Jita first, Caldari second' — atypical within the State. Structurally too important to fail; structurally now political dynamite.
+
+### Lonetrek region
+
+Caldari State core region. Contains Jita (the trade hub) and the major State industrial zones. Operational center for State Protectorate FW militia operations and the State Workers' Union activity. The Jita-gate incident occurred at Lonetrek's primary trade artery.
 
 ### Poitot
 
@@ -582,6 +591,7 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **1×** [The Scope – Caldari State Completes Interstellar Shipcaster Project (2023-05-05)](https://universe.eveonline.com/new-eden-news/the-scope-caldari-state-completes-interstellar-shipcaster-project)
 - **1×** [Illegal Workers Union Condemned as Protests Spread Through Caldari State (2023-06-09)](https://universe.eveonline.com/new-eden-news/illegal-workers-union-condemned-as-protests-spread-through-caldari-state)
 - **1×** [Threat of Hidden Jovian Stargates Controlled by Pirates Raised by SoCT Address to CONCORD Assembly (2023-08-22)](https://universe.eveonline.com/new-eden-news/threat-of-hidden-jovian-stargates-controlled-by-pirates-raised-by-soct)
+- **1×** [Tribal Council Approves Upwell Workforce Transfers (2024-06-05)](https://universe.eveonline.com/new-eden-news/tribal-council-approves-upwell-workforce-transfers)
 - **1×** [Upwell Victorious in Federation While Restrictions Apply in Caldari State (2024-06-12)](https://universe.eveonline.com/new-eden-news/upwell-victorious-in-federation-while-restrictions-apply-in-caldari-state)
 - **1×** [Vanguard Clash with Mordu's Legion Planetside (2025-09-18)](https://universe.eveonline.com/new-eden-news/vanguard-clash-with-mordus-legion-planetside)
 - **1×** [Lore Tourism - The Redemption of the Ammatar (2026-02)](https://www.youtube.com/watch?v=nQUXg9vhPmo)

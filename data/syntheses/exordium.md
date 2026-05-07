@@ -93,6 +93,10 @@ Ascendant militarily across YC128. Tribal Council pluralism (Sanmatar Shakur dip
 Aurora's first canonical neutral space. Strategic significance: the only region in New Eden with capsuleer-violence protocols structurally enforced. Hosts AIR's relocated capsuleer training program, which positions Exordium as the new front door for new pilots — a structural shift away from the Caldari/Ishukone training pipeline that has historically held that role.
 **Cited in:** [CONCORD and AIR Announce New Space Region - New Eden News - YC128-04-13](https://www.youtube.com/watch?v=nhTUqEmgX5k)
 
+### Genesis region
+
+Federation–CONCORD borderland region. Contains Yulai (CONCORD HQ) and EVE-Gate-adjacent territory. The structural neutral zone between Federation and Empire spheres. Catiz I's territorial reorganization affected the Genesis frontier.
+
 ### Yulai system
 
 CONCORD's headquarters system. Site of the Yulai Accords (the inter-empire governance treaty). Symbolic center of inter-empire governance — and the YC110 Yulai gate breach is the only prior precedent for the YC128 Warpath Protocol failure. Capsuleer SoCT briefings happen here.

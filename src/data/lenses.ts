@@ -72,6 +72,8 @@ export const LENSES: Lens[] = [
       "cnc_capsuleers",
       "plc_yulai",
       "org_imperial_court",
+      "plc_lonetrek",
+      "org_tribal_council",
     ],
   },
   {
@@ -167,6 +169,11 @@ export const LENSES: Lens[] = [
       "evt_battle_vak_atioth",
       "evt_minmatar_rebellion",
       "evt_caldari_rebellion",
+      "org_tribal_council",
+      "plc_heimatar",
+      "plc_metropolis",
+      "org_vherokior_tribe",
+      "evt_floseswin_battle",
     ],
   },
   {
@@ -206,6 +213,7 @@ export const LENSES: Lens[] = [
       "plc_eve_gate",
       "plc_anoikis",
       "evt_triglavian_invasion",
+      "evt_floseswin_battle",
     ],
   },
   {
@@ -234,6 +242,7 @@ export const LENSES: Lens[] = [
       "org_amarr_imperial_navy",
       "cnc_capsuleers",
       "plc_yulai",
+      "plc_genesis",
     ],
   },
   {
@@ -262,6 +271,7 @@ export const LENSES: Lens[] = [
       "plc_kahah",
       "org_royal_khanid_navy",
       "evt_amarr_reclaiming",
+      "org_provost_marshal_office",
     ],
   },
   {
@@ -285,6 +295,7 @@ export const LENSES: Lens[] = [
       "org_sleeper_civilization",
       "plc_eve_gate",
       "plc_anoikis",
+      "plc_genesis",
     ],
   },
   {
@@ -315,6 +326,8 @@ export const LENSES: Lens[] = [
       "phn_clone_soldier_tech",
       "evt_caldari_rebellion",
       "plc_yulai",
+      "plc_lonetrek",
+      "org_provost_marshal_office",
     ],
   },
   {
@@ -341,6 +354,8 @@ export const LENSES: Lens[] = [
       "org_royal_khanid_navy",
       "org_federal_defense_union",
       "evt_amarr_reclaiming",
+      "plc_placid",
+      "plc_verge_vendor",
     ],
   },
   {
@@ -372,6 +387,11 @@ export const LENSES: Lens[] = [
       "evt_amarr_reclaiming",
       "evt_battle_vak_atioth",
       "org_imperial_court",
+      "plc_domain",
+      "plc_bleak_lands",
+      "cnc_five_heirs",
+      "org_provost_marshal_office",
+      "evt_floseswin_battle",
     ],
   },
   {
@@ -398,6 +418,8 @@ export const LENSES: Lens[] = [
       "plc_stain",
       "plc_venal",
       "plc_curse",
+      "plc_lonetrek",
+      "plc_metropolis",
     ],
   },
   {
@@ -425,6 +447,7 @@ export const LENSES: Lens[] = [
       "cnc_softdrink_wars",
       "org_cep",
       "org_caldari_navy",
+      "plc_lonetrek",
     ],
   },
   {
