@@ -17,6 +17,35 @@ const TYPE_COLOR: Record<string, string> = {
   Artifact: "#e9c46a",
 };
 
+// Edge color by relation category — gives the eye six visual channels for
+// what kind of relationship each line represents, without needing to read
+// the label.
+const RELATION_COLOR: Record<string, string> = {
+  // Causal / temporal — red family
+  "caused-by": "#dc2626",
+  "succeeded-by": "#b91c1c",
+  "replaced-by": "#b91c1c",
+  "descends-from": "#991b1b",
+  // Alliance / membership — blue family
+  "aligned-with": "#3b82f6",
+  "member-of": "#2563eb",
+  "participated-in": "#1d4ed8",
+  // Opposition — amber
+  "opposed-to": "#f59e0b",
+  // Spatial — green
+  "located-in": "#16a34a",
+  // Soft / parallel — violet / gray
+  "parallels": "#a78bfa",
+  "referenced-in": "#737373",
+  // Financial — emerald
+  "funds": "#10b981",
+  "revenue-from": "#059669",
+  "launders-through": "#7c2d12",
+  "financially-exposed-to": "#ea580c",
+  "supplies": "#0d9488",
+};
+const edgeColor = (rel: string) => RELATION_COLOR[rel] ?? "#52525b";
+
 interface Props {
   nodes: Node[];
   connections: Connection[];
@@ -34,6 +63,7 @@ interface SimLink extends d3.SimulationLinkDatum<SimNode> {
 export default function BoardView({ nodes, connections, citationsByNode = {} }: Props) {
   const svgRef = useRef<SVGSVGElement>(null);
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [hoverId, setHoverId] = useState<string | null>(null);
   const [hops, setHops] = useState(0); // 0 = show all
   const [minConfidence, setMinConfidence] = useState(0); // 0 = show all incl. tinfoil
   const [hiddenTypes, setHiddenTypes] = useState<Set<string>>(new Set());
@@ -150,8 +180,10 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       degree.set(s, (degree.get(s) ?? 0) + 1);
       degree.set(t, (degree.get(t) ?? 0) + 1);
     }
+    // Steeper hub scale — sub-linear (degree^0.65) so the top hubs (CONCORD
+    // with ~17 incident edges) read as visibly bigger than a 4-edge node.
     const radiusOf = (id: string) =>
-      Math.min(14, 4 + Math.sqrt(degree.get(id) ?? 0) * 1.6);
+      Math.min(22, 4 + Math.pow(degree.get(id) ?? 0, 0.65) * 2);
     const isHub = (id: string) => (degree.get(id) ?? 0) >= 4;
 
     // Type-cluster anchors — 4x2 grid offset from canvas center. Strength is
@@ -193,21 +225,24 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       });
     svg.call(zoom);
 
-    // Edges — line in default mode, orthogonal L-shaped polyline in subway mode
+    // Edges — line in default mode, orthogonal L-shaped polyline in subway mode.
+    // Stroke colored by relation category (see RELATION_COLOR above).
     const link = g
       .append("g")
-      .attr("stroke", "#52525b")
       .attr("fill", "none")
       .selectAll<SVGElement, SimLink>(subwayMode ? "polyline" : "line")
       .data(simLinks)
       .join(subwayMode ? "polyline" : "line")
+      .attr("stroke", (d) => edgeColor(d.relationType))
       .attr("stroke-width", (d) =>
-        subwayMode ? Math.max(2, d.confidence * 4) : Math.max(0.5, d.confidence * 2),
+        subwayMode ? Math.max(2.5, d.confidence * 4.5) : Math.max(1, d.confidence * 2.5),
       )
-      .attr("stroke-opacity", (d) => (d.confidence < 0.5 ? 0.2 : subwayMode ? 0.7 : 0.5))
+      .attr("stroke-opacity", (d) => (d.confidence < 0.5 ? 0.25 : subwayMode ? 0.75 : 0.65))
       .attr("stroke-linejoin", "round")
       .attr("stroke-linecap", "round")
-      .attr("stroke-dasharray", (d) => (d.confidence < 0.5 ? "3,3" : null));
+      .attr("stroke-dasharray", (d) => (d.confidence < 0.5 ? "3,3" : null))
+      .attr("data-src", (d) => (typeof d.source === "string" ? d.source : (d.source as SimNode).id))
+      .attr("data-tgt", (d) => (typeof d.target === "string" ? d.target : (d.target as SimNode).id));
 
     link.append("title").text((d) =>
       `${d.relationType}  (${d.confidence.toFixed(2)})${d.claim ? `\n${d.claim}` : ""}`,
@@ -221,14 +256,19 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       .join("g")
       .attr("cursor", "pointer")
       .attr("data-node-id", (d) => d.id)
-      .on("click", (_, d) => setSelectedId(d.id))
-      .on("mouseover", function () {
+      .on("click", (event, d) => {
+        event.stopPropagation();
+        setSelectedId(d.id);
+      })
+      .on("mouseover", function (_, d) {
         d3.select(this).select("text.node-label").attr("display", null);
+        setHoverId(d.id);
       })
       .on("mouseout", function (_, d) {
         if (currentZoom < 1.5 && !isHub(d.id) && d.id !== selectedId) {
           d3.select(this).select("text.node-label").attr("display", "none");
         }
+        setHoverId(null);
       })
       .call(
         d3
@@ -330,12 +370,14 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [scopeKey, clusterByType, subwayMode]);
 
-  // Selection highlight — imperative DOM update, no layout disturbance.
-  // Recompute degree-based base radius so the highlight bumps it up by a
-  // consistent amount instead of overwriting it.
+  // Selection highlight + hover-fade — both imperative DOM updates, no layout
+  // disturbance. The fade dims everything outside the focus node's 1-hop
+  // neighborhood to ~15% opacity so a single relationship is traceable
+  // even at 200 nodes / 368 edges.
   useEffect(() => {
     if (!svgRef.current) return;
     const svg = d3.select(svgRef.current);
+
     const degree = new Map<string, number>();
     for (const n of visible.nodes) degree.set(n.id, 0);
     for (const c of visible.conns) {
@@ -343,22 +385,44 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       degree.set(c.tgtNodeId, (degree.get(c.tgtNodeId) ?? 0) + 1);
     }
     const baseR = (id: string) =>
-      Math.min(14, 4 + Math.sqrt(degree.get(id) ?? 0) * 1.6);
+      Math.min(22, 4 + Math.pow(degree.get(id) ?? 0, 0.65) * 2);
 
+    // Focus = hover (transient) ∪ selected (sticky). Hover wins when both
+    // present so cursor preview is always responsive.
+    const focusId = hoverId ?? selectedId;
+    const inFocus = new Set<string>();
+    if (focusId) {
+      inFocus.add(focusId);
+      for (const c of visible.conns) {
+        if (c.srcNodeId === focusId) inFocus.add(c.tgtNodeId);
+        if (c.tgtNodeId === focusId) inFocus.add(c.srcNodeId);
+      }
+    }
+
+    // Node opacity + selection ring
     svg.selectAll<SVGGElement, SimNode>("g[data-node-id]").each(function (d) {
       const isSelected = d?.id === selectedId;
       const r = baseR(d.id) + (isSelected ? 4 : 0);
+      const dimmed = focusId !== null && !inFocus.has(d.id);
       d3.select(this)
+        .attr("opacity", dimmed ? 0.15 : 1)
         .select("circle")
         .attr("r", r)
         .attr("stroke", isSelected ? "#fff" : "#1f1f23")
         .attr("stroke-width", isSelected ? 2.5 : 1);
-      // Ensure the selected node always shows its label
       if (isSelected) {
         d3.select(this).select("text.node-label").attr("display", null);
       }
     });
-  }, [selectedId, scopeKey, visible.nodes, visible.conns]);
+
+    // Edge opacity — edges incident to focus stay visible, others dim hard
+    svg.selectAll<SVGElement, SimLink>("[data-src]").attr("opacity", function () {
+      if (!focusId) return 1;
+      const s = (this as Element).getAttribute("data-src");
+      const t = (this as Element).getAttribute("data-tgt");
+      return s === focusId || t === focusId ? 1 : 0.08;
+    });
+  }, [selectedId, hoverId, scopeKey, visible.nodes, visible.conns]);
 
   const selected = selectedId ? nodeById.get(selectedId) ?? null : null;
 
@@ -465,9 +529,25 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
         {/* SVG canvas */}
         <svg
           ref={svgRef}
+          onClick={(e) => {
+            // Click on the SVG background (not a node) releases sticky selection
+            if (e.target === svgRef.current) setSelectedId(null);
+          }}
           className="border border-zinc-800 bg-zinc-950 flex-1 w-full"
           style={{ minHeight: 500 }}
         />
+
+        {/* Edge-color legend — explains the relation-category palette */}
+        <div className="flex flex-wrap items-center gap-2 text-[10px] font-mono text-zinc-500 px-1">
+          <span>edges:</span>
+          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#dc2626" }} /> causal / temporal</span>
+          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#3b82f6" }} /> alliance / membership</span>
+          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#f59e0b" }} /> opposition</span>
+          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#16a34a" }} /> spatial</span>
+          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#a78bfa" }} /> parallels</span>
+          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#10b981" }} /> financial</span>
+          <span className="ml-auto text-zinc-600">hover a node to isolate · click to pin · click background to release</span>
+        </div>
       </div>
 
       <NodeInspector
