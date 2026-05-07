@@ -9880,6 +9880,328 @@
       "conf": 0.85,
       "claim": "Mens carries the Ishukone pole forward.",
       "supporting_sources": []
+    },
+    {
+      "src": "plc_sarum_prime",
+      "tgt": "per_jamyl_i",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "Sarum Prime destroyed by Jamyl I's superweapon during the Elder Fleet strike.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_sarum_prime",
+      "tgt": "evt_sarum_prime_destruction",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Site of the destruction event.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_sarum_prime",
+      "tgt": "evt_elder_war",
+      "rel": "located-in",
+      "conf": 0.9,
+      "claim": "Elder Fleet's deepest strike at Sarum Prime.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jamal_sarum",
+      "tgt": "cnc_seven_tribes",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Brought Starkmanir, Thukker, and Nefantar into the Republic.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jamal_sarum",
+      "tgt": "org_starkmanir_tribe",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Welcomed Starkmanir into the Republic.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jamal_sarum",
+      "tgt": "org_thukker_tribe",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Welcomed Thukker into the Republic.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jamal_sarum",
+      "tgt": "org_nefantar_tribe",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Welcomed Nefantar into the Republic.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_rebellion",
+      "tgt": "fac_intaki",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Caldari-sympathetic Intaki exiles became the Syndicate post-Rebellion.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_caldari_rebellion",
+      "tgt": "evt_minmatar_rebellion",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Both ~YC80s secession/revolt cycles that founded the modern four-empire system.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_catiz_i",
+      "tgt": "org_minmatar_republic",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Cast blame on the Republic during Warpath escalation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_damyas_iii",
+      "tgt": "org_nefantar_tribe",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Bestowed the 'Ammatar' honorific on the Nefantar tribe.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_metropolis",
+      "tgt": "evt_great_rebellion",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Tribal homeland region during the Rebellion era.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_metropolis",
+      "tgt": "org_thukker_tribe",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Republic tribal region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_emwpa",
+      "tgt": "evt_kantar_concord_speech",
+      "rel": "referenced-in",
+      "conf": 0.9,
+      "claim": "Cited by Kantar Yun in the YC120 Kahah CONCORD speech.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_emwpa",
+      "tgt": "org_tribal_liberation_force",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "EMWPA established Faction Warfare militias.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_emwpa",
+      "tgt": "org_24th_imperial_crusade",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "EMWPA established Faction Warfare militias.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_battle_caldari_prime_yc115",
+      "tgt": "evt_caldari_rebellion",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Concluded the YC112 invasion that itself was Rebellion-cycle reversal.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_skarkon",
+      "tgt": "org_minmatar_republic",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Republic governance failure \u2014 Skarkon defected to Angel Cartel.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_skarkon",
+      "tgt": "org_starkmanir_tribe",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Mimitar system tied to the wider tribal-restoration period.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_alika_valkanir",
+      "tgt": "evt_imperian_age_starkmanir_reveal",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Imperian Age reveal era figure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_tribal_liberation_force",
+      "tgt": "evt_great_rebellion",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Modern continuation of the Rebellion's Amarr-opposition mandate.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_hollow_clone_disaster",
+      "tgt": "evt_drifter_crisis",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Drifter Crisis era contamination of clone-tech infrastructure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_hollow_clone_disaster",
+      "tgt": "org_air_laboratories",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "AIR Labs investigated the disaster's clone-tech mechanism.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_floseswin_battle",
+      "tgt": "evt_drifter_crisis",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Floseswin marks Drifter Crisis-era direct-intervention onset.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_intaki_syndicate",
+      "tgt": "org_blood_raiders",
+      "rel": "launders-through",
+      "conf": 0.65,
+      "claim": "Death Glow / Vitoxin trafficking through Syndicate channels.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_intaki_syndicate",
+      "tgt": "org_ishukone",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Insorum data trade ran through Syndicate-Ishukone channel.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_mordus_legion",
+      "tgt": "org_intaki_bank",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Both anti-Deathless; Mordu's Legion provides muscle, Intaki Bank counter-insurgency.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_mordus_legion",
+      "tgt": "org_intaki_syndicate",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "YC110-era assembly deal granted Mordu access to Intaki via Syndicate.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_genesis",
+      "tgt": "plc_zarzakh",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Genesis is EVE-Gate-adjacent; Zarzakh sits in the same hidden-system region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_yulai",
+      "tgt": "org_caldari_state",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Caldari Rebellion-era Yulai Accord disputes; modern Yulai breach precedent.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_yulai",
+      "tgt": "per_otro_gariushi",
+      "rel": "aligned-with",
+      "conf": 0.6,
+      "claim": "Yulai-CONCORD authority in Otro's Mountain/Ocean axis era.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_provost_marshal_office",
+      "tgt": "org_caldari_state",
+      "rel": "parallels",
+      "conf": 0.65,
+      "claim": "Khanid Provost-Marshal structurally analogous to State Provost regime.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_provost_marshal_office",
+      "tgt": "org_kaalakiota",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "Both labor-and-judicial authority structures supporting their parent polities.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_idonis_ardishapur",
+      "tgt": "evt_starkmanir_genocide",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Ordered the orbital bombardment that annihilated Starkmanir Prime.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_idonis_ardishapur",
+      "tgt": "org_starkmanir_tribe",
+      "rel": "opposed-to",
+      "conf": 0.92,
+      "claim": "Architect of the Starkmanir genocide.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_arzad_hamri",
+      "tgt": "org_starkmanir_tribe",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Tolerated their heretical interpretation; executed by orthodox Amarr authorities.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_arzad_hamri",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Liberal Amarr holder; executed by orthodox.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_lonetrek",
+      "tgt": "per_omir_sarikusa",
+      "rel": "opposed-to",
+      "conf": 0.65,
+      "claim": "Sarikusa's Guristas raids on Caldari trade hubs.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_curse",
+      "tgt": "per_muryia_mordu",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Mordu's Legion's break from Angel Cartel \u2014 Cartel home region.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_curse",
+      "tgt": "org_thukker_tribe",
+      "rel": "opposed-to",
+      "conf": 0.65,
+      "claim": "Angel raids on Thukker trade routes from Curse staging.",
+      "supporting_sources": [
+        "src_news_minmatar-and-thukker-trade-routes-increasingly-threatened-by-breakaway-angels"
+      ]
     }
   ],
   "_curation_notes": [
