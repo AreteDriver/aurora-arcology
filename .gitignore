@@ -56,3 +56,4 @@ data/raw/
 # Vercel build artifact, never tracked.
 src/lib/db-blob.ts
 data/syntheses/_input/
+data/raw/

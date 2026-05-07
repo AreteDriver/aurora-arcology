@@ -758,7 +758,8 @@
         "src_ash_silphy_2024",
         "src_book_empyrean_age",
         "src_news_ishukone-statement-otro-gariushi-confirmed-dead",
-        "src_news_otro-gariushi-defends-dark-amarr-deal-claims-chips-improve-slaves-lives"
+        "src_news_otro-gariushi-defends-dark-amarr-deal-claims-chips-improve-slaves-lives",
+        "src_ash_tl_yc106_otro-gariushi-defends-dark-amarr-deal-claims-chips"
       ],
       "master_summary": "Former Ishukone CEO. Gariushi (Guristas-aligned) pilot. Rose to power by exposing Akelan's corruption via the Raven project \u2014 Miller and Riley Rashemo helped engineer the takeover. Killed at the YC110 Caldari\u2013Federation summit when Alexander Noir's Nyx struck the station. The 'broker' wanted him dead specifically because Ishukone was developing Insorum."
     },
@@ -774,7 +775,9 @@
         "src_chronicle_ante",
         "src_news_federation-policymakers-exhibit-muted-reactions-to-mens-reppola-appointment",
         "src_news_mens-reppola-made-ishukone-ceo-charts-future-course",
-        "src_news_mens-reppola-announces-5-stake-in-ishukone"
+        "src_news_mens-reppola-announces-5-stake-in-ishukone",
+        "src_ash_tl_yc111_mens-reppola-made-ishukone-ceo-charts-future-cours",
+        "src_ash_tl_yc111_federation-policymakers-exhibit-muted-reactions-to"
       ],
       "master_summary": "Ishukone CEO since Otro's death. The structural anchor of the Ishukone axis on Ash's whiteboard. Working with Mordu's Legion (Muryia Mordu) on clone-soldier development; in semi-hiding behind heavy drone protection by Templar 1's end. Every major Ishukone-axis claim about the YC128 cycle eventually routes through him."
     },
@@ -876,7 +879,11 @@
         "src_news_coronation-of-empress-catiz-i-to-take-place-tomorrow-in-dam-torsad",
         "src_news_amarr-succession-committee-announces-september-date-for-coronation-of-empress-catiz-i",
         "src_news_amarr-empire-celebrates-catiz-is-second-year-as-empress-with-military-parade",
-        "src_news_catiz-i-addresses-capsuleers-and-imperial-guard-after-historic-day-in-dam-torsad"
+        "src_news_catiz-i-addresses-capsuleers-and-imperial-guard-after-historic-day-in-dam-torsad",
+        "src_ash_tl_yc118_coronation-of-empress-catiz-i-yc-118",
+        "src_ash_tl_yc119_amarr-emissary-addresses-crowd-in-celebration-of-j",
+        "src_ash_tl_yc120_empress-catiz-i-honors-amarr-loyalist-capsuleer-gr",
+        "src_ash_tl_yc121_empress-catiz-i-revokes-heideran-decree-yc-121"
       ],
       "master_summary": "Amarr Empress. Took the throne after Jamyl's drifter-assassination. Cast blame on the Republic during Warpath escalation. The 'Mandate of Faith' SKIN attributed to her call positions her as the figurehead of an emerging Amarr-side Mil-Campaign #2."
     },
@@ -962,7 +969,25 @@
         "src_news_caldari-state-not-taking-actions-in-slave-upraising-navy-says",
         "src_news_minmatar-republic-claims-caldari-state-in-breach-of-yulai-convention-state-in-diplomatic-hot-water",
         "src_news_caldari-state-threatens-sanctions-on-ore-syndicate-amarr-empire-follows-suit",
-        "src_news_caldari-state-issues-statement-of-condemnation-on-curse-alliance-response"
+        "src_news_caldari-state-issues-statement-of-condemnation-on-curse-alliance-response",
+        "src_ash_tl_yc106_caldari-state-announces-opening-of-sign-up-for-col",
+        "src_ash_tl_yc106_caldari-state-issues-statement-of-condemnation-on-",
+        "src_ash_tl_yc107_caldari-state-in-hot-water-after-diplomatic-incide",
+        "src_ash_tl_yc107_caldari-state-not-taking-actions-in-slave-upraisin",
+        "src_ash_tl_yc107_caldari-state-plays-host-to-capsuleer-tournament-y",
+        "src_ash_tl_yc109_further-riots-in-the-caldari-state-yc-109",
+        "src_ash_tl_yc110_friction-mounts-between-concord-and-caldari-state-",
+        "src_ash_tl_yc110_ethnic-violence-spreads-to-the-caldari-state-yc-11",
+        "src_ash_tl_yc110_caldari-state-invades-the-luminaire-system-yc110",
+        "src_ash_tl_yc110_luminaire-system-invaded-by-caldari-state-yc-110",
+        "src_ash_tl_yc110_new-region-connected-to-stargate-networks-by-calda",
+        "src_ash_tl_yc110_cautious-reaction-to-shakor-inauguration-from-cald",
+        "src_ash_tl_yc111_amarr-empress-announces-massive-investment-package",
+        "src_ash_tl_yc112_internal-conflict-strikes-caldari-state-protectora",
+        "src_ash_tl_yc115_massive-military-mobilization-in-caldari-state-yc-",
+        "src_ash_tl_yc115_mentas-blaque-condemns-caldari-state-yc-115",
+        "src_ash_tl_yc119_caldari-state-workers-union-day-celebrations-accom",
+        "src_ash_tl_yc122_galactic-hour-news-roundup-caldari-state-protests-"
       ]
     },
     {
@@ -981,7 +1006,12 @@
         "src_news_report-kador-fleet-launches-invasion-of-gallente-federation-in-solitude-heavy-casualties-reported-as-fighting-is-underway",
         "src_news_gallente-federation-calls-for-calm",
         "src_news_gallente-federation-responds-to-plea-from-grieving-spouse",
-        "src_news_gallente-federation-celebrates-federation-day"
+        "src_news_gallente-federation-celebrates-federation-day",
+        "src_ash_tl_yc107_minmatar-republic-and-gallente-federation-fight-sm",
+        "src_ash_tl_yc108_election-day-in-the-gallente-federation-yc-108",
+        "src_ash_tl_yc122_voting-for-new-president-underway-across-gallente-",
+        "src_ash_tl_yc122_galactic-hour-news-roundup-gallente-federation-day",
+        "src_ash_tl_yc122_galactic-hour-news-roundup-gallente-federation-yc-"
       ]
     },
     {
@@ -1013,7 +1043,18 @@
         "src_news_archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms",
         "src_news_prime-minister-calm-as-minmatar-republic-reacts-to-karsoth-affair",
         "src_news_minmatar-republic-claims-caldari-state-in-breach-of-yulai-convention-state-in-diplomatic-hot-water",
-        "src_news_emperor-kor-azor-extends-the-first-olive-branch-to-the-minmatar-republic"
+        "src_news_emperor-kor-azor-extends-the-first-olive-branch-to-the-minmatar-republic",
+        "src_ash_tl_yc105_emperor-kor-azor-extends-the-first-olive-branch-to",
+        "src_ash_tl_yc107_minmatar-republic-and-gallente-federation-fight-sm",
+        "src_ash_tl_yc110_investors-have-finally-decided-that-the-minmatar-r",
+        "src_ash_tl_yc110_commerce-and-travel-between-thukker-tribe-and-minm",
+        "src_ash_tl_yc111_renewed-interest-in-history-and-cuisine-throughout",
+        "src_ash_tl_yc111_minmatar-republic-thukker-tribe-launch-joint-manhu",
+        "src_ash_tl_yc111_g-a-n-j-a-launches-attack-on-minmatar-republic-tar",
+        "src_ash_tl_yc112_g-a-n-j-a-continues-terrorist-activities-in-minmat",
+        "src_ash_tl_yc115_wave-of-enthusiasm-sweeps-minmatar-republic-yc-115",
+        "src_ash_tl_yc115_minmatar-republic-acknowledges-stability-brought-b",
+        "src_ash_tl_yc122_minmatar-republic-launches-surprise-offensive-yc-1"
       ]
     },
     {
@@ -1045,7 +1086,17 @@
         "src_news_st-tetrimon-edict-lifted-order-allowed-to-return-to-amarr-empire",
         "src_news_caldari-state-threatens-sanctions-on-ore-syndicate-amarr-empire-follows-suit",
         "src_news_imperial-apoc-returned-to-amarr-empire-amid-fierce-minmatar-resistance",
-        "src_news_grave-news-from-the-amarr-empire-heideran-vii-has-died"
+        "src_news_grave-news-from-the-amarr-empire-heideran-vii-has-died",
+        "src_ash_tl_yc106_apocalypse-winners-to-give-ship-back-to-amarr-empi",
+        "src_ash_tl_yc106_imperial-apoc-returned-to-amarr-empire-amid-fierce",
+        "src_ash_tl_yc108_st-tetrimon-edict-lifted-order-allowed-to-return-t",
+        "src_ash_tl_yc110_minmatar-elders-launch-invasion-of-amarr-empire-yc",
+        "src_ash_tl_yc117_amarr-empire-releases-new-technology-yc-117",
+        "src_ash_tl_yc117_amarr-empire-declares-war-on-drifters-drifter-forc",
+        "src_ash_tl_yc117_amarr-empire-celebrates-the-reign-of-empress-jamyi",
+        "src_ash_tl_yc118_amarr-empire-enters-new-era-as-imperial-authoritie",
+        "src_ash_tl_yc119_monuments-to-martyrs-of-amarr-empire-nearing-compl",
+        "src_ash_tl_yc120_multiple-terrorist-attacks-against-amarr-empire-as"
       ]
     },
     {
@@ -1167,7 +1218,8 @@
       "sources": [
         "src_news_quafe-company-receives-substantial-pre-tribunal-settlement-from-state-armed-forces-for-loss-of-convoy",
         "src_news_quafe-company-accused-of-arms-running",
-        "src_chronicle_quafe"
+        "src_chronicle_quafe",
+        "src_ash_tl_yc105_quafe-company-accused-of-arms-running-yc-105"
       ]
     },
     {
@@ -1365,7 +1417,27 @@
         "src_news_concord-comments-on-recent-security-breaches-in-empire-space",
         "src_news_concord-deploys-special-ops",
         "src_news_concord-pirate-warning",
-        "src_chronicle_concord"
+        "src_chronicle_concord",
+        "src_ash_tl_yc105_concord-pirate-warning-yc-105",
+        "src_ash_tl_yc105_concord-to-deploy-special-ops-yc-105",
+        "src_ash_tl_yc105_concord-comments-on-recent-security-breaches-yc-10",
+        "src_ash_tl_yc105_corruption-within-concord-yc-105",
+        "src_ash_tl_yc105_concord-deplores-increase-slave-trade-yc-105",
+        "src_ash_tl_yc105_concord-issues-travel-advisory-yc-105",
+        "src_ash_tl_yc105_heideran-vii-fails-to-show-up-at-concord-meeting-y",
+        "src_ash_tl_yc105_concord-interstellar-correspondents-program-kicks-",
+        "src_ash_tl_yc105_gunhilda-zetter-joins-concord-as-interstellar-corr",
+        "src_ash_tl_yc105_concord-reports-alarming-rise-in-scams-thefts-yc-1",
+        "src_ash_tl_yc105_concord-agent-corruption-yc-105",
+        "src_ash_tl_yc105_concord-warns-of-troubled-times-yc-105",
+        "src_ash_tl_yc105_concord-confirms-amarr-ceremony-disrupted-by-joint",
+        "src_ash_tl_yc106_concord-task-force-sighted-leaving-empire-borders-",
+        "src_ash_tl_yc106_rogue-concord-commander-turns-himself-in-declares-",
+        "src_ash_tl_yc106_concord-announces-discovery-of-abandoned-bases-tre",
+        "src_ash_tl_yc106_concord-stuns-empires-again-with-discovery-of-unch",
+        "src_ash_tl_yc106_abandoned-immensea-stations-a-source-of-conflict-c",
+        "src_ash_tl_yc106_concord-scc-announce-secure-container-regulation-f",
+        "src_ash_tl_yc106_concord-condones-use-of-transcranial-microcontroll"
       ]
     },
     {
@@ -1380,7 +1452,10 @@
         "src_news_concord-inner-circle-meeting-to-discuss-ship-disappearances-colonel-valkanir-attending",
         "src_news_concord-inner-circle-authorizes-extension-of-clone-state-alpha-to-include-battleship-capability",
         "src_news_jovian-directorate-withdraws-from-concord-inner-circle-and-designates-soct-as-successor",
-        "src_news_concord-inner-circle-statement-on-carolines-star-and-the-thera-system"
+        "src_news_concord-inner-circle-statement-on-carolines-star-and-the-thera-system",
+        "src_ash_tl_yc116_concord-inner-circle-statement-on-34-caroline-s-st",
+        "src_ash_tl_yc118_jovian-directorate-withdraws-from-concord-inner-ci",
+        "src_ash_tl_yc119_concord-inner-circle-authorizes-extension-of-clone"
       ]
     },
     {
@@ -1396,7 +1471,9 @@
         "src_news_gallente-human-rights-activists-slam-chief-executive-panel-and-senate-after-oijanen-footage-shows-mass-protest",
         "src_news_ishukone-executives-called-to-chief-executive-panel-hearing",
         "src_news_caldari-chief-executive-panel-decides-not-to-compensate",
-        "src_news_chief-executive-panel-promises-an-investigation-into-delicacies-claims"
+        "src_news_chief-executive-panel-promises-an-investigation-into-delicacies-claims",
+        "src_ash_tl_yc105_chief-executive-panel-promises-an-investigation-in",
+        "src_ash_tl_yc116_ishukone-executives-called-to-chief-executive-pane"
       ]
     },
     {
@@ -1420,7 +1497,20 @@
         "src_news_serpentis-corporation-strikes-back-against-upwell-consortium",
         "src_news_ore-membership-of-upwell-consortium-confirmed-by-yani-sar-arteu-in-aftermath-of-station-seizures",
         "src_news_upwell-consortium-announces-development-of-citadel-line-of-stations-for-capsuleer-market",
-        "src_news_founding-of-upwell-consortium-announced-by-leading-interstellar-corporations"
+        "src_news_founding-of-upwell-consortium-announced-by-leading-interstellar-corporations",
+        "src_ash_tl_yc117_founding-of-upwell-consortium-announced-by-leading",
+        "src_ash_tl_yc117_upwell-consortium-announces-development-of-citadel",
+        "src_ash_tl_yc117_ore-membership-of-upwell-consortium-confirmed-by-y",
+        "src_ash_tl_yc117_serpentis-corporation-strikes-back-against-upwell-",
+        "src_ash_tl_yc118_upwell-consortium-signs-transport-and-communicatio",
+        "src_ash_tl_yc118_upwell-consortium-citadel-construction-project-beg",
+        "src_ash_tl_yc118_upwell-consortium-hails-capsuleer-research-effort-",
+        "src_ash_tl_yc118_upwell-consortium-research-component-acquisition-c",
+        "src_ash_tl_yc118_upwell-consortium-celebrates-deployment-of-first-p",
+        "src_ash_tl_yc118_upwell-consortium-announces-capsuleer-day-yc-118",
+        "src_ash_tl_yc118_upwell-consortium-members-commend-on-federation-co",
+        "src_ash_tl_yc119_upwell-consortium-celebrates-new-structure-lineup-",
+        "src_ash_tl_yc120_upwell-consortium-looks-forward-to-increased"
       ]
     },
     {
@@ -1431,7 +1521,8 @@
       "canonicity": "ccp-canon",
       "master_summary": "Subsidiary financial entity tied to the Syndicate. Upwell-affiliated. Counter-insurgency posture vs Deathless. Now structurally compromised by Silphy's arrest and the Syndicate annexation.",
       "sources": [
-        "src_news_intaki-bank-secures-funding-for-syndicate-rd-program"
+        "src_news_intaki-bank-secures-funding-for-syndicate-rd-program",
+        "src_ash_tl_yc109_intaki-bank-secures-r-amp-d-funding-yc-109"
       ]
     },
     {
@@ -1455,7 +1546,9 @@
         "src_news_shipcaster-spying-row-intensifies-with-recriminations-over-concord-edencom",
         "src_news_galactic-hour-news-roundup-inner-circle-security-summit-reduces-edencom",
         "src_news_galactic-hour-news-roundup-triglavian-conquests-and-edencom-fortresses-edition",
-        "src_news_formation-of-edencom-announced-following-triglavian-attacks-amidst-capsuleer-day-celebrations"
+        "src_news_formation-of-edencom-announced-following-triglavian-attacks-amidst-capsuleer-day-celebrations",
+        "src_ash_tl_yc122_formation-of-edencom-announced-following-triglavia",
+        "src_ash_tl_yc122_the-scope-edencom-prepares-for-triglavian-invasion"
       ]
     },
     {
@@ -1479,7 +1572,27 @@
         "src_news_mordus-legion-clashes-in-syndicate",
         "src_news_mordus-legion-hunts-and-kills-serpentis-battleship",
         "src_news_mordus-legion-and-guardian-angels-clash-in-fountain-region",
-        "src_chronicle_mordus-legion"
+        "src_chronicle_mordus-legion",
+        "src_ash_tl_yc106_reclusive-ore-founder-meets-with-leader-of-mordu-s",
+        "src_ash_tl_yc106_mordu-s-legion-mobilizing-yc-106",
+        "src_ash_tl_yc106_mordu-s-legion-infiltrates-serpentis-space-yc-106",
+        "src_ash_tl_yc106_mordu-s-legion-and-serpentis-forces-clash-in-fount",
+        "src_ash_tl_yc107_mordus-legion-meet-dcm-in-a-cloud-of-conspiracy-th",
+        "src_ash_tl_yc107_mordu-s-legion-fails-to-protect-ore-convoy-yc-107",
+        "src_ash_tl_yc107_mordu-s-legion-hunts-and-kills-serpentis-battleshi",
+        "src_ash_tl_yc107_possible-new-overseer-of-the-mordus-legion-exodus-",
+        "src_ash_tl_yc107_pure-blind-plays-host-to-the-mordu-s-legion-fleet-",
+        "src_ash_tl_yc107_mordu-s-legion-clashes-in-syndicate-yc-107",
+        "src_ash_tl_yc107_mordu-s-legion-and-imperium-tensions-are-mounting-",
+        "src_ash_tl_yc107_mordu-s-legion-to-strengthen-its-pureblind-positio",
+        "src_ash_tl_yc109_mordu-s-legion-launches-flagship-vessel-yc-109",
+        "src_ash_tl_yc110_mordu-s-legion-mobilizes-yc-110",
+        "src_ash_tl_yc110_khanid-mordu-s-legion-stand-down-yc-110",
+        "src_ash_tl_yc110_mordu-s-legion-experience-recruitment-surge-yc-110",
+        "src_ash_tl_yc115_mordu-s-legion-intervenes-in-caldari-ground-combat",
+        "src_ash_tl_yc115_mordu-s-legion-and-angel-cartel-offer-aid-yc-115",
+        "src_ash_tl_yc115_mordu-s-legion-announces-full-control-of-caldari-p",
+        "src_ash_tl_yc115_clashes-on-caldari-prime-quelled-by-mordu-s-legion"
       ]
     },
     {
@@ -1502,7 +1615,15 @@
         "src_news_sisters-of-eve-condemn-execution-of-eturrer",
         "src_news_servant-sisters-of-eve-urge-calm",
         "src_news_sisters-of-eve-respond-to-malkalen-disaster",
-        "src_chronicle_sisters-of-eve"
+        "src_chronicle_sisters-of-eve",
+        "src_ash_tl_yc111_sisters-of-eve-condemn-execution-of-eturrer-yc-111",
+        "src_ash_tl_yc111_sisters-of-eve-announce-transportation-charity-ini",
+        "src_ash_tl_yc115_sisters-of-eve-temporarily-promote-two-agents-yc-1",
+        "src_ash_tl_yc116_sisters-of-eve-release-sleeper-research-findings-y",
+        "src_ash_tl_yc116_sisters-of-eve-34-wormhole-colony-lost-34-sanctuar",
+        "src_ash_tl_yc117_sisters-of-eve-release-statement-on-caroline-s-sta",
+        "src_ash_tl_yc118_sisters-of-eve-flotilla-spotted-in-drifter-hive-sy",
+        "src_ash_tl_yc119_inner-circle-and-sisters-of-eve-agree-to-project-d"
       ]
     },
     {
@@ -1514,7 +1635,8 @@
       "master_summary": "Salvador Sarpati's black-market / drug pipeline. Silphy's collaborator pre-arrest from SoE. Structural counterpart to the Blood Raiders for the southwestern New Eden map.",
       "sources": [
         "src_news_serpentis-corporation-strikes-back-against-upwell-consortium",
-        "src_chronicle_the-sarpati-family"
+        "src_chronicle_the-sarpati-family",
+        "src_ash_tl_yc117_serpentis-corporation-strikes-back-against-upwell-"
       ]
     },
     {
@@ -1548,7 +1670,8 @@
         "src_news_midular-finally-acknowledges-starkmanir-news",
         "src_news_breaking-news-large-starkmanir-slave-population-discovered-in-ammatar-consulate",
         "src_hoboleaks_warpath",
-        "src_ash_seven_tribes"
+        "src_ash_seven_tribes",
+        "src_ash_tl_yc110_starkmanir-tribe-population-discovered-yc110"
       ]
     },
     {
@@ -1591,7 +1714,14 @@
         "src_news_slave-farm-scandal-investigation-exposes-amarr-and-ammatar-plot",
         "src_news_amarr-officials-in-discussions-with-the-ammatar-consulate",
         "src_ash_ammatar_tourism",
-        "src_ash_seven_tribes"
+        "src_ash_seven_tribes",
+        "src_ash_tl_yc110_political-vacuum-in-ammatar-mandate-continues-popu",
+        "src_ash_tl_yc111_ardishapur-consolidation-in-ammatar-mandate-welcom",
+        "src_ash_tl_yc111_body-and-soul-program-announced-for-ammatar-mandat",
+        "src_ash_tl_yc111_ammatar-mandate-food-production-restored-to-pre-in",
+        "src_ash_tl_yc111_penal-brigade-drawn-from-ammatar-mandate-sent-to-s",
+        "src_ash_tl_yc111_new-governor-takes-up-duties-in-ammatar-mandate-yc",
+        "src_ash_tl_yc121_governor-of-ammatar-mandate-elevated-to-holder-ran"
       ]
     },
     {
@@ -1671,7 +1801,12 @@
         "src_news_report-minmatar-thukker-armada-invades-ammatar-mandate",
         "src_news_breaking-news-minmatar-thukker-fleet-reappears-in-yulai-stargates-shut-down",
         "src_news_report-third-minmatar-thukker-fleet-detected-in-domain-region-fierce-fighting-reported-over-sarum-prime",
-        "src_ash_seven_tribes"
+        "src_ash_seven_tribes",
+        "src_ash_tl_yc110_commerce-and-travel-between-thukker-tribe-and-minm",
+        "src_ash_tl_yc111_thukker-tribe-to-join-republic-with-full-autonomy-",
+        "src_ash_tl_yc111_minmatar-republic-thukker-tribe-launch-joint-manhu",
+        "src_ash_tl_yc115_thukker-tribe-invites-cloned-mercenaries-to-police",
+        "src_ash_tl_yc118_soe-splinter-group-warns-of-shift-in-drifter-activ"
       ]
     },
     {
@@ -1686,7 +1821,10 @@
         "src_news_breaking-angel-cartel-and-guristas-pirates-forces-establish-forward",
         "src_news_guristas-pirates-strike-against-caldari-navy-convoy",
         "src_news_guristas-pirates-in-disarray-as-they-seek-to-offload-scientists",
-        "src_news_guristas-pirates-retreat-completely-from-crielere-after-latest-assault-is-thwarted"
+        "src_news_guristas-pirates-retreat-completely-from-crielere-after-latest-assault-is-thwarted",
+        "src_ash_tl_yc106_guristas-pirates-retreat-completely-from-crielere-",
+        "src_ash_tl_yc106_guristas-pirates-in-disarray-as-they-seek-to-offlo",
+        "src_ash_tl_yc108_guristas-pirates-strike-against-caldari-navy-convo"
       ]
     },
     {
@@ -2093,7 +2231,10 @@
         "src_news_empress-jamyl-i-announces-empire-intent-to-welcome-clone-soldiers-with-open-arms",
         "src_news_empress-jamyl-i-meets-with-king-khanid-ii",
         "src_news_empress-jamyl-i-makes-historic-emancipation-announcement",
-        "src_news_empress-jamyl-i-begins-reign"
+        "src_news_empress-jamyl-i-begins-reign",
+        "src_ash_tl_yc115_empress-jamyl-i-announces-intent-to-welcome-clone-",
+        "src_ash_tl_yc115_empress-jamyl-i-becoming-increasingly-erratic-yc-1",
+        "src_ash_tl_yc117_state-funeral-for-empress-jamyl-i-announced-yc-117"
       ],
       "master_summary": "Wielded the Sarum Prime superweapon against the Elder Fleet. Later murdered by Drifters. Catiz I succeeded her. Jamyl's superweapon is canonical proof that empires sit on weapons CONCORD can't constrain \u2014 the structural ancestor of the Catalyst-era doomsday site."
     },
@@ -2107,7 +2248,9 @@
         "src_ash_ammatar_tourism",
         "src_news_empress-jamyl-i-meets-with-king-khanid-ii",
         "src_news_king-khanid-ii-departs-tash-murkon-prime-arrives-in-amarr",
-        "src_chronicle_the-khanid-kingdom"
+        "src_chronicle_the-khanid-kingdom",
+        "src_ash_tl_yc111_khanid-ii-departs-tash-murkon-prime-arrives-in-ama",
+        "src_ash_tl_yc111_empress-jamly-i-meets-with-king-khanid-ii-yc-111"
       ],
       "master_summary": "Defected from Amarr ~200+ years ago to avoid sheal-sin after his first championship loss; founded the Khanid Kingdom. Lost the post-Jamyl championship and was finally forced to perform the ritual. His arc closes the long-running Khanid-as-rebel-kingdom narrative."
     },
@@ -2152,7 +2295,8 @@
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_ammatar_tourism",
-        "src_news_idonis-ardishapur-no-undeserving-creature-can-represent-us-journalist-missing"
+        "src_news_idonis-ardishapur-no-undeserving-creature-can-represent-us-journalist-missing",
+        "src_ash_tl_yc105_idonis-ardishapur-34-no-undeserving-creature-can-r"
       ],
       "master_summary": "Son of Archon Ardishapur. Ordered the orbital bombardment that annihilated Starkmanir Prime. The Ardishapur house remains a major Amarr political bloc named for him."
     },
@@ -2193,7 +2337,11 @@
         "src_news_karin-midular-released-into-republic-care-remains-critical",
         "src_news_karin-midular-in-coma-republic-demands-transfer",
         "src_news_former-minmatar-prime-minister-karin-midular-confirmed-among-caille-wounded",
-        "src_news_report-karin-midular-dissolves-parliament-ousts-shakor-and-yun-from-government"
+        "src_news_report-karin-midular-dissolves-parliament-ousts-shakor-and-yun-from-government",
+        "src_ash_tl_yc115_karin-midular-released-into-republic-care-yc-115",
+        "src_ash_tl_yc115_karin-midular-dies-yc-115",
+        "src_ash_tl_yc115_karin-midular-to-be-lain-in-repose-yc-115",
+        "src_ash_tl_yc115_karin-midular-funeral-takes-place-on-mikramurka-st"
       ],
       "master_summary": "Mimitar Sanmatar of the CONCORD-protest era. Pursued peace and appeasement with Amarr \u2014 controversial within the Republic because it sidelined the still-enslaved population. Her track was the structural backdrop the Elders worked around when building the Elder Fleet."
     },
@@ -2342,7 +2490,9 @@
         "src_news_slave-lynching-on-sarum-prime",
         "src_news_report-third-minmatar-thukker-fleet-detected-in-domain-region-fierce-fighting-reported-over-sarum-prime",
         "src_news_report-imperial-navy-retreats-over-sarum-prime",
-        "src_news_sarum-forces-amarr-navy-increase-presence-in-sarum-prime-security-status-change-imminent"
+        "src_news_sarum-forces-amarr-navy-increase-presence-in-sarum-prime-security-status-change-imminent",
+        "src_ash_tl_yc105_sarum-forces-amarr-navy-increase-presence-in-sarum",
+        "src_ash_tl_yc117_drifter-fleet-engages-capsuleers-in-sarum-prime-yc"
       ],
       "master_summary": "Adjacent to Amarr Prime. Site of the Elder Fleet's deepest strike \u2014 destroyed by Jamyl I's superweapon. The system whose destruction proved Amarr could field weapons CONCORD couldn't constrain."
     },
@@ -2369,7 +2519,10 @@
         "src_news_discussion-continues-over-angel-claim-in-skarkon",
         "src_news_archangels-withdraw-skarkon-annexation-claim",
         "src_news_skarkon-citizens-speak-about-angel-referendum",
-        "src_news_archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms"
+        "src_news_archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms",
+        "src_ash_tl_yc110_archangels-34-annex-34-skarkon-yc-110",
+        "src_ash_tl_yc110_archangels-withdraw-claim-of-skarkon-yc-110",
+        "src_ash_tl_yc122_galactic-hour-news-roundup-skarkon-falls-after-hea"
       ],
       "master_summary": "Mimitar system that defected to the Angel Cartel ~YC110 \u2014 symbol of Republic governance weakness and a cautionary precedent for what happens when an empire stops servicing a region."
     },
@@ -2445,7 +2598,9 @@
         "src_news_the-insorum-imbroglio-and-catastrophe-on-mabnen-i-from-a-cain-point-of-view",
         "src_news_gallenteans-speak-out-over-insorum-crisis",
         "src_news_blood-inquisition-on-the-offensive-as-the-insorum-crisis-continues",
-        "src_news_insorum-imbroglio-puts-focus-on-capsuleers-as-eyes-turn-toward-blood-raider-covenant"
+        "src_news_insorum-imbroglio-puts-focus-on-capsuleers-as-eyes-turn-toward-blood-raider-covenant",
+        "src_ash_tl_yc107_gallenteans-speak-out-over-insorum-crisis-yc-107",
+        "src_ash_tl_yc107_the-insorum-imbroglio-34-and-catastrophe-on-mabnen"
       ],
       "master_summary": "Synthetic Vitoxin antidote co-developed by Ishukone and Galente parties. Threatened the structural basis of Amarr slavery; the broker plot targeted Insorum production and produced Otro Gariushi's death. Insorum's survival is why Mens Reppola operates under heavy drone protection."
     },
@@ -2492,7 +2647,16 @@
         "src_news_khanid-kingdom-fortifies-borders",
         "src_news_khanid-kingdom-strenuously-denies-ill-treatment-of-slaves",
         "src_news_ishukone-and-khanid-kingdom-sign-multitrillion-trade-deal-on-transcranial-microcontrollers",
-        "src_chronicle_the-khanid-kingdom"
+        "src_chronicle_the-khanid-kingdom",
+        "src_ash_tl_yc106_ishukone-and-khanid-kingdom-sign-multitrillion-tra",
+        "src_ash_tl_yc106_khanid-kingdom-strenuously-denies-ill-treatment-of",
+        "src_ash_tl_yc110_tash-murkon-navy-officers-honored-by-khanid-kingdo",
+        "src_ash_tl_yc110_caldari-trade-mission-visits-khanid-kingdom-meets-",
+        "src_ash_tl_yc110_khanid-kingdom-attacks-blood-raiders-yc-110",
+        "src_ash_tl_yc111_khanid-kingdom-granted-seat-on-privy-council-yc-11",
+        "src_ash_tl_yc111_cbd-accuses-ishukone-of-unfair-competition-in-the-",
+        "src_ash_tl_yc117_amarr-empire-declares-war-on-drifters-drifter-forc",
+        "src_ash_tl_yc120_intaki-claim-34-lost-idama-34-found-in-khanid-king"
       ],
       "master_summary": "Third tier of Amarr space. Defected ~200 years ago under Khanid II. Hosts the brutal 19th Royal Uolans. Strong Lai Dai ties per Ash. Its tier-three status makes it the political wedge Lai Dai works through inside the Empire."
     },
@@ -2808,7 +2972,8 @@
         "src_book_templar_one",
         "src_chronicle_mordus-legion",
         "src_news_muryia-mordu-issues-operation-highlander-decoration",
-        "src_news_muryia-mordu-arrives-safely-at-his-headquarters-region-in-uproar"
+        "src_news_muryia-mordu-arrives-safely-at-his-headquarters-region-in-uproar",
+        "src_ash_tl_yc116_muryia-mordu-issues-operation-highlander-decoratio"
       ]
     },
     {
@@ -2861,7 +3026,27 @@
         "src_news_violence-on-caldari-prime-continues-as-gallentean-expatriates-flee-caldari-state",
         "src_news_vigil-at-landfall-shrine-as-caldari-prime-violence-continues",
         "src_news_ethnic-rioting-shakes-caldari-prime-deaths-reported",
-        "src_news_ethnic-violence-vandalism-shocks-caldari-prime"
+        "src_news_ethnic-violence-vandalism-shocks-caldari-prime",
+        "src_ash_tl_yc110_ethnic-rioting-leaves-several-dead-on-caldari-prim",
+        "src_ash_tl_yc110_vigil-at-landfall-shrine-as-caldari-prime-violence",
+        "src_ash_tl_yc110_foiritan-declares-martial-law-on-caldari-prime-yc-",
+        "src_ash_tl_yc110_caldari-prime-d-day-plus-10-yc-110",
+        "src_ash_tl_yc110_casualties-continue-to-mount-on-caldari-prime-d-da",
+        "src_ash_tl_yc111_caldari-prime-memorial-commemorates-war-dead-yc-11",
+        "src_ash_tl_yc111_wiyrkomi-peace-corps-increases-caldari-prime-commi",
+        "src_ash_tl_yc111_ishukone-watch-ceo-speaks-out-about-caldari-prime-",
+        "src_ash_tl_yc115_ground-fighting-erupts-on-caldari-prime-yc-115",
+        "src_ash_tl_yc115_civil-unrest-intensifies-on-caldari-prime-yc-115",
+        "src_ash_tl_yc115_federation-navy-releases-caldari-prime-status-repo",
+        "src_ash_tl_yc115_caldari-prime-unrest-escalates-further-yc-115",
+        "src_ash_tl_yc115_the-battle-of-caldari-prime-yc-115",
+        "src_ash_tl_yc115_widespread-desturction-as-caldari-prime-continues-",
+        "src_ash_tl_yc115_ishukone-access-to-caldari-prime-approved-yc-115",
+        "src_ash_tl_yc115_ishukone-relief-convoy-arrives-safely-at-caldari-p",
+        "src_ash_tl_yc115_caldari-prime-agreement-reached-militants-to-depar",
+        "src_ash_tl_yc115_federation-navy-releases-caldari-prime-details-yc-",
+        "src_ash_tl_yc115_tibus-heth-denounces-caldari-prime-dmz-yc-115",
+        "src_ash_tl_yc115_final-details-of-caldari-prime-dmz-announced-yc-11"
       ]
     },
     {
@@ -2892,7 +3077,22 @@
         "src_news_inspired-by-tibus-heth-revolts-break-out-in-caldari-state",
         "src_news_breaking-news-tibus-heth-acquires-majority-ownership-of-caldari-constructions-disgraced-ceo-torkebaira-shutsu-takes-his-own-life",
         "src_news_tibus-heth-obtains-nationwide-broadcast-feed-addresses-nation",
-        "src_book_empyrean_age"
+        "src_book_empyrean_age",
+        "src_ash_tl_yc111_tibus-heth-awards-caldari-militia-yc-111",
+        "src_ash_tl_yc112_tibus-heth-creates-state-loyalty-tribunal-yc-112",
+        "src_ash_tl_yc114_tibus-heth-shot-by-mystery-assailant-yc-114",
+        "src_ash_tl_yc114_tibus-heth-confirmed-stable-yc-114",
+        "src_ash_tl_yc115_tibus-heth-denounces-blaque-s-speech-yc-115",
+        "src_ash_tl_yc115_tibus-heth-names-unrest-as-security-threat-to-stat",
+        "src_ash_tl_yc115_tibus-heth-responds-to-shiigeru-and-ishukone-conta",
+        "src_ash_tl_yc115_tibus-heth-denounces-caldari-prime-dmz-yc-115",
+        "src_ash_tl_yc115_tibus-heth-proclaims-vision-for-unified-state-yc-1",
+        "src_ash_tl_yc115_tibus-heth-offer-of-aid-to-sebiestor-tribe-rejecte",
+        "src_ash_tl_yc115_tibus-heth-declares-plan-to-nationalize-all-megaco",
+        "src_ash_tl_yc115_tibus-heth-denounces-federation-offers-condolences",
+        "src_ash_tl_yc115_tibus-heth-does-not-attend-cep-meeting-provist-lea",
+        "src_ash_tl_yc115_provists-seize-haatomo-station-tibus-heth-leading-",
+        "src_ash_tl_yc115_tibus-heth-denounced-by-cep-to-be-ousted-as-kk-ceo"
       ]
     },
     {
@@ -2942,7 +3142,9 @@
         "src_news_nugoeihuvi-shipping-scandal-exposes-sukuuvestaa-ceo-to-criticism",
         "src_news_industrial-accident-at-sukuuvestaa-plant-in-hatakani-kills-57-injures-over-1200",
         "src_news_sukuuvestaa-play-down-sabotage-link",
-        "src_news_gallente-citizens-voice-concerns-with-sukuuvestaa-deal"
+        "src_news_gallente-citizens-voice-concerns-with-sukuuvestaa-deal",
+        "src_ash_tl_yc111_explosions-strike-sukuuvestaa-corporation-producti",
+        "src_ash_tl_yc111_further-attacks-against-sukuuvestaa-corporation-to"
       ]
     },
     {
@@ -2964,7 +3166,8 @@
         "src_news_explosions-reported-at-hyasyoda-refinery",
         "src_news_hyasyoda-corporation-announces-aid-for-ishukone",
         "src_news_tennen-blight-contained-hyasyoda-says-no-plans-to-file-suit",
-        "src_news_blight-strikes-crops-on-hyasyoda-colony-world"
+        "src_news_blight-strikes-crops-on-hyasyoda-colony-world",
+        "src_ash_tl_yc110_hyasyoda-corporation-announces-aid-for-ishukone-yc"
       ]
     },
     {
@@ -3034,7 +3237,11 @@
         "src_news_khumaak-motion-passed-sebiestor-councilman-resigns-amid-flurry-of-allegations",
         "src_news_sebiestor-demands-ban-on-khumaak-prompting-fierce-tribal-opposition",
         "src_news_sebiestor-majority-in-question-krusual-tribal-leaders-agitating-for-change-of-pm",
-        "src_ash_seven_tribes"
+        "src_ash_seven_tribes",
+        "src_ash_tl_yc115_sebiestor-tribe-issues-update-on-midular-s-conditi",
+        "src_ash_tl_yc115_tibus-heth-offer-of-aid-to-sebiestor-tribe-rejecte",
+        "src_ash_tl_yc115_broteau-found-guilty-and-executed-by-sebiestor-tri",
+        "src_ash_tl_yc115_sebiestor-tribe-selects-acassa-midular-as-tribal-c"
       ]
     },
     {
@@ -3055,7 +3262,13 @@
         "src_news_angel-cartel-conduct-planetary-attack-in-oddelulf-hundreds-dead",
         "src_news_angel-cartel-opens-ties-with-capsuleer-alliances",
         "src_news_sanshas-nation-forces-move-on-angel-cartel-territory",
-        "src_news_scavenger-hunt-hijacked-by-angel-cartel"
+        "src_news_scavenger-hunt-hijacked-by-angel-cartel",
+        "src_ash_tl_yc106_scavenger-hunt-hijacked-by-angel-cartel-yc-106",
+        "src_ash_tl_yc108_sansha-s-nation-forces-move-on-angel-cartel-territ",
+        "src_ash_tl_yc108_angel-cartel-opens-ties-with-capsuleer-alliances-y",
+        "src_ash_tl_yc114_angel-cartel-conducts-two-planetary-raids-in-two-d",
+        "src_ash_tl_yc115_mordu-s-legion-and-angel-cartel-offer-aid-yc-115",
+        "src_ash_tl_yc115_angel-cartel-feels-pressure-in-molden-heath-yc-115"
       ]
     },
     {
@@ -3084,7 +3297,22 @@
         "src_news_intaki-bank-secures-funding-for-syndicate-rd-program",
         "src_news_intaki-spiritual-leader-to-resign-caille-position",
         "src_news_intaki-spiritual-leader-announces-marriage",
-        "src_chronicle_ante"
+        "src_chronicle_ante",
+        "src_ash_tl_yc108_intaki-spiritual-leader-to-resign-caille-position-",
+        "src_ash_tl_yc109_intaki-bank-secures-r-amp-d-funding-yc-109",
+        "src_ash_tl_yc110_spate-of-drug-murders-attributed-to-intaki-death-c",
+        "src_ash_tl_yc111_violence-on-intaki-prime-as-caldari-occupy-system-",
+        "src_ash_tl_yc111_confusion-shortages-spreading-on-intaki-prime-yc-1",
+        "src_ash_tl_yc111_panic-on-intaki-prime-as-word-of-memorandum-spread",
+        "src_ash_tl_yc111_farming-community-on-intaki-prime-involved-in-poli",
+        "src_ash_tl_yc111_intaki-liberation-front-delivers-aid-to-intaki-pri",
+        "src_ash_tl_yc111_gallente-capsuleer-corporations-continue-to-offer-",
+        "src_ash_tl_yc111_ilf-believes-upgraded-starbase-will-improve-econom",
+        "src_ash_tl_yc112_federal-defence-union-reclaims-13-systems-includin",
+        "src_ash_tl_yc112_federal-navy-turned-back-at-intaki-stargate-yc-112",
+        "src_ash_tl_yc112_intaki-liberation-front-declare-trade-hub-a-succes",
+        "src_ash_tl_yc113_trade-hub-continues-to-grow-for-intaki-liberation-",
+        "src_ash_tl_yc120_intaki-claim-34-lost-idama-34-found-in-khanid-king"
       ]
     },
     {
@@ -3117,7 +3345,9 @@
         "src_news_minmatar-call-for-release-of-imprisoned-brutor-student",
         "src_news_call-to-arms-brutor-tribe-chief-calls-for-defence-of-kourmonen",
         "src_news_brutor-tribe-expresses-support-for-khumaak-new-proposal-detailed",
-        "src_ash_seven_tribes"
+        "src_ash_seven_tribes",
+        "src_ash_tl_yc106_brutor-tribe-expresses-support-for-khumaak-new-pro",
+        "src_ash_tl_yc110_brutor-tribe-chief-calls-for-defence-of-kourmonen-"
       ]
     },
     {
@@ -3149,7 +3379,14 @@
         "src_news_high-alert-black-rise-region-constellation-inolari",
         "src_news_lai-dai-others-announce-black-rise-plans",
         "src_news_kaalakiota-unveils-black-rise-survey-program",
-        "src_news_federation-militia-advances-through-black-rise"
+        "src_news_federation-militia-advances-through-black-rise",
+        "src_ash_tl_yc111_federation-militia-advances-through-black-rise-yc-",
+        "src_ash_tl_yc111_kaalakiota-unveils-black-rise-survey-program-yc-11",
+        "src_ash_tl_yc111_lai-dai-others-announce-black-rise-plans-yc-111",
+        "src_ash_tl_yc111_black-rise-search-and-recovery-mission-cancelled-y",
+        "src_ash_tl_yc111_lai-dai-announces-black-rise-development-conferenc",
+        "src_ash_tl_yc115_heth-s-ship-spotted-in-black-rise-yc-115",
+        "src_ash_tl_yc118_caldari-navy-intercepts-guristas-convoy-in-black-r"
       ]
     },
     {
@@ -3166,7 +3403,15 @@
         "src_news_angel-cartel-feels-pressure-in-molden-heath",
         "src_news_cloned-mercenaries-flood-into-molden-heath",
         "src_news_thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath",
-        "src_news_decorated-captain-denied-task-force-for-molden-heath"
+        "src_news_decorated-captain-denied-task-force-for-molden-heath",
+        "src_ash_tl_yc107_molden-heath-engagements-yc-107",
+        "src_ash_tl_yc108_decorated-captain-denied-task-force-for-molden-hea",
+        "src_ash_tl_yc111_caravanserai-organized-in-molden-heath-yc-111",
+        "src_ash_tl_yc115_thukker-tribe-invites-cloned-mercenaries-to-police",
+        "src_ash_tl_yc115_cloned-mercenaries-flood-into-molden-heath-yc-115",
+        "src_ash_tl_yc115_angel-cartel-feels-pressure-in-molden-heath-yc-115",
+        "src_ash_tl_yc115_republic-releases-inital-report-on-molden-heath-yc",
+        "src_ash_tl_yc115_results-of-molden-heath-conflicted-yc-115"
       ]
     },
     {
@@ -3181,7 +3426,10 @@
         "src_news_thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands",
         "src_news_pilgrims-tell-tale-of-survival-in-the-great-wildlands",
         "src_news_great-wildlands-pilgrimage-convoy-missing",
-        "src_news_increasing-numbers-join-great-wildlands-pilgrimage"
+        "src_news_increasing-numbers-join-great-wildlands-pilgrimage",
+        "src_ash_tl_yc110_increasing-numbers-join-great-wildlands-pilgrimage",
+        "src_ash_tl_yc111_thukker-tribe-to-join-republic-with-full-autonomy-",
+        "src_ash_tl_yc111_civil-war-continues-in-great-wildlands-yc-111"
       ]
     },
     {
@@ -3197,7 +3445,8 @@
         "src_news_univeristy-of-caille-displeased-with-federation-seizure-of-balrille",
         "src_news_university-of-caille-to-host-physics-summit",
         "src_news_intaki-spiritual-leader-to-resign-caille-position",
-        "src_chronicle_the-glistening-streets-of-caille"
+        "src_chronicle_the-glistening-streets-of-caille",
+        "src_ash_tl_yc108_intaki-spiritual-leader-to-resign-caille-position-"
       ]
     },
     {
@@ -3212,7 +3461,10 @@
         "src_news_caldari-business-tribunal-uproar-as-slander-case-is-dismissed",
         "src_news_caldari-business-tribunal-in-special-hearing-of-sukuuvestaa-lai-dai",
         "src_news_caldari-business-tribunal-launches-enquiry-into-sukuuvestaa-attacks",
-        "src_news_caldari-business-tribunal-calls-in-navy-as-lai-dai-seizes-suvee-food-shipments"
+        "src_news_caldari-business-tribunal-calls-in-navy-as-lai-dai-seizes-suvee-food-shipments",
+        "src_ash_tl_yc111_caldari-business-tribunal-launches-enquiry-into-su",
+        "src_ash_tl_yc111_caldari-business-tribunal-in-special-hearing-of-su",
+        "src_ash_tl_yc115_caldari-business-tribunal-uproar-as-slander-case-d"
       ]
     },
     {
@@ -3226,7 +3478,20 @@
         "src_news_sanshas-nation-attempt-jita-blockade",
         "src_news_umokka-raided-by-sanshas-nation-abductions-escalate",
         "src_news_sanshas-nation-showing-signs-of-revival",
-        "src_news_sanshas-nation-forces-move-on-angel-cartel-territory"
+        "src_news_sanshas-nation-forces-move-on-angel-cartel-territory",
+        "src_ash_tl_yc005_sansha-s-nation-began-forming-yc-5",
+        "src_ash_tl_yc037_sansha-s-nation-destroyed-yc-37",
+        "src_ash_tl_yc105_sansha-s-nation-reemerging-yc-105",
+        "src_ash_tl_yc108_sansha-s-nation-forces-move-on-angel-cartel-territ",
+        "src_ash_tl_yc108_sansha-s-nation-showing-signs-of-revival-yc-108",
+        "src_ash_tl_yc112_umokka-raided-by-sansha-s-nation-abductions-escala",
+        "src_ash_tl_yc112_sansha-s-nation-invade-oruse-yc-112",
+        "src_ash_tl_yc112_sansha-s-nation-strikes-at-the-empires-yc-112",
+        "src_ash_tl_yc113_sansha-s-nation-invasion-of-tama-underway-yc-113",
+        "src_ash_tl_yc113_sansha-s-nation-attempt-jita-blockade-yc-113",
+        "src_ash_tl_yc113_sansha-s-nation-attacks-trade-routes-yc-113",
+        "src_ash_tl_yc113_capsuleer-cloned-by-sansha-s-nation-yc-113",
+        "src_ash_tl_yc113_sansha-s-nation-recruiting-yc-113"
       ]
     },
     {
@@ -3240,7 +3505,9 @@
       "sources": [
         "src_news_grave-news-from-the-amarr-empire-heideran-vii-has-died",
         "src_news_heideran-vii-fails-to-show-up-at-concord-meeting",
-        "src_news_heideran-viis-much-appraised-book-pax-amarria-published"
+        "src_news_heideran-viis-much-appraised-book-pax-amarria-published",
+        "src_ash_tl_yc105_heideran-vii-fails-to-show-up-at-concord-meeting-y",
+        "src_ash_tl_yc105_emperor-heideran-vii-passes-away-yc-105"
       ]
     },
     {
@@ -3255,7 +3522,10 @@
         "src_news_doriam-kor-azor-renames-planets-to-commemorate-champion-pirate-violence-on-the-rise",
         "src_news_doriam-kor-azor-inaugurated-as-other-heirs-commit-shatholsyn-ceremony-disturbed",
         "src_news_amarr-imperial-succession-committee-declares-doriam-kor-azor-emperor-doriam-reaction-humble-and-exultant",
-        "src_news_doriam-kor-azor-will-be-the-next-emperor"
+        "src_news_doriam-kor-azor-will-be-the-next-emperor",
+        "src_ash_tl_yc105_doriam-kor-azor-will-be-the-next-emperor-yc-105",
+        "src_ash_tl_yc105_doriam-kor-azor-inaugurated-emperor-of-amarr-yc-10",
+        "src_ash_tl_yc105_doriam-kor-azor-renames-planets-to-commemorate-cha"
       ]
     },
     {
@@ -3269,7 +3539,8 @@
         "src_news_aritcio-kor-azor-and-catiz-tash-murkon-meet-with-championship-teams-amidst-final-preparations-for-imperial-succession-trials",
         "src_news_aritcio-kor-azor-urges-calm-republic-denounces-imperial-aggression",
         "src_news_empress-jamyl-grants-aritcio-kor-azor-imperial-chancellorship",
-        "src_news_aritcio-kor-azor-announces-day-of-amnesty"
+        "src_news_aritcio-kor-azor-announces-day-of-amnesty",
+        "src_ash_tl_yc110_aritcio-kor-azor-announces-day-of-amnesty-yc-110"
       ]
     },
     {
@@ -3335,7 +3606,8 @@
       "master_summary": "House Ardishapur carries the historical weight of the Starkmanir genocide \u2014 Archon Ardishapur's hardline replacement of the liberal Arzad Hamri provoked the uprising, and Idonis's orbital bombardment annihilated Starkmanir Prime. The Imperian Age reveal that the Ammatar had been hiding Starkmanir survivors throughout was a direct rebuke to Ardishapur's centuries-long claim that the genocide was complete. House Ardishapur's modern political posture is aligned with Kador on conservative slaver economics; its reputational baggage limits its diplomatic reach.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_house-ardishapur-issues-a-statement"
+        "src_news_house-ardishapur-issues-a-statement",
+        "src_ash_tl_yc105_house-ardishapur-issues-a-statement-yc-105"
       ]
     },
     {
@@ -3363,7 +3635,11 @@
         "src_book_templar_one",
         "src_news_ishukone-statement-otro-gariushi-confirmed-dead",
         "src_news_ishukone-announces-investment-in-malkalen-reconstruction",
-        "src_news_anti-provist-rally-sparks-civil-unrest-on-malkalen-v"
+        "src_news_anti-provist-rally-sparks-civil-unrest-on-malkalen-v",
+        "src_ash_tl_yc110_planned-protest-fails-in-wake-of-malkalen-disaster",
+        "src_ash_tl_yc112_malkalen-disaster-memorial-service-ends-with-organ",
+        "src_ash_tl_yc113_amarr-loyalists-hold-summit-at-malkalen-disaster-s",
+        "src_ash_tl_yc113_malkalen-disaster-remembered-yc-113"
       ]
     },
     {
@@ -3376,7 +3652,8 @@
       "sources": [
         "src_news_soct-confirms-triglavian-drifter-conflict-amidst-calls-for-capsuleer-aid",
         "src_news_galactic-hour-news-roundup-images-from-athounon-v-indicate-triglavian-activity",
-        "src_news_triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party"
+        "src_news_triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party",
+        "src_ash_tl_yc120_the-scope-the-triglavian-collective-revealed-yc-12"
       ]
     },
     {
@@ -3388,7 +3665,8 @@
       "canonicity": "ccp-canon",
       "sources": [
         "src_news_the-scope-one-year-anniversary-of-pochven",
-        "src_news_the-scope-war-in-delve-and-formation-of-pochven"
+        "src_news_the-scope-war-in-delve-and-formation-of-pochven",
+        "src_ash_tl_yc122_the-scope-war-in-delve-and-formation-of-pochven-yc"
       ]
     },
     {
@@ -3438,7 +3716,8 @@
       "master_summary": "Capsuleer pilot of the Nyx mothership that struck Ishukone Headquarters at Malkalen, killing Otro Gariushi and tens of thousands. Officially named the perpetrator of the Malkalen Disaster, but the broker plot evidence \u2014 station and ship safety protocols disabled at the same time \u2014 suggests he was set up to take the blame for the Insorum-targeted assassination. The structural ambiguity around Noir is what makes Malkalen 'Disaster' canonically rather than 'Attack.'",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_book_templar_one"
+        "src_book_templar_one",
+        "src_ash_tl_yc110_admiral-alexander-noir-receives-the-aidonis-yc-110"
       ]
     },
     {
@@ -3458,7 +3737,22 @@
       "master_summary": "Caldari State unified military fleet. Backbone of every State military operation since the Empyrean Age \u2014 the YC112 Caldari Prime invasion, the YC115 capitulation theater, the Triglavian Invasion response, and the current YC128 Syndicate conquest. Operationally controlled by the Caldari Executive Panel through the Provost / now Saraki authority chain.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_breaking-caldari-navy-seizes-control-of-athounon-strategic-sites"
+        "src_news_breaking-caldari-navy-seizes-control-of-athounon-strategic-sites",
+        "src_ash_tl_yc108_guristas-pirates-strike-against-caldari-navy-convo",
+        "src_ash_tl_yc109_caldari-navy-claims-a-heavy-blow-yc-108",
+        "src_ash_tl_yc115_caldari-navy-stands-down-yc-115",
+        "src_ash_tl_yc115_cep-and-caldari-navy-to-investigate-caldari-prime-",
+        "src_ash_tl_yc115_caldari-navy-publicly-acknowledges-cloned-solider-",
+        "src_ash_tl_yc115_caldari-navy-storms-station-whereabouts-of-heth-un",
+        "src_ash_tl_yc115_caldari-navy-report-heth-assumed-alive-yc-115",
+        "src_ash_tl_yc116_caldari-navy-announces-34-octopus-34-squadron-cour",
+        "src_ash_tl_yc116_caldari-navy-announces-discharge-of-courts-martial",
+        "src_ash_tl_yc116_body-of-disgraced-caldari-navy-officer-found-on-ca",
+        "src_ash_tl_yc116_caldari-navy-facility-attack-provist-manhunt-yc-11",
+        "src_ash_tl_yc117_caldari-navy-hands-impounded-vessel-to-propel-dyna",
+        "src_ash_tl_yc118_caldari-navy-intercepts-guristas-convoy-in-black-r",
+        "src_ash_tl_yc118_caldari-megacorps-lead-military-cloning-efforts-as",
+        "src_ash_tl_yc121_cep-and-caldari-navy-greenlight-jita-4-4-expansion"
       ]
     },
     {
@@ -3469,7 +3763,18 @@
       "master_summary": "Gallente Federation military fleet. Conducted the YC124 invasion of Intaki + adjacent constellations that triggered the Uprising arc and the constellation deal with the Intaki Syndicate that the YC128 conquest now invalidates. Currently under President Moreau's authority \u2014 and the hawkish Senate factions worry her Autonomist-Party origins make her unable to direct it firmly.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_breaking-massive-invasion-of-intaki-and-placid-systems-by-federation-navy"
+        "src_news_breaking-massive-invasion-of-intaki-and-placid-systems-by-federation-navy",
+        "src_ash_tl_yc110_federation-navy-orders-an-investigation-into-missi",
+        "src_ash_tl_yc110_recruit-shortage-causes-increasing-reliance-on-dro",
+        "src_ash_tl_yc110_joint-operations-exercise-between-republic-fleet-a",
+        "src_ash_tl_yc111_federation-navy-calls-for-militia-incursions-into-",
+        "src_ash_tl_yc111_federation-navy-liaison-engages-in-militia-review-",
+        "src_ash_tl_yc114_federation-navy-confirms-court-martial-yc-114",
+        "src_ash_tl_yc115_federation-navy-announces-inaugural-fedcaft-exerci",
+        "src_ash_tl_yc115_federation-navy-releases-caldari-prime-status-repo",
+        "src_ash_tl_yc115_federation-navy-releases-caldari-prime-details-yc-",
+        "src_ash_tl_yc115_republic-security-services-stand-off-with-federati",
+        "src_ash_tl_yc115_federation-navy-increases-tripwire-presence-on-cal"
       ]
     },
     {
@@ -3525,7 +3830,8 @@
       "master_summary": "YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the planet. The Sisters of EVE 'Wormhole Colony Lost' announcement followed. The Seyllin event triggered the Apocrypha-era wormhole opening, the discovery of Anoikis, the Sleeper civilization remnants, and ultimately the Drifter emergence cycle. Every wormhole-tech thread in the warpath board traces back to Seyllin.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_the-fourth-seyllin-conference"
+        "src_news_the-fourth-seyllin-conference",
+        "src_ash_tl_yc111_seyllin-disaster-as-wormholes-emerge-yc-111"
       ]
     },
     {
@@ -3537,7 +3843,10 @@
       "master_summary": "YC117 cosmic anomaly \u2014 a bright new object that appeared overnight, visible across all four empires simultaneously. The Sisters of EVE issued a statement tying it to the Drifter emergence and Eve Gate stress events. Caroline's Star is structurally the visible signature of the Drifter Hyperspace Network reaching New Eden's normal space \u2014 the moment the Drifter conflict moved from Anoikis backstory to current threat.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord"
+        "src_news_sisters-of-eve-release-statement-on-carolines-star-thera-incident-and-concord",
+        "src_ash_tl_yc116_caroline-s-star-stellar-anomaly-detected-by-capsul",
+        "src_ash_tl_yc117_caroline-s-star-yc-117",
+        "src_ash_tl_yc117_sisters-of-eve-release-statement-on-caroline-s-sta"
       ]
     },
     {
@@ -3568,7 +3877,9 @@
       "master_summary": "Caldari Faction Warfare militia under Caldari Navy authority. The State's volunteer / capsuleer-pilot frontline against the Federation in the Black Rise / Placid / Verge Vendor war zone. The YC124 Federation seizure of Intaki + adjacent constellations that triggered the Uprising arc was an FW-zone consolidation against the Protectorate.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_state-protectorate-to-recognize-top-militia-pilots"
+        "src_news_state-protectorate-to-recognize-top-militia-pilots",
+        "src_ash_tl_yc111_state-protectorate-nears-total-control-of-conteste",
+        "src_ash_tl_yc112_internal-conflict-strikes-caldari-state-protectora"
       ]
     },
     {
@@ -3578,7 +3889,9 @@
       "brief": "Gallente Faction Warfare militia. Federation's frontline in the FW war zone.",
       "master_summary": "Gallente Federation Faction Warfare militia. The Federation's volunteer / capsuleer-pilot frontline against the State in the FW war zone. Operationally the FDU executed the YC124 Intaki seizure that the Republic and SoE later condemned. Operates under Federation Navy authority.",
       "canonicity": "ccp-canon",
-      "sources": []
+      "sources": [
+        "src_ash_tl_yc110_first-federal-defense-union-carrier-killed-yc-110"
+      ]
     },
     {
       "id": "org_24th_imperial_crusade",
@@ -3588,7 +3901,10 @@
       "master_summary": "Amarr Faction Warfare militia. The Empire's volunteer / capsuleer-pilot frontline against the Minmatar Republic in the Bleak Lands / Devoid / Heimatar war zone. Penal brigades drawn from the Ammatar Mandate were sent to support the Crusade \u2014 one of the canonical signals of Ammatar's Amarr-loyalist alignment.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade"
+        "src_news_penal-brigade-drawn-from-ammatar-mandate-sent-to-support-24th-imperial-crusade",
+        "src_ash_tl_yc110_24th-imperial-crusade-aids-in-rescue-of-imperial-s",
+        "src_ash_tl_yc111_24th-imperial-crusade-in-amamake-offensive-yc-111",
+        "src_ash_tl_yc111_penal-brigade-drawn-from-ammatar-mandate-sent-to-s"
       ]
     },
     {
@@ -3599,7 +3915,12 @@
       "master_summary": "Minmatar Republic Faction Warfare militia. The Republic's volunteer / capsuleer-pilot frontline against the Empire. The 'Stripes of Fury' campaign cycle is its highest-honor designation. Operates under the Tribal Council's authority.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_total-victory-of-tribal-liberation-force-marked-by-award-of-stripes-of-fury-medal"
+        "src_news_total-victory-of-tribal-liberation-force-marked-by-award-of-stripes-of-fury-medal",
+        "src_ash_tl_yc111_minmatar-government-refuses-to-comment-on-federati",
+        "src_ash_tl_yc112_ezzara-captured-by-tribal-liberation-force-yc-112",
+        "src_ash_tl_yc112_sahtogas-system-taken-by-tribal-liberation-force-y",
+        "src_ash_tl_yc112_kourmonen-captured-by-tribal-liberation-force-yc-1",
+        "src_ash_tl_yc118_total-victory-of-tribal-liberation-force-marked-by"
       ]
     },
     {
@@ -3610,7 +3931,10 @@
       "master_summary": "Founder and current leader of the Guristas. Former Caldari Navy admiral who defected with his entire fleet, taking the original Guristas pirate organization with him. Operates from Venal region. The Guristas\u2013Mordu's Legion\u2013Angel Cartel cross-coverage in the Caldari conflict cycle indicates an active pirate-faction alignment that capsuleer coverage rarely surfaces.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_omir-sarikusa-amused-at-concords-claims"
+        "src_news_omir-sarikusa-amused-at-concords-claims",
+        "src_ash_tl_yc106_cardinal-omir-sarikusa-declares-new-blood-quest-yc",
+        "src_ash_tl_yc107_omir-sarikusa-amused-at-concord-s-claims-yc-107",
+        "src_ash_tl_yc119_omir-sarikusa-defiant-in-loss-of-sotiyo-shipyard-y"
       ]
     },
     {
@@ -3621,7 +3945,27 @@
       "master_summary": "The immortal pilot caste \u2014 humans who undergo subcranial-implant-and-cloning tech to gain effective immortality and operate the four empires' most advanced spacecraft. Recognized as a sovereign-equivalent political force across the four empires. Key actor in Faction Warfare, Drifter conflict, and the YC128 cycle (capsuleer pilots elected Soraya Roden / Alix Moreau influence cycle). The Templar program is the Caldari attempt to replicate capsuleer-tier capability without the Federation's clone-tech monopoly.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_capsuleers-influence-election-and-presidential-profile-soraya-roden"
+        "src_news_capsuleers-influence-election-and-presidential-profile-soraya-roden",
+        "src_ash_tl_yc107_capsuleers-turn-eye-towards-blood-raiders-yc-107",
+        "src_ash_tl_yc107_rapid-terraforming-project-calls-on-capsuleers-for",
+        "src_ash_tl_yc107_capsuleers-drawn-into-amarr-blood-raider-conflict-",
+        "src_ash_tl_yc107_humanitarian-organisation-thanks-capsuleers-for-as",
+        "src_ash_tl_yc107_legion-patrol-receives-support-from-local-capsulee",
+        "src_ash_tl_yc107_strangers-seek-the-help-of-caldari-capsuleers-yc-1",
+        "src_ash_tl_yc108_over-30-5k-capsuleers-celebrate-yc108",
+        "src_ash_tl_yc108_loyalist-capsuleers-obstruct-theft-of-khanid-carri",
+        "src_ash_tl_yc109_war-reaches-amarr-throne-worlds-as-capsuleers-clas",
+        "src_ash_tl_yc110_capsuleers-respond-to-events-in-yulai-and-abroad-y",
+        "src_ash_tl_yc111_seppuku-warriors-brings-advanced-combat-training-t",
+        "src_ash_tl_yc111_capsuleers-react-to-slave-emancipation-yc-111",
+        "src_ash_tl_yc111_capsuleers-pledge-seyllin-aid-yc-111",
+        "src_ash_tl_yc111_hellcats-the-yarr-side-of-new-eden-s-female-capsul",
+        "src_ash_tl_yc111_ushra-khan-addresses-capsuleers-in-providence-and-",
+        "src_ash_tl_yc111_capsuleers-hold-first-seyllin-conference-yc-111",
+        "src_ash_tl_yc111_amarr-and-caldari-capsuleers-seize-minmatar-strong",
+        "src_ash_tl_yc111_gallente-capsuleers-strike-back-at-caldari-strongh",
+        "src_ash_tl_yc112_capsuleers-turn-to-gambling-as-another-revenue-sou",
+        "src_ash_tl_yc112_eco-terrorists-attack-chribba-s-starbases-capsulee"
       ]
     },
     {
@@ -3653,7 +3997,9 @@
       "brief": "The collapsed wormhole connecting New Eden to humanity's home cluster. Located in New Eden system. Iconic anomaly; Sisters of EVE research focus.",
       "master_summary": "The collapsed wormhole connecting New Eden to humanity's home cluster. Located in New Eden system. The original passage through which the four-empire ancestors arrived; collapsed catastrophically in pre-history (the eve_gate_collapse event), stranding the colonists. Sisters of EVE research focus; structurally adjacent to the Drifter network and Caroline's Star phenomena. Zarzakh sits in EVE-Gate-adjacent space.",
       "canonicity": "ccp-canon",
-      "sources": []
+      "sources": [
+        "src_ash_tl_yc107_eve-gate-bears-witness-to-a-beautiful-union-yc-107"
+      ]
     },
     {
       "id": "evt_amarr_reclaiming",
@@ -3700,7 +4046,10 @@
       "master_summary": "YC122 Triglavian conquest of 27 systems via the abyssal-filament invasion mechanic. Formed Pochven, opened the Triglavian-Drifter conflict to capsuleer participation, and exposed the Niarja trade-route severance that broke the Amarr-Caldari high-sec corridor. EDENCOM's formation as an inter-empire defensive coalition came directly from the Invasion response. Structurally a third-power eruption between the four-empire system and Drifter forces.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route"
+        "src_news_galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route",
+        "src_ash_tl_yc121_the-scope-triglavian-invasion-escalates-yc-121",
+        "src_ash_tl_yc122_the-scope-edencom-prepares-for-triglavian-invasion",
+        "src_ash_tl_yc122_galactic-hour-news-roundup-triglavian-invasion-of-"
       ]
     },
     {
@@ -3739,7 +4088,9 @@
       "brief": "Guristas Pirates' home region. Sov-null north of Caldari space.",
       "master_summary": "Guristas Pirates' home region. Sov-null north of Caldari space; the operational base from which Omir Sarikusa's Caldari Navy defectors run their pirate empire. Mordu's Legion and Angel Cartel cross-border ops with Guristas trace through Venal.",
       "canonicity": "ccp-canon",
-      "sources": []
+      "sources": [
+        "src_ash_tl_yc105_war-ended-in-venal-region-yc-105"
+      ]
     },
     {
       "id": "plc_curse",
@@ -3758,7 +4109,9 @@
       "master_summary": "Amarr Empire's executive court. The Court Chamberlain office serves as regent during succession gaps; held by Dochuta Karsoth during the post-Doriam-II era and used to subvert the Sarum succession. The Court is the procedural layer between the Empress and the Five Royal Houses; Catiz I's territorial-reorganization decree was administered through it.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_imperial-court-remains-silent-about-bleak-land-troubles"
+        "src_news_imperial-court-remains-silent-about-bleak-land-troubles",
+        "src_ash_tl_yc109_imperial-court-remains-silent-about-bleak-lands-yc",
+        "src_ash_tl_yc110_trade-dispute-in-imperial-court-yc-110"
       ]
     },
     {
@@ -3769,7 +4122,8 @@
       "master_summary": "The Minmatar Republic's governing body. Comprises tribal chiefs of each Minmatar tribe (Brutor, Sebiestor, Krusual, Vherokior, Nefantar, Starkmanir, Thukker) under the Sanmatar's chairmanship. Approved Upwell workforce transfers post-conquest, drives the seven-tribes restoration narrative, and is the operational layer that gives the Republic its coalition pluralism. Maleatu Shakor (Sanmatar) chairs; Karin Midular (Sebiestor Chief) serves as senior diplomatic voice.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_tribal-council-approves-upwell-workforce-transfers"
+        "src_news_tribal-council-approves-upwell-workforce-transfers",
+        "src_ash_tl_yc118_tribal-council-calls-for-candidates-to-apply-to-re"
       ]
     },
     {
@@ -3779,7 +4133,9 @@
       "brief": "Amarr Empire's core region. Contains Amarr (the capital system) and the major imperial throne worlds.",
       "master_summary": "Amarr Empire's core region containing Amarr system, the imperial throne worlds, and the Empress's residence. Capital of Reclaiming-era Amarr space. Heideran VII / Doriam II / Catiz I succession all played out here. Sarum Prime sits in Domain.",
       "canonicity": "ccp-canon",
-      "sources": []
+      "sources": [
+        "src_ash_tl_yc105_ishukone-vessel-missing-in-domain-region-reward-of"
+      ]
     },
     {
       "id": "plc_heimatar",
@@ -3789,7 +4145,8 @@
       "master_summary": "Minmatar Republic core region. Contains Pator (the capital system) and Matar (the Minmatar homeworld). Center of post-Rebellion tribal restoration; Sanmatar Shakur's seat of government. Salvation Crusaders' Heimatar firefight is the canonical recent event in the region.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_salvation-crusaders-encounter-hostile-ships-in-heimatar-firefight-averted-by-mercenaries"
+        "src_news_salvation-crusaders-encounter-hostile-ships-in-heimatar-firefight-averted-by-mercenaries",
+        "src_ash_tl_yc105_miner-ii-original-blueprint-surfaces-in-heimatar-r"
       ]
     },
     {
@@ -3818,7 +4175,12 @@
       "master_summary": "Faction Warfare war zone region \u2014 Amarr-controlled but contested by Republic. Location of the Amarr\u2013Minmatar frontline; the 24th Imperial Crusade and Tribal Liberation Force fight over its constellations. Recent reporting: 'The Bleak Lands back under Amarr control' marks a major Crusade win in the YC128 cycle.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_news_the-bleak-lands-back-under-amarr-control"
+        "src_news_the-bleak-lands-back-under-amarr-control",
+        "src_ash_tl_yc109_grim-outlook-for-the-bleak-lands-yc-109",
+        "src_ash_tl_yc109_amarr-navy-patrols-the-bleak-lands-yc-109",
+        "src_ash_tl_yc110_reinforcements-in-the-bleak-lands-yc-110",
+        "src_ash_tl_yc110_securing-the-bleak-lands-a-beginning-yc-110",
+        "src_ash_tl_yc110_the-bleak-lands-back-under-amarr-control-yc-11"
       ]
     },
     {
@@ -3837,7 +4199,9 @@
       "brief": "Faction Warfare war zone \u2014 Caldari\u2013Federation frontline. Adjacent to Solitude and the YC124 Federation seizure.",
       "master_summary": "Faction Warfare war zone region \u2014 Caldari\u2013Federation frontline. Adjacent to Solitude. The YC124 Federation seizure of Intaki + adjacent constellations occurred at the Placid\u2013Verge Vendor border. State Protectorate / FDU operational zone.",
       "canonicity": "ccp-canon",
-      "sources": []
+      "sources": [
+        "src_ash_tl_yc108_idama-calls-summit-to-help-placid-region-yc-108"
+      ]
     },
     {
       "id": "plc_verge_vendor",
