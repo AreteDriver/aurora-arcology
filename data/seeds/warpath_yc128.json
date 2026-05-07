@@ -9080,6 +9080,806 @@
       "supporting_sources": [
         "src_news_tribal-council-approves-upwell-workforce-transfers"
       ]
+    },
+    {
+      "src": "cnc_lai_dai_vs_ishukone_axis",
+      "tgt": "org_lai_dai",
+      "rel": "aligned-with",
+      "conf": 0.95,
+      "claim": "Lai Dai is one pole of the axis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_lai_dai_vs_ishukone_axis",
+      "tgt": "org_ishukone",
+      "rel": "aligned-with",
+      "conf": 0.95,
+      "claim": "Ishukone is the other pole of the axis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_lai_dai_vs_ishukone_axis",
+      "tgt": "org_mountain_faction",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Mountain faction sits on Ishukone side.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_lai_dai_vs_ishukone_axis",
+      "tgt": "org_forest_faction",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Forest faction sits on Lai Dai side.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_lai_dai_vs_ishukone_axis",
+      "tgt": "per_otro_gariushi",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "The axis crystallized around Otro's death.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_miller_reppola",
+      "tgt": "org_ishukone",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Reppola family Ishukone alignment.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_miller_reppola",
+      "tgt": "per_otro_gariushi",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Helped engineer Otro's takeover via the Raven project.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_gable_lifegiver",
+      "tgt": "phn_clone_soldier_tech",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Templar protagonist tied to clone-soldier program.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "per_gable_lifegiver",
+      "tgt": "org_mordus_legion",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "Templar / Mordu-aligned operative.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "phn_vitoxin",
+      "tgt": "org_amarr_empire",
+      "rel": "supplies",
+      "conf": 0.95,
+      "claim": "Pharmacological backbone of the Amarr slave economy.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_vitoxin",
+      "tgt": "phn_clone_soldier_tech",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Templar/Insorum program threatened the Vitoxin economy.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_ocean_faction",
+      "tgt": "per_mens_reppola",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Mens-Ocean alignment within the State.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_ocean_faction",
+      "tgt": "cnc_lai_dai_vs_ishukone_axis",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Ocean faction sits on the Ishukone side of the axis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_ishukone_intaki_dev_rights",
+      "tgt": "org_intaki_syndicate",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Ishukone winning Intaki development rights bypassed Syndicate claims.",
+      "supporting_sources": [
+        "src_news_breaking-news-ishukone-wins-development-rights-to-intaki-system"
+      ]
+    },
+    {
+      "src": "evt_ishukone_intaki_dev_rights",
+      "tgt": "org_mordus_legion",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Mordu's Legion got full military access to Intaki via the dev-rights deal.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_skarkon",
+      "tgt": "org_sebiestor_tribe",
+      "rel": "located-in",
+      "conf": 0.9,
+      "claim": "Skarkon is a Sebiestor heritage system.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_skarkon",
+      "tgt": "evt_skarkon_angel_takeover",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Skarkon angel takeover occurred at Skarkon.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_skarkon",
+      "tgt": "org_minmatar_republic",
+      "rel": "located-in",
+      "conf": 0.92,
+      "claim": "Skarkon is Republic territory.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_emwpa",
+      "tgt": "org_minmatar_republic",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Republic invoked the Emergency Militia War Powers Act.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_emwpa",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "EMWPA targeted the Empire.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_alika_valkanir",
+      "tgt": "org_starkmanir_tribe",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "Starkmanir restoration era figure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_metropolis",
+      "tgt": "org_brutor_tribe",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Brutor heritage worlds.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_metropolis",
+      "tgt": "org_sebiestor_tribe",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Sebiestor heritage worlds.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_arzad",
+      "tgt": "org_starkmanir_tribe",
+      "rel": "located-in",
+      "conf": 0.9,
+      "claim": "Arzad is Starkmanir territory.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_arzad",
+      "tgt": "per_arzad_hamri",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Eponymous figure tied to the Arzad system.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_arzad_hamri",
+      "tgt": "org_starkmanir_tribe",
+      "rel": "member-of",
+      "conf": 0.8,
+      "claim": "Starkmanir-restoration figure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_battle_vak_atioth",
+      "tgt": "evt_amarr_reclaiming",
+      "rel": "opposed-to",
+      "conf": 0.9,
+      "claim": "Vak'Atioth halted the Reclaiming.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_damyas_iii",
+      "tgt": "per_heideran_vii",
+      "rel": "succeeded-by",
+      "conf": 0.7,
+      "claim": "Pre-modern Amarr succession chain.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_sheal_sin",
+      "tgt": "org_starkmanir_tribe",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Starkmanir religious-cultural concept.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_day_of_darkness",
+      "tgt": "evt_minmatar_rebellion",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Day of Darkness backstory triggered the Rebellion cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_day_of_darkness",
+      "tgt": "org_starkmanir_tribe",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Starkmanir genocide era.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_jamal_sarum",
+      "tgt": "org_house_sarum",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Sarum lineage.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_sarum_prime",
+      "tgt": "org_house_sarum",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "House Sarum's throneworld.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_heimatar",
+      "tgt": "plc_matar",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Matar is in Heimatar.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_khoumak",
+      "tgt": "org_amarr_empire",
+      "rel": "aligned-with",
+      "conf": 0.9,
+      "claim": "Amarr religious scepter.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_khoumak",
+      "tgt": "per_jamyl_i",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Empress's regalia.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_seyllin_disaster",
+      "tgt": "evt_apocrypha_wormhole_opening",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Seyllin triggered the wormhole opening.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_elder_war",
+      "tgt": "evt_minmatar_rebellion",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Elder War is the second-cycle echo of the original Rebellion.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_anaras_ult",
+      "tgt": "cnc_seven_tribes",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Tribal-restoration figure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_floseswin_battle",
+      "tgt": "evt_jamyl_drifter_assassination",
+      "rel": "caused-by",
+      "conf": 0.92,
+      "claim": "Drifters intervened during Floseswin to kill Jamyl I.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_rio_talifo",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Drifter-research figure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_rio_talifo",
+      "tgt": "org_air_laboratories",
+      "rel": "member-of",
+      "conf": 0.7,
+      "claim": "AIR Labs research.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_drone_graviton_emitter",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Anti-drifter weapon tech supplied by capsuleers/CONCORD.",
+      "supporting_sources": []
+    },
+    {
+      "src": "art_drone_graviton_emitter",
+      "tgt": "evt_drifter_crisis",
+      "rel": "participated-in",
+      "conf": 0.7,
+      "claim": "Used in Drifter Crisis defense.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_amp",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "AMP raised drifter-experiment warnings.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_amp",
+      "tgt": "evt_amp_warning",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "AMP issued the warning.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_air_laboratories",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "AIR Labs studies the drifter network.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_anar_abdul",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "aligned-with",
+      "conf": 0.65,
+      "claim": "Thukker wormhole-strategy leader; Drifter-adjacent.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_tanu_ii",
+      "tgt": "evt_tanu_dread_attack",
+      "rel": "located-in",
+      "conf": 0.99,
+      "claim": "Tanu-II attack location.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_tanu_ii",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Drifter-attack target.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_amp_warning",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Warning specifically about drifter-network experiments.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_drifter_wormhole_summit",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Inter-empire summit response to drifter-network exposure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_prismatic_sites",
+      "tgt": "plc_anoikis",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Prismatic sites operate in Anoikis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_talocan",
+      "tgt": "plc_anoikis",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Talocan ruins in Anoikis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_talocan",
+      "tgt": "org_yan_jung",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Both lost civilizations in Anoikis-adjacent space.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_hollow_clone_disaster",
+      "tgt": "phn_clone_soldier_tech",
+      "rel": "opposed-to",
+      "conf": 0.8,
+      "claim": "Hollow-clone failure mode of clone-soldier tech.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_floseswin_battle",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "Drifter intervention via the hyperspace network.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_gallente_federation",
+      "tgt": "plc_exordium",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Federation participant in the Exordium charter.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_minmatar_republic",
+      "tgt": "plc_exordium",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Republic participant in the Exordium charter.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_caldari_state",
+      "tgt": "plc_exordium",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "State participant in the Exordium charter.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_amarr_reclaiming",
+      "tgt": "phn_vitoxin",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Reclaiming theology produced the slave-control pharma economy.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_kantar_yun",
+      "tgt": "plc_kahah",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Kahah-system figure delivering the anti-CONCORD speech.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_kantar_yun",
+      "tgt": "evt_kahah_chemical_attack",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Spoke against CONCORD response to the attack.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_intaki_syndicate",
+      "tgt": "phn_insorum",
+      "rel": "launders-through",
+      "conf": 0.7,
+      "claim": "Syndicate distribution network for the Insorum supply.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_vitoxin",
+      "tgt": "org_blood_raiders",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Blood Raider supply chains tied to chronodynamic-tricaroxal/Vitoxin.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_genesis",
+      "tgt": "plc_eve_gate",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "EVE Gate is in Genesis-adjacent New Eden system.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_drifter_crisis",
+      "tgt": "phn_construct",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Drifter Crisis is the post-Construct emergence cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_drifter_crisis",
+      "tgt": "plc_pochven",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Triglavian Pochven formation followed Drifter Crisis-era cracks.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_mordus_legion",
+      "tgt": "per_deathless",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Archbine defection was Mordu's Legion personnel pulled by the Deathless.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_anoikis",
+      "tgt": "phn_construct",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Construct extends into Anoikis through Sleeper substrate.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_eve_gate",
+      "tgt": "plc_anoikis",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Both are wormhole-cluster phenomena.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_yulai",
+      "tgt": "per_otro_gariushi",
+      "rel": "opposed-to",
+      "conf": 0.6,
+      "claim": "Yulai-CONCORD-era authority Otro's State-aligned mandate operated against.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_provost_marshal_office",
+      "tgt": "per_tibus_heth",
+      "rel": "parallels",
+      "conf": 0.65,
+      "claim": "Khanid Provost-Marshal office structurally analogous to State Provost regime.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_vitoxin",
+      "tgt": "phn_insorum",
+      "rel": "opposed-to",
+      "conf": 0.99,
+      "claim": "Insorum is the Vitoxin antidote.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_lonetrek",
+      "tgt": "org_kaalakiota",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Kaalakiota operations centered in Lonetrek.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_amarr_reclaiming",
+      "tgt": "org_ida_faith",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Reclaiming theology vs Ida-faith reincarnation cosmology.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_alix_moreau",
+      "tgt": "fac_intaki",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Moreau's amnesty offer aimed at the Intaki bloodline.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_verge_vendor",
+      "tgt": "fac_intaki",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Intaki-adjacent FW war zone.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_vitoxin",
+      "tgt": "phn_death_glow",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "Both Amarr-economy slave-control compounds; Death Glow is the recreational variant.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_atsa_kufair",
+      "tgt": "per_eloa_enaro",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Refused to surrender her per Ida-faith claims.",
+      "supporting_sources": []
+    },
+    {
+      "src": "phn_death_glow",
+      "tgt": "evt_kahah_chemical_attack",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Death Glow weaponized in the Kahah attacks.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_silphy_en_diabel",
+      "tgt": "fac_intaki",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Intaki-bloodline Syndicate Chair.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_arzad_hamri",
+      "tgt": "evt_minmatar_rebellion",
+      "rel": "participated-in",
+      "conf": 0.7,
+      "claim": "Rebellion-era Minmatar figure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_five_heirs",
+      "tgt": "per_jamyl_i",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Empress through the Five-Heirs succession structure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_five_heirs",
+      "tgt": "per_catiz_i",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Empress through the Five-Heirs succession structure.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_provost_marshal_office",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Imperial-domain office in Khanid space.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_royal_khanid_navy",
+      "tgt": "per_catiz_i",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Empire-wide command chain under Catiz reorganization.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_thukker_tribe",
+      "tgt": "org_angel_cartel",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Thukker\u2013Angel Cartel border tensions; raids on Thukker caravans.",
+      "supporting_sources": [
+        "src_news_minmatar-and-thukker-trade-routes-increasingly-threatened-by-breakaway-angels"
+      ]
+    },
+    {
+      "src": "org_thukker_tribe",
+      "tgt": "phn_chronodynamic_tricaroxal",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Anti-Death-Glow stance; Thukker mercenary work.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_lonetrek",
+      "tgt": "org_guristas",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Guristas raids on Caldari space adjacent to Lonetrek.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_metropolis",
+      "tgt": "org_angel_cartel",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Angel raids on Minmatar/Thukker Metropolis-region trade routes.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_skarkon",
+      "tgt": "org_angel_cartel",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Skarkon angel takeover.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_curse",
+      "tgt": "org_minmatar_republic",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Angel home region adjacent to Republic.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_lonetrek",
+      "tgt": "org_ishukone",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Ishukone Caldari-region operations.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_lonetrek",
+      "tgt": "per_tibus_heth",
+      "rel": "located-in",
+      "conf": 0.7,
+      "claim": "Heth's Kaalakiota base in Lonetrek.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_ocean_faction",
+      "tgt": "org_ishukone",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Ocean faction Ishukone-aligned.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_hyasyoda",
+      "tgt": "org_forest_faction",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Hyasyoda Forest-faction alignment.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_hyasyoda",
+      "tgt": "cnc_lai_dai_vs_ishukone_axis",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Hyasyoda neutral but Forest-leaning.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_lai_dai_vs_ishukone_axis",
+      "tgt": "per_mens_reppola",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Mens carries the Ishukone pole forward.",
+      "supporting_sources": []
     }
   ],
   "_curation_notes": [
