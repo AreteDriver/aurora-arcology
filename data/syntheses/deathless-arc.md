@@ -23,6 +23,11 @@ The YC125 events that put the five empire-and-collective occupiers in possession
 The current cycle's antagonist-of-record. Modern Deathless arc converges multiple long-running threads: stolen capsuleer-grade resources, unknown connection to Jove deep history (the name + immortality framing reads as Construct-derived), Pochven operations, Archbine defection. Counter-target of Intaki Bank / Upwell counter-insurgency.
 **Cited in:** [The Lore You Need For EVE In 2025 - Part 1 - The Deathless](https://www.youtube.com/watch?v=J8SFloh6Q2s) · [EVE Lore 2025 Part 1 — The Deathless](https://www.youtube.com/watch?v=rL-fHzuQ5iE) · [The Scope – CONCORD Upstaged by the Deathless Over Smuggler Network](https://universe.eveonline.com/new-eden-news/the-scope-concord-upstaged-by-the-deathless-over-smuggler-network) · [Zarzakh Report: Shikari Consequences and the Deathless](https://universe.eveonline.com/new-eden-news/zarzakh-report-consequences-and-the-deathless)
 
+### Zorya Triglav
+
+Senior Triglavian voice. Took over capsuleer billboards YC121 in a coordinated communication event — first widespread public Triglavian appearance in inter-empire media. Continues to surface as Triglavian-side speaker through the Pochven and Drifter-conflict cycles.
+**Cited in:** [Galactic Hour News Roundup: Triglavian billboard takeover edition (YC 121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-triglavian-billboard-takeover-edition/) · [The Scope - Triglavians take over billboards (YC 121)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+
 ## Organizations
 
 ### Deathless Circle
@@ -52,6 +57,11 @@ Mercenary group under Muryia Mordu. Co-developer of clone-soldier / Templar tech
 
 Lost Jovian-descended civilization in Anoikis wormhole space — Jove consciousnesses that committed fully to the Construct and never came out. Awakened during the Apocrypha-era wormhole opening (post-Seyllin). The Sleeper-to-Drifter transition is one of the Drifter Crisis's central canonical mysteries; AIR Labs and SoE both research the boundary.
 **Cited in:** [SCC set to increase prices on sleeper components](https://universe.eveonline.com/new-eden-news/scc-set-to-increase-prices-on-sleeper-components)
+
+### Society of Conscious Thought (SoCT)
+
+Inter-empire research society. Convenes capsuleer SoCT briefings on Drifter / Triglavian / Construct findings; functions as the structural bridge between the four empires on cosmic-scale research that no single empire wants to claim. Its briefings at Yulai are canonical reference points for the Drifter Crisis aftermath. Adjacent to AIR Labs and the Sisters of EVE Anoikis programs.
+**Cited in:** [Empress visits Mekhios Graveyard for ceremony, SOCT ship destroyed (YC 117)](http://community.eveonline.com/news/news-channels/world-news/breaking-news-amarr-navy-capital-squadron-sighted-in-the-throne-worlds/ http://community.eveonline.com/news/news-channels/world-news/breaking-news-society-of-conscious-thought-vessel-downed-in-sarum-prime/"",""label"":""News 2""},{""url"":""http://evemaps.dotlan.net/map/Domain/Sarum_Prime"",""label"":""Sarum Prime""}]) · [Jove corporations transfered to SOCT (YC 118)](http://community.eveonline.com/news/news-channels/world-news/jove-corporations-transferred-to-soct-as-inner-circle-indicates-major-announcement-in-coming-days/) · [Jovian Directorate withdraws from CONCORD Inner Circle and designates SOCT as successor (YC 118)](http://community.eveonline.com/news/news-channels/world-news/jovian-directorate-withdraws-from-concord-inner-circle-and-designates-soct-as-successor/) · [Capsuleer delegates at SOCT gathering to receive briefing (YC 120)](https://community.eveonline.com/news/news-channels/world-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing/)
 
 ### Third Jovian Empire
 
@@ -214,10 +224,13 @@ The Construct is the Jovian deep state — every Jove who matters has spent sign
 - **1×** [Mordu's Legion announces full control of Caldari Prime (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/mordus-legion-announces-full-control-of-caldari-prime/)
 - **1×** [Mordu's Legion intervenes in Caldari Ground Combat (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/mordus-legion-intervenes-in-caldari-ground-combat-escapes-unscathed/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Lonetrek/Autama"",""label"":""Autama""},{""url"":""http://evemaps.dotlan.net/map/The_Citadel/Sujarento"",""label"":""Sujarento""}])
 - **1×** [Thukker tribe invites cloned mercenaries to police Molden Heath (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Molden_Heath"",""label"":""Molden Heath""}])
+- **1×** [Empress visits Mekhios Graveyard for ceremony, SOCT ship destroyed (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/breaking-news-amarr-navy-capital-squadron-sighted-in-the-throne-worlds/ http://community.eveonline.com/news/news-channels/world-news/breaking-news-society-of-conscious-thought-vessel-downed-in-sarum-prime/"",""label"":""News 2""},{""url"":""http://evemaps.dotlan.net/map/Domain/Sarum_Prime"",""label"":""Sarum Prime""}])
 - **1×** [Founding of Upwell Consortium announced by leading interstellar corporations (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/founding-of-upwell-consortium-announced-by-leading-interstellar-corporations/)
 - **1×** [ORE membership of Upwell Consortium confirmed by Yani Sar Arteu in aftermath of station seizures (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/ore-membership-of-upwell-consortium-confirmed-by-yani-sar-arteu-in-aftermath-of-station-seizures/)
 - **1×** [Serpentis corporation strikes back against Upwell Consortium (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/serpentis-corporation-strikes-back-against-upwell-consortium/)
 - **1×** [Upwell Consortium announces development of 'Citadel' line of stations for capsuleer market (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/upwell-consortium-announces-development-of-citadel-line-of-stations-for-capsuleer-market/)
+- **1×** [Jove corporations transfered to SOCT (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/jove-corporations-transferred-to-soct-as-inner-circle-indicates-major-announcement-in-coming-days/)
+- **1×** [Jovian Directorate withdraws from CONCORD Inner Circle and designates SOCT as successor (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/jovian-directorate-withdraws-from-concord-inner-circle-and-designates-soct-as-successor/)
 - **1×** [SoE splinter group warns of shift in Drifter activity; Thukker Tribe confirms (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior/)
 - **1×** [Upwell Consortium announces capsuleer day (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/upwell-consortium-announces-capsuleer-day/)
 - **1×** [Upwell Consortium celebrates deployment of first privately owned citadels (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/upwell-consortium-celebrates-deployment-of-first-privately-owned-citadels/)
@@ -227,6 +240,9 @@ The Construct is the Jovian deep state — every Jove who matters has spent sign
 - **1×** [Upwell Consortium research component acquisition concludes (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/upwell-consortium-research-component-acquisition-to-conclude-midnight/)
 - **1×** [Upwell Consortium signs transport and communications deals with Interbus and Impetus (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/upwell-consortium-signs-transport-and-communications-deals-with-interbus-and-impetus/)
 - **1×** [Upwell Consortium celebrates new structure lineup release (YC 119) (YC119)](https://community.eveonline.com/news/news-channels/world-news/upwell-consortium-celebrates-refinery-and-moon-drilling-tech-launch/)
+- **1×** [Capsuleer delegates at SOCT gathering to receive briefing (YC 120) (YC120)](https://community.eveonline.com/news/news-channels/world-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing/)
 - **1×** [The Scope - The Triglavian Collective Revealed (YC 120) (YC120)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Upwell Consortium looks forward to increased (YC120)](https://community.eveonline.com/news/news-channels/world-news/upwell-consortium-looks-forward-to-increased-profits-ahead-of-flex-product-line-launch/)
+- **1×** [Galactic Hour News Roundup: Triglavian billboard takeover edition (YC 121) (YC121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-triglavian-billboard-takeover-edition/)
+- **1×** [The Scope - Triglavians take over billboards (YC 121) (YC121)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [The Scope - War in Delve and formation of Pochven (YC 122) (YC122)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)

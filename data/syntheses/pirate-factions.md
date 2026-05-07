@@ -88,6 +88,11 @@ Most distant Minmatar tribe. Operates in Great Wildlands. Wormhole-interested. S
 
 Angel Cartel home region in southern null-sec. Operational base for the Cartel's smuggling and mercenary operations. Mordu's Legion has historic Cartel connections — Mordu's Legion's break from the Cartel is the founding myth of the Legion.
 
+### Great Wildlands
+
+The Mimitar tribal frontier at NPC scale. Thukker administers; Mordu's Legion operates from. Structurally the tribe's parallel to Intaki Syndicate's relationship with the Federation — semi-autonomous, NPC-controlled, semi-deniable. Prismatic / fractured-site activity has been heavy here during the Catalyst era. Drifter-tech research that the Republic-proper doesn't want to claim happens through Great Wildlands intermediaries.
+**Cited in:** [Increasing numbers join Great Wildlands pilgrimage (YC 110)](https://community.eveonline.com/news/news-channels/eve-online-news/increasing-numbers-join-great-wildlands-pilgrimage/) · [Civil War continues in Great Wildlands (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/civil-war-continues-in-great-wildlands/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Great_Wildlands/U3K-4A"",""label"":""U3K-4A""}]) · [Thukker Tribe to join Republic with full autonomy in the Great Wildlands (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands/) · [Great Wildlands pilgrimage convoy missing](https://universe.eveonline.com/new-eden-news/great-wildlands-pilgrimage-convoy-missing) · [Increasing Numbers Join Great Wildlands Pilgrimage](https://universe.eveonline.com/new-eden-news/increasing-numbers-join-great-wildlands-pilgrimage) · [Pilgrims Tell Tale Of Survival In The Great Wildlands](https://universe.eveonline.com/new-eden-news/pilgrims-tell-tale-of-survival-in-the-great-wildlands) · [Report: Thukker Caravan Reported Missing in Great Wildlands](https://universe.eveonline.com/new-eden-news/report-thukker-caravan-reported-missing-in-great-wildlands) · [Thukker Tribe to Join Republic with Full Autonomy in the Great Wildlands](https://universe.eveonline.com/new-eden-news/thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands)
+
 ### Lonetrek region
 
 Caldari State core region. Contains Jita (the trade hub) and the major State industrial zones. Operational center for State Protectorate FW militia operations and the State Workers' Union activity. The Jita-gate incident occurred at Lonetrek's primary trade artery.
@@ -135,6 +140,8 @@ Sansha cybernetic forced-merger drones produced from captured slaves via the Tru
 - **2×** [The Sarpati Family  (2001-05-14)](https://universe.eveonline.com/chronicles/the-sarpati-family)
 - **2×** [Mordu’s Legion (2001-10-01)](https://universe.eveonline.com/chronicles/mordus-legion)
 - **2×** [Sansha's Nation forces move on Angel Cartel Territory (2006-01-20)](https://universe.eveonline.com/new-eden-news/sanshas-nation-forces-move-on-angel-cartel-territory)
+- **2×** [Thukker Tribe to Join Republic with Full Autonomy in the Great Wildlands (2009-03-08)](https://universe.eveonline.com/new-eden-news/thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands)
+- **2×** [Report: Thukker Caravan Reported Missing in Great Wildlands (2009-03-10)](https://universe.eveonline.com/new-eden-news/report-thukker-caravan-reported-missing-in-great-wildlands)
 - **2×** [Ante (Chronicle) (2010-04-19)](https://universe.eveonline.com/chronicles/ante)
 - **2×** [EVE: Templar One (Tony Gonzales) (2012)](https://www.eveonline.com/news/view/templar-one)
 - **2×** [Mordu's Legion and Angel Cartel join Guristas in offering to aid Caldari targets (2013-02-12)](https://universe.eveonline.com/new-eden-news/mordus-legion-and-angel-cartel-join-guristas-in-offering-to-aid-caldari-targets)
@@ -143,6 +150,7 @@ Sansha cybernetic forced-merger drones produced from captured slaves via the Tru
 - **2×** [Sansha's Nation forces move on Angel Cartel territory (YC 107) (YC108)](http://community.eveonline.com/news/news-channels/eve-online-news/sanshas-nation-forces-move-on-angel-cartel-territory/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Feythabolis/TR07-S"",""label"":""TR07-S""}])
 - **2×** [Archangels &#34;annex&#34; Skarkon (YC 110) (YC110)](http://community.eveonline.com/news/news-channels/world-news/archangels-annex-skarkon-from-minmatar-republic-popular-vote-confirms/ https://community.eveonline.com/news/news-channels/eve-online-news/skarkon-citizens-speak-about-angel-referendum/)
 - **2×** [Archangels withdraw claim of Skarkon (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/archangels-withdraw-skarkon-annexation-claim/ https://community.eveonline.com/news/news-channels/eve-online-news/discussion-continues-over-angel-claim-in-skarkon/)
+- **2×** [Thukker Tribe to join Republic with full autonomy in the Great Wildlands (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands/)
 - **2×** [Mordu's Legion and Angel Cartel offer aid (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/mordus-legion-and-angel-cartel-join-guristas-in-offering-to-aid-caldari-targets/)
 - **2×** [Galactic Hour news roundup: Skarkon falls after heavy fighting (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-skarkon-falls-after-heavy-fighting-in-minmatar-republic-system/)
 - **1×** [Silphy (Chronicle) (2001-08-06)](https://universe.eveonline.com/chronicles/silphy)
@@ -171,6 +179,9 @@ Sansha cybernetic forced-merger drones produced from captured slaves via the Tru
 - **1×** [REPORT: MINMATAR-THUKKER TASK FORCE ARE MINMATAR ELDERS (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-minmatar-thukker-task-force-are-minmatar-elders)
 - **1×** [REPORT: SECOND MINMATAR-THUKKER ARMADA INVADES AMARR EMPIRE (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-second-minmatar-thukker-armada-invades-amarr-empire)
 - **1×** [REPORT: THIRD MINMATAR-THUKKER FLEET DETECTED IN DOMAIN REGION; FIERCE FIGHTING REPORTED OVER SARUM PRIME (2008-06-10)](https://universe.eveonline.com/new-eden-news/report-third-minmatar-thukker-fleet-detected-in-domain-region-fierce-fighting-reported-over-sarum-prime)
+- **1×** [Increasing Numbers Join Great Wildlands Pilgrimage (2008-08-08)](https://universe.eveonline.com/new-eden-news/increasing-numbers-join-great-wildlands-pilgrimage)
+- **1×** [Great Wildlands pilgrimage convoy missing (2008-08-15)](https://universe.eveonline.com/new-eden-news/great-wildlands-pilgrimage-convoy-missing)
+- **1×** [Pilgrims Tell Tale Of Survival In The Great Wildlands (2008-09-15)](https://universe.eveonline.com/new-eden-news/pilgrims-tell-tale-of-survival-in-the-great-wildlands)
 - **1×** [Boundless Creation plays host to delegation from Thukker Mix (2008-10-28)](https://universe.eveonline.com/new-eden-news/boundless-creation-plays-host-to-delegation-from-thukker-mix)
 - **1×** [Sanmatar Shakor announces Thukker Tribe visit. (2008-10-31)](https://universe.eveonline.com/new-eden-news/sanmatar-shakor-announces-thukker-tribe-visit)
 - **1×** [Minmatar Republic and Thukker Tribe announce open border policy. (2008-11-13)](https://universe.eveonline.com/new-eden-news/minmatar-republic-and-thukker-tribe-announce-open-border-policy)
@@ -178,9 +189,7 @@ Sansha cybernetic forced-merger drones produced from captured slaves via the Tru
 - **1×** [Commerce Between Thukker Tribe and Minmatar Republic Increasing (2008-12-21)](https://universe.eveonline.com/new-eden-news/commerce-between-thukker-tribe-and-minmatar-republic-increasing)
 - **1×** [Travel by Minmatar into Thukker Tribe Space Increases (2008-12-26)](https://universe.eveonline.com/new-eden-news/travel-by-minmatar-into-thukker-tribe-space-increases)
 - **1×** [Minmatar and Thukker Trade Routes Increasingly Threatened by 'Breakaway' Angels (2008-12-30)](https://universe.eveonline.com/new-eden-news/minmatar-and-thukker-trade-routes-increasingly-threatened-by-breakaway-angels)
-- **1×** [Thukker Tribe to Join Republic with Full Autonomy in the Great Wildlands (2009-03-08)](https://universe.eveonline.com/new-eden-news/thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands)
 - **1×** [Minmatar Search For Thukker Caravan; Unable to Respond Significantly to Seyllin Disaster (2009-03-10)](https://universe.eveonline.com/new-eden-news/minmatar-search-for-thukker-caravan-unable-to-respond-significantly-to-seyllin-disaster)
-- **1×** [Report: Thukker Caravan Reported Missing in Great Wildlands (2009-03-10)](https://universe.eveonline.com/new-eden-news/report-thukker-caravan-reported-missing-in-great-wildlands)
 - **1×** [Shakor: Thukker Caravan Was Destroyed (2009-03-10)](https://universe.eveonline.com/new-eden-news/shakor-thukker-caravan-was-destroyed)
 - **1×** [Trust Partners Co-ordinate Search for Missing Thukker Caravan (2009-03-10)](https://universe.eveonline.com/new-eden-news/trust-partners-co-ordinate-search-for-missing-thukker-caravan)
 - **1×** [Thukker Caravans to Take Lead as Minmatar Work Together on Wormhole Exploration (2009-03-14)](https://universe.eveonline.com/new-eden-news/thukker-caravans-to-take-lead-as-minmatar-work-together-on-wormhole-exploration)
@@ -248,8 +257,9 @@ Sansha cybernetic forced-merger drones produced from captured slaves via the Tru
 - **1×** [Mordu’s Legion experience recruitment surge (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/mordus-legion-experience-recruitment-surge/)
 - **1×** [Mordu's Legion mobilizes (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/mordus-legion-mobilizes/)
 - **1×** [Commerce and travel between Thukker tribe and Minmatar Republic increasing (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/commerce-between-thukker-tribe-and-minmatar-republic-increasing/ https://community.eveonline.com/news/news-channels/eve-online-news/travel-by-minmatar-into-thukker-tribe-space-increases/)
+- **1×** [Increasing numbers join Great Wildlands pilgrimage (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/increasing-numbers-join-great-wildlands-pilgrimage/)
 - **1×** [Minmatar Republic, Thukker Tribe launch joint manhunt (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/minmatar-republic-thukker-tribe-launch-joint-manhunt/)
-- **1×** [Thukker Tribe to join Republic with full autonomy in the Great Wildlands (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands/)
+- **1×** [Civil War continues in Great Wildlands (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/civil-war-continues-in-great-wildlands/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Great_Wildlands/U3K-4A"",""label"":""U3K-4A""}])
 - **1×** [Sansha’s Nation invade Oruse (YC 112) (YC112)](https://community.eveonline.com/news/news-channels/eve-online-news/sanshas-nation-invade-oruse/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Solitude/Oruse"",""label"":""Oruse""}])
 - **1×** [Sansha's Nation strikes at the empires (YC 112) (YC112)](https://wiki.eveonline.com/en/wiki/Sansha)
 - **1×** [Umokka raided By Sansha's Nation, abductions escalate (YC 112) (YC112)](https://community.eveonline.com/news/news-channels/eve-online-news/umokka-raided-by-sanshas-nation-abductions-escalate/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Lonetrek/Umokka"",""label"":""Umokka""}])

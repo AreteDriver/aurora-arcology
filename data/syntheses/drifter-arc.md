@@ -20,10 +20,20 @@ The YC111 system-wide wormhole opening triggered by the Seyllin Disaster. Expose
 YC111 catastrophic plasma-fire event at Seyllin I that killed everyone on the planet. The Sisters of EVE 'Wormhole Colony Lost' announcement followed. The Seyllin event triggered the Apocrypha-era wormhole opening, the discovery of Anoikis, the Sleeper civilization remnants, and ultimately the Drifter emergence cycle. Every wormhole-tech thread in the warpath board traces back to Seyllin.
 **Cited in:** [Seyllin Disaster as wormholes emerge (YC 111)](https://community.eveonline.com/news/news-channels/eve-online-news/weather-satellite-glitch-causes-travel-disruption-1/ https://community.eveonline.com/news/news-channels/eve-online-news/report-communications-lost-with-ore-survey-team-in-outer-ring-1/"",""label"":""News 2""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/breaking-news-all-contact-lost-with-seyllin-1/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/report-seyllin-fluid-routers-located-kilometers-beneath-surface-1/"",""label"":""News 4""}]) · [The Fourth Seyllin Conference](https://universe.eveonline.com/new-eden-news/the-fourth-seyllin-conference)
 
+### Hilen Tukoss Defection *(YC113)*
+
+YC113 defection of Caldari scientist Hilen Tukoss. Pivotal moment in the Drifter / Sleeper / Construct research arc — Tukoss carried Anoikis-research expertise out of Caldari corporate confinement. His defection prefigured the SoE / AIR Labs research consolidation that the Exordium charter eventually formalized. He was confirmed dead YC117.
+**Cited in:** [Hilen Tukoss' defection (YC 113)](https://wiki.eveonline.com/en/wiki/Arek%27Jaalan"",""label"":""Wiki""},{""url"":""http://community.eveonline.com/news/news-channels/eve-online-news/caldari-scientist-defects-to-the-republic.-1/"",""label"":""News""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/caldari-scientists-defection-causes-stir-amongst-sections-of-capsuleer-community.-1/"",""label"":""News 2""},{""url"":""http://community.eveonline.com/news/news-channels/world-news/scope-feature-article-interview-with-hilen-tukoss/"",""label"":""Interview""}]) · [Eifyr &amp; Co respond to Tukoss messaging (YC 116)](http://community.eveonline.com/news/news-channels/world-news/eifyr-co-respond-to-tukoss-messaging/) · [DED confirms age of Tukoss footage, releases detainees (YC 117)](http://community.eveonline.com/news/news-channels/world-news/ded-confirms-age-of-tukoss-footage-releases-detainees/) · [Hilen Tukoss resurfaces (YC 117)](http://community.eveonline.com/news/news-channels/world-news/ded-statement-hilen-tukoss-broadcast/) · [Tukoss fate confirmed, capsuleers recognized (Yc 117)](http://community.eveonline.com/news/news-channels/world-news/tukoss-fate-confirmed-capsuleers-recognized-by-ded/)
+
 ### Battle of Floseswin IV *(YC117)*
 
 YC117 Amarr–Minmatar capital-fleet engagement above Floseswin IV — pitched dreadnought-class warfare. Triggered the Drifter assassination of Empress Jamyl I (Drifters intervened to kill her during the battle). Floseswin marks the moment when the Drifter conflict went from background phenomenon to direct intervention in empire politics.
 **Cited in:** [BREAKING: Amarr Dreadnoughts Destroyed in Pitched Amarr-Minmatar Battle over Floseswin IV](https://universe.eveonline.com/new-eden-news/breaking-amarr-dreadnoughts-destroyed-in-pitched-amarr-minmatar-battle-over-floseswin-iv)
+
+### Triglavian Collective Revealed *(YC120)*
+
+YC120 first major public revelation of the Triglavian Collective as a coherent civilization rather than scattered abyssal anomalies. The Scope reported the canonical introduction. Two-year warning before the YC122 Triglavian Invasion that conquered Niarja and the 27 systems forming Pochven.
+**Cited in:** [The Scope - The Triglavian Collective Revealed (YC 120)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 
 ### Fall of Niarja *(YC122)*
 
@@ -77,6 +87,11 @@ Thukker chief who echoed AMP's concerns over Republic-backed experimentation in 
 AMP founder. Has a character seeded in every wormhole system. Public face of the Drifter-tech risk warning. Vindicated repeatedly by Jita-gate, the prismatic sites, and the Hollow Clone Disaster.
 **Cited in:** [New Eden News - Warnings Raised Over Drifter Wormhole Experiments (YC127-10-30)](https://www.youtube.com/watch?v=hPbfRmzc1bI)
 
+### Zorya Triglav
+
+Senior Triglavian voice. Took over capsuleer billboards YC121 in a coordinated communication event — first widespread public Triglavian appearance in inter-empire media. Continues to surface as Triglavian-side speaker through the Pochven and Drifter-conflict cycles.
+**Cited in:** [Galactic Hour News Roundup: Triglavian billboard takeover edition (YC 121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-triglavian-billboard-takeover-edition/) · [The Scope - Triglavians take over billboards (YC 121)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+
 ### Caroline Grace *(YC116)*
 
 Capsuleer who detected the YC116 stellar anomaly that became known as Caroline's Star — the visible signature of the Drifter network reaching New Eden's normal space. Her detection is the moment the Drifter conflict moved from Anoikis backstory to public phenomenon.
@@ -111,6 +126,11 @@ Inter-empire defensive coalition. Ships built by Upwell. Drifter wormhole occupi
 
 Lost Jovian-descended civilization in Anoikis wormhole space — Jove consciousnesses that committed fully to the Construct and never came out. Awakened during the Apocrypha-era wormhole opening (post-Seyllin). The Sleeper-to-Drifter transition is one of the Drifter Crisis's central canonical mysteries; AIR Labs and SoE both research the boundary.
 **Cited in:** [SCC set to increase prices on sleeper components](https://universe.eveonline.com/new-eden-news/scc-set-to-increase-prices-on-sleeper-components)
+
+### Society of Conscious Thought (SoCT)
+
+Inter-empire research society. Convenes capsuleer SoCT briefings on Drifter / Triglavian / Construct findings; functions as the structural bridge between the four empires on cosmic-scale research that no single empire wants to claim. Its briefings at Yulai are canonical reference points for the Drifter Crisis aftermath. Adjacent to AIR Labs and the Sisters of EVE Anoikis programs.
+**Cited in:** [Empress visits Mekhios Graveyard for ceremony, SOCT ship destroyed (YC 117)](http://community.eveonline.com/news/news-channels/world-news/breaking-news-amarr-navy-capital-squadron-sighted-in-the-throne-worlds/ http://community.eveonline.com/news/news-channels/world-news/breaking-news-society-of-conscious-thought-vessel-downed-in-sarum-prime/"",""label"":""News 2""},{""url"":""http://evemaps.dotlan.net/map/Domain/Sarum_Prime"",""label"":""Sarum Prime""}]) · [Jove corporations transfered to SOCT (YC 118)](http://community.eveonline.com/news/news-channels/world-news/jove-corporations-transferred-to-soct-as-inner-circle-indicates-major-announcement-in-coming-days/) · [Jovian Directorate withdraws from CONCORD Inner Circle and designates SOCT as successor (YC 118)](http://community.eveonline.com/news/news-channels/world-news/jovian-directorate-withdraws-from-concord-inner-circle-and-designates-soct-as-successor/) · [Capsuleer delegates at SOCT gathering to receive briefing (YC 120)](https://community.eveonline.com/news/news-channels/world-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing/)
 
 ### Third Jovian Empire
 
@@ -209,8 +229,14 @@ Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-i
 - **2×** [Triglavian Abyssal Filament Technology Present in Data Sites, Confirms Reporter Embedded With Thukker Raiding Party (2018-05-29)](https://universe.eveonline.com/new-eden-news/triglavian-abyssal-filament-technology-present-in-data-sites-confirms-reporter-embedded-with-thukker-raiding-party)
 - **2×** [Lore Tourism - The Redemption of the Ammatar (2026-02)](https://www.youtube.com/watch?v=nQUXg9vhPmo)
 - **2×** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05 (2026-05-05)](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+- **2×** [Hilen Tukoss' defection (YC 113) (YC113)](https://wiki.eveonline.com/en/wiki/Arek%27Jaalan"",""label"":""Wiki""},{""url"":""http://community.eveonline.com/news/news-channels/eve-online-news/caldari-scientist-defects-to-the-republic.-1/"",""label"":""News""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/caldari-scientists-defection-causes-stir-amongst-sections-of-capsuleer-community.-1/"",""label"":""News 2""},{""url"":""http://community.eveonline.com/news/news-channels/world-news/scope-feature-article-interview-with-hilen-tukoss/"",""label"":""Interview""}])
+- **2×** [Eifyr &amp; Co respond to Tukoss messaging (YC 116) (YC116)](http://community.eveonline.com/news/news-channels/world-news/eifyr-co-respond-to-tukoss-messaging/)
 - **2×** [Caroline's Star: Stellar anomaly detected by capsuleer Caroline Grace (YC 116) (YC116)](http://community.eveonline.com/news/news-channels/world-news/stellar-anomaly-detected-by-capsuleers/)
+- **2×** [DED confirms age of Tukoss footage, releases detainees (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/ded-confirms-age-of-tukoss-footage-releases-detainees/)
+- **2×** [Hilen Tukoss resurfaces (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/ded-statement-hilen-tukoss-broadcast/)
+- **2×** [Tukoss fate confirmed, capsuleers recognized (Yc 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/tukoss-fate-confirmed-capsuleers-recognized-by-ded/)
 - **2×** [Caroline's Star (YC 117) (YC117)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+- **2×** [The Scope - The Triglavian Collective Revealed (YC 120) (YC120)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **2×** [Galactic Hour news roundup: Triglavian invasion of Niarja (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-triglavian-invasion-of-niarja-threatens-key-amarr-caldari-trade-route/)
 - **2×** [The Scope - EDENCOM prepares for Triglavian invasion (YC 122) (YC122)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Jovian admiral Ouria known to have the Jovian disease (2003-08-10)](https://universe.eveonline.com/new-eden-news/jovian-admiral-ouria-known-to-have-the-jovian-disease)
@@ -280,17 +306,17 @@ Item from the Catalyst-era drone event. Drops from sentient rogue drones; turn-i
 - **1×** [Seyllin Disaster as wormholes emerge (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/weather-satellite-glitch-causes-travel-disruption-1/ https://community.eveonline.com/news/news-channels/eve-online-news/report-communications-lost-with-ore-survey-team-in-outer-ring-1/"",""label"":""News 2""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/breaking-news-all-contact-lost-with-seyllin-1/"",""label"":""News 3""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/report-seyllin-fluid-routers-located-kilometers-beneath-surface-1/"",""label"":""News 4""}])
 - **1×** [Minmatar Republic, Thukker Tribe launch joint manhunt (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/minmatar-republic-thukker-tribe-launch-joint-manhunt/)
 - **1×** [Thukker Tribe to join Republic with full autonomy in the Great Wildlands (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/thukker-tribe-to-join-republic-with-full-autonomy-in-the-great-wildlands/)
-- **1×** [Hilen Tukoss' defection (YC 113) (YC113)](https://wiki.eveonline.com/en/wiki/Arek%27Jaalan"",""label"":""Wiki""},{""url"":""http://community.eveonline.com/news/news-channels/eve-online-news/caldari-scientist-defects-to-the-republic.-1/"",""label"":""News""},{""url"":""https://community.eveonline.com/news/news-channels/eve-online-news/caldari-scientists-defection-causes-stir-amongst-sections-of-capsuleer-community.-1/"",""label"":""News 2""},{""url"":""http://community.eveonline.com/news/news-channels/world-news/scope-feature-article-interview-with-hilen-tukoss/"",""label"":""Interview""}])
 - **1×** [Thukker tribe invites cloned mercenaries to police Molden Heath (YC 115) (YC115)](http://community.eveonline.com/news/news-channels/world-news/thukker-tribe-invites-cloned-mercenaries-to-police-molden-heath/"",""label"":""News""},{""url"":""http://evemaps.dotlan.net/map/Molden_Heath"",""label"":""Molden Heath""}])
 - **1×** [CONCORD Inner Circle Statement on &#34;Caroline's Star&#34; and the &#34;Thera&#34; System (YC 116) (YC116)](http://community.eveonline.com/news/news-channels/world-news/concord-inner-circle-statement-on-carolines-star-and-the-thera-system/)
-- **1×** [Eifyr &amp; Co respond to Tukoss messaging (YC 116) (YC116)](http://community.eveonline.com/news/news-channels/world-news/eifyr-co-respond-to-tukoss-messaging/)
-- **1×** [DED confirms age of Tukoss footage, releases detainees (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/ded-confirms-age-of-tukoss-footage-releases-detainees/)
-- **1×** [Hilen Tukoss resurfaces (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/ded-statement-hilen-tukoss-broadcast/)
-- **1×** [Tukoss fate confirmed, capsuleers recognized (Yc 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/tukoss-fate-confirmed-capsuleers-recognized-by-ded/)
+- **1×** [Empress visits Mekhios Graveyard for ceremony, SOCT ship destroyed (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/breaking-news-amarr-navy-capital-squadron-sighted-in-the-throne-worlds/ http://community.eveonline.com/news/news-channels/world-news/breaking-news-society-of-conscious-thought-vessel-downed-in-sarum-prime/"",""label"":""News 2""},{""url"":""http://evemaps.dotlan.net/map/Domain/Sarum_Prime"",""label"":""Sarum Prime""}])
 - **1×** [Sisters of Eve release statement on Caroline's Star and Thera (YC 117) (YC117)](http://community.eveonline.com/news/news-channels/world-news/sisters-of-eve-release-statement-on-caroliness-star-thera-incident-and-concord/)
+- **1×** [Jove corporations transfered to SOCT (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/jove-corporations-transferred-to-soct-as-inner-circle-indicates-major-announcement-in-coming-days/)
+- **1×** [Jovian Directorate withdraws from CONCORD Inner Circle and designates SOCT as successor (YC 118) (YC118)](http://community.eveonline.com/news/news-channels/world-news/jovian-directorate-withdraws-from-concord-inner-circle-and-designates-soct-as-successor/)
 - **1×** [SoE splinter group warns of shift in Drifter activity; Thukker Tribe confirms (YC 118) (YC118)](https://community.eveonline.com/news/news-channels/world-news/soe-splinter-group-warns-of-shift-in-drifter-activity-thukker-tribe-confirms-anomalous-behavior/)
-- **1×** [The Scope - The Triglavian Collective Revealed (YC 120) (YC120)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+- **1×** [Capsuleer delegates at SOCT gathering to receive briefing (YC 120) (YC120)](https://community.eveonline.com/news/news-channels/world-news/capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing/)
 - **1×** [The Scope - Triglavian Invasion Escalates (YC 121) (YC121)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
+- **1×** [Galactic Hour News Roundup: Triglavian billboard takeover edition (YC 121) (YC121)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-triglavian-billboard-takeover-edition/)
+- **1×** [The Scope - Triglavians take over billboards (YC 121) (YC121)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Galactic Hour news roundup: Fall of Niarja (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/galactic-hour-news-roundup-fall-of-niarja-shocks-amarr-empire-and-caldari-state/)
 - **1×** [Formation of EdenCom announced following Triglavian attacks (YC 122) (YC122)](https://community.eveonline.com/news/news-channels/world-news/formation-of-edencom-announced-following-triglavian-attacks-amidst-capsuleer-day-celebrations/)
 - **1×** [The Scope - War in Delve and formation of Pochven (YC 122) (YC122)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)

@@ -4577,6 +4577,145 @@
         "src_ash_tl_yc115_caldari-constructions-to-nullify-heth-s-shares-yc-",
         "src_ash_tl_yc115_caldari-constructions-share-prices-rise-on-news-of"
       ]
+    },
+    {
+      "id": "org_outer_ring_excavations",
+      "type": "Organization",
+      "name": "Outer Ring Excavations (ORE)",
+      "brief": "Major Caldari mining megacorp. Founded YC91 by Yani Sar Arteu. Upwell Consortium founding member.",
+      "master_summary": "Major Caldari mining megacorp founded YC91 by Yani Sar Arteu. Upwell Consortium founding member; controls the largest mining vessel construction and operates Outer Ring station infrastructure. ORE membership of Upwell was canonically confirmed by Yani Sar Arteu in the aftermath of the Citadel-era station seizures (YC117). Operationally neutral within the State, but Forest-faction-aligned.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc091_outer-ring-excavations-founded-yc-91",
+        "src_ash_tl_yc117_ore-membership-of-upwell-consortium-confirmed-by-y"
+      ]
+    },
+    {
+      "id": "per_yani_sar_arteu",
+      "type": "Person",
+      "name": "Yani Sar Arteu",
+      "brief": "Founder of ORE. Confirmed ORE membership in Upwell Consortium during the YC117 Citadel-era station seizures.",
+      "master_summary": "Founder of Outer Ring Excavations (YC91). Confirmed ORE membership in Upwell Consortium during the YC117 Citadel-era station seizures \u2014 a canonical statement that locked the Upwell-megacorp alignment graph. Reclusive industrial leader; minimal political exposure outside ORE business.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc091_outer-ring-excavations-founded-yc-91",
+        "src_ash_tl_yc117_ore-membership-of-upwell-consortium-confirmed-by-y"
+      ]
+    },
+    {
+      "id": "org_carthum_conglomerate",
+      "type": "Organization",
+      "name": "Carthum Conglomerate",
+      "brief": "Amarr arms manufacturer. Upwell Consortium founding member. Major Amarr industrial player.",
+      "master_summary": "Amarr arms manufacturer; Upwell Consortium founding member. Major industrial player on the Amarr side of the four-empire industrial split. Occasional earnings drops drive Amarr stock-market reporting (YC110 below-average-earnings cycle). The Amarr counterpart in Upwell to Ishukone/Lai Dai/Kaalakiota on the Caldari side.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc110_carthum-suffers-drop-on-below-average-earnings-yc-",
+        "src_ash_tl_yc110_carthum-seeking-investors-to-shore-up-finances-say",
+        "src_ash_tl_yc110_tash-murkon-family-assumes-minority-stake-in-carth"
+      ]
+    },
+    {
+      "id": "org_creodron",
+      "type": "Organization",
+      "name": "CreoDron",
+      "brief": "Federation drone manufacturer. Upwell Consortium founding member. Major Federation industrial player.",
+      "master_summary": "Federation drone manufacturer; Upwell Consortium founding member. Major Federation industrial player on the Gallente side of the four-empire industrial split. YC109 investment slump signaled the broader Federation pre-Heth slowdown.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc109_creodron-investments-go-poorly-yc-109",
+        "src_ash_tl_yc109_creodron-unveil-innovations-yc-109",
+        "src_ash_tl_yc110_creodron-to-shift-production-to-republic-space-yc-",
+        "src_ash_tl_yc117_creodron-reveals-new-command-destroyer-hull-yc-117"
+      ]
+    },
+    {
+      "id": "org_egonics",
+      "type": "Organization",
+      "name": "Egonics Inc.",
+      "brief": "Caldari electronics company. Founded YC54. Upwell Consortium founding member.",
+      "master_summary": "Caldari electronics company founded YC54. Upwell Consortium founding member. The smallest of the Upwell founding signatories; provides electronic systems and subcomponents.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc054_egonics-inc-founded-yc-54"
+      ]
+    },
+    {
+      "id": "org_society_of_conscious_thought",
+      "type": "Organization",
+      "name": "Society of Conscious Thought (SoCT)",
+      "brief": "Inter-empire research society. Capsuleer briefings on Drifter / Triglavian / Construct findings; bridges empires on cosmic-scale phenomena.",
+      "master_summary": "Inter-empire research society. Convenes capsuleer SoCT briefings on Drifter / Triglavian / Construct findings; functions as the structural bridge between the four empires on cosmic-scale research that no single empire wants to claim. Its briefings at Yulai are canonical reference points for the Drifter Crisis aftermath. Adjacent to AIR Labs and the Sisters of EVE Anoikis programs.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc117_empress-visits-mekhios-graveyard-for-ceremony-soct",
+        "src_ash_tl_yc118_jove-corporations-transfered-to-soct-yc-118",
+        "src_ash_tl_yc118_jovian-directorate-withdraws-from-concord-inner-ci",
+        "src_ash_tl_yc120_capsuleer-delegates-at-soct-gathering-to-receive-b"
+      ]
+    },
+    {
+      "id": "per_zorya_triglav",
+      "type": "Person",
+      "name": "Zorya Triglav",
+      "brief": "Senior Triglavian voice. Took over capsuleer billboards YC121 \u2014 first widespread public Triglavian communication.",
+      "master_summary": "Senior Triglavian voice. Took over capsuleer billboards YC121 in a coordinated communication event \u2014 first widespread public Triglavian appearance in inter-empire media. Continues to surface as Triglavian-side speaker through the Pochven and Drifter-conflict cycles.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc121_the-scope-triglavians-take-over-billboards-yc-121",
+        "src_ash_tl_yc121_galactic-hour-news-roundup-triglavian-billboard-ta"
+      ]
+    },
+    {
+      "id": "evt_triglavian_revealed",
+      "type": "Event",
+      "name": "Triglavian Collective Revealed",
+      "date": "YC120",
+      "brief": "YC120 first major public revelation of the Triglavian Collective as a third-pole civilization. Two years before the Invasion.",
+      "master_summary": "YC120 first major public revelation of the Triglavian Collective as a coherent civilization rather than scattered abyssal anomalies. The Scope reported the canonical introduction. Two-year warning before the YC122 Triglavian Invasion that conquered Niarja and the 27 systems forming Pochven.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc120_the-scope-the-triglavian-collective-revealed-yc-12"
+      ]
+    },
+    {
+      "id": "evt_minmatar_elders_invasion",
+      "type": "Event",
+      "name": "Minmatar Elders Invasion of Amarr Empire",
+      "date": "YC110",
+      "brief": "YC110 Minmatar Elder-led invasion deep into Amarr space. Companion event to the Caldari Luminaire invasion same year.",
+      "master_summary": "YC110 Minmatar Elder-led invasion deep into Amarr space, including the Sarum Prime strike and the Mekhios theater. Companion event to the Caldari Luminaire invasion the same year \u2014 together they define the 'YC110 wars' decade and triggered the Empyrean Age. The Elder Fleet's eventual retreat in Kor-Azor region marked the end of the Republic's deep-strike capability and led to Jamyl's superweapon deployment that cemented her reign.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc110_minmatar-elders-launch-invasion-of-amarr-empire-yc"
+      ]
+    },
+    {
+      "id": "evt_hilen_tukoss_defection",
+      "type": "Event",
+      "name": "Hilen Tukoss Defection",
+      "date": "YC113",
+      "brief": "YC113 defection of Caldari scientist Hilen Tukoss. Pivotal moment in the Drifter / Sleeper / Construct research arc; predates his YC117 confirmed death.",
+      "master_summary": "YC113 defection of Caldari scientist Hilen Tukoss. Pivotal moment in the Drifter / Sleeper / Construct research arc \u2014 Tukoss carried Anoikis-research expertise out of Caldari corporate confinement. His defection prefigured the SoE / AIR Labs research consolidation that the Exordium charter eventually formalized. He was confirmed dead YC117.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc113_hilen-tukoss-defection-yc-113",
+        "src_ash_tl_yc116_eifyr-amp-co-respond-to-tukoss-messaging-yc-116",
+        "src_ash_tl_yc117_hilen-tukoss-resurfaces-yc-117",
+        "src_ash_tl_yc117_ded-confirms-age-of-tukoss-footage-releases-detain",
+        "src_ash_tl_yc117_tukoss-fate-confirmed-capsuleers-recognized-yc-117"
+      ]
+    },
+    {
+      "id": "cnc_capsuleer_alliances",
+      "type": "Concept",
+      "name": "Capsuleer Alliances",
+      "brief": "YC106 formal recognition of capsuleer-organized alliances as sovereign-equivalent political bodies. Origin of Goonswarm, Test, and the modern null-sec power blocs.",
+      "master_summary": "YC106 formal recognition of capsuleer-organized alliances as sovereign-equivalent political bodies \u2014 the legal basis for capsuleer-led sov-null and the structural complement to the empires' Faction Warfare militias. Goonswarm, Test, and the modern null-sec power blocs all date their existence from this recognition cycle. The recognition is upstream of every YC110+ capsuleer-faction story arc including Ushra'Khan and the Imperial Armageddon capture.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_tl_yc106_capsuleer-alliances-recognized-yc-106"
+      ]
     }
   ],
   "connections": [
@@ -11550,6 +11689,332 @@
       "rel": "parallels",
       "conf": 0.7,
       "claim": "Sarum's later proclamation welcomed the restored tribes.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_outer_ring_excavations",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Caldari mining megacorp.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_outer_ring_excavations",
+      "tgt": "org_upwell",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Founding signatory; ORE membership confirmed by Yani Sar Arteu YC117.",
+      "supporting_sources": [
+        "src_ash_tl_yc117_ore-membership-of-upwell-consortium-confirmed-by-y"
+      ]
+    },
+    {
+      "src": "per_yani_sar_arteu",
+      "tgt": "org_outer_ring_excavations",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Founder.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_yani_sar_arteu",
+      "tgt": "org_upwell",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Confirmed ORE membership in Upwell.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_outer_ring_excavations",
+      "tgt": "org_forest_faction",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Forest-faction-aligned within State politics.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_carthum_conglomerate",
+      "tgt": "org_amarr_empire",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Amarr arms manufacturer.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_carthum_conglomerate",
+      "tgt": "org_upwell",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Upwell founding signatory.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_creodron",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Federation drone manufacturer.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_creodron",
+      "tgt": "org_upwell",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Upwell founding signatory.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_egonics",
+      "tgt": "org_caldari_state",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Caldari electronics.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_egonics",
+      "tgt": "org_upwell",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Upwell founding signatory.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_society_of_conscious_thought",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "aligned-with",
+      "conf": 0.9,
+      "claim": "Drifter-research briefing convener.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_society_of_conscious_thought",
+      "tgt": "plc_yulai",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Capsuleer SoCT briefings convened in Yulai.",
+      "supporting_sources": [
+        "src_news_capsuleer-delegates-at-soct-gathering-in-yulai-to-receive-special-concord-briefing"
+      ]
+    },
+    {
+      "src": "org_society_of_conscious_thought",
+      "tgt": "cnc_capsuleers",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Convenes capsuleer briefings.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_society_of_conscious_thought",
+      "tgt": "org_air_laboratories",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Adjacent research bodies.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_society_of_conscious_thought",
+      "tgt": "evt_triglavian_invasion",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "SoCT confirmed Triglavian-Drifter conflict to capsuleers.",
+      "supporting_sources": [
+        "src_news_soct-confirms-triglavian-drifter-conflict-amidst-calls-for-capsuleer-aid"
+      ]
+    },
+    {
+      "src": "per_zorya_triglav",
+      "tgt": "org_triglavian_collective",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Senior Triglavian voice.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_zorya_triglav",
+      "tgt": "evt_triglavian_invasion",
+      "rel": "participated-in",
+      "conf": 0.85,
+      "claim": "Surfaces in Pochven and Drifter-conflict cycles.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_triglavian_revealed",
+      "tgt": "org_triglavian_collective",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "First major public revelation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_triglavian_revealed",
+      "tgt": "evt_triglavian_invasion",
+      "rel": "succeeded-by",
+      "conf": 0.95,
+      "claim": "Two-year warning before the YC122 Invasion.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_minmatar_elders_invasion",
+      "tgt": "evt_elder_war",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Sub-event of the Elder War cycle.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_minmatar_elders_invasion",
+      "tgt": "org_amarr_empire",
+      "rel": "opposed-to",
+      "conf": 0.95,
+      "claim": "Republic invasion of Empire.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_minmatar_elders_invasion",
+      "tgt": "evt_caldari_luminaire_invasion",
+      "rel": "parallels",
+      "conf": 0.85,
+      "claim": "YC110 wars decade; companion event to State strike.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_minmatar_elders_invasion",
+      "tgt": "per_jamyl_i",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Jamyl's superweapon deployment cemented her reign in response.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_minmatar_elders_invasion",
+      "tgt": "plc_sarum_prime",
+      "rel": "located-in",
+      "conf": 0.9,
+      "claim": "Sarum Prime strike was part of the invasion.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_hilen_tukoss_defection",
+      "tgt": "per_dr_tukoss",
+      "rel": "caused-by",
+      "conf": 0.92,
+      "claim": "Tukoss defection.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_hilen_tukoss_defection",
+      "tgt": "org_caldari_state",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "Defected from State corporate confinement.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_hilen_tukoss_defection",
+      "tgt": "evt_exordium_charter",
+      "rel": "caused-by",
+      "conf": 0.7,
+      "claim": "Predates and prefigures Exordium consolidation.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_great_wildlands",
+      "tgt": "plc_curse",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Bordered by Angel Cartel-held Curse.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_great_wildlands",
+      "tgt": "plc_heimatar",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Bordered by Republic core regions.",
+      "supporting_sources": []
+    },
+    {
+      "src": "plc_great_wildlands",
+      "tgt": "per_anar_abdul",
+      "rel": "located-in",
+      "conf": 0.85,
+      "claim": "Anar Abdul's wormhole-strategy operations originate here.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_capsuleer_alliances",
+      "tgt": "cnc_capsuleers",
+      "rel": "descends-from",
+      "conf": 0.95,
+      "claim": "Capsuleer political organization.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_capsuleer_alliances",
+      "tgt": "org_ushra_khan",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "Recognition enabled Ushra'Khan's existence.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_capsuleer_alliances",
+      "tgt": "org_concord",
+      "rel": "caused-by",
+      "conf": 0.85,
+      "claim": "CONCORD-issued recognition.",
+      "supporting_sources": []
+    },
+    {
+      "src": "cnc_capsuleer_alliances",
+      "tgt": "cnc_emwpa",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "Both institutional frameworks for capsuleer political action.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_aritcio_kor_azor",
+      "tgt": "per_doriam_kor_azor",
+      "rel": "member-of",
+      "conf": 0.85,
+      "claim": "Doriam's son and Heir-line.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_aritcio_kor_azor",
+      "tgt": "per_catiz_i",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Kor-Azor heir vs Tash-Murkon ascendancy.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_karin_midular",
+      "tgt": "org_sebiestor_tribe",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Sebiestor Tribal Chief.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_karin_midular",
+      "tgt": "per_maleatu_shakur",
+      "rel": "aligned-with",
+      "conf": 0.7,
+      "claim": "Tribal Council senior diplomatic voice supporting Sanmatar.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_karin_midular",
+      "tgt": "cnc_seven_tribes",
+      "rel": "aligned-with",
+      "conf": 0.85,
+      "claim": "Restored seven-tribes structure leadership.",
       "supporting_sources": []
     }
   ],

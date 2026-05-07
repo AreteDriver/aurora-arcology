@@ -77,6 +77,8 @@ export const LENSES: Lens[] = [
       "cnc_mountain_ocean_forest",
       "per_caroline_grace",
       "org_roden_shipyards",
+      "org_society_of_conscious_thought",
+      "cnc_capsuleer_alliances",
     ],
   },
   {
@@ -119,6 +121,10 @@ export const LENSES: Lens[] = [
       "evt_crielere_project",
       "cnc_mountain_ocean_forest",
       "evt_caldari_constructions_revolt",
+      "org_outer_ring_excavations",
+      "org_carthum_conglomerate",
+      "org_creodron",
+      "org_egonics",
     ],
   },
   {
@@ -191,6 +197,8 @@ export const LENSES: Lens[] = [
       "evt_aidonis_heideran",
       "evt_battle_mekhios",
       "org_ushra_khan",
+      "evt_minmatar_elders_invasion",
+      "cnc_capsuleer_alliances",
     ],
   },
   {
@@ -236,6 +244,10 @@ export const LENSES: Lens[] = [
       "org_cult_of_tetrimon",
       "per_dr_tukoss",
       "per_caroline_grace",
+      "org_society_of_conscious_thought",
+      "per_zorya_triglav",
+      "evt_triglavian_revealed",
+      "evt_hilen_tukoss_defection",
     ],
   },
   {
@@ -267,6 +279,9 @@ export const LENSES: Lens[] = [
       "plc_genesis",
       "org_cult_of_tetrimon",
       "per_dr_tukoss",
+      "evt_hilen_tukoss_defection",
+      "org_society_of_conscious_thought",
+      "cnc_capsuleer_alliances",
     ],
   },
   {
@@ -324,6 +339,8 @@ export const LENSES: Lens[] = [
       "plc_genesis",
       "org_third_jove_empire",
       "evt_jove_ouria_revolt",
+      "per_zorya_triglav",
+      "org_society_of_conscious_thought",
     ],
   },
   {
@@ -433,6 +450,8 @@ export const LENSES: Lens[] = [
       "evt_kador_gallente_invasion",
       "evt_doriam_ii_assassination",
       "evt_aidonis_heideran",
+      "org_carthum_conglomerate",
+      "evt_minmatar_elders_invasion",
     ],
   },
   {
@@ -463,6 +482,7 @@ export const LENSES: Lens[] = [
       "plc_metropolis",
       "evt_archangels_skarkon_annex_yc110",
       "per_general_akuras",
+      "plc_great_wildlands",
     ],
   },
   {
@@ -494,6 +514,9 @@ export const LENSES: Lens[] = [
       "evt_crielere_project",
       "cnc_mountain_ocean_forest",
       "evt_caldari_constructions_revolt",
+      "org_outer_ring_excavations",
+      "per_yani_sar_arteu",
+      "org_egonics",
     ],
   },
   {
