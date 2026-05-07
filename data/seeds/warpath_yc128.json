@@ -5946,6 +5946,146 @@
         "src_book_templar_one",
         "src_chronicle_mordus-legion"
       ]
+    },
+    {
+      "src": "per_alix_moreau",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Current Gallente Federation President (YC128\u2013).",
+      "supporting_sources": [
+        "src_news_alix-moreau-elected-president-of-gallente-federation",
+        "src_news_presidential-profile-alix-moreau"
+      ]
+    },
+    {
+      "src": "evt_gallente_election_yc128",
+      "tgt": "org_gallente_federation",
+      "rel": "participated-in",
+      "conf": 0.98,
+      "claim": "YC128 Federation presidential election that brought Alix Moreau to office.",
+      "supporting_sources": [
+        "src_news_alix-moreau-elected-president-of-gallente-federation"
+      ]
+    },
+    {
+      "src": "plc_solitude",
+      "tgt": "org_gallente_federation",
+      "rel": "located-in",
+      "conf": 0.95,
+      "claim": "Solitude region \u2014 Federation-aligned highsec territory.",
+      "supporting_sources": []
+    },
+    {
+      "src": "evt_intaki_seizure_uprising",
+      "tgt": "org_gallente_federation",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "Federation aggressively seized Intaki + adjacent constellations from FW war zone YC124, triggering the Uprising arc.",
+      "supporting_sources": [
+        "src_news_breaking-massive-invasion-of-intaki-and-placid-systems-by-federation-navy",
+        "src_news_breaking-president-celes-aguard-addresses-federation-on-liberation-of-intaki"
+      ]
+    },
+    {
+      "src": "org_quafe",
+      "tgt": "org_gallente_federation",
+      "rel": "member-of",
+      "conf": 0.92,
+      "claim": "Quafe \u2014 the major Gallente Federation soft-drink-and-everything-else megacorp.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_otro_gariushi",
+      "tgt": "org_ishukone",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Ishukone CEO until his assassination YC110 at the Caldari\u2013Federation summit.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "per_otro_gariushi",
+      "tgt": "phn_insorum",
+      "rel": "aligned-with",
+      "conf": 0.95,
+      "claim": "Otro authorized Ishukone's Insorum development. The 'broker' plot targeted him to stop it; Mens inherited the mandate.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "per_otro_gariushi",
+      "tgt": "evt_otro_assassination",
+      "rel": "participated-in",
+      "conf": 0.99,
+      "claim": "Killed at YC110 Caldari\u2013Federation summit when Alexander Noir's Nyx struck the station with safety protocols disabled.",
+      "supporting_sources": [
+        "src_book_templar_one"
+      ]
+    },
+    {
+      "src": "org_edencom",
+      "tgt": "evt_drifter_crisis",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "EDENCOM is one of the five drifter-pillar-formation occupiers post-Drifter Crisis.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_edencom",
+      "tgt": "phn_drifter_hyperspace_network",
+      "rel": "opposed-to",
+      "conf": 0.85,
+      "claim": "EDENCOM occupies drifter pillar formations \u2014 operationally hostile to drifter hyperspace activity.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_edencom",
+      "tgt": "org_air_laboratories",
+      "rel": "opposed-to",
+      "conf": 0.7,
+      "claim": "Lost CONCORD funding to AIR Labs in the Mountain/Ocean realignment \u2014 competing inter-empire research bodies.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_sansha_nation",
+      "tgt": "org_gallente_federation",
+      "rel": "opposed-to",
+      "conf": 0.9,
+      "claim": "Sansha incursions historically targeted Gallente highsec systems.",
+      "supporting_sources": []
+    },
+    {
+      "src": "org_mordus_legion",
+      "tgt": "plc_caldari_prime",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "Mordu's Legion took full control of Caldari Prime during the Caldari\u2013Federation conflict, later announced departure.",
+      "supporting_sources": [
+        "src_news_mordus-legion-announces-full-control-of-caldari-prime",
+        "src_news_clashes-on-caldari-prime-quelled-by-mordus-legion",
+        "src_news_mordus-legion-command-announces-departure-from-caldari-prime"
+      ]
+    },
+    {
+      "src": "per_tibus_heth",
+      "tgt": "plc_jita",
+      "rel": "participated-in",
+      "conf": 0.85,
+      "claim": "Heth's State coup originated from Kaalakiota / State workforce mobilization centered on Jita and Caldari Prime.",
+      "supporting_sources": []
+    },
+    {
+      "src": "per_muryia_mordu",
+      "tgt": "org_mordus_legion",
+      "rel": "member-of",
+      "conf": 0.99,
+      "claim": "Muryia Mordu \u2014 founder and current commander of Mordu's Legion.",
+      "supporting_sources": [
+        "src_chronicle_mordus-legion"
+      ]
     }
   ],
   "_curation_notes": [
