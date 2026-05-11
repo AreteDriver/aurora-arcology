@@ -26,7 +26,7 @@ Moreau's narrow win over Roden inverted the expected hawkish response to Caldari
 ### Alix Moreau
 
 New Gallente Federation President. Autonomist Party. Inaugurated under the Jita-gate cloud. Issued amnesty to Syndicate descendants during the conquest, positioning the Federation against Caldari rule. Hawkish Senate factions worry her military inexperience hands the State the upper hand.
-**Cited in:** [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Presidential Profile: Alix Moreau](https://universe.eveonline.com/new-eden-news/presidential-profile-alix-moreau)
+**Cited in:** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Presidential Profile: Alix Moreau](https://universe.eveonline.com/new-eden-news/presidential-profile-alix-moreau) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ### Celestis Aguard
 
@@ -234,6 +234,8 @@ The immortal pilot caste — humans who undergo subcranial-implant-and-cloning t
 - **1×** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04) (2024-04-04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI)
 - **1×** [SOCT Urges Capsuleers Not to Support Deathless (2024-10-17)](https://universe.eveonline.com/new-eden-news/soct-urges-capsuleers-not-to-support-deathless)
 - **1×** [Presidential Profile: Alix Moreau (2026-03-10)](https://universe.eveonline.com/new-eden-news/presidential-profile-alix-moreau)
+- **1×** [The Scope — Intaki Syndicate Fleet Attempts Breakout (2026-05-07)](https://www.youtube.com/watch?v=lfqboHJUNpw)
+- **1×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News (2026-05-09)](https://www.youtube.com/watch?v=kFLp1gEBqEw)
 - **1×** [Roden Shipyards granted extensive Federation construction contracts, competitors protest (YC 105) (YC105)](https://www.eveonline.com/article/roden-shipyards-granted-extensive-federation-construction-contracts-competitors-protest)
 - **1×** [Caldari and Gallente dignitaries attend conference at Crielere - Foiritan causes stir (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/caldari-and-gallente-dignitaries-attend-conference-at-crielere-foiritan-causes-stir/)
 - **1×** [Gallente President Foiritan concerned for Emperor (YC 105) (YC105)](https://www.eveonline.com/article/gallente-president-foiritan-concerned-for-emperor-1)

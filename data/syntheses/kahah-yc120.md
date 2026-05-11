@@ -82,6 +82,7 @@ Intaki religion. Believes in reincarnation; Adamas reincarnate without technolog
 ### Intaki Syndicate
 
 Loose autonomous federation in the Syndicate region. Founded by Caldari-sympathetic Intaki exiles after the Caldari Rebellion; each station autonomous; non-political officially. The conquest YC128.05.05 ended its sovereignty but not its membership network — which now operates as a fugitive financial / smuggling structure with capital ships escaping into highsec.
+**Cited in:** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ### Ishukone Corporation
 
@@ -252,6 +253,8 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 - **1×** [Semiki Situation Deteriorates; Ishukone Watch Releases Initial Findings (2019-01-24)](https://universe.eveonline.com/new-eden-news/semiki-situation-deteriorates-ishukone-watch-releases-initial-findings)
 - **1×** [Ishukone and CEP Battle SARO in CONCORD Assembly Over Dangerous Research Materials (2019-02-12)](https://universe.eveonline.com/new-eden-news/ishukone-and-cep-battle-saro-in-concord-assembly-over-dangerous-research-materials)
 - **1×** [New Caldari Ishukone Erection 3 Meters Taller Than Kaalakiota Erection (2019-04-01)](https://universe.eveonline.com/new-eden-news/new-caldari-ishukone-erection-3-meters-taller-than-kaalakiota-erection)
+- **1×** [The Scope — Intaki Syndicate Fleet Attempts Breakout (2026-05-07)](https://www.youtube.com/watch?v=lfqboHJUNpw)
+- **1×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News (2026-05-09)](https://www.youtube.com/watch?v=kFLp1gEBqEw)
 - **1×** [Ishukone CEO reveals new techologies from Crielere (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/world-news/ishukone-ceo-gariushi-unveils-crielere-discoveries/ http://community.eveonline.com/news/news-channels/world-news/minmatars-excited-over-new-technologies/)
 - **1×** [Ishukone Decries Delicacies Scandal, Offers to Reimburse (YC 105) (YC105)](https://www.eveonline.com/article/ishukone-decries-delicacies-scandal-offers-to-reimburse)
 - **1×** [Ishukone Vessel Missing in Domain Region, Reward Offered (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/ishukone-vessel-missing-in-domain-region-reward-offered/)

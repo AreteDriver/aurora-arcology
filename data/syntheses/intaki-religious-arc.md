@@ -40,7 +40,7 @@ The YC124 Federation seizure of Intaki + two adjacent constellations. Triggered 
 ### Alix Moreau
 
 New Gallente Federation President. Autonomist Party. Inaugurated under the Jita-gate cloud. Issued amnesty to Syndicate descendants during the conquest, positioning the Federation against Caldari rule. Hawkish Senate factions worry her military inexperience hands the State the upper hand.
-**Cited in:** [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Presidential Profile: Alix Moreau](https://universe.eveonline.com/new-eden-news/presidential-profile-alix-moreau)
+**Cited in:** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Presidential Profile: Alix Moreau](https://universe.eveonline.com/new-eden-news/presidential-profile-alix-moreau) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ### Allar Chakaide
 
@@ -65,7 +65,7 @@ Ida monk who claimed to discover the Lost Adama in YC120 aboard a Khanid cruiser
 ### Silphy en Diabel
 
 Daughter of the original Syndicate unifier; expelled from the Sisters of Eve after her Serpentis collaboration. Engineered the Pas station famine to seize control of Poitot, then methodically consolidated power across the Syndicate. Her arrest YC128.05.01 broke the Syndicate's leadership backbone and gave the Caldari the pretext to annex.
-**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ### Jarek (Salvation Crusader) *(YC111)*
 
@@ -92,6 +92,7 @@ Intaki religion. Believes in reincarnation; Adamas reincarnate without technolog
 ### Intaki Syndicate
 
 Loose autonomous federation in the Syndicate region. Founded by Caldari-sympathetic Intaki exiles after the Caldari Rebellion; each station autonomous; non-political officially. The conquest YC128.05.05 ended its sovereignty but not its membership network — which now operates as a fugitive financial / smuggling structure with capital ships escaping into highsec.
+**Cited in:** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ### Royal Khanid Navy
 
@@ -157,6 +158,8 @@ Amarr slave-control compound. Fatally addictive — withdrawal kills. Maintains 
 ## Sources cited
 
 - **11×** [Lore Tourism - The Redemption of the Ammatar (2026-02)](https://www.youtube.com/watch?v=nQUXg9vhPmo)
+- **3×** [The Scope — Intaki Syndicate Fleet Attempts Breakout (2026-05-07)](https://www.youtube.com/watch?v=lfqboHJUNpw)
+- **3×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News (2026-05-09)](https://www.youtube.com/watch?v=kFLp1gEBqEw)
 - **2×** [Breaking News: Ishukone Wins Development Rights to Intaki System (2009-08-20)](https://universe.eveonline.com/new-eden-news/breaking-news-ishukone-wins-development-rights-to-intaki-system)
 - **2×** [Ante (Chronicle) (2010-04-19)](https://universe.eveonline.com/chronicles/ante)
 - **2×** [EVE: Templar One (Tony Gonzales) (2012)](https://www.eveonline.com/news/view/templar-one)

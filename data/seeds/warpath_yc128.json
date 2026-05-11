@@ -8,8 +8,8 @@
     "phase": 0,
     "license_mode": "L3-user-paste",
     "extraction_source": "Five Ashterothi transcripts (auto-captions pulled via yt-dlp). Curator-owned annotation; not a republication of source material. Mil-Campaign #2 region (Ammatar / Starkmanir / Old Wars / Tanu dread attack) extracted from ash_ammatar_tourism transcript.",
-    "node_count": 200,
-    "connection_count": 368
+    "node_count": 357,
+    "connection_count": 1325
   },
   "sources": [
     {
@@ -354,6 +354,63 @@
       "license_tier": "ccp-fan-content",
       "canonicity": "ccp-canon",
       "excerpt": null
+    },
+    {
+      "id": "src_scope_intaki_breakout",
+      "type": "Scope Video",
+      "publisher": "CCP Games \u2014 The Scope",
+      "title": "The Scope \u2014 Intaki Syndicate Fleet Attempts Breakout",
+      "url": "https://www.youtube.com/watch?v=lfqboHJUNpw",
+      "date": "2026-05-07",
+      "license_tier": "ccp-fan-content",
+      "canonicity": "ccp-canon",
+      "local_path": "/tmp/scope_intaki_breakout.clean.txt"
+    },
+    {
+      "id": "src_news_scope_breakout_destruction",
+      "type": "Press Release",
+      "publisher": "CCP Games \u2014 New Eden News",
+      "title": "The SCOPE \u2014 Syndicate Breakout Attempt Ends in Destruction",
+      "url": "https://universe.eveonline.com/new-eden-news/the-scope-syndicate-breakout-attempt-ends-in",
+      "date": "2026-05-08",
+      "license_tier": "ccp-fan-content",
+      "canonicity": "ccp-canon",
+      "excerpt": "Curator synopsis: text-news companion to the Scope broadcast. The first Intaki Syndicate breakout fleet \u2014 three Moros dreadnoughts, two Nyx supercarriers, one Titan (auto-caption rendered the hull as 'Arabus'; the Gallente/Syndicate Titan hull is the Erebus) \u2014 jumped to an unregistered mobile cynosural beacon in high-sec Orvolle (Bayet constellation, Placid) and was destroyed by capsuleer loyalists working CONCORD-suspect bounties placed by Caldari Navy Executive General Heika Torigo."
+    },
+    {
+      "id": "src_ash_yc128_05_07",
+      "type": "Stream Transcript",
+      "publisher": "Ashterothi (YouTube)",
+      "title": "Syndicate Breakout! RIP CCP Games \u2014 Will AI Double My ISK? \u2014 EVE Universe Show YC128.05.07",
+      "url": "https://www.youtube.com/watch?v=oNGS34eUCmM",
+      "date": "2026-05-07",
+      "license_tier": "permissioned-creator",
+      "canonicity": "creator-interpretation",
+      "local_path": "/tmp/ash_yc128_05_07.clean.txt"
+    },
+    {
+      "id": "src_ash_silphy_arrested_news",
+      "type": "Stream Transcript",
+      "publisher": "Ashterothi (YouTube)",
+      "title": "Silphy en Diabel Arrested in Relation to Jita-gate Incident \u2014 New Eden News",
+      "url": "https://www.youtube.com/watch?v=kFLp1gEBqEw",
+      "date": "2026-05-09",
+      "license_tier": "permissioned-creator",
+      "canonicity": "creator-interpretation",
+      "local_path": "/tmp/ash_silphy_arrested_05_09.clean.txt"
+    },
+    {
+      "id": "src_ash_capday_burn_pochven",
+      "type": "Stream Transcript",
+      "publisher": "Ashterothi (YouTube)",
+      "title": "Getting the Most Out of Capsuleer Day XXIII \u2014 Burn Pochven \u2014 EVE Universe Show YC128.05.08",
+      "url": "https://www.youtube.com/watch?v=jI01X5HWOkU",
+      "date": "2026-05-08",
+      "license_tier": "permissioned-creator",
+      "canonicity": "creator-interpretation",
+      "local_path": "/tmp/ash_capday_burn_pochven_05_08.clean.txt",
+      "excerpt": "Curator reference: primarily Capsuleer Day XXIII site-running mechanics plus the player-organized 'Burn Pochven' event; only light in-fiction content (Triglavian / Pochven framing). Deferred for full claim extraction.",
+      "_note": "Deferred \u2014 placeholder for next extraction pass"
     }
   ],
   "nodes": [
@@ -410,7 +467,8 @@
         "src_ash_yc128_05_05",
         "src_news_silphy_arrested",
         "src_chronicle_silphy",
-        "src_chronicle_ante"
+        "src_chronicle_ante",
+        "src_ash_silphy_arrested_news"
       ],
       "master_summary": "The pivot point between Jita-gate and the Syndicate conquest. Two Syndicate agents convicted in March named Silphy under plea, giving the Caldari Navy the legal cover to detain her in New Caldari and frame the broader Syndicate as compromised. Without this arrest, the conquest framing would not have held diplomatically."
     },
@@ -423,7 +481,9 @@
       "canonicity": "ccp-canon",
       "sources": [
         "src_ash_yc128_05_05",
-        "src_news_caldari_conquers_syndicate"
+        "src_news_caldari_conquers_syndicate",
+        "src_news_scope_breakout_destruction",
+        "src_ash_silphy_arrested_news"
       ],
       "master_summary": "The first forcible empire annexation of nullsec in modern New Eden history. Caldari Navy seized 106 systems against minimal resistance, framed as retaliation for Silphy's role in Jita-gate. Strategically eliminates the buffer state Lai Dai had been working through; structurally hands Mountain+Ocean factions the win they couldn't get politically."
     },
@@ -435,7 +495,10 @@
       "brief": "Three escort intercept windows in highsec constellations Pelille / Bayet / Orvolle. Capsuleer bounty-paid kills on Syndicate fugitive capitals using captured highsec-cyno tech.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_ash_yc128_05_05"
+        "src_ash_yc128_05_05",
+        "src_scope_intaki_breakout",
+        "src_news_scope_breakout_destruction",
+        "src_ash_yc128_05_07"
       ],
       "master_summary": "The capsuleer-facing climax of the conquest. Three highsec constellation windows allow the Syndicate fugitive capitals \u2014 using captured high-sec cyno tech inherited from the YC123 dread assaults \u2014 to attempt escape. CCP-built escort intercept event, but lore-significant because the same tech links forward to next month's expansion."
     },
@@ -539,7 +602,8 @@
       "brief": "Mercenary fleets used illegal high-sec-authorized cyno beacons to land dread assaults at Tanu and Junfaa. Established canonical existence of empire-circumventing cyno tech. Tanu II is the capital of the Ammatar Mandate \u2014 the same site Ash predicts as Mil-Campaign #2 zone.",
       "canonicity": "ccp-canon",
       "sources": [
-        "src_ash_yc128_05_05"
+        "src_ash_yc128_05_05",
+        "src_ash_yc128_05_07"
       ],
       "master_summary": "The canonical precedent for high-sec-authorized illegal cyno beacons. Mercenary fleets used them to land dread assaults at Tanu and Junfaa. The same tech returns five years later for the Syndicate breakout \u2014 the inheritance is the load-bearing connection."
     },
@@ -640,7 +704,9 @@
         "src_ash_yc128_05_05",
         "src_news_moreau_elected",
         "src_news_alix-moreau-elected-president-of-gallente-federation",
-        "src_news_presidential-profile-alix-moreau"
+        "src_news_presidential-profile-alix-moreau",
+        "src_scope_intaki_breakout",
+        "src_ash_silphy_arrested_news"
       ],
       "master_summary": "New Gallente Federation President. Autonomist Party. Inaugurated under the Jita-gate cloud. Issued amnesty to Syndicate descendants during the conquest, positioning the Federation against Caldari rule. Hawkish Senate factions worry her military inexperience hands the State the upper hand."
     },
@@ -680,7 +746,9 @@
         "src_chronicle_silphy",
         "src_chronicle_ante",
         "src_news_silphy_arrested",
-        "src_news_silphy-en-diabel-arrested-in-relation-to-jita-gate-incident"
+        "src_news_silphy-en-diabel-arrested-in-relation-to-jita-gate-incident",
+        "src_ash_silphy_arrested_news",
+        "src_scope_intaki_breakout"
       ],
       "master_summary": "Daughter of the original Syndicate unifier; expelled from the Sisters of Eve after her Serpentis collaboration. Engineered the Pas station famine to seize control of Poitot, then methodically consolidated power across the Syndicate. Her arrest YC128.05.01 broke the Syndicate's leadership backbone and gave the Caldari the pretext to annex."
     },
@@ -1105,7 +1173,11 @@
       "name": "Intaki Syndicate",
       "brief": "Loose autonomous federation in Syndicate region. Founded by Caldari-sympathetic Intaki exiles after Caldari Rebellion. Each station autonomous; non-political officially.",
       "canonicity": "ccp-canon",
-      "master_summary": "Loose autonomous federation in the Syndicate region. Founded by Caldari-sympathetic Intaki exiles after the Caldari Rebellion; each station autonomous; non-political officially. The conquest YC128.05.05 ended its sovereignty but not its membership network \u2014 which now operates as a fugitive financial / smuggling structure with capital ships escaping into highsec."
+      "master_summary": "Loose autonomous federation in the Syndicate region. Founded by Caldari-sympathetic Intaki exiles after the Caldari Rebellion; each station autonomous; non-political officially. The conquest YC128.05.05 ended its sovereignty but not its membership network \u2014 which now operates as a fugitive financial / smuggling structure with capital ships escaping into highsec.",
+      "sources": [
+        "src_scope_intaki_breakout",
+        "src_ash_silphy_arrested_news"
+      ]
     },
     {
       "id": "org_ishukone",
@@ -1265,7 +1337,8 @@
         "src_ash_tl_yc111_lai-dai-scientist-in-coma-following-cybernetic-att",
         "src_ash_tl_yc111_caldari-business-tribunal-in-special-hearing-of-su",
         "src_ash_tl_yc117_lai-dai-convoy-attacked-yc-117",
-        "src_ash_tl_yc122_kaalakiota-backs-sukuuvestaa-over-lai-dai-in-34-gh"
+        "src_ash_tl_yc122_kaalakiota-backs-sukuuvestaa-over-lai-dai-in-34-gh",
+        "src_ash_silphy_arrested_news"
       ]
     },
     {
@@ -2065,7 +2138,11 @@
       "name": "Highsec Cyno Beacon Technology",
       "brief": "Illegal/captured cyno tech bypassing empire jamming. Canon since YC123 dread assaults. Re-weaponized for Syndicate breakout.",
       "canonicity": "ccp-canon",
-      "master_summary": "Illegal/captured cyno-beacon tech that bypasses empire jamming. Canon since the YC123 dread assaults at Tanu and Junfaa. Re-weaponized for the YC128 Syndicate breakout \u2014 the single load-bearing piece of inheritance between the Old-Wars-era and the Warpath arc."
+      "master_summary": "Illegal/captured cyno-beacon tech that bypasses empire jamming. Canon since the YC123 dread assaults at Tanu and Junfaa. Re-weaponized for the YC128 Syndicate breakout \u2014 the single load-bearing piece of inheritance between the Old-Wars-era and the Warpath arc.",
+      "sources": [
+        "src_scope_intaki_breakout",
+        "src_news_scope_breakout_destruction"
+      ]
     },
     {
       "id": "phn_prismatic_sites",
@@ -4028,7 +4105,9 @@
         "src_news_breaking-news-caldari-navy-task-force-crosses-federation-border-invades-gallente-space",
         "src_news_caldari-navy-claims-a-heavy-blow",
         "src_news_guristas-pirates-strike-against-caldari-navy-convoy",
-        "src_news_caldari_conquers_syndicate"
+        "src_news_caldari_conquers_syndicate",
+        "src_scope_intaki_breakout",
+        "src_news_scope_breakout_destruction"
       ]
     },
     {
@@ -5848,6 +5927,77 @@
       "master_summary": "Capsuleer alliance \u2014 Amarr-loyalist faction. Imperial-aligned operational support; one of the capsuleer alliances providing political validation for the Empire's claim to capsuleer-faction allegiance.",
       "canonicity": "community-curated",
       "sources": []
+    },
+    {
+      "id": "plc_orvolle",
+      "type": "Place",
+      "name": "Orvolle",
+      "brief": "High-security system in the Bayet constellation, Placid region; directly stargate-connected to the Syndicate region. Site of the first Intaki Syndicate breakout interception (YC128.05.07), where the Syndicate forced a cynosural field in high-sec using an unregistered mobile beacon.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_scope_intaki_breakout",
+        "src_ash_yc128_05_07"
+      ],
+      "master_summary": "Border high-sec system the Caldari militia flagged as a likely Syndicate evacuation corridor (the Caldari called the surrounding Bayet constellation the 'bait constellation'). The Scope's Alton Haveri anchored the YC128.05.07 broadcast from here."
+    },
+    {
+      "id": "per_alton_haveri",
+      "type": "Person",
+      "name": "Alton Haveri",
+      "brief": "The Scope field reporter. Anchored the live YC128.05.07 broadcast from Orvolle covering the destruction of the first Intaki Syndicate breakout fleet.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_scope_intaki_breakout"
+      ]
+    },
+    {
+      "id": "per_heika_torigo",
+      "type": "Person",
+      "name": "Heika Torigo",
+      "brief": "Caldari Navy Executive General. Directed the post-conquest bounty program against Intaki Syndicate vessels and warned loyalist capsuleers (a few days before YC128.05.07) that multiple Syndicate breakout attempts were anticipated over the following two days.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_scope_intaki_breakout",
+        "src_news_scope_breakout_destruction"
+      ]
+    },
+    {
+      "id": "evt_orvolle_breakout_interception",
+      "type": "Event",
+      "name": "Orvolle Breakout Interception",
+      "date": "2026-05-07",
+      "brief": "First of three anticipated Intaki Syndicate capital breakout attempts. A Syndicate fleet (3\u00d7 Moros, 2\u00d7 Nyx, 1\u00d7 Titan) jumped to an unregistered mobile cynosural beacon in high-sec Orvolle, was flagged CONCORD-suspect, and was destroyed by capsuleer loyalists; capital-grade weapons proved ineffective against sub-capitals in high-sec.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_scope_intaki_breakout",
+        "src_news_scope_breakout_destruction",
+        "src_ash_yc128_05_07"
+      ],
+      "master_summary": "The canon-confirmed realization of one of the escort-intercept windows in evt_syndicate_capital_breakout. Demonstrates the Syndicate inherited / refined the YC123 high-sec cyno-beacon tech (the Tanu II / Junfaa precedent). The Scope covered it live (Alton Haveri, from Orvolle); Caldari intelligence had apparently compromised the Syndicate's plans, and General Heika Torigo's communiqu\u00e9 had pre-warned that two further attempts were expected."
+    },
+    {
+      "id": "evt_yc124_caldari_syndicate_pact",
+      "type": "Event",
+      "name": "YC124 Caldari\u2013Syndicate Protection Pact",
+      "date": "YC124",
+      "brief": "The Caldari State signed a protection agreement with the Intaki Syndicate in exchange for control of a border constellation (auto-caption: 'DSTC-M4Q'). Reflected the historically sympathetic State\u2013Syndicate relationship; dissolved once the State attributed the YC128 Jita-gate attacks to the Syndicate.",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_scope_intaki_breakout",
+        "src_ash_yc128_05_07"
+      ]
+    },
+    {
+      "id": "evt_silphy_trial_yc128",
+      "type": "Event",
+      "name": "Trial of Silphy en Diabel",
+      "date": "2026-05-19",
+      "brief": "Scheduled for YC128.05.19 \u2014 the Tuesday after Fanfest, the trigger for the final week of the Warpath live-event cycle. Silphy's legal representative read a statement asserting her innocence and telling the authorities not to waste their time on a trial \u2014 widely read as ominous (Syndicate retaliation anticipated).",
+      "canonicity": "ccp-canon",
+      "sources": [
+        "src_ash_silphy_arrested_news",
+        "src_ash_yc128_05_07"
+      ]
     }
   ],
   "connections": [
@@ -16096,6 +16246,210 @@
       "conf": 0.55,
       "claim": "Federation political-industrial alignment.",
       "supporting_sources": []
+    },
+    {
+      "src": "evt_orvolle_breakout_interception",
+      "tgt": "evt_syndicate_capital_breakout",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "First realized window of the three-attempt Syndicate capital breakout campaign; canon-confirmed by The Scope's live YC128.05.07 broadcast.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout",
+        "src_news_scope_breakout_destruction"
+      ]
+    },
+    {
+      "src": "evt_orvolle_breakout_interception",
+      "tgt": "plc_orvolle",
+      "rel": "located-in",
+      "conf": 1.0,
+      "claim": "The engagement took place in the high-sec Orvolle system after the Syndicate ignited an illegal cynosural field there with an unregistered mobile beacon.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout"
+      ]
+    },
+    {
+      "src": "plc_orvolle",
+      "tgt": "plc_placid",
+      "rel": "located-in",
+      "conf": 1.0,
+      "claim": "Orvolle sits in the Bayet constellation of the Placid region and is directly stargate-connected to the Syndicate region.",
+      "supporting_sources": [
+        "src_ash_yc128_05_07",
+        "src_scope_intaki_breakout"
+      ]
+    },
+    {
+      "src": "evt_orvolle_breakout_interception",
+      "tgt": "phn_highsec_cyno_tech",
+      "rel": "caused-by",
+      "conf": 0.9,
+      "claim": "The Syndicate forced a cynosural field in a high-sec system using an unregistered mobile cyno beacon \u2014 the same empire-circumventing tech canon since the YC123 dread assaults.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout",
+        "src_news_scope_breakout_destruction"
+      ]
+    },
+    {
+      "src": "evt_orvolle_breakout_interception",
+      "tgt": "evt_tanu_dread_attack",
+      "rel": "parallels",
+      "conf": 0.8,
+      "claim": "Structural rhyme: an illegal high-sec cyno beacon lands a capital fleet where empire jamming should forbid it. The YC123 Tanu II attack is the ancestor instance; the breakout is the Catalyst-era inheritor.",
+      "supporting_sources": [
+        "src_ash_yc128_05_07"
+      ]
+    },
+    {
+      "src": "org_caldari_navy",
+      "tgt": "evt_orvolle_breakout_interception",
+      "rel": "participated-in",
+      "conf": 0.85,
+      "claim": "Caldari State Intelligence flagged the breakout corridor and the Caldari Navy's bounty program directed capsuleer loyalists to the kill; Caldari subcapitals were not the decisive force \u2014 the bounty fleet was.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout",
+        "src_news_scope_breakout_destruction"
+      ]
+    },
+    {
+      "src": "per_heika_torigo",
+      "tgt": "org_caldari_navy",
+      "rel": "member-of",
+      "conf": 0.95,
+      "claim": "Caldari Navy Executive General; ran the post-conquest Syndicate-vessel bounty program.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout",
+        "src_news_scope_breakout_destruction"
+      ]
+    },
+    {
+      "src": "per_heika_torigo",
+      "tgt": "evt_orvolle_breakout_interception",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "Issued the pre-engagement communiqu\u00e9 warning loyalist capsuleers that three Syndicate breakout attempts were anticipated over two days, and placed the bounties on the Syndicate vessels.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout",
+        "src_news_scope_breakout_destruction"
+      ]
+    },
+    {
+      "src": "per_alton_haveri",
+      "tgt": "evt_orvolle_breakout_interception",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "Anchored The Scope's live broadcast from Orvolle, narrating the destruction of the Moros, Nyx and Titan hulls in real time.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout"
+      ]
+    },
+    {
+      "src": "org_intaki_syndicate",
+      "tgt": "evt_orvolle_breakout_interception",
+      "rel": "participated-in",
+      "conf": 1.0,
+      "claim": "Lost a capital fleet (3\u00d7 Moros, 2\u00d7 Nyx, 1\u00d7 Titan) attempting the first breakout to Federation space.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout",
+        "src_news_scope_breakout_destruction"
+      ]
+    },
+    {
+      "src": "org_caldari_state",
+      "tgt": "evt_yc124_caldari_syndicate_pact",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "The State took control of a border constellation in exchange for extending protection to the Syndicate.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout",
+        "src_ash_yc128_05_07"
+      ]
+    },
+    {
+      "src": "org_intaki_syndicate",
+      "tgt": "evt_yc124_caldari_syndicate_pact",
+      "rel": "participated-in",
+      "conf": 0.9,
+      "claim": "The Syndicate accepted Caldari protection \u2014 a sign of how sympathetic State\u2013Syndicate relations had been before the YC128 rupture.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout",
+        "src_ash_yc128_05_07"
+      ]
+    },
+    {
+      "src": "evt_yc124_caldari_syndicate_pact",
+      "tgt": "evt_caldari_conquers_syndicate",
+      "rel": "succeeded-by",
+      "conf": 0.85,
+      "claim": "The YC124 protection pact was the prior State\u2013Syndicate settlement; the YC128 conquest is its violent reversal, triggered by the State's attribution of the Jita-gate attacks to the Syndicate.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout",
+        "src_ash_yc128_05_07"
+      ]
+    },
+    {
+      "src": "org_lai_dai",
+      "tgt": "evt_silphy_arrest",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "Lai Dai Protection Services seized Silphy en Diabel's vessel on her arrival at Landfall, New Caldari, then handed her to a joint State Peacekeeper / House of Records task force for interrogation (House of Records CEO Iselon Umaila explained the arrest publicly).",
+      "supporting_sources": [
+        "src_ash_silphy_arrested_news",
+        "src_news_silphy_arrested"
+      ]
+    },
+    {
+      "src": "per_alix_moreau",
+      "tgt": "fac_intaki",
+      "rel": "parallels",
+      "conf": 0.7,
+      "claim": "In an address to the Intaki Assembly, President Moreau offered amnesty to the descendants of the exiled Intaki \u2014 i.e. most of the Syndicate's membership \u2014 opening a Federation off-ramp from the Caldari conquest.",
+      "supporting_sources": [
+        "src_scope_intaki_breakout",
+        "src_ash_silphy_arrested_news"
+      ]
+    },
+    {
+      "src": "evt_silphy_trial_yc128",
+      "tgt": "evt_silphy_arrest",
+      "rel": "caused-by",
+      "conf": 0.95,
+      "claim": "Direct legal sequel to the arrest; trial scheduled for YC128.05.19.",
+      "supporting_sources": [
+        "src_ash_silphy_arrested_news"
+      ]
+    },
+    {
+      "src": "per_silphy_en_diabel",
+      "tgt": "evt_silphy_trial_yc128",
+      "rel": "participated-in",
+      "conf": 0.95,
+      "claim": "Defendant. Her counsel's statement \u2014 asserting innocence and warning the authorities not to bother with a trial \u2014 is widely read as a threat of Syndicate retaliation.",
+      "supporting_sources": [
+        "src_ash_silphy_arrested_news"
+      ]
+    },
+    {
+      "src": "cnc_lai_dai_vs_ishukone_axis",
+      "tgt": "evt_silphy_arrest",
+      "rel": "parallels",
+      "conf": 0.55,
+      "claim": "Ash's read: that Lai Dai \u2014 not the State directly \u2014 executed the arrest makes it a move in the Lai Dai \u2194 Ishukone struggle. Silphy's Syndicate had been the channel for Ishukone's Mordu's-Legion / Mens-Reppola outreach (the 'Ante' chronicle); decapitating it weakens the Ishukone axis.",
+      "supporting_sources": [
+        "src_ash_silphy_arrested_news"
+      ],
+      "contested-by": "Creator interpretation; CCP framing presents the arrest purely as a Jita-gate criminal matter."
+    },
+    {
+      "src": "org_caldari_state",
+      "tgt": "evt_warpath_protocol_failure",
+      "rel": "parallels",
+      "conf": 0.4,
+      "claim": "Curator/creator tinfoil: Ash floats an EDENCOM-or-Caldari-false-flag origin for the cyberattack that disabled CONCORD's automated Warpath response \u2014 reasoning that even an accident, once understood, becomes a weapon. Explicitly self-flagged speculation.",
+      "supporting_sources": [
+        "src_ash_yc128_05_07"
+      ],
+      "contested-by": "Self-flagged speculation; no CCP source attributes the Warpath-protocol attack to the State."
     }
   ],
   "_curation_notes": [
@@ -16120,6 +16474,7 @@
     "Chronicle reconciliation 2026-05-06: fixed Silphy date 2008\u21922001-08-06; renamed src_chronicle_nefantar \u2192 src_chronicle_the-ammatars (canonical CCP slug, affecting 4 nodes); dropped orphan src_chronicle_starkmanir, replaced by src_chronicle_lost-stars (affecting 3 nodes); wired 17 canonical-chronicle citations across 10 chronicle sources.",
     "Canonical promotions 2026-05-07: +10 nodes (Caldari Prime, Tibus Heth, Kaalakiota, Sukuuvestaa, Hyasyoda, Wiyrkomi, Tash-Murkon Region (territorial seat), Sebiestor Tribe, Angel Cartel, Intaki faction) with curator-authored briefs + master_summary. +33 structural edges anchoring them into the existing graph. Citations will surface on the next NER pass via the gazetteer\u2192node containment match.",
     "Round-3 promotions 2026-05-07: +13 nodes (3 Mimitar tribes, 4 regions, Caldari Business Tribunal, Sansha's Nation, Heideran VII / Doriam / Aritcio Kor-Azor / Karsoth). +30 edges anchoring the royal-succession lineage and the Republic tribal-region structure.",
-    "Depth pass 2026-05-07: +5 royal House nodes (Sarum / Tash-Murkon / Kor-Azor / Kador / Ardishapur) + 41 edges wiring underconnected round-3 promotions to the broader graph."
+    "Depth pass 2026-05-07: +5 royal House nodes (Sarum / Tash-Murkon / Kor-Azor / Kador / Ardishapur) + 41 edges wiring underconnected round-3 promotions to the broader graph.",
+    "Round 21 \u2014 ingest YC128.05.07\u201305.09 breakout coverage 2026-05-11: +5 sources (The Scope 'Intaki Syndicate Fleet Attempts Breakout' video, the 'Ends in Destruction' text-news article, Ashterothi EVE Universe Show YC128.05.07, Ashterothi 'Silphy en Diabel Arrested' New Eden News recap YC128.05.09, and a deferred Capsuleer Day / Burn Pochven placeholder). +6 nodes (Orvolle system, Alton Haveri, Heika Torigo, Orvolle Breakout Interception, YC124 Caldari\u2013Syndicate Protection Pact, Trial of Silphy en Diabel). +19 connections; +10 source-citation enrichments on existing breakout / conquest / Silphy nodes. All excerpts are curator-authored paraphrase; no primary transcript text reproduced (L3 discipline). Auto-caption artifact: the Syndicate Titan hull is rendered 'Arabus' in the Scope captions \u2014 read as Erebus pending curator verification."
   ]
 }

@@ -48,7 +48,7 @@ YC122 Triglavian conquest of 27 systems via the abyssal-filament invasion mechan
 ### YC123 Dread Assaults (Tanu / Junfaa) *(2021)*
 
 Mercenary fleets used illegal high-sec-authorized cyno beacons to land dread assaults at Tanu and Junfaa. Established canonical existence of empire-circumventing cyno tech. Tanu II is the capital of the Ammatar Mandate — the same site Ash predicts as Mil-Campaign #2 zone.
-**Cited in:** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+**Cited in:** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Syndicate Breakout! RIP CCP Games — Will AI Double My ISK? — EVE Universe Show YC128.05.07](https://www.youtube.com/watch?v=oNGS34eUCmM)
 
 ### Drifter Crisis (final stages) *(2024)*
 
@@ -202,6 +202,7 @@ Drifter-origin data-transfer / hyperspace infrastructure. Manipulated for the Ji
 ### Highsec Cyno Beacon Technology
 
 Illegal/captured cyno-beacon tech that bypasses empire jamming. Canon since the YC123 dread assaults at Tanu and Junfaa. Re-weaponized for the YC128 Syndicate breakout — the single load-bearing piece of inheritance between the Old-Wars-era and the Warpath arc.
+**Cited in:** [The SCOPE — Syndicate Breakout Attempt Ends in Destruction](https://universe.eveonline.com/new-eden-news/the-scope-syndicate-breakout-attempt-ends-in) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ### Hollow Clone Disaster
 
@@ -333,6 +334,9 @@ Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121 (
 - **1×** [Gates into Jita Damaged As Tensions Between Empires Rise (2026-04-21)](https://universe.eveonline.com/new-eden-news/gates-into-jita-damaged-as-tensions-between-empires-rise)
 - **1×** [New Eden News: Warpath YC128-04-21 - YC128-04-30 (2026-04-30)](https://www.youtube.com/watch?v=QUoUNxfSXUk)
 - **1×** [Hoboleaks — Warpath Cycle Items (2026-04-30)](https://sde.hoboleaks.space/)
+- **1×** [Syndicate Breakout! RIP CCP Games — Will AI Double My ISK? — EVE Universe Show YC128.05.07 (2026-05-07)](https://www.youtube.com/watch?v=oNGS34eUCmM)
+- **1×** [The Scope — Intaki Syndicate Fleet Attempts Breakout (2026-05-07)](https://www.youtube.com/watch?v=lfqboHJUNpw)
+- **1×** [The SCOPE — Syndicate Breakout Attempt Ends in Destruction (2026-05-08)](https://universe.eveonline.com/new-eden-news/the-scope-syndicate-breakout-attempt-ends-in)
 - **1×** [The Empyrean Age (YC 105 -) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Theology Council to lift suppression edict for Tetrimon case (YC 106) (YC106)](http://community.eveonline.com/news/news-channels/eve-online-news/theology-council-to-lift-suppression-edict-for-tetrimon-case/)
 - **1×** [EVE gate bears witness to a beautiful union (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/eve-online-news/eve-gate-bears-witness-to-a-beautiful-union/)

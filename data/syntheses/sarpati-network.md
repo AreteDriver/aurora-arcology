@@ -41,13 +41,14 @@ Reverend Mother / SoE CEO and Salvador Sarpati's sister. Once Silphy's closest a
 ### Silphy en Diabel
 
 Daughter of the original Syndicate unifier; expelled from the Sisters of Eve after her Serpentis collaboration. Engineered the Pas station famine to seize control of Poitot, then methodically consolidated power across the Syndicate. Her arrest YC128.05.01 broke the Syndicate's leadership backbone and gave the Caldari the pretext to annex.
-**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ## Organizations
 
 ### Intaki Syndicate
 
 Loose autonomous federation in the Syndicate region. Founded by Caldari-sympathetic Intaki exiles after the Caldari Rebellion; each station autonomous; non-political officially. The conquest YC128.05.05 ended its sovereignty but not its membership network — which now operates as a fugitive financial / smuggling structure with capital ships escaping into highsec.
+**Cited in:** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ### Serpentis Corporation
 
@@ -90,6 +91,8 @@ Solar-sail propulsion exploration ship. Sleeper-ignored. Distributed YC111 by th
 - **3×** [Sisters of EVE (2000-09-25)](https://universe.eveonline.com/chronicles/sisters-of-eve)
 - **3×** [The Sarpati Family  (2001-05-14)](https://universe.eveonline.com/chronicles/the-sarpati-family)
 - **2×** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05 (2026-05-05)](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+- **2×** [The Scope — Intaki Syndicate Fleet Attempts Breakout (2026-05-07)](https://www.youtube.com/watch?v=lfqboHJUNpw)
+- **2×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News (2026-05-09)](https://www.youtube.com/watch?v=kFLp1gEBqEw)
 - **1×** [Intaki spiritual leader announces marriage (2006-03-27)](https://universe.eveonline.com/new-eden-news/intaki-spiritual-leader-announces-marriage)
 - **1×** [Intaki Spiritual Leader To Resign Caille Position (2006-05-17)](https://universe.eveonline.com/new-eden-news/intaki-spiritual-leader-to-resign-caille-position)
 - **1×** [Intaki Bank secures funding for Syndicate R&D program (2007-07-17)](https://universe.eveonline.com/new-eden-news/intaki-bank-secures-funding-for-syndicate-rd-program)

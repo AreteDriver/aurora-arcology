@@ -39,17 +39,17 @@ The structural fracture of the YC128 cycle. CONCORD's war-response automation co
 ### Arrest of Silphy en Diabel *(2026-05-01)*
 
 The pivot point between Jita-gate and the Syndicate conquest. Two Syndicate agents convicted in March named Silphy under plea, giving the Caldari Navy the legal cover to detain her in New Caldari and frame the broader Syndicate as compromised. Without this arrest, the conquest framing would not have held diplomatically.
-**Cited in:** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
+**Cited in:** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
 
 ### Caldari Conquest of Syndicate *(2026-05-05)*
 
 The first forcible empire annexation of nullsec in modern New Eden history. Caldari Navy seized 106 systems against minimal resistance, framed as retaliation for Silphy's role in Jita-gate. Strategically eliminates the buffer state Lai Dai had been working through; structurally hands Mountain+Ocean factions the win they couldn't get politically.
-**Cited in:** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Caldari State Conquers Syndicate, Breakout Expected](https://universe.eveonline.com/new-eden-news/caldari-state-conquers-syndicate-breakout-expected)
+**Cited in:** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Caldari State Conquers Syndicate, Breakout Expected](https://universe.eveonline.com/new-eden-news/caldari-state-conquers-syndicate-breakout-expected) · [The SCOPE — Syndicate Breakout Attempt Ends in Destruction](https://universe.eveonline.com/new-eden-news/the-scope-syndicate-breakout-attempt-ends-in)
 
 ### Syndicate Capital Breakout *(2026-05-07)*
 
 The capsuleer-facing climax of the conquest. Three highsec constellation windows allow the Syndicate fugitive capitals — using captured high-sec cyno tech inherited from the YC123 dread assaults — to attempt escape. CCP-built escort intercept event, but lore-significant because the same tech links forward to next month's expansion.
-**Cited in:** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
+**Cited in:** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Syndicate Breakout! RIP CCP Games — Will AI Double My ISK? — EVE Universe Show YC128.05.07](https://www.youtube.com/watch?v=oNGS34eUCmM) · [The SCOPE — Syndicate Breakout Attempt Ends in Destruction](https://universe.eveonline.com/new-eden-news/the-scope-syndicate-breakout-attempt-ends-in) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ## Persons
 
@@ -61,7 +61,7 @@ CEP Chairman; Mountain Faction. Public face of the Caldari response across the W
 ### Alix Moreau
 
 New Gallente Federation President. Autonomist Party. Inaugurated under the Jita-gate cloud. Issued amnesty to Syndicate descendants during the conquest, positioning the Federation against Caldari rule. Hawkish Senate factions worry her military inexperience hands the State the upper hand.
-**Cited in:** [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Presidential Profile: Alix Moreau](https://universe.eveonline.com/new-eden-news/presidential-profile-alix-moreau)
+**Cited in:** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [New Eden News: Warpath YC128-04-21 - YC128-04-30](https://www.youtube.com/watch?v=QUoUNxfSXUk) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Alix Moreau Elected President of Gallente Federation](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation) · [Presidential Profile: Alix Moreau](https://universe.eveonline.com/new-eden-news/presidential-profile-alix-moreau) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ### Arrach Sarum
 
@@ -90,7 +90,7 @@ Ishukone CEO since Otro's death. The structural anchor of the Ishukone axis on A
 ### Silphy en Diabel
 
 Daughter of the original Syndicate unifier; expelled from the Sisters of Eve after her Serpentis collaboration. Engineered the Pas station famine to seize control of Poitot, then methodically consolidated power across the Syndicate. Her arrest YC128.05.01 broke the Syndicate's leadership backbone and gave the Caldari the pretext to annex.
-**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
+**Cited in:** [Silphy - The Faction Leader You Never Hear About (recorded YC126.04.04)](https://www.youtube.com/watch?v=ZWvC8dlYBjI) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05](https://www.youtube.com/watch?v=7g-FhxK4vJ0) · [Ante (Chronicle)](https://universe.eveonline.com/chronicles/ante) · [Silphy (Chronicle)](https://universe.eveonline.com/chronicles/silphy) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident) · [Silphy en Diabel Arrested in Relation to Jita-gate Incident](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ### Soraya Roden
 
@@ -121,6 +121,7 @@ CONCORD diplomatic body. Aras Angire heads. Emergency session post-Jita-gate end
 ### Intaki Syndicate
 
 Loose autonomous federation in the Syndicate region. Founded by Caldari-sympathetic Intaki exiles after the Caldari Rebellion; each station autonomous; non-political officially. The conquest YC128.05.05 ended its sovereignty but not its membership network — which now operates as a fugitive financial / smuggling structure with capital ships escaping into highsec.
+**Cited in:** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ### Ishukone Corporation
 
@@ -199,7 +200,9 @@ The YC105+ era of capsuleer political dominance — opens with Pax Amarria publi
 
 - **11×** [BREAKING NEWS! CALDARI INVADES THE SYNDICATE!!!! - EVE Universe Show YC128.05.05 (2026-05-05)](https://www.youtube.com/watch?v=7g-FhxK4vJ0)
 - **6×** [New Eden News: Warpath YC128-04-21 - YC128-04-30 (2026-04-30)](https://www.youtube.com/watch?v=QUoUNxfSXUk)
+- **5×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News (2026-05-09)](https://www.youtube.com/watch?v=kFLp1gEBqEw)
 - **4×** [Ante (Chronicle) (2010-04-19)](https://universe.eveonline.com/chronicles/ante)
+- **4×** [The Scope — Intaki Syndicate Fleet Attempts Breakout (2026-05-07)](https://www.youtube.com/watch?v=lfqboHJUNpw)
 - **3×** [Galactic Hour News Roundup: Fall of Niarja Shocks Amarr Empire and Caldari State (2020-08-19)](https://universe.eveonline.com/new-eden-news/galactic-hour-news-roundup-fall-of-niarja-shocks-amarr-empire-and-caldari-state)
 - **3×** [Alix Moreau Elected President of Gallente Federation (2026-04-17)](https://universe.eveonline.com/new-eden-news/alix-moreau-elected-president-of-gallente-federation)
 - **2×** [Silphy (Chronicle) (2001-08-06)](https://universe.eveonline.com/chronicles/silphy)
@@ -234,6 +237,7 @@ The YC105+ era of capsuleer political dominance — opens with Pax Amarria publi
 - **2×** [Warpath Protocol Failure Brings War To High-Sec (2026-04-30)](https://universe.eveonline.com/new-eden-news/warpath-protocol-failure-brings-war-to-high-sec)
 - **2×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident (2026-05-01)](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
 - **2×** [Caldari State Conquers Syndicate, Breakout Expected (2026-05-05)](https://universe.eveonline.com/new-eden-news/caldari-state-conquers-syndicate-breakout-expected)
+- **2×** [The SCOPE — Syndicate Breakout Attempt Ends in Destruction (2026-05-08)](https://universe.eveonline.com/new-eden-news/the-scope-syndicate-breakout-attempt-ends-in)
 - **2×** [Minmatar Republic and Gallente Federation fight smuggling (YC 107) (YC107)](http://community.eveonline.com/news/news-channels/world-news/federation-and-republic-join-forces-in-fight-against-smuggling/)
 - **2×** [Friction mounts between CONCORD and Caldari State (YC 110) (YC110)](https://community.eveonline.com/news/news-channels/eve-online-news/friction-mounts-between-concord-and-caldari-state/)
 - **2×** [Mens Reppola made Ishukone CEO, Charts Future Course (YC 111) (YC111)](https://community.eveonline.com/news/news-channels/eve-online-news/mens-reppola-made-ishukone-ceo-charts-future-course-1/)
@@ -541,6 +545,7 @@ The YC105+ era of capsuleer political dominance — opens with Pax Amarria publi
 - **1×** [Warpath Protocol Failure Brings War To High-Sec (2026-04-30)](https://universe.eveonline.com/new-eden-news/warpath-protocol-failure-brings-war-to-high-sec)
 - **1×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident (2026-05-01)](https://universe.eveonline.com/new-eden-news/silphy-en-diabel-arrested-in-relation-to-jita-gate-incident)
 - **1×** [Caldari State Conquers Syndicate, Breakout Expected (2026-05-05)](https://universe.eveonline.com/new-eden-news/caldari-state-conquers-syndicate-breakout-expected)
+- **1×** [Syndicate Breakout! RIP CCP Games — Will AI Double My ISK? — EVE Universe Show YC128.05.07 (2026-05-07)](https://www.youtube.com/watch?v=oNGS34eUCmM)
 - **1×** [The Empyrean Age (YC 105 -) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [CONCORD agent corruption? (YC 105) (YC105)](https://www.eveonline.com/article/concord-agent-corruption)
 - **1×** [CONCORD comments on recent security breaches (YC 105) (YC105)](https://www.eveonline.com/article/concord-comments-on-recent-security-breaches-in-empire-space-1)

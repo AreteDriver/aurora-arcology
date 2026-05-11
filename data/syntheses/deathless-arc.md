@@ -52,6 +52,7 @@ Subsidiary financial entity tied to the Syndicate. Upwell-affiliated. Counter-in
 ### Intaki Syndicate
 
 Loose autonomous federation in the Syndicate region. Founded by Caldari-sympathetic Intaki exiles after the Caldari Rebellion; each station autonomous; non-political officially. The conquest YC128.05.05 ended its sovereignty but not its membership network — which now operates as a fugitive financial / smuggling structure with capital ships escaping into highsec.
+**Cited in:** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News](https://www.youtube.com/watch?v=kFLp1gEBqEw) · [The Scope — Intaki Syndicate Fleet Attempts Breakout](https://www.youtube.com/watch?v=lfqboHJUNpw)
 
 ### Mordu's Legion
 
@@ -235,6 +236,8 @@ Triglavian flagship-class vessel. Deployed in pre-Invasion warning phase YC121 (
 - **1×** [Zarzakh Report: Hrada-Oki Memorial  (2024-10-11)](https://universe.eveonline.com/new-eden-news/zarzakh-report-hrada-oki-memorial)
 - **1×** [Vanguard Clash with Mordu's Legion Planetside (2025-09-18)](https://universe.eveonline.com/new-eden-news/vanguard-clash-with-mordus-legion-planetside)
 - **1×** [New Eden News - Warnings Raised Over Drifter Wormhole Experiments (YC127-10-30) (2025-10-30)](https://www.youtube.com/watch?v=hPbfRmzc1bI)
+- **1×** [The Scope — Intaki Syndicate Fleet Attempts Breakout (2026-05-07)](https://www.youtube.com/watch?v=lfqboHJUNpw)
+- **1×** [Silphy en Diabel Arrested in Relation to Jita-gate Incident — New Eden News (2026-05-09)](https://www.youtube.com/watch?v=kFLp1gEBqEw)
 - **1×** [The Empyrean Age (YC 105 -) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Jovian Admiral Ouria goes rogue, is defeated (YC 105) (YC105)](https://convocation.notion.site/37de035eb05149139ef4a3d1de9a9dfd)
 - **1×** [Syndicate and Cloud Ring shaken by yet another war! (YC 105) (YC105)](http://community.eveonline.com/news/news-channels/eve-online-news/syndicate-and-cloud-ring-shaken-by-yet-another-war/)

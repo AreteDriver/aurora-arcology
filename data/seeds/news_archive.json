@@ -8,8 +8,8 @@
     "phase": 0,
     "license_mode": "L1-ccp-fan-content",
     "extraction_source": "Scraped from universe.eveonline.com/new-eden-news. Title + URL + publicationDate only. Article body and CCP description text are not stored — curator paraphrases when wiring claims.",
-    "last_scraped": "2026-05-06T11:01:23.036Z",
-    "source_count": 2251
+    "last_scraped": "2026-05-11T21:12:24.862Z",
+    "source_count": 2252
   },
   "sources": [
     {
@@ -24772,10 +24772,22 @@
       "license_tier": "ccp-fan-content",
       "canonicity": "ccp-canon",
       "excerpt": null
+    },
+    {
+      "id": "src_news_the-scope-syndicate-breakout-attempt-ends-in",
+      "type": "Press Release",
+      "publisher": "CCP Games — New Eden News",
+      "title": "The SCOPE - Syndicate Breakout Attempt Ends in Destruction",
+      "url": "https://universe.eveonline.com/new-eden-news/the-scope-syndicate-breakout-attempt-ends-in",
+      "date": "2026-05-08",
+      "license_tier": "ccp-fan-content",
+      "canonicity": "ccp-canon",
+      "excerpt": null
     }
   ],
   "_curation_notes": [
     "Scrape 2026-05-06: +50 sources, 0 already-ingested. Total source count: 50.",
-    "Scrape 2026-05-06: +2201 sources, 50 already-ingested. Total source count: 2251."
+    "Scrape 2026-05-06: +2201 sources, 50 already-ingested. Total source count: 2251.",
+    "Scrape 2026-05-11: +1 sources, 49 already-ingested. Total source count: 2252."
   ]
 }
