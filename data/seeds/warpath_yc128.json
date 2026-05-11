@@ -375,7 +375,7 @@
       "date": "2026-05-08",
       "license_tier": "ccp-fan-content",
       "canonicity": "ccp-canon",
-      "excerpt": "Curator synopsis: text-news companion to the Scope broadcast. The first Intaki Syndicate breakout fleet \u2014 three Moros dreadnoughts, two Nyx supercarriers, one Titan (auto-caption rendered the hull as 'Arabus'; the Gallente/Syndicate Titan hull is the Erebus) \u2014 jumped to an unregistered mobile cynosural beacon in high-sec Orvolle (Bayet constellation, Placid) and was destroyed by capsuleer loyalists working CONCORD-suspect bounties placed by Caldari Navy Executive General Heika Torigo."
+      "excerpt": "Curator synopsis: text-news companion to the Scope broadcast. The first Intaki Syndicate breakout fleet \u2014 three Moros dreadnoughts, two Nyx supercarriers, one Erebus-class Titan \u2014 jumped to an unregistered mobile cynosural beacon in high-sec Orvolle (Bayet constellation, Placid) and was destroyed by capsuleer loyalists working CONCORD-suspect bounties placed by Caldari Navy Executive General Heika Torigo."
     },
     {
       "id": "src_ash_yc128_05_07",
@@ -5966,7 +5966,7 @@
       "type": "Event",
       "name": "Orvolle Breakout Interception",
       "date": "2026-05-07",
-      "brief": "First of three anticipated Intaki Syndicate capital breakout attempts. A Syndicate fleet (3\u00d7 Moros, 2\u00d7 Nyx, 1\u00d7 Titan) jumped to an unregistered mobile cynosural beacon in high-sec Orvolle, was flagged CONCORD-suspect, and was destroyed by capsuleer loyalists; capital-grade weapons proved ineffective against sub-capitals in high-sec.",
+      "brief": "First of three anticipated Intaki Syndicate capital breakout attempts. A Syndicate fleet (3\u00d7 Moros, 2\u00d7 Nyx, 1\u00d7 Erebus-class Titan) jumped to an unregistered mobile cynosural beacon in high-sec Orvolle, was flagged CONCORD-suspect, and was destroyed by capsuleer loyalists; capital-grade weapons proved ineffective against sub-capitals in high-sec.",
       "canonicity": "ccp-canon",
       "sources": [
         "src_scope_intaki_breakout",
@@ -16348,7 +16348,7 @@
       "tgt": "evt_orvolle_breakout_interception",
       "rel": "participated-in",
       "conf": 1.0,
-      "claim": "Lost a capital fleet (3\u00d7 Moros, 2\u00d7 Nyx, 1\u00d7 Titan) attempting the first breakout to Federation space.",
+      "claim": "Lost a capital fleet (3\u00d7 Moros, 2\u00d7 Nyx, 1\u00d7 Erebus-class Titan) attempting the first breakout to Federation space.",
       "supporting_sources": [
         "src_scope_intaki_breakout",
         "src_news_scope_breakout_destruction"
@@ -16475,6 +16475,6 @@
     "Canonical promotions 2026-05-07: +10 nodes (Caldari Prime, Tibus Heth, Kaalakiota, Sukuuvestaa, Hyasyoda, Wiyrkomi, Tash-Murkon Region (territorial seat), Sebiestor Tribe, Angel Cartel, Intaki faction) with curator-authored briefs + master_summary. +33 structural edges anchoring them into the existing graph. Citations will surface on the next NER pass via the gazetteer\u2192node containment match.",
     "Round-3 promotions 2026-05-07: +13 nodes (3 Mimitar tribes, 4 regions, Caldari Business Tribunal, Sansha's Nation, Heideran VII / Doriam / Aritcio Kor-Azor / Karsoth). +30 edges anchoring the royal-succession lineage and the Republic tribal-region structure.",
     "Depth pass 2026-05-07: +5 royal House nodes (Sarum / Tash-Murkon / Kor-Azor / Kador / Ardishapur) + 41 edges wiring underconnected round-3 promotions to the broader graph.",
-    "Round 21 \u2014 ingest YC128.05.07\u201305.09 breakout coverage 2026-05-11: +5 sources (The Scope 'Intaki Syndicate Fleet Attempts Breakout' video, the 'Ends in Destruction' text-news article, Ashterothi EVE Universe Show YC128.05.07, Ashterothi 'Silphy en Diabel Arrested' New Eden News recap YC128.05.09, and a deferred Capsuleer Day / Burn Pochven placeholder). +6 nodes (Orvolle system, Alton Haveri, Heika Torigo, Orvolle Breakout Interception, YC124 Caldari\u2013Syndicate Protection Pact, Trial of Silphy en Diabel). +19 connections; +10 source-citation enrichments on existing breakout / conquest / Silphy nodes. All excerpts are curator-authored paraphrase; no primary transcript text reproduced (L3 discipline). Auto-caption artifact: the Syndicate Titan hull is rendered 'Arabus' in the Scope captions \u2014 read as Erebus pending curator verification."
+    "Round 21 \u2014 ingest YC128.05.07\u201305.09 breakout coverage 2026-05-11: +5 sources (The Scope 'Intaki Syndicate Fleet Attempts Breakout' video, the 'Ends in Destruction' text-news article, Ashterothi EVE Universe Show YC128.05.07, Ashterothi 'Silphy en Diabel Arrested' New Eden News recap YC128.05.09, and a deferred Capsuleer Day / Burn Pochven placeholder). +6 nodes (Orvolle system, Alton Haveri, Heika Torigo, Orvolle Breakout Interception, YC124 Caldari\u2013Syndicate Protection Pact, Trial of Silphy en Diabel). +19 connections; +10 source-citation enrichments on existing breakout / conquest / Silphy nodes. All excerpts are curator-authored paraphrase; no primary transcript text reproduced (L3 discipline). Note: the Scope auto-captions garble the Syndicate Titan hull as 'Arabus'; it is the Erebus (curator-confirmed 2026-05-11)."
   ]
 }
