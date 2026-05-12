@@ -1,40 +1,21 @@
-import { db, schema } from "@/lib/db";
-import { eq, inArray } from "drizzle-orm";
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import MatrixView from "@/components/MatrixView";
+import { listBoardIdsWithNodes, loadBoardData } from "@/lib/board-data";
 
 interface Props {
   params: Promise<{ id: string }>;
 }
 
 export async function generateStaticParams() {
-  const boardsWithNodes = db
-    .selectDistinct({ id: schema.boardNodes.boardId })
-    .from(schema.boardNodes)
-    .all();
-  return boardsWithNodes.map((b) => ({ id: b.id }));
+  return listBoardIdsWithNodes().map((id) => ({ id }));
 }
 
 export default async function BoardMatrixPage({ params }: Props) {
   const { id } = await params;
-  const board = db.select().from(schema.boards).where(eq(schema.boards.id, id)).get();
-  if (!board) return notFound();
-
-  const memberRows = db
-    .select()
-    .from(schema.boardNodes)
-    .where(eq(schema.boardNodes.boardId, id))
-    .all();
-  const nodeIds = memberRows.map((r) => r.nodeId);
-  const nodes = nodeIds.length
-    ? db.select().from(schema.nodes).where(inArray(schema.nodes.id, nodeIds)).all()
-    : [];
-  const idSet = new Set(nodeIds);
-  const connections = db
-    .select()
-    .from(schema.connections)
-    .all()
-    .filter((c) => idSet.has(c.srcNodeId) && idSet.has(c.tgtNodeId));
+  const boardData = loadBoardData(id, { includeConnections: true });
+  if (!boardData) return notFound();
+  const { board, nodes, connections } = boardData;
 
   return (
     <div>
@@ -46,16 +27,16 @@ export default async function BoardMatrixPage({ params }: Props) {
           </p>
         </div>
         <nav className="flex gap-3 font-mono text-sm">
-          <a href={`/boards/${id}`} className="text-zinc-400 hover:text-zinc-100">
+          <Link href={`/boards/${id}`} className="text-zinc-400 hover:text-zinc-100">
             board ↗
-          </a>
-          <a href={`/boards/${id}/timeline`} className="text-zinc-400 hover:text-zinc-100">
+          </Link>
+          <Link href={`/boards/${id}/timeline`} className="text-zinc-400 hover:text-zinc-100">
             timeline ↗
-          </a>
+          </Link>
           <span className="text-zinc-100">matrix</span>
-          <a href={`/boards/${id}/arcs`} className="text-zinc-400 hover:text-zinc-100">
+          <Link href={`/boards/${id}/arcs`} className="text-zinc-400 hover:text-zinc-100">
             arcs ↗
-          </a>
+          </Link>
         </nav>
       </header>
 

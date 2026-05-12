@@ -1,6 +1,8 @@
 import { db, schema } from "@/lib/db";
 import { eq } from "drizzle-orm";
 import { notFound } from "next/navigation";
+import Link from "next/link";
+import { boardIdsByNode } from "@/lib/board-links";
 
 interface Props {
   params: Promise<{ handle: string }>;
@@ -24,6 +26,8 @@ export default async function CuratorDetailPage({ params }: Props) {
     .where(eq(schema.nodes.createdBy, decoded))
     .all();
   if (nodes.length === 0) return notFound();
+  const nodeIds = nodes.map((n) => n.id);
+  const boardIdsByNodeId = boardIdsByNode(nodeIds);
 
   const connections = db
     .select()
@@ -51,9 +55,9 @@ export default async function CuratorDetailPage({ params }: Props) {
       </header>
 
       <nav className="text-xs font-mono mb-6">
-        <a href="/curators" className="text-zinc-400 hover:text-zinc-100">
+        <Link href="/curators" className="text-zinc-400 hover:text-zinc-100">
           ← back to curators
-        </a>
+        </Link>
       </nav>
 
       <div className="space-y-6">
@@ -67,12 +71,20 @@ export default async function CuratorDetailPage({ params }: Props) {
               <ul className="space-y-1 text-sm">
                 {list.map((n) => (
                   <li key={n.id} className="flex items-baseline gap-2">
-                    <a
-                      href={`/boards/warpath_yc128#${n.id}`}
-                      className="hover:text-blue-400"
-                    >
-                      {n.name}
-                    </a>
+                    {(() => {
+                      const boardIds = boardIdsByNodeId.get(n.id) ?? [];
+                      const boardId = boardIds[0];
+                      return boardId ? (
+                        <Link
+                          href={`/boards/${boardId}#${n.id}`}
+                          className="hover:text-blue-400"
+                        >
+                          {n.name}
+                        </Link>
+                      ) : (
+                        <span className="text-zinc-300">{n.name}</span>
+                      );
+                    })()}
                     <span className="text-xs font-mono text-zinc-600">{n.id}</span>
                   </li>
                 ))}

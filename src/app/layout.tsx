@@ -1,5 +1,6 @@
 import "./globals.css";
 import type { Metadata } from "next";
+import Link from "next/link";
 
 export const metadata: Metadata = {
   title: "Aurora — Investigation Boards for Narrative Universes",
@@ -11,19 +12,23 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <body>
-        <header className="border-b border-zinc-800 px-6 py-3 flex items-center justify-between">
-          <a href="/" className="font-mono text-sm tracking-wide">aurora-arcology</a>
-          <nav className="flex gap-4 text-sm font-mono text-zinc-400">
-            <a href="/">boards</a>
-            <a href="/sources">search</a>
-            <a href="/sourcebook">sourcebook</a>
-            <a href="/curators">curators</a>
-            <a href="/suggestions">suggestions</a>
-            <a href="/analytics">analytics</a>
-            <a href="/audit">audit</a>
-          </nav>
+        <header className="border-b border-zinc-800 px-4 sm:px-6 py-3">
+          <div className="flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
+            <Link href="/" className="font-mono text-sm tracking-wide w-fit">
+              aurora-arcology
+            </Link>
+            <nav className="flex flex-wrap gap-x-4 gap-y-2 text-xs sm:text-sm font-mono text-zinc-400">
+              <Link href="/" className="hover:text-zinc-100">boards</Link>
+              <Link href="/sources" className="hover:text-zinc-100">search</Link>
+              <Link href="/sourcebook" className="hover:text-zinc-100">sourcebook</Link>
+              <Link href="/curators" className="hover:text-zinc-100">curators</Link>
+              <Link href="/suggestions" className="hover:text-zinc-100">suggestions</Link>
+              <Link href="/analytics" className="hover:text-zinc-100">analytics</Link>
+              <Link href="/audit" className="hover:text-zinc-100">audit</Link>
+            </nav>
+          </div>
         </header>
-        <main className="px-6 py-6">{children}</main>
+        <main className="px-4 sm:px-6 py-6">{children}</main>
       </body>
     </html>
   );

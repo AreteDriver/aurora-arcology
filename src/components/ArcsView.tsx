@@ -14,38 +14,12 @@
  * for legibility, but this gets surprisingly close at the corpus's
  * current scale (~80 lensed nodes, 13 lines).
  */
-import { useMemo, useState } from "react";
+import { useCallback, useMemo, useState } from "react";
 import type { Node } from "@db/schema";
 import { LENSES } from "@/data/lenses";
 import { normalizeDate } from "@/lib/dates";
-
-const TYPE_COLOR: Record<string, string> = {
-  Event: "#e85d75",
-  Person: "#f4a261",
-  Organization: "#2a9d8f",
-  Faction: "#264653",
-  Place: "#a8dadc",
-  Phenomenon: "#9d4edd",
-  Concept: "#6c757d",
-  Artifact: "#e9c46a",
-};
-
-// 13 visually distinct line colors — kept consistent with subway-map convention
-const LINE_COLOR: Record<string, string> = {
-  "warpath-current":         "#dc2626",
-  "lai-dai-vs-ishukone":     "#2563eb",
-  "old-wars":                "#a16207",
-  "drifter-arc":             "#7c3aed",
-  "exordium":                "#0891b2",
-  "kahah-yc120":             "#be123c",
-  "deathless-arc":           "#171717",
-  "empyrean-age":            "#ea580c",
-  "intaki-religious-arc":    "#16a34a",
-  "amarr-royal-succession":  "#ca8a04",
-  "pirate-factions":         "#475569",
-  "caldari-mega-corp-axis":  "#0d9488",
-  "sarpati-network":         "#9333ea",
-};
+import { nodeTypeColor } from "@/lib/palette";
+import { arcLineColor } from "@/lib/graph-palette";
 
 // Narrative-coherent track ordering — group lenses by topical proximity so
 // vertical interchanges stay short. Hand-curated, not algorithmic; a real
@@ -100,13 +74,20 @@ export default function ArcsView({ boardId, nodes }: Props) {
     return { tMin: min, tMax: max, undatedX: totalW - 60, totalW };
   }, [nodes]);
 
-  const xFor = (raw: string | null | undefined): number => {
-    const n = normalizeDate(raw ?? null);
-    if (!/^\d{4}/.test(n)) return undatedX;
-    const [y, m = "00", d = "00"] = n.split("-");
-    const k = parseInt(y, 10) * 10000 + parseInt(m, 10) * 100 + parseInt(d, 10);
-    return HEADER_W + 30 + ((k - tMin) / Math.max(1, tMax - tMin)) * (totalW - HEADER_W - RIGHT_PAD - 30);
-  };
+  const xFor = useCallback(
+    (raw: string | null | undefined): number => {
+      const n = normalizeDate(raw ?? null);
+      if (!/^\d{4}/.test(n)) return undatedX;
+      const [y, m = "00", d = "00"] = n.split("-");
+      const k = parseInt(y, 10) * 10000 + parseInt(m, 10) * 100 + parseInt(d, 10);
+      return (
+        HEADER_W +
+        30 +
+        ((k - tMin) / Math.max(1, tMax - tMin)) * (totalW - HEADER_W - RIGHT_PAD - 30)
+      );
+    },
+    [tMin, tMax, totalW, undatedX],
+  );
 
   // For each lens: collect its dated nodes, ordered chronologically.
   // Track order is narrative-coherent (TRACK_ORDER above), not LENSES-array.
@@ -146,7 +127,7 @@ export default function ArcsView({ boardId, nodes }: Props) {
       }
       return { lens, nodes: raw };
     });
-  }, [nodeById, orderedLenses]);
+  }, [nodeById, orderedLenses, xFor]);
 
   // Detect interchanges — nodes appearing in 2+ lenses
   const lensesByNode = useMemo(() => {
@@ -238,7 +219,7 @@ export default function ArcsView({ boardId, nodes }: Props) {
           {/* Lens tracks */}
           {lensTracks.map(({ lens, nodes: stations }, idx) => {
             const y = TOP_PAD + idx * TRACK_H;
-            const color = LINE_COLOR[lens.id] ?? "#888";
+            const color = arcLineColor(lens.id);
             const dimmed = hoverLensId !== null && hoverLensId !== lens.id;
             const opacity = dimmed ? 0.18 : 1;
             return (
@@ -319,16 +300,10 @@ export default function ArcsView({ boardId, nodes }: Props) {
                           cy={stationY}
                           r={r + (sel ? 2 : 0)}
                           fill={color}
-                          stroke={isHub ? "#fff" : TYPE_COLOR[node.type] ?? "#888"}
+                          stroke={isHub ? "#fff" : nodeTypeColor(node.type)}
                           strokeWidth={isHub ? 2 : 1.5}
                         />
-                        <title>
-                          {node.name}
-                          {"\n"}
-                          {node.type} · {node.date ?? "undated"}
-                          {"\n"}
-                          on {lensCount} arc{lensCount === 1 ? "" : "s"}
-                        </title>
+                        <title>{`${node.name}\n${node.type} · ${node.date ?? "undated"}\non ${lensCount} arc${lensCount === 1 ? "" : "s"}`}</title>
                       </a>
                     </g>
                   );
@@ -449,7 +424,7 @@ export default function ArcsView({ boardId, nodes }: Props) {
           >
             <span
               className="inline-block w-4 h-1.5 align-middle mr-1"
-              style={{ background: LINE_COLOR[l.id] ?? "#888" }}
+              style={{ background: arcLineColor(l.id) }}
             />
             {l.id}
           </span>

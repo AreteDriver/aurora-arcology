@@ -3,17 +3,7 @@
 import { useMemo, useState } from "react";
 import type { Node } from "@db/schema";
 import { displayDate, normalizeDate } from "@/lib/dates";
-
-const TYPE_COLOR: Record<string, string> = {
-  Event: "bg-node-event",
-  Person: "bg-node-person",
-  Organization: "bg-node-org",
-  Faction: "bg-node-faction",
-  Place: "bg-node-place",
-  Phenomenon: "bg-node-phenomenon",
-  Concept: "bg-node-concept",
-  Artifact: "bg-node-artifact",
-};
+import { nodeTypeColor, nodeTypeTextColor } from "@/lib/palette";
 
 interface Props {
   boardId: string;
@@ -61,7 +51,8 @@ export default function TimelineView({ boardId, nodes }: Props) {
 
   const toggleYear = (year: string) => {
     const next = new Set(collapsedYears);
-    next.has(year) ? next.delete(year) : next.add(year);
+    if (next.has(year)) next.delete(year);
+    else next.add(year);
     setCollapsedYears(next);
   };
 
@@ -76,16 +67,22 @@ export default function TimelineView({ boardId, nodes }: Props) {
         <div className="flex items-center gap-1.5 flex-wrap">
           {allTypes.map((t) => {
             const hidden = hiddenTypes.has(t);
+            const color = nodeTypeColor(t);
             return (
               <button
                 key={t}
                 onClick={() => {
                   const next = new Set(hiddenTypes);
-                  hidden ? next.delete(t) : next.add(t);
+                  if (hidden) next.delete(t);
+                  else next.add(t);
                   setHiddenTypes(next);
                 }}
-                className={`${TYPE_COLOR[t] ?? "bg-zinc-700"} text-black px-1.5 py-0.5`}
-                style={{ opacity: hidden ? 0.3 : 1 }}
+                className="px-1.5 py-0.5"
+                style={{
+                  background: color,
+                  color: nodeTypeTextColor(t),
+                  opacity: hidden ? 0.3 : 1,
+                }}
               >
                 {t}
               </button>
@@ -152,14 +149,16 @@ export default function TimelineView({ boardId, nodes }: Props) {
                       <span
                         className="absolute left-[5.4rem] top-2 w-2 h-2 rounded-full ring-2 ring-zinc-950"
                         style={{
-                          background:
-                            TYPE_COLOR[node.type]?.replace("bg-node-", "var(--color-node-") ??
-                            "#888",
+                          background: nodeTypeColor(node.type),
                         }}
                         aria-hidden
                       />
                       <span
-                        className={`${TYPE_COLOR[node.type] ?? "bg-zinc-700"} text-black px-1.5 py-0.5 text-xs font-mono shrink-0 ml-3`}
+                        className="px-1.5 py-0.5 text-xs font-mono shrink-0 ml-3"
+                        style={{
+                          background: nodeTypeColor(node.type),
+                          color: nodeTypeTextColor(node.type),
+                        }}
                       >
                         {node.type}
                       </span>
@@ -192,7 +191,11 @@ export default function TimelineView({ boardId, nodes }: Props) {
             {undated.map((n) => (
               <li key={n.id} className="text-xs">
                 <span
-                  className={`${TYPE_COLOR[n.type] ?? "bg-zinc-700"} text-black px-1.5 py-0.5 font-mono mr-2`}
+                  className="px-1.5 py-0.5 font-mono mr-2"
+                  style={{
+                    background: nodeTypeColor(n.type),
+                    color: nodeTypeTextColor(n.type),
+                  }}
                 >
                   {n.type}
                 </span>

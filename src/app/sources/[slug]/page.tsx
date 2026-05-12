@@ -1,6 +1,8 @@
 import { db, schema } from "@/lib/db";
 import { eq, inArray } from "drizzle-orm";
 import { notFound } from "next/navigation";
+import Link from "next/link";
+import { boardIdsByNode } from "@/lib/board-links";
 
 interface Props {
   params: Promise<{ slug: string }>;
@@ -35,6 +37,7 @@ export default async function SourceDetailPage({ params }: Props) {
   const nodes = nodeIds.length
     ? db.select().from(schema.nodes).where(inArray(schema.nodes.id, nodeIds)).all()
     : [];
+  const boardIdsByNodeId = boardIdsByNode(nodeIds);
 
   // Group nodes by type
   const byType: Record<string, typeof nodes> = {};
@@ -83,9 +86,9 @@ export default async function SourceDetailPage({ params }: Props) {
       </header>
 
       <nav className="text-xs font-mono mb-6">
-        <a href="/sourcebook" className="text-zinc-400 hover:text-zinc-100">
+        <Link href="/sourcebook" className="text-zinc-400 hover:text-zinc-100">
           ← back to sourcebook
-        </a>
+        </Link>
       </nav>
 
       {nodes.length === 0 ? (
@@ -104,12 +107,29 @@ export default async function SourceDetailPage({ params }: Props) {
                 <ul className="space-y-3">
                   {list.map((n) => (
                     <li key={n.id} className="border-l-2 border-zinc-800 pl-3">
-                      <a
-                        href={`/boards/warpath_yc128#${n.id}`}
-                        className="font-bold text-sm hover:text-blue-400"
-                      >
-                        {n.name}
-                      </a>
+                      {(() => {
+                        const boardIds = boardIdsByNodeId.get(n.id) ?? [];
+                        const boardId = boardIds[0];
+                        return boardId ? (
+                          <Link
+                            href={`/boards/${boardId}#${n.id}`}
+                            className="font-bold text-sm hover:text-blue-400"
+                          >
+                            {n.name}
+                          </Link>
+                        ) : (
+                          <span className="font-bold text-sm text-zinc-300">{n.name}</span>
+                        );
+                      })()}
+                      {(() => {
+                        const boardIds = boardIdsByNodeId.get(n.id) ?? [];
+                        if (boardIds.length <= 1) return null;
+                        return (
+                          <span className="ml-2 text-[11px] font-mono text-zinc-600">
+                            on {boardIds.length} boards
+                          </span>
+                        );
+                      })()}
                       {n.brief && (
                         <p className="text-xs text-zinc-400 mt-1 leading-relaxed">{n.brief}</p>
                       )}

@@ -1,33 +1,27 @@
-import { db, schema } from "@/lib/db";
-import { eq, inArray } from "drizzle-orm";
 import { notFound } from "next/navigation";
+import Link from "next/link";
 import ArcsView from "@/components/ArcsView";
 import { LENSES } from "@/data/lenses";
+import { listBoardIdsWithNodes, loadBoardData } from "@/lib/board-data";
 
 interface Props {
   params: Promise<{ id: string }>;
 }
 
 export async function generateStaticParams() {
-  const boardsWithNodes = db
-    .selectDistinct({ id: schema.boardNodes.boardId })
-    .from(schema.boardNodes)
-    .all();
-  return boardsWithNodes.map((b) => ({ id: b.id }));
+  return listBoardIdsWithNodes().map((id) => ({ id }));
 }
 
 export default async function BoardArcsPage({ params }: Props) {
   const { id } = await params;
-  const board = db.select().from(schema.boards).where(eq(schema.boards.id, id)).get();
-  if (!board) return notFound();
+  const boardData = loadBoardData(id);
+  if (!boardData) return notFound();
+  const { board, nodes: boardNodes } = boardData;
 
-  // Pull only nodes that appear in at least one lens — that's the corpus
-  // the subway view operates on. The other ~50 nodes have no narrative
-  // anchor; they live in the board view but don't get a station here.
-  const lensedIds = Array.from(new Set(LENSES.flatMap((l) => l.nodeIds)));
-  const nodes = lensedIds.length
-    ? db.select().from(schema.nodes).where(inArray(schema.nodes.id, lensedIds)).all()
-    : [];
+  // Keep arcs board-scoped: only render stations for board member nodes that
+  // are referenced by at least one narrative lens.
+  const lensedIds = new Set(LENSES.flatMap((l) => l.nodeIds));
+  const nodes = boardNodes.filter((n) => lensedIds.has(n.id));
 
   return (
     <div>
@@ -39,15 +33,15 @@ export default async function BoardArcsPage({ params }: Props) {
           </p>
         </div>
         <nav className="flex gap-3 font-mono text-sm">
-          <a href={`/boards/${id}`} className="text-zinc-400 hover:text-zinc-100">
+          <Link href={`/boards/${id}`} className="text-zinc-400 hover:text-zinc-100">
             board ↗
-          </a>
-          <a href={`/boards/${id}/timeline`} className="text-zinc-400 hover:text-zinc-100">
+          </Link>
+          <Link href={`/boards/${id}/timeline`} className="text-zinc-400 hover:text-zinc-100">
             timeline ↗
-          </a>
-          <a href={`/boards/${id}/matrix`} className="text-zinc-400 hover:text-zinc-100">
+          </Link>
+          <Link href={`/boards/${id}/matrix`} className="text-zinc-400 hover:text-zinc-100">
             matrix ↗
-          </a>
+          </Link>
           <span className="text-zinc-100">arcs</span>
         </nav>
       </header>

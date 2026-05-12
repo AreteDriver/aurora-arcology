@@ -1,4 +1,5 @@
 import { db, schema } from "@/lib/db";
+import Link from "next/link";
 
 export default async function HomePage() {
   const allBoards = db.select().from(schema.boards).all();
@@ -55,7 +56,11 @@ export default async function HomePage() {
           </h2>
           <p className="text-xs text-zinc-500 mb-3">
             Source-only seeds — bulk-ingested corpora not browsable as boards.
-            Search across them from <a href="/sources" className="hover:text-blue-400">/sources</a>.
+            Search across them from{" "}
+            <Link href="/sources" className="hover:text-blue-400">
+              /sources
+            </Link>
+            .
           </p>
           <ul className="space-y-1 text-xs font-mono text-zinc-500">
             {archiveBoards.map((b) => (

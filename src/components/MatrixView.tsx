@@ -3,17 +3,7 @@
 import { useMemo, useState } from "react";
 import type { Node, Connection } from "@db/schema";
 import { LENSES, type Lens } from "@/data/lenses";
-
-const TYPE_COLOR: Record<string, string> = {
-  Event: "#e85d75",
-  Person: "#f4a261",
-  Organization: "#2a9d8f",
-  Faction: "#264653",
-  Place: "#a8dadc",
-  Phenomenon: "#9d4edd",
-  Concept: "#6c757d",
-  Artifact: "#e9c46a",
-};
+import { nodeTypeColor } from "@/lib/palette";
 
 type SortMode = "type" | "degree" | "name";
 
@@ -189,7 +179,7 @@ export default function MatrixView({ nodes, connections }: Props) {
                   y={HEADER_PX}
                   width={span}
                   height={matrixSize}
-                  fill={TYPE_COLOR[b.type] ?? "#888"}
+                  fill={nodeTypeColor(b.type)}
                   opacity={0.04}
                 />
                 <rect
@@ -197,7 +187,7 @@ export default function MatrixView({ nodes, connections }: Props) {
                   y={y0}
                   width={matrixSize}
                   height={span}
-                  fill={TYPE_COLOR[b.type] ?? "#888"}
+                  fill={nodeTypeColor(b.type)}
                   opacity={0.04}
                 />
               </g>
@@ -215,7 +205,7 @@ export default function MatrixView({ nodes, connections }: Props) {
                   y={HEADER_PX + i * cellSize}
                   width={4}
                   height={cellSize}
-                  fill={TYPE_COLOR[n.type] ?? "#888"}
+                  fill={nodeTypeColor(n.type)}
                 />
                 <text
                   x={HEADER_PX - 12}
@@ -246,7 +236,7 @@ export default function MatrixView({ nodes, connections }: Props) {
                   y={HEADER_PX - 8}
                   width={cellSize}
                   height={4}
-                  fill={TYPE_COLOR[n.type] ?? "#888"}
+                  fill={nodeTypeColor(n.type)}
                 />
                 {cellSize >= 8 && (
                   <text

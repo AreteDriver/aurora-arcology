@@ -5,46 +5,8 @@ import * as d3 from "d3";
 import type { Node, Connection, Source } from "@db/schema";
 import NodeInspector from "./NodeInspector";
 import { LENSES, type Lens } from "@/data/lenses";
-
-const TYPE_COLOR: Record<string, string> = {
-  Event: "#e85d75",
-  Person: "#f4a261",
-  Organization: "#2a9d8f",
-  Faction: "#264653",
-  Place: "#a8dadc",
-  Phenomenon: "#9d4edd",
-  Concept: "#6c757d",
-  Artifact: "#e9c46a",
-};
-
-// Edge color by relation category — gives the eye six visual channels for
-// what kind of relationship each line represents, without needing to read
-// the label.
-const RELATION_COLOR: Record<string, string> = {
-  // Causal / temporal — red family
-  "caused-by": "#dc2626",
-  "succeeded-by": "#b91c1c",
-  "replaced-by": "#b91c1c",
-  "descends-from": "#991b1b",
-  // Alliance / membership — blue family
-  "aligned-with": "#3b82f6",
-  "member-of": "#2563eb",
-  "participated-in": "#1d4ed8",
-  // Opposition — amber
-  "opposed-to": "#f59e0b",
-  // Spatial — green
-  "located-in": "#16a34a",
-  // Soft / parallel — violet / gray
-  "parallels": "#a78bfa",
-  "referenced-in": "#737373",
-  // Financial — emerald
-  "funds": "#10b981",
-  "revenue-from": "#059669",
-  "launders-through": "#7c2d12",
-  "financially-exposed-to": "#ea580c",
-  "supplies": "#0d9488",
-};
-const edgeColor = (rel: string) => RELATION_COLOR[rel] ?? "#52525b";
+import { nodeTypeColor, nodeTypeTextColor } from "@/lib/palette";
+import { relationColor, RELATION_LEGEND } from "@/lib/graph-palette";
 
 interface Props {
   nodes: Node[];
@@ -234,7 +196,7 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
       .selectAll<SVGPathElement, SimLink>("path")
       .data(simLinks)
       .join("path")
-      .attr("stroke", (d) => edgeColor(d.relationType))
+      .attr("stroke", (d) => relationColor(d.relationType))
       .attr("stroke-width", (d) =>
         subwayMode ? Math.max(2.5, d.confidence * 4.5) : Math.max(1, d.confidence * 2.5),
       )
@@ -293,7 +255,7 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
     node
       .append("circle")
       .attr("r", (d) => radiusOf(d.id))
-      .attr("fill", (d) => TYPE_COLOR[d.type] ?? "#888")
+      .attr("fill", (d) => nodeTypeColor(d.type))
       .attr("stroke", "#1f1f23")
       .attr("stroke-width", 1);
 
@@ -543,19 +505,21 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
           <div className="flex items-center gap-1.5 flex-wrap">
             {allTypes.map((t) => {
               const hidden = hiddenTypes.has(t);
+              const color = nodeTypeColor(t);
               return (
                 <button
                   key={t}
                   onClick={() => {
                     const next = new Set(hiddenTypes);
-                    hidden ? next.delete(t) : next.add(t);
+                    if (hidden) next.delete(t);
+                    else next.add(t);
                     setHiddenTypes(next);
                   }}
                   className="px-1.5 py-0.5 border"
                   style={{
-                    borderColor: TYPE_COLOR[t] ?? "#888",
-                    background: hidden ? "transparent" : TYPE_COLOR[t] ?? "#888",
-                    color: hidden ? TYPE_COLOR[t] ?? "#888" : "#000",
+                    borderColor: color,
+                    background: hidden ? "transparent" : color,
+                    color: hidden ? color : nodeTypeTextColor(t),
                     opacity: hidden ? 0.5 : 1,
                   }}
                 >
@@ -585,12 +549,15 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
         {/* Edge-color legend — explains the relation-category palette */}
         <div className="flex flex-wrap items-center gap-2 text-[10px] font-mono text-zinc-500 px-1">
           <span>edges:</span>
-          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#dc2626" }} /> causal / temporal</span>
-          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#3b82f6" }} /> alliance / membership</span>
-          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#f59e0b" }} /> opposition</span>
-          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#16a34a" }} /> spatial</span>
-          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#a78bfa" }} /> parallels</span>
-          <span><span className="inline-block w-4 h-0.5 align-middle mr-1" style={{ background: "#10b981" }} /> financial</span>
+          {RELATION_LEGEND.map((item) => (
+            <span key={item.label}>
+              <span
+                className="inline-block w-4 h-0.5 align-middle mr-1"
+                style={{ background: item.color }}
+              />{" "}
+              {item.label}
+            </span>
+          ))}
           <span className="ml-auto text-zinc-600">hover a node to isolate · click to pin · click background to release</span>
         </div>
       </div>

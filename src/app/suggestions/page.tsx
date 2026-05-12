@@ -1,5 +1,5 @@
 import { db, schema } from "@/lib/db";
-import { eq, and, desc } from "drizzle-orm";
+import { eq, desc } from "drizzle-orm";
 import SuggestionsList from "@/components/SuggestionsList";
 
 export default async function SuggestionsPage() {
