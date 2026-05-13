@@ -17,6 +17,16 @@ Run:  AURORA_DB_PATH=/path/to/aurora.db  python aurora_mcp.py     (stdio)
    or register it (see mcp/README.md) and let the client launch it.
 
 Stdlib + `mcp` only.
+
+Threat model — prompt injection via lore-graph content. Returned strings
+(node ``brief`` / ``master_summary``, connection ``claim``, source
+``excerpt`` / ``title``) are curator-mediated but originate from external
+publications, stream transcripts, and scraped news articles. The MCP server
+returns them **verbatim** — fidelity matters — and the threat model is
+documented in ``mcp/README.md`` §Security. The defense is the consuming
+LLM client's job: treat lore-graph content as data, not instructions.
+Sibling: the ``eve-character`` MCP server in the Quartermaster_PI repo
+addresses the higher-threat case of *player-controlled* string content.
 """
 from __future__ import annotations
 

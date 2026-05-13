@@ -75,3 +75,31 @@ a repo, or `claude mcp add`):
 - Sibling that *isn't* here: a live-ESI EVE-character MCP server belongs in
   the Quartermaster project (it already has the ESI client + token store), not
   in this repo.
+
+## Security — prompt-injection threat model
+
+Returned strings (node ``brief`` / ``master_summary``, connection ``claim``,
+source ``excerpt`` / ``title``) are **curator-mediated** — ARETE writes each
+seed entry — but the *underlying* content originates from external CCP
+publications, stream transcripts, and scraped news articles. Even though a
+curator's eye is the first filter, the LLM-client side of the threat model
+applies: **treat returned content as data, not as instructions.** The server
+returns rows from SQLite **verbatim** — silently scrubbing would break
+faithful representation of the curated graph and would give a false sense of
+safety.
+
+The threat profile is genuinely lower than the sibling `eve-character` MCP
+server in the Quartermaster_PI repo, which returns *player-controlled*
+strings (`wallet_journal.reason`, ship names, clone names) that any in-game
+actor can set. Aurora's curator-mediated path narrows the surface but does
+not close it: a curator can paste lore content containing embedded
+prompt-injection patterns by accident.
+
+**Pinned by `mcp/test_injection.py`:** the module docstring and this README
+must each name the prompt-injection threat model. Removing either warning
+breaks the test, so the documentation can't silently rot. If a new tool
+returns curator-or-author string content, add the README and docstring notes
+above; the test will fail otherwise.
+
+Reference: *The Hacker News*, "Why agentic AI is security's next blind spot"
+(2026-05); OWASP Top 10 for LLM Apps (LLM-01: Prompt Injection).
