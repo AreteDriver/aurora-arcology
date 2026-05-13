@@ -57,3 +57,7 @@ data/raw/
 src/lib/db-blob.ts
 data/syntheses/_input/
 data/raw/
+
+# Aurora MCP server (Python)
+mcp/.venv/
+mcp/__pycache__/
