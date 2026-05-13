@@ -18,12 +18,15 @@ export function PriceTable({ category, rows }: Props) {
   const sorted = [...rows].sort((a, b) => b.jita_sell_min - a.jita_sell_min);
 
   return (
-    <section className="border border-zinc-800">
-      <header className="px-3 py-2 bg-zinc-900/40 border-b border-zinc-800">
-        <h3 className="text-xs font-mono uppercase tracking-wider text-zinc-300">
+    <section className="overflow-hidden rounded-xl border border-zinc-800/90 bg-zinc-950/70">
+      <header className="flex items-center justify-between gap-2 border-b border-zinc-800/90 bg-zinc-900/60 px-3 py-2">
+        <h3 className="text-xs font-mono uppercase tracking-wider text-zinc-200">
           {category.replace(/_/g, " ")}{" "}
           <span className="text-zinc-500">({sorted.length})</span>
         </h3>
+        <span className="text-[10px] font-mono uppercase tracking-wider text-zinc-500">
+          jita iv-4
+        </span>
       </header>
       <table className="w-full text-xs">
         <thead className="text-zinc-500 font-mono">
@@ -42,8 +45,13 @@ export function PriceTable({ category, rows }: Props) {
         </thead>
         <tbody className="font-mono">
           {sorted.map((r) => (
-            <tr key={r.type_id} className="border-b border-zinc-900 hover:bg-zinc-900/30">
-              <td className="px-3 py-1.5 text-zinc-300">{r.type_name}</td>
+            <tr
+              key={r.type_id}
+              className="border-b border-zinc-900/80 hover:bg-sky-950/30"
+            >
+              <td className="px-3 py-1.5 text-zinc-200 max-w-[210px] truncate">
+                {r.type_name}
+              </td>
               <td className="px-3 py-1.5 text-right text-zinc-400">
                 {formatIsk(r.jita_buy_max)}
               </td>

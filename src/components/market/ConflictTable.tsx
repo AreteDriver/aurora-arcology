@@ -33,9 +33,9 @@ export function ConflictTable({ rows }: Props) {
   const maxIsk = Math.max(...rows.map((r) => r.isk_destroyed_last3mo_t));
 
   return (
-    <section className="border border-zinc-800">
-      <header className="px-3 py-2 bg-zinc-900/40 border-b border-zinc-800">
-        <h3 className="text-xs font-mono uppercase tracking-wider text-zinc-300">
+    <section className="overflow-hidden rounded-xl border border-zinc-800/90 bg-zinc-950/70">
+      <header className="border-b border-zinc-800/90 bg-zinc-900/60 px-3 py-2">
+        <h3 className="text-xs font-mono uppercase tracking-wider text-zinc-200">
           conflict hot regions <span className="text-zinc-500">(last 3 mo, ISK destroyed)</span>
         </h3>
       </header>
@@ -55,8 +55,11 @@ export function ConflictTable({ rows }: Props) {
           {rows.map((r) => {
             const pct = maxIsk === 0 ? 0 : (r.isk_destroyed_last3mo_t / maxIsk) * 100;
             return (
-              <tr key={r.region} className="border-b border-zinc-900 hover:bg-zinc-900/30">
-                <td className="px-3 py-1.5 text-zinc-300">{r.region}</td>
+              <tr
+                key={r.region}
+                className="border-b border-zinc-900/80 hover:bg-rose-950/20"
+              >
+                <td className="px-3 py-1.5 text-zinc-200">{r.region}</td>
                 <td className="px-3 py-1.5 text-right text-zinc-200">
                   {r.isk_destroyed_last3mo_t.toFixed(1)}T
                 </td>
@@ -67,9 +70,9 @@ export function ConflictTable({ rows }: Props) {
                   {topShipShort(r.top_ship_groups_by_isk_alltime)}
                 </td>
                 <td className="px-3 py-1.5">
-                  <div className="w-24 h-1 bg-zinc-900 relative">
+                  <div className="relative h-1.5 w-24 overflow-hidden rounded-full bg-zinc-900">
                     <div
-                      className="h-1 bg-amber-700/60"
+                      className="h-1.5 rounded-full bg-gradient-to-r from-amber-500/60 to-rose-500/70"
                       style={{ width: `${pct.toFixed(1)}%` }}
                     />
                   </div>

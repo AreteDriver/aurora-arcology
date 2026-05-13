@@ -49,6 +49,10 @@ export default function MarketPage() {
   const weekChange = mpiPeriodChange(snap.mpi, 7);
   const monthChange = mpiPeriodChange(snap.mpi, 30);
   const topRegions = topConflictRegions(snap.conflict, 12);
+  const hottest = topRegions[0] ?? null;
+  const wideSpreads = snap.prices.filter((p) => p.jita_spread_pct > 20).length;
+  const totalBuyVol = snap.prices.reduce((sum, p) => sum + p.jita_buy_vol, 0);
+  const totalSellVol = snap.prices.reduce((sum, p) => sum + p.jita_sell_vol, 0);
 
   const orderedCategories = [
     ...CATEGORY_ORDER.filter((c) => byCat[c]?.length),
@@ -58,60 +62,161 @@ export default function MarketPage() {
   const hasData = snap.prices.length > 0 || snap.mpi.length > 0;
 
   return (
-    <div className="max-w-6xl space-y-8">
-      <header className="space-y-2">
-        <div className="flex items-baseline justify-between flex-wrap gap-2">
-          <h1 className="text-2xl font-bold">Market</h1>
-          <div className="text-xs font-mono text-zinc-500">
-            snapshot: {snap.snapshot_date || "(none)"} · source:{" "}
-            <span
-              className={
-                snap.source === "live" ? "text-emerald-500" : "text-amber-500"
-              }
-            >
-              {snap.source}
-            </span>
-            {snap.generated_at && (
-              <>
-                {" "}· baked: {new Date(snap.generated_at).toISOString().slice(0, 16).replace("T", " ")}
-              </>
-            )}
+    <div className="mx-auto max-w-7xl space-y-8 pb-10">
+      <header className="relative overflow-hidden rounded-2xl border border-zinc-800/80 bg-gradient-to-br from-zinc-950 via-zinc-950 to-sky-950/20 p-5 sm:p-7">
+        <div className="pointer-events-none absolute -right-24 -top-24 h-56 w-56 rounded-full bg-sky-500/10 blur-3xl" />
+        <div className="pointer-events-none absolute -left-16 bottom-0 h-44 w-44 rounded-full bg-emerald-500/10 blur-3xl" />
+
+        <div className="relative space-y-5">
+          <div className="flex flex-wrap items-start justify-between gap-4">
+            <div className="space-y-2">
+              <div className="inline-flex items-center gap-2 rounded-full border border-sky-900/60 bg-sky-900/20 px-3 py-1 font-mono text-[11px] uppercase tracking-[0.18em] text-sky-300">
+                New Eden Macro Pulse
+              </div>
+              <h1 className="text-3xl font-semibold tracking-tight text-zinc-50 sm:text-4xl">
+                Market Brief
+              </h1>
+              <p className="max-w-3xl text-sm leading-relaxed text-zinc-300 sm:text-[15px]">
+                Daily Mineral Price Index trend, Jita IV-4 watchlist spreads,
+                and conflict-driven destruction pressure in one glance-first
+                surface for market ritual review.
+              </p>
+            </div>
+
+            <div className="rounded-xl border border-zinc-800/90 bg-zinc-950/70 px-4 py-3 text-[11px] font-mono uppercase tracking-wide text-zinc-400">
+              <div>
+                snapshot:{" "}
+                <span className="text-zinc-200">{snap.snapshot_date || "(none)"}</span>
+              </div>
+              <div className="mt-1">
+                source:{" "}
+                <span
+                  className={
+                    snap.source === "live" ? "text-emerald-400" : "text-amber-400"
+                  }
+                >
+                  {snap.source}
+                </span>
+              </div>
+              {snap.generated_at && (
+                <div className="mt-1">
+                  baked:{" "}
+                  <span className="text-zinc-300">
+                    {new Date(snap.generated_at)
+                      .toISOString()
+                      .slice(0, 16)
+                      .replace("T", " ")}
+                  </span>
+                </div>
+              )}
+            </div>
+          </div>
+
+          <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+            <div className="rounded-xl border border-zinc-800 bg-zinc-950/70 px-4 py-3">
+              <div className="text-[11px] font-mono uppercase tracking-wider text-zinc-500">
+                MPI d/d
+              </div>
+              <div
+                className={`mt-1 text-xl font-semibold ${
+                  !delta
+                    ? "text-zinc-400"
+                    : delta.pct_change >= 0
+                      ? "text-emerald-400"
+                      : "text-rose-400"
+                }`}
+              >
+                {delta ? formatPct(delta.pct_change) : "—"}
+              </div>
+            </div>
+
+            <div className="rounded-xl border border-zinc-800 bg-zinc-950/70 px-4 py-3">
+              <div className="text-[11px] font-mono uppercase tracking-wider text-zinc-500">
+                7d / 30d
+              </div>
+              <div className="mt-1 flex items-baseline gap-3">
+                <span
+                  className={`text-lg font-semibold ${
+                    weekChange === null
+                      ? "text-zinc-400"
+                      : weekChange >= 0
+                        ? "text-emerald-400"
+                        : "text-rose-400"
+                  }`}
+                >
+                  {weekChange === null ? "—" : formatPct(weekChange)}
+                </span>
+                <span
+                  className={`text-sm font-medium ${
+                    monthChange === null
+                      ? "text-zinc-500"
+                      : monthChange >= 0
+                        ? "text-emerald-300"
+                        : "text-rose-300"
+                  }`}
+                >
+                  {monthChange === null ? "—" : formatPct(monthChange)}
+                </span>
+              </div>
+            </div>
+
+            <div className="rounded-xl border border-zinc-800 bg-zinc-950/70 px-4 py-3">
+              <div className="text-[11px] font-mono uppercase tracking-wider text-zinc-500">
+                Watchlist pressure
+              </div>
+              <div className="mt-1 text-lg font-semibold text-zinc-100">
+                {wideSpreads} wide spreads
+              </div>
+              <div className="mt-1 text-xs text-zinc-500">
+                {snap.prices.length} tracked items
+              </div>
+            </div>
+
+            <div className="rounded-xl border border-zinc-800 bg-zinc-950/70 px-4 py-3">
+              <div className="text-[11px] font-mono uppercase tracking-wider text-zinc-500">
+                Conflict leader
+              </div>
+              <div className="mt-1 truncate text-lg font-semibold text-zinc-100">
+                {hottest ? hottest.region : "—"}
+              </div>
+              <div className="mt-1 text-xs text-zinc-500">
+                {hottest ? `${hottest.isk_destroyed_last3mo_t.toFixed(1)}T destroyed` : "no conflict snapshot"}
+              </div>
+            </div>
           </div>
         </div>
-        <p className="text-sm text-zinc-400 max-w-3xl">
-          EVE Online economic analysis. Daily Mineral Price Index reconstructed
-          from per-region market history, Jita IV-4 buy/sell snapshot across the
-          watchlist, and the last-3-month conflict-volume ranking. Synthesis
-          notes live in the headless outlook log; this page is the
-          glance-and-go signal display.
-        </p>
       </header>
 
       {!hasData && (
-        <div className="border border-zinc-800 p-4 text-xs font-mono text-zinc-400">
-          No market data has been baked into the page yet. From a checkout where
-          the cron pipeline runs:
-          <pre className="mt-2 text-zinc-500">
+        <div className="rounded-xl border border-amber-900/70 bg-amber-950/20 p-4 text-xs font-mono text-zinc-300">
+          No market data has been baked into this build yet. From a checkout
+          where the cron pipeline runs:
+          <pre className="mt-2 rounded border border-zinc-800 bg-zinc-950/80 p-3 text-zinc-400">
             {"pnpm market:load\npnpm dev    # or pnpm build"}
           </pre>
           Optional override:{" "}
-          <code className="text-zinc-300">MARKET_DATA_DIR=/path</code> if your
-          data lives outside the default
-          <code className="text-zinc-300"> ~/projects/notes/data/raw/eve</code>.
+          <code className="text-zinc-100">MARKET_DATA_DIR=/path</code> if your
+          data lives outside the default{" "}
+          <code className="text-zinc-100">~/projects/notes/data/raw/eve</code>.
         </div>
       )}
 
       {snap.mpi.length > 0 && (
-        <section className="space-y-3">
+        <section className="space-y-4 rounded-2xl border border-zinc-800/80 bg-zinc-950/70 p-4 sm:p-5">
           <div className="flex items-end justify-between flex-wrap gap-4">
-            <h2 className="text-lg font-bold">Mineral Price Index</h2>
+            <div>
+              <h2 className="text-lg font-semibold text-zinc-100">Mineral Price Index</h2>
+              <p className="mt-1 text-xs text-zinc-500">
+                Anchor day normalized to 1.0 · combined + low-end + high-end tracks
+              </p>
+            </div>
             <div className="font-mono text-xs flex gap-4 text-zinc-400">
               {delta && (
                 <span>
                   d/d:{" "}
                   <span
                     className={
-                      delta.pct_change >= 0 ? "text-emerald-500" : "text-rose-500"
+                      delta.pct_change >= 0 ? "text-emerald-400" : "text-rose-400"
                     }
                   >
                     {formatPct(delta.pct_change)}
@@ -123,7 +228,7 @@ export default function MarketPage() {
                   7d:{" "}
                   <span
                     className={
-                      weekChange >= 0 ? "text-emerald-500" : "text-rose-500"
+                      weekChange >= 0 ? "text-emerald-400" : "text-rose-400"
                     }
                   >
                     {formatPct(weekChange)}
@@ -135,7 +240,7 @@ export default function MarketPage() {
                   30d:{" "}
                   <span
                     className={
-                      monthChange >= 0 ? "text-emerald-500" : "text-rose-500"
+                      monthChange >= 0 ? "text-emerald-400" : "text-rose-400"
                     }
                   >
                     {formatPct(monthChange)}
@@ -145,7 +250,7 @@ export default function MarketPage() {
               <span className="text-zinc-600">{snap.mpi.length} days</span>
             </div>
           </div>
-          <div className="border border-zinc-800 p-4 bg-zinc-950">
+          <div className="rounded-xl border border-zinc-800/90 bg-zinc-950/90 p-4">
             <MPIChart rows={snap.mpi} />
           </div>
           <p className="text-xs text-zinc-500">
@@ -157,8 +262,13 @@ export default function MarketPage() {
       )}
 
       {snap.conflict.length > 0 && (
-        <section className="space-y-3">
-          <h2 className="text-lg font-bold">Conflict hotspots</h2>
+        <section className="space-y-4 rounded-2xl border border-zinc-800/80 bg-zinc-950/70 p-4 sm:p-5">
+          <div className="flex flex-wrap items-end justify-between gap-3">
+            <h2 className="text-lg font-semibold text-zinc-100">Conflict Hotspots</h2>
+            <div className="text-xs font-mono text-zinc-500">
+              top {topRegions.length} regions by trailing 3-mo destruction
+            </div>
+          </div>
           <ConflictTable rows={topRegions} />
           <p className="text-xs text-zinc-500">
             zKillboard regional rollup. Sorted by ISK destroyed in the trailing
@@ -169,8 +279,20 @@ export default function MarketPage() {
       )}
 
       {snap.prices.length > 0 && (
-        <section className="space-y-3">
-          <h2 className="text-lg font-bold">Jita IV-4 snapshot</h2>
+        <section className="space-y-4 rounded-2xl border border-zinc-800/80 bg-zinc-950/70 p-4 sm:p-5">
+          <div className="flex flex-wrap items-end justify-between gap-3">
+            <h2 className="text-lg font-semibold text-zinc-100">Jita IV-4 Snapshot</h2>
+            <div className="text-xs font-mono text-zinc-500">
+              buy vol:{" "}
+              <span className="text-zinc-300">
+                {(totalBuyVol / 1e12).toFixed(2)}T
+              </span>{" "}
+              · sell vol:{" "}
+              <span className="text-zinc-300">
+                {(totalSellVol / 1e12).toFixed(2)}T
+              </span>
+            </div>
+          </div>
           <div className="grid gap-4 md:grid-cols-2">
             {orderedCategories.map((cat) => (
               <PriceTable key={cat} category={cat} rows={byCat[cat]} />
@@ -184,7 +306,7 @@ export default function MarketPage() {
         </section>
       )}
 
-      <footer className="text-xs text-zinc-600 pt-6 border-t border-zinc-900 space-y-1">
+      <footer className="rounded-xl border border-zinc-900 bg-zinc-950/60 px-4 py-3 text-xs text-zinc-600 space-y-1">
         <div>
           Pipeline:{" "}
           <code className="text-zinc-400">
