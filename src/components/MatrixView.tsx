@@ -312,11 +312,7 @@ export default function MatrixView({ nodes, connections }: Props) {
                 onClick={() => setSelectedId(c.srcNodeId)}
                 style={{ cursor: "pointer" }}
               >
-                <title>
-                  {ordered[ri].name} → {ordered[ci].name}
-                  {"\n"}
-                  {c.relationType} ({c.confidence.toFixed(2)})
-                </title>
+                <title>{`${ordered[ri].name} -> ${ordered[ci].name}\n${c.relationType} (${c.confidence.toFixed(2)})`}</title>
               </rect>
             );
           })}
