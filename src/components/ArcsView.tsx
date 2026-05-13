@@ -49,6 +49,39 @@ const LANE_STEP = 12;
 const STATION_MIN_X_GAP = 20;
 const RELATED_FOCUS_LIMIT = 4;
 
+type DensityMode = "compact" | "balanced" | "roomy";
+
+const DENSITY_PRESET: Record<
+  DensityMode,
+  { minTrackH: number; laneStep: number; minStationXGap: number }
+> = {
+  compact: {
+    minTrackH: 52,
+    laneStep: 10,
+    minStationXGap: 16,
+  },
+  balanced: {
+    minTrackH: MIN_TRACK_H,
+    laneStep: LANE_STEP,
+    minStationXGap: STATION_MIN_X_GAP,
+  },
+  roomy: {
+    minTrackH: 62,
+    laneStep: 14,
+    minStationXGap: 24,
+  },
+};
+
+function asDensityMode(value: string | null): DensityMode {
+  if (value === "compact" || value === "balanced" || value === "roomy") return value;
+  return "balanced";
+}
+
+function asFocusMode(value: string | null): boolean {
+  if (value === "0" || value === "false") return false;
+  return true;
+}
+
 type Station = {
   node: Node;
   x: number;
@@ -104,6 +137,8 @@ export default function ArcsView({ boardId, nodes }: Props) {
   const [hoverLensId, setHoverLensId] = useState<string | null>(null);
   const [focusMode, setFocusMode] = useState(true);
   const [selectedLensId, setSelectedLensId] = useState<string | null>(null);
+  const [densityMode, setDensityMode] = useState<DensityMode>("balanced");
+  const [urlInitialized, setUrlInitialized] = useState(false);
 
   const nodeById = useMemo(() => new Map(nodes.map((n) => [n.id, n])), [nodes]);
 
@@ -205,6 +240,26 @@ export default function ArcsView({ boardId, nodes }: Props) {
   }, [boardLenses, nodeIdsByLens, lensesByNodeAll]);
 
   useEffect(() => {
+    if (typeof window === "undefined") return;
+
+    const hydrateFromLocation = () => {
+      const params = new URLSearchParams(window.location.search);
+      const qsArc = params.get("arc");
+      const qsFocus = asFocusMode(params.get("focus"));
+      const qsDensity = asDensityMode(params.get("density"));
+
+      setFocusMode(qsFocus);
+      setDensityMode(qsDensity);
+      setSelectedLensId(qsArc);
+    };
+
+    hydrateFromLocation();
+    setUrlInitialized(true);
+    window.addEventListener("popstate", hydrateFromLocation);
+    return () => window.removeEventListener("popstate", hydrateFromLocation);
+  }, []);
+
+  useEffect(() => {
     if (orderedLenses.length === 0) {
       setSelectedLensId(null);
       return;
@@ -213,6 +268,32 @@ export default function ArcsView({ boardId, nodes }: Props) {
       setSelectedLensId(orderedLenses[0].id);
     }
   }, [orderedLenses, selectedLensId]);
+
+  useEffect(() => {
+    if (!urlInitialized || typeof window === "undefined") return;
+    const current = new URLSearchParams(window.location.search);
+    const currentArc = current.get("arc");
+    const currentFocus = asFocusMode(current.get("focus"));
+    const currentDensity = asDensityMode(current.get("density"));
+
+    if (
+      currentArc === (selectedLensId ?? null) &&
+      currentFocus === focusMode &&
+      currentDensity === densityMode
+    ) {
+      return;
+    }
+
+    const next = new URLSearchParams();
+    if (selectedLensId) next.set("arc", selectedLensId);
+    next.set("focus", focusMode ? "1" : "0");
+    next.set("density", densityMode);
+    const query = next.toString();
+    const path = query.length > 0 ? `${window.location.pathname}?${query}` : window.location.pathname;
+    window.history.replaceState(null, "", path);
+  }, [densityMode, focusMode, selectedLensId, urlInitialized]);
+
+  const densityPreset = DENSITY_PRESET[densityMode];
 
   // Time scale: collect all dates across lensed nodes
   const { tMin, tMax, undatedX, totalW } = useMemo(() => {
@@ -301,10 +382,16 @@ export default function ArcsView({ boardId, nodes }: Props) {
         .map((node) => ({ node, x: xFor(node.date) }))
         .sort((a, b) => a.x - b.x);
 
+      const spread =
+        rawStations.length > 1 ? rawStations[rawStations.length - 1].x - rawStations[0].x : 0;
+      const crowdScore = rawStations.length / Math.max(1, spread / 120);
+      const dynamicGapBoost = Math.max(0, Math.min(8, Math.round((crowdScore - 1) * 5)));
+      const stationGap = densityPreset.minStationXGap + dynamicGapBoost;
+
       const laneLastX: number[] = [];
       const staged = rawStations.map(({ node, x }) => {
         let lane = 0;
-        while (lane < laneLastX.length && x - laneLastX[lane] < STATION_MIN_X_GAP) {
+        while (lane < laneLastX.length && x - laneLastX[lane] < stationGap) {
           lane++;
         }
         if (lane === laneLastX.length) laneLastX.push(x);
@@ -314,14 +401,14 @@ export default function ArcsView({ boardId, nodes }: Props) {
       });
 
       const lanes = Math.max(1, laneLastX.length);
-      const rowHeight = Math.max(MIN_TRACK_H, 42 + (lanes - 1) * LANE_STEP + 14);
+      const rowHeight = Math.max(densityPreset.minTrackH, 42 + (lanes - 1) * densityPreset.laneStep + 14);
       const baseY = cursorY + rowHeight / 2;
 
       const stations: Station[] = staged.map((s) => ({
         node: s.node,
         x: s.x,
         lane: s.lane,
-        y: baseY + (s.lane - (lanes - 1) / 2) * LANE_STEP,
+        y: baseY + (s.lane - (lanes - 1) / 2) * densityPreset.laneStep,
       }));
 
       tracks.push({
@@ -338,7 +425,7 @@ export default function ArcsView({ boardId, nodes }: Props) {
 
     const height = Math.max(TOP_PAD + BOTTOM_PAD + 120, cursorY - TRACK_GAP + BOTTOM_PAD);
     return { lensTracks: tracks, totalH: height };
-  }, [displayLenses, nodeById, xFor]);
+  }, [densityPreset.laneStep, densityPreset.minStationXGap, densityPreset.minTrackH, displayLenses, nodeById, xFor]);
 
   const stationPositionsByNode = useMemo(() => {
     const m = new Map<string, Array<{ lensId: string; x: number; y: number }>>();
@@ -418,7 +505,13 @@ export default function ArcsView({ boardId, nodes }: Props) {
     return out;
   }, [tMin, tMax, totalW]);
 
-  const summaryText = `${displayLenses.length} / ${orderedLenses.length} arcs visible · ${nodes.length} board nodes`;
+  const layoutStats = useMemo(() => {
+    const maxLanes = lensTracks.reduce((best, track) => Math.max(best, track.lanes), 1);
+    const multiLaneTracks = lensTracks.filter((track) => track.lanes > 1).length;
+    return { maxLanes, multiLaneTracks };
+  }, [lensTracks]);
+
+  const summaryText = `${displayLenses.length} / ${orderedLenses.length} arcs visible · ${nodes.length} board nodes · ${layoutStats.multiLaneTracks} packed tracks · max ${layoutStats.maxLanes} lanes`;
 
   return (
     <div className="space-y-3">
@@ -454,12 +547,25 @@ export default function ArcsView({ boardId, nodes }: Props) {
             show all arcs
           </button>
 
+          <span className="text-zinc-500">density</span>
+          <select
+            value={densityMode}
+            onChange={(e) => setDensityMode(asDensityMode(e.target.value))}
+            className="rounded border border-zinc-700 bg-zinc-900 px-2 py-1 text-zinc-300"
+            title="Compact packs more data; Roomy spreads lanes to reduce visual collisions"
+          >
+            <option value="compact">compact</option>
+            <option value="balanced">balanced</option>
+            <option value="roomy">roomy</option>
+          </select>
+
           <span className="ml-auto text-zinc-500">{summaryText}</span>
         </div>
 
         <p>
           Stations are lane-packed to prevent overlap; track order is auto-optimized for interchange readability. In
-          focus mode, only the selected arc plus related arcs are shown.
+          focus mode, only the selected arc plus related arcs are shown. Arc, focus, and density are persisted in the
+          URL for shareable review links.
         </p>
       </div>
 
