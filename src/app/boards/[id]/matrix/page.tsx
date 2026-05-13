@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import Link from "next/link";
+import BoardShell from "@/components/BoardShell";
 import MatrixView from "@/components/MatrixView";
 import { listBoardIdsWithNodes, loadBoardData } from "@/lib/board-data";
 
@@ -18,29 +18,15 @@ export default async function BoardMatrixPage({ params }: Props) {
   const { board, nodes, connections } = boardData;
 
   return (
-    <div>
-      <header className="mb-4 flex items-baseline justify-between">
-        <div>
-          <h1 className="text-2xl font-bold">{board.title}</h1>
-          <p className="text-xs text-zinc-500 font-mono mt-1">
-            curator: {board.curator} · adjacency-matrix lens
-          </p>
-        </div>
-        <nav className="flex gap-3 font-mono text-sm">
-          <Link href={`/boards/${id}`} className="text-zinc-400 hover:text-zinc-100">
-            board ↗
-          </Link>
-          <Link href={`/boards/${id}/timeline`} className="text-zinc-400 hover:text-zinc-100">
-            timeline ↗
-          </Link>
-          <span className="text-zinc-100">matrix</span>
-          <Link href={`/boards/${id}/arcs`} className="text-zinc-400 hover:text-zinc-100">
-            arcs ↗
-          </Link>
-        </nav>
-      </header>
-
+    <BoardShell
+      boardId={id}
+      boardTitle={board.title}
+      curator={board.curator}
+      activeView="matrix"
+      subtitle="adjacency-matrix lens"
+      metrics={`${nodes.length} nodes · ${connections.length} edges`}
+    >
       <MatrixView nodes={nodes} connections={connections} />
-    </div>
+    </BoardShell>
   );
 }

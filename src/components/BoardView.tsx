@@ -408,130 +408,134 @@ export default function BoardView({ nodes, connections, citationsByNode = {} }: 
   }, [selectedId, hoverId, scopeKey, visible.nodes, visible.conns]);
 
   const selected = selectedId ? nodeById.get(selectedId) ?? null : null;
+  const toggleClass = (active: boolean) =>
+    `rounded border px-2 py-1 transition-colors ${active ? "border-zinc-100 bg-zinc-100 text-black" : "border-zinc-700 bg-zinc-900 text-zinc-400 hover:border-zinc-500 hover:text-zinc-200"}`;
 
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-[1fr_360px] gap-4 h-[calc(100vh-160px)]">
-      <div className="flex flex-col gap-2">
-        {/* Filter bar */}
-        <div className="flex flex-wrap items-center gap-3 text-xs font-mono border border-zinc-800 p-2">
-          <div className="flex items-center gap-1.5">
-            <span className="text-zinc-500">conf ≥</span>
-            <input
-              type="range"
-              min={0}
-              max={1}
-              step={0.05}
-              value={minConfidence}
-              onChange={(e) => setMinConfidence(parseFloat(e.target.value))}
-              className="w-24"
-            />
-            <span className="w-8 text-zinc-300">{minConfidence.toFixed(2)}</span>
-          </div>
-
-          <div className="flex items-center gap-1.5">
-            <span className="text-zinc-500">hops</span>
-            <select
-              value={hops}
-              onChange={(e) => setHops(parseInt(e.target.value))}
-              className="bg-zinc-900 border border-zinc-700 px-1 py-0.5"
-            >
-              <option value={0}>all</option>
-              <option value={1}>1</option>
-              <option value={2}>2</option>
-              <option value={3}>3</option>
-            </select>
-            {selectedId && hops > 0 && (
-              <span className="text-zinc-400">around {nodeById.get(selectedId)?.name}</span>
-            )}
-          </div>
-
-          <button
-            onClick={() => setClusterByType((v) => !v)}
-            className={`px-1.5 py-0.5 border ${clusterByType ? "bg-zinc-100 text-black border-zinc-100" : "bg-zinc-900 text-zinc-400 border-zinc-700 hover:border-zinc-500"}`}
-            title="Pull same-type nodes toward shared anchor regions"
-          >
-            cluster
-          </button>
-
-          <button
-            onClick={() => setSubwayMode((v) => !v)}
-            className={`px-1.5 py-0.5 border ${subwayMode ? "bg-zinc-100 text-black border-zinc-100" : "bg-zinc-900 text-zinc-400 border-zinc-700 hover:border-zinc-500"}`}
-            title="Snap nodes to a 40px grid + render edges as right-angle L-shapes (transit-map aesthetic)"
-          >
-            subway
-          </button>
-
-          <div className="flex items-center gap-1.5">
-            <span className="text-zinc-500">lens</span>
-            <select
-              value={lensId ?? ""}
-              onChange={(e) => setLensId(e.target.value || null)}
-              className="bg-zinc-900 border border-zinc-700 px-1 py-0.5 max-w-[16rem]"
-              title={lens?.description ?? "Curator-authored sub-board lenses"}
-            >
-              <option value="">full corpus</option>
-              {LENSES.map((l) => (
-                <option key={l.id} value={l.id}>
-                  {l.title}
-                </option>
-              ))}
-            </select>
-          </div>
-
-          {/* Quick-select lens chips — one click to jump to the most
-              commonly-read narrative regions. Same state as the dropdown. */}
-          <div className="flex items-center gap-1">
-            {(["warpath-current", "lai-dai-vs-ishukone", "old-wars", "empyrean-age"] as const).map((lid) => {
-              const l = LENSES.find((x) => x.id === lid);
-              if (!l) return null;
-              const active = lensId === lid;
-              const label = lid === "warpath-current" ? "warpath" :
-                            lid === "lai-dai-vs-ishukone" ? "axis" :
-                            lid === "old-wars" ? "old wars" :
-                            "empyrean";
-              return (
+    <div className="grid grid-cols-1 gap-4 lg:grid-cols-[1fr_360px] lg:h-[calc(100vh-190px)]">
+      <div className="flex min-h-0 flex-col gap-2">
+        <div className="sticky top-2 z-20">
+          <div className="rounded-md border border-zinc-800 bg-zinc-950/95 p-2 text-xs font-mono backdrop-blur supports-[backdrop-filter]:bg-zinc-950/80">
+            <div className="flex flex-wrap gap-2">
+              <div className="flex flex-wrap items-center gap-1.5 rounded border border-zinc-800 bg-zinc-950/70 px-2 py-1.5">
+                <span className="text-[10px] uppercase tracking-wide text-zinc-500">view</span>
                 <button
-                  key={lid}
-                  onClick={() => setLensId(active ? null : lid)}
-                  className={`px-1.5 py-0.5 border ${active ? "bg-zinc-100 text-black border-zinc-100" : "bg-zinc-900 text-zinc-400 border-zinc-700 hover:border-zinc-500"}`}
-                  title={l.description}
+                  onClick={() => setClusterByType((v) => !v)}
+                  className={toggleClass(clusterByType)}
+                  title="Pull same-type nodes toward shared anchor regions"
                 >
-                  {label}
+                  cluster
                 </button>
-              );
-            })}
-          </div>
-
-          <div className="flex items-center gap-1.5 flex-wrap">
-            {allTypes.map((t) => {
-              const hidden = hiddenTypes.has(t);
-              const color = nodeTypeColor(t);
-              return (
                 <button
-                  key={t}
-                  onClick={() => {
-                    const next = new Set(hiddenTypes);
-                    if (hidden) next.delete(t);
-                    else next.add(t);
-                    setHiddenTypes(next);
-                  }}
-                  className="px-1.5 py-0.5 border"
-                  style={{
-                    borderColor: color,
-                    background: hidden ? "transparent" : color,
-                    color: hidden ? color : nodeTypeTextColor(t),
-                    opacity: hidden ? 0.5 : 1,
-                  }}
+                  onClick={() => setSubwayMode((v) => !v)}
+                  className={toggleClass(subwayMode)}
+                  title="Snap nodes to a 40px grid + render edges as right-angle L-shapes (transit-map aesthetic)"
                 >
-                  {t}
+                  subway
                 </button>
-              );
-            })}
-          </div>
+              </div>
 
-          <div className="ml-auto text-zinc-500">
-            {visible.nodes.length} / {nodes.length} nodes · {visible.conns.length} /{" "}
-            {connections.length} edges
+              <div className="flex flex-wrap items-center gap-1.5 rounded border border-zinc-800 bg-zinc-950/70 px-2 py-1.5">
+                <span className="text-[10px] uppercase tracking-wide text-zinc-500">scope</span>
+                <span className="text-zinc-500">hops</span>
+                <select
+                  value={hops}
+                  onChange={(e) => setHops(parseInt(e.target.value))}
+                  className="rounded border border-zinc-700 bg-zinc-900 px-1 py-0.5 text-zinc-300"
+                >
+                  <option value={0}>all</option>
+                  <option value={1}>1</option>
+                  <option value={2}>2</option>
+                  <option value={3}>3</option>
+                </select>
+                {selectedId && hops > 0 && (
+                  <span className="text-zinc-400">around {nodeById.get(selectedId)?.name}</span>
+                )}
+              </div>
+
+              <div className="flex flex-wrap items-center gap-1.5 rounded border border-zinc-800 bg-zinc-950/70 px-2 py-1.5">
+                <span className="text-[10px] uppercase tracking-wide text-zinc-500">filter</span>
+                <span className="text-zinc-500">conf &gt;=</span>
+                <input
+                  type="range"
+                  min={0}
+                  max={1}
+                  step={0.05}
+                  value={minConfidence}
+                  onChange={(e) => setMinConfidence(parseFloat(e.target.value))}
+                  className="w-24"
+                />
+                <span className="w-8 text-zinc-300">{minConfidence.toFixed(2)}</span>
+              </div>
+
+              <div className="flex flex-wrap items-center gap-1.5 rounded border border-zinc-800 bg-zinc-950/70 px-2 py-1.5">
+                <span className="text-[10px] uppercase tracking-wide text-zinc-500">lens</span>
+                <select
+                  value={lensId ?? ""}
+                  onChange={(e) => setLensId(e.target.value || null)}
+                  className="max-w-[16rem] rounded border border-zinc-700 bg-zinc-900 px-1 py-0.5 text-zinc-300"
+                  title={lens?.description ?? "Curator-authored sub-board lenses"}
+                >
+                  <option value="">full corpus</option>
+                  {LENSES.map((l) => (
+                    <option key={l.id} value={l.id}>
+                      {l.title}
+                    </option>
+                  ))}
+                </select>
+                {(["warpath-current", "lai-dai-vs-ishukone", "old-wars", "empyrean-age"] as const).map((lid) => {
+                  const l = LENSES.find((x) => x.id === lid);
+                  if (!l) return null;
+                  const active = lensId === lid;
+                  const label = lid === "warpath-current" ? "warpath" :
+                    lid === "lai-dai-vs-ishukone" ? "axis" :
+                      lid === "old-wars" ? "old wars" :
+                        "empyrean";
+                  return (
+                    <button
+                      key={lid}
+                      onClick={() => setLensId(active ? null : lid)}
+                      className={toggleClass(active)}
+                      title={l.description}
+                    >
+                      {label}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+
+            <div className="mt-2 flex flex-wrap items-center gap-1.5">
+              <span className="text-[10px] uppercase tracking-wide text-zinc-500">types</span>
+              {allTypes.map((t) => {
+                const hidden = hiddenTypes.has(t);
+                const color = nodeTypeColor(t);
+                return (
+                  <button
+                    key={t}
+                    onClick={() => {
+                      const next = new Set(hiddenTypes);
+                      if (hidden) next.delete(t);
+                      else next.add(t);
+                      setHiddenTypes(next);
+                    }}
+                    className="rounded border px-1.5 py-0.5"
+                    style={{
+                      borderColor: color,
+                      background: hidden ? "transparent" : color,
+                      color: hidden ? color : nodeTypeTextColor(t),
+                      opacity: hidden ? 0.5 : 1,
+                    }}
+                  >
+                    {t}
+                  </button>
+                );
+              })}
+              <div className="text-zinc-500 sm:ml-auto">
+                {visible.nodes.length} / {nodes.length} nodes · {visible.conns.length} /{" "}
+                {connections.length} edges
+              </div>
+            </div>
           </div>
         </div>
 

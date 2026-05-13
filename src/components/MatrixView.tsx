@@ -3,7 +3,11 @@
 import { useMemo, useState } from "react";
 import type { Node, Connection } from "@db/schema";
 import { LENSES, type Lens } from "@/data/lenses";
-import { nodeTypeColor } from "@/lib/palette";
+import {
+  MATRIX_CONFIDENCE_LEGEND,
+  matrixConfidenceColor,
+  nodeTypeColor,
+} from "@/lib/visual-tokens";
 
 type SortMode = "type" | "degree" | "name";
 
@@ -286,14 +290,7 @@ export default function MatrixView({ nodes, connections }: Props) {
             const ci = indexById.get(c.tgtNodeId);
             if (ri === undefined || ci === undefined) return null;
             const opacity = 0.3 + c.confidence * 0.7;
-            const fill =
-              c.confidence < 0.5
-                ? "#a1a1aa"
-                : c.confidence < 0.7
-                  ? "#3b82f6"
-                  : c.confidence < 0.9
-                    ? "#22c55e"
-                    : "#f59e0b";
+            const fill = matrixConfidenceColor(c.confidence);
             return (
               <rect
                 key={c.id}
@@ -322,10 +319,15 @@ export default function MatrixView({ nodes, connections }: Props) {
       {/* Legend */}
       <div className="flex flex-wrap items-center gap-3 text-xs font-mono text-zinc-500 px-1">
         <span>confidence:</span>
-        <span><span className="inline-block w-3 h-3 align-middle mr-1" style={{ background: "#a1a1aa" }} /> &lt;0.5 (tinfoil)</span>
-        <span><span className="inline-block w-3 h-3 align-middle mr-1" style={{ background: "#3b82f6" }} /> 0.5–0.7</span>
-        <span><span className="inline-block w-3 h-3 align-middle mr-1" style={{ background: "#22c55e" }} /> 0.7–0.9</span>
-        <span><span className="inline-block w-3 h-3 align-middle mr-1" style={{ background: "#f59e0b" }} /> ≥ 0.9</span>
+        {MATRIX_CONFIDENCE_LEGEND.map((entry) => (
+          <span key={entry.label}>
+            <span
+              className="inline-block w-3 h-3 align-middle mr-1"
+              style={{ background: entry.color }}
+            />{" "}
+            {entry.label}
+          </span>
+        ))}
         <span className="ml-4">
           rows = source · cols = target · diagonal stays empty (no self-edges in seed)
         </span>

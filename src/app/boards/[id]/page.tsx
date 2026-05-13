@@ -1,5 +1,5 @@
 import { notFound } from "next/navigation";
-import Link from "next/link";
+import BoardShell from "@/components/BoardShell";
 import BoardView from "@/components/BoardView";
 import { listBoardIdsWithNodes, loadBoardData } from "@/lib/board-data";
 
@@ -25,35 +25,19 @@ export default async function BoardPage({ params }: Props) {
   };
 
   return (
-    <div>
-      <header className="mb-4 flex items-baseline justify-between">
-        <div>
-          <h1 className="text-2xl font-bold">{board.title}</h1>
-          <p className="text-xs text-zinc-500 font-mono mt-1">
-            curator: {board.curator} · {summary.nodes} nodes · {summary.connections} edges
-            {" · "}
-            {summary.high_confidence} ≥ 0.8 · {summary.tinfoil} flagged tinfoil
-          </p>
-        </div>
-        <nav className="flex gap-3 font-mono text-sm">
-          <span className="text-zinc-100">board</span>
-          <Link href={`/boards/${id}/timeline`} className="text-zinc-400 hover:text-zinc-100">
-            timeline ↗
-          </Link>
-          <Link href={`/boards/${id}/matrix`} className="text-zinc-400 hover:text-zinc-100">
-            matrix ↗
-          </Link>
-          <Link href={`/boards/${id}/arcs`} className="text-zinc-400 hover:text-zinc-100">
-            arcs ↗
-          </Link>
-        </nav>
-      </header>
-
+    <BoardShell
+      boardId={id}
+      boardTitle={board.title}
+      curator={board.curator}
+      activeView="board"
+      subtitle="graph board"
+      metrics={`${summary.nodes} nodes · ${summary.connections} edges · ${summary.high_confidence} >= 0.8 · ${summary.tinfoil} flagged tinfoil`}
+    >
       <BoardView
         nodes={nodes}
         connections={connections}
         citationsByNode={citationsByNode}
       />
-    </div>
+    </BoardShell>
   );
 }
