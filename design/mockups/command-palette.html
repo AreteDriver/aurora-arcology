@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Aurora — connection-drawing mockup · command palette (deferred — power-user path)</title>
+<style>
+  :root { color-scheme: dark; } * { box-sizing: border-box; }
+  body { margin:0; font:14px/1.45 ui-sans-serif,system-ui,sans-serif; background:#0a0a0b; color:#e4e4e7; }
+  header { padding:10px 16px; border-bottom:1px solid #27272a; font-size:13px; }
+  header b.tag { color:#a78bfa; }
+  #board { position:relative; width:100%; height:calc(100vh - 96px); overflow:hidden; }
+  .node { position:absolute; transform:translate(-50%,-50%); padding:8px 12px; border-radius:8px; border:2px solid; font-size:12px; font-weight:600; white-space:nowrap; user-select:none; box-shadow:0 2px 8px rgba(0,0,0,.4); }
+  .node[data-type="Event"]{background:#3a1620;border-color:#e85d75;color:#fda4b4}
+  .node[data-type="Person"]{background:#3a2a14;border-color:#f4a261;color:#fcd9b6}
+  .node[data-type="Organization"]{background:#0f2e2a;border-color:#2a9d8f;color:#a7e8de}
+  .node[data-type="Faction"]{background:#11202b;border-color:#5b8aa6;color:#bcd8e6}
+  .node[data-type="Phenomenon"]{background:#241433;border-color:#9d4edd;color:#d6b6f0}
+  .node.lit { outline:3px solid #a78bfa; outline-offset:3px; }
+  svg.edges { position:absolute; inset:0; width:100%; height:100%; pointer-events:none; }
+  .edge { stroke:#52525b; stroke-width:1.5 } .edge-label { fill:#a1a1aa; font-size:10px }
+  .hint { position:absolute; top:8px; right:12px; font-size:11px; color:#52525b; }
+  .hint kbd { background:#18181b; border:1px solid #3f3f46; border-radius:3px; padding:1px 5px; }
+  /* palette */
+  .pal-scrim { position:fixed; inset:0; background:rgba(0,0,0,.5); display:none; align-items:flex-start; justify-content:center; padding-top:14vh; }
+  .pal-scrim.open { display:flex }
+  .palette { width:min(560px,92vw); background:#0f0f11; border:1px solid #52525b; border-radius:10px; overflow:hidden; box-shadow:0 12px 40px rgba(0,0,0,.6) }
+  .palette input { width:100%; background:transparent; border:0; outline:0; color:#e4e4e7; font:16px/1 ui-monospace,monospace; padding:14px 16px; }
+  .palette .results { border-top:1px solid #27272a; max-height:300px; overflow:auto }
+  .palette .row { padding:8px 16px; font-size:13px; cursor:pointer; display:flex; gap:8px; align-items:center }
+  .palette .row.sel { background:#27272a }
+  .palette .row .badge { font-size:10px; color:#71717a; }
+  .palette .foot { padding:6px 16px; font-size:11px; color:#52525b; border-top:1px solid #27272a }
+  /* modal (shared beat 2) */
+  .scrim { position:fixed; inset:0; background:rgba(0,0,0,.6); display:none; align-items:center; justify-content:center }
+  .scrim.open { display:flex }
+  .modal { background:#0f0f11; border:1px solid #3f3f46; border-radius:10px; padding:18px; width:min(420px,92vw) }
+  .modal h2 { margin:0 0 4px; font-size:15px } .modal .pair { font-size:12px; color:#a1a1aa; margin-bottom:12px }
+  .modal label { display:block; font-size:11px; text-transform:uppercase; color:#71717a; margin:10px 0 4px }
+  .modal select,.modal textarea { width:100%; background:#18181b; border:1px solid #3f3f46; color:#e4e4e7; border-radius:4px; padding:6px 8px; font:inherit }
+  .modal .actions { display:flex; gap:8px; justify-content:flex-end; margin-top:16px }
+  .modal .save { background:#16a34a; border-color:#16a34a; color:#fff }
+  button { font:inherit; background:#18181b; color:#e4e4e7; border:1px solid #3f3f46; padding:5px 12px; border-radius:4px; cursor:pointer }
+  .legend { padding:6px 16px; font-size:11px; color:#71717a; border-top:1px solid #18181b }
+  .toast { position:fixed; bottom:16px; left:50%; transform:translateX(-50%); background:#16a34a; color:#fff; padding:7px 14px; border-radius:6px; font-size:12px; opacity:0; transition:opacity .2s } .toast.show { opacity:1 }
+</style>
+</head>
+<body>
+<header>Aurora · connection-drawing — mockup <b class="tag">Pattern 3: command palette (deferred — keep as a later power-user path, not Phase 0 primary)</b></header>
+<div id="board"><svg class="edges" id="edges"></svg><div class="hint">press <kbd>⌘K</kbd> / <kbd>Ctrl K</kbd> → type <code>connect Warpath to Silphy</code></div></div>
+
+<div class="pal-scrim" id="palScrim"><div class="palette">
+  <input id="palInput" placeholder="connect &lt;node&gt; to &lt;node&gt;   (try: connect warpath to syndicate)" autocomplete="off" />
+  <div class="results" id="palResults"></div>
+  <div class="foot" id="palFoot">type a command…</div>
+</div></div>
+
+<div class="scrim" id="scrim"><div class="modal">
+  <h2>New connection</h2><div class="pair" id="pair"></div>
+  <label>Relation type</label><select id="rel"></select>
+  <label>Claim</label><textarea id="claim" rows="2" placeholder="curator-paraphrased claim text"></textarea>
+  <div class="actions"><button id="cancel">Cancel</button><button class="save" id="save">Save connection</button></div>
+</div></div>
+<div class="toast" id="toast"></div>
+<div class="legend">⌘K opens the palette → <code>connect A to B</code> with fuzzy autocomplete on node names → Enter creates a draft and opens the same modal. <i>Fast when you remember the names; invisible to anyone who doesn't know ⌘K; no ⌘ key on a tablet — that's the C2/C4 problem.</i></div>
+<script>
+const NODES=[{id:"n_warpath",name:"Warpath Protocol Failure",type:"Event",x:.5,y:.22},{id:"n_concord",name:"CONCORD",type:"Organization",x:.22,y:.45},{id:"n_caldari",name:"Caldari State",type:"Faction",x:.78,y:.42},{id:"n_silphy",name:"Silphy en Diabel",type:"Person",x:.8,y:.76},{id:"n_syndicate",name:"Intaki Syndicate",type:"Organization",x:.5,y:.8},{id:"n_jitagate",name:"Jita Stargate Damage",type:"Event",x:.24,y:.78},{id:"n_drifter",name:"Drifter Hyperspace",type:"Phenomenon",x:.2,y:.16}];
+const EDGES=[{s:"n_jitagate",t:"n_warpath",rel:"preceded-by"},{s:"n_caldari",t:"n_syndicate",rel:"conquered"},{s:"n_silphy",t:"n_syndicate",rel:"member-of"}];
+const REL=["member-of","caused-by","preceded-by","opposed-to","aligned-with","located-in","participated-in","conquered","parallels","referenced-in"];
+const board=document.getElementById("board"),edgesSvg=document.getElementById("edges"),scrim=document.getElementById("scrim"),palScrim=document.getElementById("palScrim"),palInput=document.getElementById("palInput");
+function byId(id){return NODES.find(n=>n.id===id)} function px(n){return{x:n.x*board.clientWidth,y:n.y*board.clientHeight}}
+function render(){
+  [...board.querySelectorAll(".node")].forEach(e=>e.remove());
+  for(const n of NODES){const el=document.createElement("div");el.className="node";el.dataset.type=n.type;el.dataset.id=n.id;el.textContent=n.name;const p=px(n);el.style.left=p.x+"px";el.style.top=p.y+"px";board.appendChild(el);}
+  edgesSvg.innerHTML="";
+  for(const e of EDGES){const a=px(byId(e.s)),b=px(byId(e.t));const l=document.createElementNS("http://www.w3.org/2000/svg","line");l.setAttribute("x1",a.x);l.setAttribute("y1",a.y);l.setAttribute("x2",b.x);l.setAttribute("y2",b.y);l.setAttribute("class","edge");edgesSvg.appendChild(l);const t=document.createElementNS("http://www.w3.org/2000/svg","text");t.setAttribute("x",(a.x+b.x)/2);t.setAttribute("y",(a.y+b.y)/2-4);t.setAttribute("text-anchor","middle");t.setAttribute("class","edge-label");t.textContent=e.rel;edgesSvg.appendChild(t);}
+}
+function lit(ids){[...board.querySelectorAll(".node")].forEach(e=>e.classList.toggle("lit",ids.includes(e.dataset.id)));}
+// parse "connect X to Y"
+function parse(q){ const m=/^\s*connect\s+(.*?)\s+to\s+(.*?)\s*$/i.exec(q); if(m) return {a:m[1],b:m[2]}; const m2=/^\s*connect\s+(.*?)\s*$/i.exec(q); if(m2) return {a:m2[1],b:""}; return null; }
+function matchNodes(frag){ frag=frag.trim().toLowerCase(); if(!frag) return []; return NODES.filter(n=>n.name.toLowerCase().includes(frag)).slice(0,5); }
+let sel=0, candidates=[];
+function updatePalette(){
+  const q=palInput.value, parsed=parse(q), res=document.getElementById("palResults"), foot=document.getElementById("palFoot");
+  res.innerHTML=""; candidates=[];
+  if(!parsed){ foot.textContent='start with "connect …"'; lit([]); return; }
+  if(parsed.b===""){ // resolving first node
+    const ms=matchNodes(parsed.a);
+    candidates=ms.map(n=>({kind:"pickA",node:n}));
+    foot.textContent='pick the first node, then type "to …"';
+    lit(ms.length===1?[ms[0].id]:[]);
+  } else {
+    const A=matchNodes(parsed.a), B=matchNodes(parsed.b);
+    if(A.length===1 && B.length===1){ candidates=[{kind:"go",a:A[0],b:B[0]}]; lit([A[0].id,B[0].id]); foot.textContent='Enter → open the connection modal'; }
+    else { candidates = (A.length!==1?A.map(n=>({kind:"pickA",node:n})):B.map(n=>({kind:"pickB",node:n}))); foot.textContent='disambiguate…'; lit([]); }
+  }
+  if(candidates.length===0 && parsed.a){ res.innerHTML=`<div class="row" style="color:#71717a">no node matches "${parsed.b||parsed.a}"</div>`; return; }
+  sel=Math.min(sel,candidates.length-1); if(sel<0) sel=0;
+  candidates.forEach((c,i)=>{
+    const r=document.createElement("div"); r.className="row"+(i===sel?" sel":"");
+    if(c.kind==="go") r.innerHTML=`<b>connect</b> ${c.a.name} <span class="badge">→</span> ${c.b.name}`;
+    else r.innerHTML=`${c.node.name} <span class="badge">${c.node.type}</span>`;
+    r.onclick=()=>{ sel=i; choose(); }; res.appendChild(r);
+  });
+}
+function choose(){
+  const c=candidates[sel]; if(!c) return;
+  if(c.kind==="go"){ closePalette(); openModal(c.a,c.b); return; }
+  // accepted a node — rewrite the input with its full name and a "to " stub
+  const parsed=parse(palInput.value);
+  if(c.kind==="pickA"){ palInput.value=`connect ${c.node.name} to `; }
+  else { palInput.value=`connect ${parsed.a} to ${c.node.name}`; }
+  updatePalette();
+}
+palInput.addEventListener("input",()=>{sel=0;updatePalette();});
+palInput.addEventListener("keydown",e=>{
+  if(e.key==="ArrowDown"){e.preventDefault();sel=Math.min(sel+1,candidates.length-1);updatePalette();}
+  else if(e.key==="ArrowUp"){e.preventDefault();sel=Math.max(sel-1,0);updatePalette();}
+  else if(e.key==="Enter"){e.preventDefault();choose();}
+  else if(e.key==="Escape"){closePalette();}
+});
+function openPalette(){palScrim.classList.add("open");palInput.value="connect ";palInput.focus();sel=0;updatePalette();}
+function closePalette(){palScrim.classList.remove("open");lit([]);}
+function openModal(a,b){document.getElementById("pair").innerHTML=`<b>${a.name}</b> → <b>${b.name}</b>`;document.getElementById("rel").innerHTML=REL.map(r=>`<option>${r}</option>`).join("");document.getElementById("claim").value="";scrim.classList.add("open");scrim.dataset.a=a.id;scrim.dataset.b=b.id;}
+document.getElementById("cancel").onclick=()=>scrim.classList.remove("open");
+document.getElementById("save").onclick=()=>{EDGES.push({s:scrim.dataset.a,t:scrim.dataset.b,rel:document.getElementById("rel").value});scrim.classList.remove("open");render();const t=document.getElementById("toast");t.textContent="Connection saved · audit_log +1";t.classList.add("show");setTimeout(()=>t.classList.remove("show"),2000);};
+document.addEventListener("keydown",e=>{ if((e.metaKey||e.ctrlKey)&&e.key.toLowerCase()==="k"){e.preventDefault();openPalette();} if(e.key==="Escape"){if(scrim.classList.contains("open"))scrim.classList.remove("open");else if(palScrim.classList.contains("open"))closePalette();} });
+palScrim.addEventListener("click",e=>{if(e.target===palScrim)closePalette();});
+window.addEventListener("resize",render); render();
+</script>
+</body>
+</html>

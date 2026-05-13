@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Aurora — connection-drawing mockup · drag-from-handle (rejected for Phase 0)</title>
+<style>
+  :root { color-scheme: dark; } * { box-sizing: border-box; }
+  body { margin:0; font:14px/1.45 ui-sans-serif,system-ui,sans-serif; background:#0a0a0b; color:#e4e4e7; }
+  header { padding:10px 16px; border-bottom:1px solid #27272a; font-size:13px; }
+  header b.tag { color:#f87171; }
+  #board { position:relative; width:100%; height:calc(100vh - 96px); overflow:hidden; }
+  .node { position:absolute; transform:translate(-50%,-50%); padding:8px 12px; border-radius:8px; border:2px solid; font-size:12px; font-weight:600; white-space:nowrap; user-select:none; box-shadow:0 2px 8px rgba(0,0,0,.4); }
+  .node[data-type="Event"]{background:#3a1620;border-color:#e85d75;color:#fda4b4}
+  .node[data-type="Person"]{background:#3a2a14;border-color:#f4a261;color:#fcd9b6}
+  .node[data-type="Organization"]{background:#0f2e2a;border-color:#2a9d8f;color:#a7e8de}
+  .node[data-type="Faction"]{background:#11202b;border-color:#5b8aa6;color:#bcd8e6}
+  .node[data-type="Phenomenon"]{background:#241433;border-color:#9d4edd;color:#d6b6f0}
+  .node .handle { position:absolute; right:-9px; top:50%; transform:translateY(-50%); width:16px; height:16px; border-radius:50%;
+    background:#f59e0b; border:2px solid #0a0a0b; cursor:crosshair; opacity:0; transition:opacity .1s; }
+  .node:hover .handle { opacity:1; }
+  .node.dragtarget { outline:3px solid #f59e0b; outline-offset:3px; }
+  svg.edges { position:absolute; inset:0; width:100%; height:100%; pointer-events:none; }
+  .edge { stroke:#52525b; stroke-width:1.5 } .edge-label { fill:#a1a1aa; font-size:10px } .rubber { stroke:#f59e0b; stroke-width:2; stroke-dasharray:5 4 }
+  .scrim { position:fixed; inset:0; background:rgba(0,0,0,.6); display:none; align-items:center; justify-content:center }
+  .scrim.open { display:flex }
+  .modal { background:#0f0f11; border:1px solid #3f3f46; border-radius:10px; padding:18px; width:min(420px,92vw) }
+  .modal h2 { margin:0 0 4px; font-size:15px } .modal .pair { font-size:12px; color:#a1a1aa; margin-bottom:12px }
+  .modal label { display:block; font-size:11px; text-transform:uppercase; color:#71717a; margin:10px 0 4px }
+  .modal select,.modal textarea { width:100%; background:#18181b; border:1px solid #3f3f46; color:#e4e4e7; border-radius:4px; padding:6px 8px; font:inherit }
+  .modal .actions { display:flex; gap:8px; justify-content:flex-end; margin-top:16px }
+  .modal .save { background:#16a34a; border-color:#16a34a; color:#fff }
+  button { font:inherit; background:#18181b; color:#e4e4e7; border:1px solid #3f3f46; padding:5px 12px; border-radius:4px; cursor:pointer }
+  .legend { padding:6px 16px; font-size:11px; color:#71717a; border-top:1px solid #18181b }
+  .toast { position:fixed; bottom:16px; left:50%; transform:translateX(-50%); background:#16a34a; color:#fff; padding:7px 14px; border-radius:6px; font-size:12px; opacity:0; transition:opacity .2s }
+  .toast.show { opacity:1 }
+</style>
+</head>
+<body>
+<header>Aurora · connection-drawing — mockup <b class="tag">Pattern 1: drag-from-handle (rejected for Phase 0 — see design/connection-drawing.md)</b></header>
+<div id="board"><svg class="edges" id="edges"></svg></div>
+<div class="scrim" id="scrim"><div class="modal">
+  <h2>New connection</h2><div class="pair" id="pair"></div>
+  <label>Relation type</label><select id="rel"></select>
+  <label>Claim</label><textarea id="claim" rows="2" placeholder="curator-paraphrased claim text"></textarea>
+  <div class="actions"><button id="cancel">Cancel</button><button class="save" id="save">Save connection</button></div>
+</div></div>
+<div class="toast" id="toast"></div>
+<div class="legend">Hover a node → grab the amber handle on its right rim → drag to another node → drop. Drop on empty space cancels. <i>Notice how precise the drag has to be — that's the C3/C4 problem.</i></div>
+<script>
+const NODES=[{id:"n_warpath",name:"Warpath Protocol Failure",type:"Event",x:.5,y:.22},{id:"n_concord",name:"CONCORD",type:"Organization",x:.22,y:.45},{id:"n_caldari",name:"Caldari State",type:"Faction",x:.78,y:.42},{id:"n_silphy",name:"Silphy en Diabel",type:"Person",x:.8,y:.76},{id:"n_syndicate",name:"Intaki Syndicate",type:"Organization",x:.5,y:.8},{id:"n_jitagate",name:"Jita Stargate Damage",type:"Event",x:.24,y:.78},{id:"n_drifter",name:"Drifter Hyperspace",type:"Phenomenon",x:.2,y:.16}];
+const EDGES=[{s:"n_jitagate",t:"n_warpath",rel:"preceded-by"},{s:"n_caldari",t:"n_syndicate",rel:"conquered"},{s:"n_silphy",t:"n_syndicate",rel:"member-of"}];
+const REL=["member-of","caused-by","preceded-by","opposed-to","aligned-with","located-in","participated-in","conquered","parallels","referenced-in"];
+const board=document.getElementById("board"),edgesSvg=document.getElementById("edges"),scrim=document.getElementById("scrim");
+function byId(id){return NODES.find(n=>n.id===id)} function px(n){return{x:n.x*board.clientWidth,y:n.y*board.clientHeight}}
+let drag=null; // {from, x,y}
+function render(){
+  [...board.querySelectorAll(".node")].forEach(e=>e.remove());
+  for(const n of NODES){const el=document.createElement("div");el.className="node";el.dataset.type=n.type;el.dataset.id=n.id;el.textContent=n.name;
+    const p=px(n);el.style.left=p.x+"px";el.style.top=p.y+"px";
+    const h=document.createElement("div");h.className="handle";el.appendChild(h);
+    h.addEventListener("pointerdown",ev=>{ev.preventDefault();drag={from:n.id,x:p.x,y:p.y};h.setPointerCapture(ev.pointerId);});
+    el.addEventListener("pointerup",()=>{ if(drag && drag.from!==n.id){ openModal(byId(drag.from),n);} drag=null; clearTargets(); render(); });
+    el.addEventListener("pointerenter",()=>{ if(drag && drag.from!==n.id) el.classList.add("dragtarget"); });
+    el.addEventListener("pointerleave",()=>el.classList.remove("dragtarget"));
+    board.appendChild(el);}
+  edgesSvg.innerHTML="";
+  for(const e of EDGES){const a=px(byId(e.s)),b=px(byId(e.t));
+    const l=document.createElementNS("http://www.w3.org/2000/svg","line");l.setAttribute("x1",a.x);l.setAttribute("y1",a.y);l.setAttribute("x2",b.x);l.setAttribute("y2",b.y);l.setAttribute("class","edge");edgesSvg.appendChild(l);
+    const t=document.createElementNS("http://www.w3.org/2000/svg","text");t.setAttribute("x",(a.x+b.x)/2);t.setAttribute("y",(a.y+b.y)/2-4);t.setAttribute("text-anchor","middle");t.setAttribute("class","edge-label");t.textContent=e.rel;edgesSvg.appendChild(t);}
+  if(drag){const a=px(byId(drag.from));const r=document.createElementNS("http://www.w3.org/2000/svg","line");r.setAttribute("x1",a.x);r.setAttribute("y1",a.y);r.setAttribute("x2",drag.x);r.setAttribute("y2",drag.y);r.setAttribute("class","rubber");edgesSvg.appendChild(r);}
+}
+function clearTargets(){[...board.querySelectorAll(".dragtarget")].forEach(e=>e.classList.remove("dragtarget"));}
+board.addEventListener("pointermove",ev=>{ if(!drag) return; const r=board.getBoundingClientRect(); drag.x=ev.clientX-r.left; drag.y=ev.clientY-r.top; render(); });
+board.addEventListener("pointerup",()=>{ drag=null; clearTargets(); render(); }); // drop on empty = cancel
+function openModal(a,b){document.getElementById("pair").innerHTML=`<b>${a.name}</b> → <b>${b.name}</b>`;document.getElementById("rel").innerHTML=REL.map(r=>`<option>${r}</option>`).join("");document.getElementById("claim").value="";scrim.classList.add("open");scrim.dataset.a=a.id;scrim.dataset.b=b.id;}
+document.getElementById("cancel").onclick=()=>scrim.classList.remove("open");
+document.getElementById("save").onclick=()=>{EDGES.push({s:scrim.dataset.a,t:scrim.dataset.b,rel:document.getElementById("rel").value});scrim.classList.remove("open");render();const t=document.getElementById("toast");t.textContent="Connection saved · audit_log +1";t.classList.add("show");setTimeout(()=>t.classList.remove("show"),2000);};
+document.addEventListener("keydown",e=>{if(e.key==="Escape")scrim.classList.remove("open")});
+window.addEventListener("resize",render); render();
+</script>
+</body>
+</html>
