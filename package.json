@@ -30,6 +30,7 @@
     "synthesize:polish": "tsx scripts/synthesize-polish.ts",
     "synthesize:dump": "tsx scripts/dump-lens-md.ts",
     "synthesize:dedupe": "tsx scripts/synthesize-dedupe.ts",
+    "market:load": "tsx scripts/load-market-data.ts",
     "vercel:build": "pnpm db:reset && pnpm ner:extract && pnpm manifest:build && next build"
   },
   "dependencies": {

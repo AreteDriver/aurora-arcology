@@ -1,0 +1,1526 @@
+{
+  "generated_at": "2026-05-13T09:18:55.499Z",
+  "snapshot_date": "2026-05-12",
+  "prices": [
+    {
+      "type_id": 34,
+      "type_name": "Tritanium",
+      "category": "minerals",
+      "jita_buy_max": 3.95,
+      "jita_sell_min": 4.03,
+      "jita_spread_pct": 1.99,
+      "jita_buy_vol": 11625980971,
+      "jita_sell_vol": 8924213341,
+      "esi_average": 3.99
+    },
+    {
+      "type_id": 35,
+      "type_name": "Pyerite",
+      "category": "minerals",
+      "jita_buy_max": 17.97,
+      "jita_sell_min": 18.74,
+      "jita_spread_pct": 4.11,
+      "jita_buy_vol": 1402971798,
+      "jita_sell_vol": 2155224845,
+      "esi_average": 18.37
+    },
+    {
+      "type_id": 36,
+      "type_name": "Mexallon",
+      "category": "minerals",
+      "jita_buy_max": 58.61,
+      "jita_sell_min": 61.18,
+      "jita_spread_pct": 4.2,
+      "jita_buy_vol": 388473372,
+      "jita_sell_vol": 1688524981,
+      "esi_average": 61.37
+    },
+    {
+      "type_id": 37,
+      "type_name": "Isogen",
+      "category": "minerals",
+      "jita_buy_max": 231.3,
+      "jita_sell_min": 238.8,
+      "jita_spread_pct": 3.14,
+      "jita_buy_vol": 164348708,
+      "jita_sell_vol": 609618101,
+      "esi_average": 207.44
+    },
+    {
+      "type_id": 38,
+      "type_name": "Nocxium",
+      "category": "minerals",
+      "jita_buy_max": 716.7,
+      "jita_sell_min": 727.1,
+      "jita_spread_pct": 1.43,
+      "jita_buy_vol": 21107364,
+      "jita_sell_vol": 332812716,
+      "esi_average": 834.15
+    },
+    {
+      "type_id": 39,
+      "type_name": "Zydrine",
+      "category": "minerals",
+      "jita_buy_max": 1400,
+      "jita_sell_min": 1529,
+      "jita_spread_pct": 8.44,
+      "jita_buy_vol": 37021553,
+      "jita_sell_vol": 76901771,
+      "esi_average": 1420.17
+    },
+    {
+      "type_id": 40,
+      "type_name": "Megacyte",
+      "category": "minerals",
+      "jita_buy_max": 2258,
+      "jita_sell_min": 2449,
+      "jita_spread_pct": 7.8,
+      "jita_buy_vol": 7680471,
+      "jita_sell_vol": 19443935,
+      "esi_average": 2333.43
+    },
+    {
+      "type_id": 587,
+      "type_name": "Rifter",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 345400,
+      "jita_sell_min": 595000,
+      "jita_spread_pct": 41.95,
+      "jita_buy_vol": 1700,
+      "jita_sell_vol": 1245,
+      "esi_average": 349802.7
+    },
+    {
+      "type_id": 593,
+      "type_name": "Tristan",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 536700,
+      "jita_sell_min": 693700,
+      "jita_spread_pct": 22.63,
+      "jita_buy_vol": 1336,
+      "jita_sell_vol": 2643,
+      "esi_average": 564610.64
+    },
+    {
+      "type_id": 597,
+      "type_name": "Punisher",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 419600,
+      "jita_sell_min": 594800,
+      "jita_spread_pct": 29.46,
+      "jita_buy_vol": 231,
+      "jita_sell_vol": 550,
+      "esi_average": 535234.61
+    },
+    {
+      "type_id": 603,
+      "type_name": "Merlin",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 99500,
+      "jita_sell_min": 123400,
+      "jita_spread_pct": 19.37,
+      "jita_buy_vol": 1540,
+      "jita_sell_vol": 1000,
+      "esi_average": 126174.55
+    },
+    {
+      "type_id": 621,
+      "type_name": "Caracal",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 11060000,
+      "jita_sell_min": 12510000,
+      "jita_spread_pct": 11.59,
+      "jita_buy_vol": 322,
+      "jita_sell_vol": 583,
+      "esi_average": 11726101.93
+    },
+    {
+      "type_id": 627,
+      "type_name": "Thorax",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 10970000,
+      "jita_sell_min": 12430000,
+      "jita_spread_pct": 11.75,
+      "jita_buy_vol": 203,
+      "jita_sell_vol": 354,
+      "esi_average": 12233364.8
+    },
+    {
+      "type_id": 629,
+      "type_name": "Rupture",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 11620000,
+      "jita_sell_min": 12300000,
+      "jita_spread_pct": 5.53,
+      "jita_buy_vol": 134,
+      "jita_sell_vol": 202,
+      "esi_average": 11588719.8
+    },
+    {
+      "type_id": 638,
+      "type_name": "Raven",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 153000000,
+      "jita_sell_min": 164800000,
+      "jita_spread_pct": 7.16,
+      "jita_buy_vol": 31,
+      "jita_sell_vol": 468,
+      "esi_average": 176322804.58
+    },
+    {
+      "type_id": 641,
+      "type_name": "Megathron",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 154000000,
+      "jita_sell_min": 177000000,
+      "jita_spread_pct": 12.99,
+      "jita_buy_vol": 15,
+      "jita_sell_vol": 76,
+      "esi_average": 164127570.09
+    },
+    {
+      "type_id": 642,
+      "type_name": "Apocalypse",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 154400000,
+      "jita_sell_min": 170000000,
+      "jita_spread_pct": 9.18,
+      "jita_buy_vol": 20,
+      "jita_sell_vol": 172,
+      "esi_average": 173522645.46
+    },
+    {
+      "type_id": 645,
+      "type_name": "Dominix",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 155200000,
+      "jita_sell_min": 180000000,
+      "jita_spread_pct": 13.78,
+      "jita_buy_vol": 51,
+      "jita_sell_vol": 23,
+      "esi_average": 162948310.66
+    },
+    {
+      "type_id": 671,
+      "type_name": "Erebus",
+      "category": "ships_caps",
+      "jita_buy_max": 2127000,
+      "jita_sell_min": 0,
+      "jita_spread_pct": 0,
+      "jita_buy_vol": 1,
+      "jita_sell_vol": 0,
+      "esi_average": 0
+    },
+    {
+      "type_id": 4051,
+      "type_name": "Nitrogen Fuel Block",
+      "category": "fuel_blocks",
+      "jita_buy_max": 16980,
+      "jita_sell_min": 17960,
+      "jita_spread_pct": 5.46,
+      "jita_buy_vol": 237819,
+      "jita_sell_vol": 3201817,
+      "esi_average": 18034.35
+    },
+    {
+      "type_id": 4246,
+      "type_name": "Hydrogen Fuel Block",
+      "category": "fuel_blocks",
+      "jita_buy_max": 16950,
+      "jita_sell_min": 17960,
+      "jita_spread_pct": 5.62,
+      "jita_buy_vol": 124199,
+      "jita_sell_vol": 1426281,
+      "esi_average": 18050.51
+    },
+    {
+      "type_id": 4247,
+      "type_name": "Helium Fuel Block",
+      "category": "fuel_blocks",
+      "jita_buy_max": 17000,
+      "jita_sell_min": 18280,
+      "jita_spread_pct": 7,
+      "jita_buy_vol": 137646,
+      "jita_sell_vol": 2385743,
+      "esi_average": 18743.38
+    },
+    {
+      "type_id": 4312,
+      "type_name": "Oxygen Fuel Block",
+      "category": "fuel_blocks",
+      "jita_buy_max": 16800,
+      "jita_sell_min": 18050,
+      "jita_spread_pct": 6.93,
+      "jita_buy_vol": 158786,
+      "jita_sell_vol": 1580903,
+      "esi_average": 18726.39
+    },
+    {
+      "type_id": 11399,
+      "type_name": "Morphite",
+      "category": "minerals",
+      "jita_buy_max": 21370,
+      "jita_sell_min": 22350,
+      "jita_spread_pct": 4.38,
+      "jita_buy_vol": 953968,
+      "jita_sell_vol": 5028242,
+      "esi_average": 20123.17
+    },
+    {
+      "type_id": 12608,
+      "type_name": "Caldari Navy Antimatter Charge M",
+      "category": "ammo_charges",
+      "jita_buy_max": 48.9,
+      "jita_sell_min": 54.78,
+      "jita_spread_pct": 10.73,
+      "jita_buy_vol": 13051302,
+      "jita_sell_vol": 27771285,
+      "esi_average": 52.12
+    },
+    {
+      "type_id": 12771,
+      "type_name": "Caldari Navy Antimatter Charge L",
+      "category": "ammo_charges",
+      "jita_buy_max": 66.01,
+      "jita_sell_min": 140,
+      "jita_spread_pct": 52.85,
+      "jita_buy_vol": 4224796,
+      "jita_sell_vol": 12076963,
+      "esi_average": 161.69
+    },
+    {
+      "type_id": 16238,
+      "type_name": "Cormorant",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 541300,
+      "jita_sell_min": 686000,
+      "jita_spread_pct": 21.09,
+      "jita_buy_vol": 2539,
+      "jita_sell_vol": 1869,
+      "esi_average": 578821.14
+    },
+    {
+      "type_id": 16240,
+      "type_name": "Catalyst",
+      "category": "ships_t1_sub",
+      "jita_buy_max": 734200,
+      "jita_sell_min": 980000,
+      "jita_spread_pct": 25.08,
+      "jita_buy_vol": 11119,
+      "jita_sell_vol": 3295,
+      "esi_average": 852660.77
+    },
+    {
+      "type_id": 16272,
+      "type_name": "Heavy Water",
+      "category": "ice_products",
+      "jita_buy_max": 100.2,
+      "jita_sell_min": 116.5,
+      "jita_spread_pct": 13.99,
+      "jita_buy_vol": 50446247,
+      "jita_sell_vol": 89359507,
+      "esi_average": 107.38
+    },
+    {
+      "type_id": 16273,
+      "type_name": "Liquid Ozone",
+      "category": "ice_products",
+      "jita_buy_max": 87,
+      "jita_sell_min": 93.66,
+      "jita_spread_pct": 7.11,
+      "jita_buy_vol": 72710018,
+      "jita_sell_vol": 251908686,
+      "esi_average": 89.48
+    },
+    {
+      "type_id": 16274,
+      "type_name": "Strontium Clathrates",
+      "category": "ice_products",
+      "jita_buy_max": 721.3,
+      "jita_sell_min": 754.4,
+      "jita_spread_pct": 4.39,
+      "jita_buy_vol": 33296476,
+      "jita_sell_vol": 247192421,
+      "esi_average": 836.51
+    },
+    {
+      "type_id": 16275,
+      "type_name": "Helium Isotopes",
+      "category": "ice_products",
+      "jita_buy_max": 4006,
+      "jita_sell_min": 4175,
+      "jita_spread_pct": 4.05,
+      "jita_buy_vol": 1464637,
+      "jita_sell_vol": 9416154,
+      "esi_average": 3716.56
+    },
+    {
+      "type_id": 16633,
+      "type_name": "Hydrocarbons",
+      "category": "moon_raw",
+      "jita_buy_max": 486.9,
+      "jita_sell_min": 532,
+      "jita_spread_pct": 8.48,
+      "jita_buy_vol": 19529869,
+      "jita_sell_vol": 56459178,
+      "esi_average": 544.05
+    },
+    {
+      "type_id": 16634,
+      "type_name": "Atmospheric Gases",
+      "category": "moon_raw",
+      "jita_buy_max": 220.4,
+      "jita_sell_min": 227.9,
+      "jita_spread_pct": 3.29,
+      "jita_buy_vol": 146335362,
+      "jita_sell_vol": 87950705,
+      "esi_average": 231.44
+    },
+    {
+      "type_id": 16635,
+      "type_name": "Evaporite Deposits",
+      "category": "moon_raw",
+      "jita_buy_max": 208.8,
+      "jita_sell_min": 227.7,
+      "jita_spread_pct": 8.3,
+      "jita_buy_vol": 15967259,
+      "jita_sell_vol": 71208879,
+      "esi_average": 221.6
+    },
+    {
+      "type_id": 16636,
+      "type_name": "Silicates",
+      "category": "moon_raw",
+      "jita_buy_max": 300.2,
+      "jita_sell_min": 330,
+      "jita_spread_pct": 9.03,
+      "jita_buy_vol": 18575489,
+      "jita_sell_vol": 69585533,
+      "esi_average": 358.97
+    },
+    {
+      "type_id": 16637,
+      "type_name": "Cobalt",
+      "category": "moon_raw",
+      "jita_buy_max": 973,
+      "jita_sell_min": 1017,
+      "jita_spread_pct": 4.33,
+      "jita_buy_vol": 2721058,
+      "jita_sell_vol": 22541279,
+      "esi_average": 1180.94
+    },
+    {
+      "type_id": 16638,
+      "type_name": "Scandium",
+      "category": "moon_raw",
+      "jita_buy_max": 624.9,
+      "jita_sell_min": 715,
+      "jita_spread_pct": 12.6,
+      "jita_buy_vol": 10276794,
+      "jita_sell_vol": 28914767,
+      "esi_average": 691.36
+    },
+    {
+      "type_id": 16640,
+      "type_name": "Chromium",
+      "category": "moon_raw",
+      "jita_buy_max": 554.5,
+      "jita_sell_min": 611.2,
+      "jita_spread_pct": 9.28,
+      "jita_buy_vol": 30697328,
+      "jita_sell_vol": 19370232,
+      "esi_average": 602.97
+    },
+    {
+      "type_id": 16641,
+      "type_name": "Vanadium",
+      "category": "moon_raw",
+      "jita_buy_max": 5510,
+      "jita_sell_min": 6110,
+      "jita_spread_pct": 9.82,
+      "jita_buy_vol": 3609404,
+      "jita_sell_vol": 13601684,
+      "esi_average": 6017.28
+    },
+    {
+      "type_id": 16642,
+      "type_name": "Caesium",
+      "category": "moon_raw",
+      "jita_buy_max": 2110,
+      "jita_sell_min": 2187,
+      "jita_spread_pct": 3.52,
+      "jita_buy_vol": 3174335,
+      "jita_sell_vol": 9642222,
+      "esi_average": 2315.67
+    },
+    {
+      "type_id": 16643,
+      "type_name": "Hafnium",
+      "category": "moon_raw",
+      "jita_buy_max": 4179,
+      "jita_sell_min": 4577,
+      "jita_spread_pct": 8.7,
+      "jita_buy_vol": 3726476,
+      "jita_sell_vol": 18295531,
+      "esi_average": 4720.15
+    },
+    {
+      "type_id": 16644,
+      "type_name": "Mercury",
+      "category": "moon_raw",
+      "jita_buy_max": 6550,
+      "jita_sell_min": 7044,
+      "jita_spread_pct": 7.01,
+      "jita_buy_vol": 4250016,
+      "jita_sell_vol": 24466361,
+      "esi_average": 7186.38
+    },
+    {
+      "type_id": 16646,
+      "type_name": "Dysprosium",
+      "category": "moon_raw",
+      "jita_buy_max": 3508,
+      "jita_sell_min": 3995,
+      "jita_spread_pct": 12.19,
+      "jita_buy_vol": 2339179,
+      "jita_sell_vol": 8097575,
+      "esi_average": 3680.24
+    },
+    {
+      "type_id": 16647,
+      "type_name": "Neodymium",
+      "category": "moon_raw",
+      "jita_buy_max": 4624,
+      "jita_sell_min": 5143,
+      "jita_spread_pct": 10.09,
+      "jita_buy_vol": 7416656,
+      "jita_sell_vol": 11895768,
+      "esi_average": 5443.71
+    },
+    {
+      "type_id": 16648,
+      "type_name": "Promethium",
+      "category": "moon_raw",
+      "jita_buy_max": 8713,
+      "jita_sell_min": 8785,
+      "jita_spread_pct": 0.82,
+      "jita_buy_vol": 2572165,
+      "jita_sell_vol": 6906703,
+      "esi_average": 8226.4
+    },
+    {
+      "type_id": 16649,
+      "type_name": "Thulium",
+      "category": "moon_raw",
+      "jita_buy_max": 18170,
+      "jita_sell_min": 19630,
+      "jita_spread_pct": 7.44,
+      "jita_buy_vol": 1924655,
+      "jita_sell_vol": 9253799,
+      "esi_average": 19221.2
+    },
+    {
+      "type_id": 16650,
+      "type_name": "Technetium",
+      "category": "moon_raw",
+      "jita_buy_max": 53700,
+      "jita_sell_min": 59050,
+      "jita_spread_pct": 9.06,
+      "jita_buy_vol": 648209,
+      "jita_sell_vol": 998024,
+      "esi_average": 54828.54
+    },
+    {
+      "type_id": 16651,
+      "type_name": "Cadmium",
+      "category": "moon_raw",
+      "jita_buy_max": 68120,
+      "jita_sell_min": 75000,
+      "jita_spread_pct": 9.17,
+      "jita_buy_vol": 524278,
+      "jita_sell_vol": 1685517,
+      "esi_average": 64074.77
+    },
+    {
+      "type_id": 16652,
+      "type_name": "Platinum",
+      "category": "moon_raw",
+      "jita_buy_max": 58760,
+      "jita_sell_min": 62760,
+      "jita_spread_pct": 6.37,
+      "jita_buy_vol": 574838,
+      "jita_sell_vol": 1797603,
+      "esi_average": 56706.74
+    },
+    {
+      "type_id": 16653,
+      "type_name": "Titanium",
+      "category": "moon_raw",
+      "jita_buy_max": 27930,
+      "jita_sell_min": 28640,
+      "jita_spread_pct": 2.48,
+      "jita_buy_vol": 711372,
+      "jita_sell_vol": 3391533,
+      "esi_average": 29842.86
+    },
+    {
+      "type_id": 17715,
+      "type_name": "Gila",
+      "category": "ships_navy_pirate",
+      "jita_buy_max": 187000000,
+      "jita_sell_min": 194500000,
+      "jita_spread_pct": 3.86,
+      "jita_buy_vol": 28,
+      "jita_sell_vol": 640,
+      "esi_average": 203742819.49
+    },
+    {
+      "type_id": 17738,
+      "type_name": "Machariel",
+      "category": "ships_navy_pirate",
+      "jita_buy_max": 753900000,
+      "jita_sell_min": 805000000,
+      "jita_spread_pct": 6.35,
+      "jita_buy_vol": 26,
+      "jita_sell_vol": 71,
+      "esi_average": 808868200.55
+    },
+    {
+      "type_id": 17843,
+      "type_name": "Vexor Navy Issue",
+      "category": "ships_navy_pirate",
+      "jita_buy_max": 39270000,
+      "jita_sell_min": 42770000,
+      "jita_spread_pct": 8.18,
+      "jita_buy_vol": 42,
+      "jita_sell_vol": 445,
+      "esi_average": 40640269.1
+    },
+    {
+      "type_id": 17887,
+      "type_name": "Oxygen Isotopes",
+      "category": "ice_products",
+      "jita_buy_max": 669.1,
+      "jita_sell_min": 698.9,
+      "jita_spread_pct": 4.26,
+      "jita_buy_vol": 25938567,
+      "jita_sell_vol": 309234611,
+      "esi_average": 771.46
+    },
+    {
+      "type_id": 17888,
+      "type_name": "Nitrogen Isotopes",
+      "category": "ice_products",
+      "jita_buy_max": 603.1,
+      "jita_sell_min": 634.1,
+      "jita_spread_pct": 4.89,
+      "jita_buy_vol": 25546463,
+      "jita_sell_vol": 362391996,
+      "esi_average": 686.95
+    },
+    {
+      "type_id": 17889,
+      "type_name": "Hydrogen Isotopes",
+      "category": "ice_products",
+      "jita_buy_max": 601,
+      "jita_sell_min": 642.7,
+      "jita_spread_pct": 6.49,
+      "jita_buy_vol": 38426512,
+      "jita_sell_vol": 318304770,
+      "esi_average": 625.25
+    },
+    {
+      "type_id": 17920,
+      "type_name": "Cynabal",
+      "category": "ships_navy_pirate",
+      "jita_buy_max": 872100000,
+      "jita_sell_min": 900000000,
+      "jita_spread_pct": 3.1,
+      "jita_buy_vol": 18,
+      "jita_sell_vol": 83,
+      "esi_average": 943922343.32
+    },
+    {
+      "type_id": 19720,
+      "type_name": "Moros",
+      "category": "ships_caps",
+      "jita_buy_max": 2008000000,
+      "jita_sell_min": 0,
+      "jita_spread_pct": 0,
+      "jita_buy_vol": 1,
+      "jita_sell_vol": 0,
+      "esi_average": 2837017857.14
+    },
+    {
+      "type_id": 19722,
+      "type_name": "Naglfar",
+      "category": "ships_caps",
+      "jita_buy_max": 2000000000,
+      "jita_sell_min": 0,
+      "jita_spread_pct": 0,
+      "jita_buy_vol": 4,
+      "jita_sell_vol": 0,
+      "esi_average": 2824581395.35
+    },
+    {
+      "type_id": 19724,
+      "type_name": "Revelation",
+      "category": "ships_caps",
+      "jita_buy_max": 2864000,
+      "jita_sell_min": 0,
+      "jita_spread_pct": 0,
+      "jita_buy_vol": 1,
+      "jita_sell_vol": 0,
+      "esi_average": 2603875000
+    },
+    {
+      "type_id": 19726,
+      "type_name": "Phoenix",
+      "category": "ships_caps",
+      "jita_buy_max": 1692000000,
+      "jita_sell_min": 0,
+      "jita_spread_pct": 0,
+      "jita_buy_vol": 7,
+      "jita_sell_vol": 0,
+      "esi_average": 2711573529.41
+    },
+    {
+      "type_id": 21896,
+      "type_name": "Republic Fleet EMP L",
+      "category": "ammo_charges",
+      "jita_buy_max": 653.5,
+      "jita_sell_min": 749.9,
+      "jita_spread_pct": 12.86,
+      "jita_buy_vol": 4872973,
+      "jita_sell_vol": 14681377,
+      "esi_average": 828.51
+    },
+    {
+      "type_id": 21898,
+      "type_name": "Republic Fleet Fusion L",
+      "category": "ammo_charges",
+      "jita_buy_max": 478.1,
+      "jita_sell_min": 554.3,
+      "jita_spread_pct": 13.75,
+      "jita_buy_vol": 3553981,
+      "jita_sell_vol": 7184851,
+      "esi_average": 586.26
+    },
+    {
+      "type_id": 23757,
+      "type_name": "Archon",
+      "category": "ships_caps",
+      "jita_buy_max": 1250000000,
+      "jita_sell_min": 0,
+      "jita_spread_pct": 0,
+      "jita_buy_vol": 1,
+      "jita_sell_vol": 0,
+      "esi_average": 2553441860.47
+    },
+    {
+      "type_id": 23773,
+      "type_name": "Avatar",
+      "category": "ships_caps",
+      "jita_buy_max": 3486000,
+      "jita_sell_min": 0,
+      "jita_spread_pct": 0,
+      "jita_buy_vol": 1,
+      "jita_sell_vol": 0,
+      "esi_average": 0
+    },
+    {
+      "type_id": 23911,
+      "type_name": "Thanatos",
+      "category": "ships_caps",
+      "jita_buy_max": 1598000000,
+      "jita_sell_min": 0,
+      "jita_spread_pct": 0,
+      "jita_buy_vol": 2,
+      "jita_sell_vol": 0,
+      "esi_average": 2666956790.12
+    },
+    {
+      "type_id": 23915,
+      "type_name": "Chimera",
+      "category": "ships_caps",
+      "jita_buy_max": 1469000000,
+      "jita_sell_min": 0,
+      "jita_spread_pct": 0,
+      "jita_buy_vol": 2,
+      "jita_sell_vol": 0,
+      "esi_average": 2721676470.59
+    },
+    {
+      "type_id": 24483,
+      "type_name": "Nidhoggur",
+      "category": "ships_caps",
+      "jita_buy_max": 2789000,
+      "jita_sell_min": 0,
+      "jita_spread_pct": 0,
+      "jita_buy_vol": 1,
+      "jita_sell_vol": 0,
+      "esi_average": 2746208333.33
+    },
+    {
+      "type_id": 25595,
+      "type_name": "Capacitor Console",
+      "category": "salvage_pi",
+      "jita_buy_max": 1808,
+      "jita_sell_min": 1809,
+      "jita_spread_pct": 0.06,
+      "jita_buy_vol": 2498576,
+      "jita_sell_vol": 983979,
+      "esi_average": 1735.8
+    },
+    {
+      "type_id": 29984,
+      "type_name": "Tengu",
+      "category": "ships_t3c",
+      "jita_buy_max": 216400000,
+      "jita_sell_min": 234000000,
+      "jita_spread_pct": 7.52,
+      "jita_buy_vol": 78,
+      "jita_sell_vol": 339,
+      "esi_average": 234806791.91
+    },
+    {
+      "type_id": 29986,
+      "type_name": "Legion",
+      "category": "ships_t3c",
+      "jita_buy_max": 209500000,
+      "jita_sell_min": 220600000,
+      "jita_spread_pct": 5.03,
+      "jita_buy_vol": 34,
+      "jita_sell_vol": 249,
+      "esi_average": 239389147.29
+    },
+    {
+      "type_id": 29988,
+      "type_name": "Proteus",
+      "category": "ships_t3c",
+      "jita_buy_max": 232600000,
+      "jita_sell_min": 273900000,
+      "jita_spread_pct": 15.08,
+      "jita_buy_vol": 34,
+      "jita_sell_vol": 86,
+      "esi_average": 248237360.94
+    },
+    {
+      "type_id": 29990,
+      "type_name": "Loki",
+      "category": "ships_t3c",
+      "jita_buy_max": 218200000,
+      "jita_sell_min": 233000000,
+      "jita_spread_pct": 6.35,
+      "jita_buy_vol": 38,
+      "jita_sell_vol": 391,
+      "esi_average": 244564332.08
+    },
+    {
+      "type_id": 44992,
+      "type_name": "PLEX",
+      "category": "currency",
+      "jita_buy_max": 4719000,
+      "jita_sell_min": 4721000,
+      "jita_spread_pct": 0.04,
+      "jita_buy_vol": 390010,
+      "jita_sell_vol": 125198,
+      "esi_average": 4743855.13
+    },
+    {
+      "type_id": 57448,
+      "type_name": "Lustering Alloy",
+      "category": "salvage_pi",
+      "jita_buy_max": 961100,
+      "jita_sell_min": 1123000,
+      "jita_spread_pct": 14.42,
+      "jita_buy_vol": 4126,
+      "jita_sell_vol": 2585,
+      "esi_average": 1004877.89
+    }
+  ],
+  "mpi": [
+    {
+      "date": "2026-02-11",
+      "mpi": 1,
+      "mpi_low_end": 1,
+      "mpi_high_end": 1
+    },
+    {
+      "date": "2026-02-12",
+      "mpi": 1.01698,
+      "mpi_low_end": 0.96052,
+      "mpi_high_end": 1.01772
+    },
+    {
+      "date": "2026-02-13",
+      "mpi": 0.96764,
+      "mpi_low_end": 0.98887,
+      "mpi_high_end": 0.96736
+    },
+    {
+      "date": "2026-02-14",
+      "mpi": 0.96655,
+      "mpi_low_end": 0.99295,
+      "mpi_high_end": 0.9662
+    },
+    {
+      "date": "2026-02-15",
+      "mpi": 0.99182,
+      "mpi_low_end": 0.98881,
+      "mpi_high_end": 0.99186
+    },
+    {
+      "date": "2026-02-16",
+      "mpi": 1.00775,
+      "mpi_low_end": 0.99332,
+      "mpi_high_end": 1.00794
+    },
+    {
+      "date": "2026-02-17",
+      "mpi": 0.95085,
+      "mpi_low_end": 0.969,
+      "mpi_high_end": 0.95061
+    },
+    {
+      "date": "2026-02-18",
+      "mpi": 0.99042,
+      "mpi_low_end": 0.99197,
+      "mpi_high_end": 0.9904
+    },
+    {
+      "date": "2026-02-19",
+      "mpi": 0.91935,
+      "mpi_low_end": 1.0011,
+      "mpi_high_end": 0.91827
+    },
+    {
+      "date": "2026-02-20",
+      "mpi": 0.96147,
+      "mpi_low_end": 0.99853,
+      "mpi_high_end": 0.96098
+    },
+    {
+      "date": "2026-02-21",
+      "mpi": 0.9214,
+      "mpi_low_end": 1.00125,
+      "mpi_high_end": 0.92035
+    },
+    {
+      "date": "2026-02-22",
+      "mpi": 0.97072,
+      "mpi_low_end": 1.01304,
+      "mpi_high_end": 0.97016
+    },
+    {
+      "date": "2026-02-23",
+      "mpi": 0.94633,
+      "mpi_low_end": 1.01939,
+      "mpi_high_end": 0.94537
+    },
+    {
+      "date": "2026-02-24",
+      "mpi": 0.9228,
+      "mpi_low_end": 1.00168,
+      "mpi_high_end": 0.92176
+    },
+    {
+      "date": "2026-02-25",
+      "mpi": 0.9609,
+      "mpi_low_end": 1.00204,
+      "mpi_high_end": 0.96035
+    },
+    {
+      "date": "2026-02-26",
+      "mpi": 0.90694,
+      "mpi_low_end": 1.01626,
+      "mpi_high_end": 0.9055
+    },
+    {
+      "date": "2026-02-27",
+      "mpi": 0.97891,
+      "mpi_low_end": 0.98458,
+      "mpi_high_end": 0.97883
+    },
+    {
+      "date": "2026-02-28",
+      "mpi": 0.9767,
+      "mpi_low_end": 1.03775,
+      "mpi_high_end": 0.97589
+    },
+    {
+      "date": "2026-03-01",
+      "mpi": 0.9342,
+      "mpi_low_end": 1.00739,
+      "mpi_high_end": 0.93324
+    },
+    {
+      "date": "2026-03-02",
+      "mpi": 0.94336,
+      "mpi_low_end": 1.02073,
+      "mpi_high_end": 0.94234
+    },
+    {
+      "date": "2026-03-03",
+      "mpi": 0.96362,
+      "mpi_low_end": 1.00797,
+      "mpi_high_end": 0.96303
+    },
+    {
+      "date": "2026-03-04",
+      "mpi": 0.97438,
+      "mpi_low_end": 0.99701,
+      "mpi_high_end": 0.97408
+    },
+    {
+      "date": "2026-03-05",
+      "mpi": 0.95824,
+      "mpi_low_end": 1.00186,
+      "mpi_high_end": 0.95767
+    },
+    {
+      "date": "2026-03-06",
+      "mpi": 0.9389,
+      "mpi_low_end": 0.97811,
+      "mpi_high_end": 0.93838
+    },
+    {
+      "date": "2026-03-07",
+      "mpi": 0.97699,
+      "mpi_low_end": 0.98069,
+      "mpi_high_end": 0.97694
+    },
+    {
+      "date": "2026-03-08",
+      "mpi": 0.97636,
+      "mpi_low_end": 0.98386,
+      "mpi_high_end": 0.97626
+    },
+    {
+      "date": "2026-03-09",
+      "mpi": 0.97579,
+      "mpi_low_end": 0.99689,
+      "mpi_high_end": 0.97551
+    },
+    {
+      "date": "2026-03-10",
+      "mpi": 0.95422,
+      "mpi_low_end": 0.98609,
+      "mpi_high_end": 0.95379
+    },
+    {
+      "date": "2026-03-11",
+      "mpi": 0.94149,
+      "mpi_low_end": 0.97385,
+      "mpi_high_end": 0.94106
+    },
+    {
+      "date": "2026-03-12",
+      "mpi": 0.95651,
+      "mpi_low_end": 0.97204,
+      "mpi_high_end": 0.9563
+    },
+    {
+      "date": "2026-03-13",
+      "mpi": 0.9552,
+      "mpi_low_end": 0.972,
+      "mpi_high_end": 0.95498
+    },
+    {
+      "date": "2026-03-14",
+      "mpi": 0.9525,
+      "mpi_low_end": 0.9782,
+      "mpi_high_end": 0.95217
+    },
+    {
+      "date": "2026-03-15",
+      "mpi": 0.95551,
+      "mpi_low_end": 0.97842,
+      "mpi_high_end": 0.95521
+    },
+    {
+      "date": "2026-03-16",
+      "mpi": 0.9539,
+      "mpi_low_end": 0.94048,
+      "mpi_high_end": 0.95407
+    },
+    {
+      "date": "2026-03-17",
+      "mpi": 0.96412,
+      "mpi_low_end": 0.95857,
+      "mpi_high_end": 0.9642
+    },
+    {
+      "date": "2026-03-18",
+      "mpi": 0.96545,
+      "mpi_low_end": 0.96726,
+      "mpi_high_end": 0.96543
+    },
+    {
+      "date": "2026-03-19",
+      "mpi": 0.96469,
+      "mpi_low_end": 0.96516,
+      "mpi_high_end": 0.96469
+    },
+    {
+      "date": "2026-03-20",
+      "mpi": 0.94603,
+      "mpi_low_end": 0.90613,
+      "mpi_high_end": 0.94655
+    },
+    {
+      "date": "2026-03-21",
+      "mpi": 0.92909,
+      "mpi_low_end": 0.95883,
+      "mpi_high_end": 0.9287
+    },
+    {
+      "date": "2026-03-22",
+      "mpi": 0.9232,
+      "mpi_low_end": 0.94647,
+      "mpi_high_end": 0.92289
+    },
+    {
+      "date": "2026-03-23",
+      "mpi": 0.9011,
+      "mpi_low_end": 0.89441,
+      "mpi_high_end": 0.90119
+    },
+    {
+      "date": "2026-03-24",
+      "mpi": 0.91377,
+      "mpi_low_end": 0.80345,
+      "mpi_high_end": 0.91523
+    },
+    {
+      "date": "2026-03-25",
+      "mpi": 0.94266,
+      "mpi_low_end": 0.80145,
+      "mpi_high_end": 0.94453
+    },
+    {
+      "date": "2026-03-26",
+      "mpi": 0.91381,
+      "mpi_low_end": 0.7922,
+      "mpi_high_end": 0.91541
+    },
+    {
+      "date": "2026-03-27",
+      "mpi": 0.91827,
+      "mpi_low_end": 0.88387,
+      "mpi_high_end": 0.91872
+    },
+    {
+      "date": "2026-03-28",
+      "mpi": 0.92372,
+      "mpi_low_end": 0.9064,
+      "mpi_high_end": 0.92395
+    },
+    {
+      "date": "2026-03-29",
+      "mpi": 0.93098,
+      "mpi_low_end": 0.91702,
+      "mpi_high_end": 0.93117
+    },
+    {
+      "date": "2026-03-30",
+      "mpi": 0.93076,
+      "mpi_low_end": 0.94202,
+      "mpi_high_end": 0.93062
+    },
+    {
+      "date": "2026-03-31",
+      "mpi": 0.93429,
+      "mpi_low_end": 0.93187,
+      "mpi_high_end": 0.93432
+    },
+    {
+      "date": "2026-04-01",
+      "mpi": 0.92398,
+      "mpi_low_end": 0.94435,
+      "mpi_high_end": 0.92371
+    },
+    {
+      "date": "2026-04-02",
+      "mpi": 0.92234,
+      "mpi_low_end": 0.94668,
+      "mpi_high_end": 0.92202
+    },
+    {
+      "date": "2026-04-03",
+      "mpi": 0.92995,
+      "mpi_low_end": 0.97165,
+      "mpi_high_end": 0.9294
+    },
+    {
+      "date": "2026-04-04",
+      "mpi": 0.92448,
+      "mpi_low_end": 0.97072,
+      "mpi_high_end": 0.92387
+    },
+    {
+      "date": "2026-04-05",
+      "mpi": 0.92226,
+      "mpi_low_end": 0.96809,
+      "mpi_high_end": 0.92165
+    },
+    {
+      "date": "2026-04-06",
+      "mpi": 0.92244,
+      "mpi_low_end": 0.97095,
+      "mpi_high_end": 0.9218
+    },
+    {
+      "date": "2026-04-07",
+      "mpi": 0.92871,
+      "mpi_low_end": 0.95925,
+      "mpi_high_end": 0.92831
+    },
+    {
+      "date": "2026-04-08",
+      "mpi": 0.967,
+      "mpi_low_end": 0.97262,
+      "mpi_high_end": 0.96692
+    },
+    {
+      "date": "2026-04-09",
+      "mpi": 0.96553,
+      "mpi_low_end": 0.9993,
+      "mpi_high_end": 0.96508
+    },
+    {
+      "date": "2026-04-10",
+      "mpi": 0.96719,
+      "mpi_low_end": 1.00262,
+      "mpi_high_end": 0.96672
+    },
+    {
+      "date": "2026-04-11",
+      "mpi": 0.95972,
+      "mpi_low_end": 1.00545,
+      "mpi_high_end": 0.95911
+    },
+    {
+      "date": "2026-04-12",
+      "mpi": 0.95839,
+      "mpi_low_end": 1.11658,
+      "mpi_high_end": 0.9563
+    },
+    {
+      "date": "2026-04-13",
+      "mpi": 0.95956,
+      "mpi_low_end": 1.09063,
+      "mpi_high_end": 0.95782
+    },
+    {
+      "date": "2026-04-14",
+      "mpi": 0.99425,
+      "mpi_low_end": 1.08945,
+      "mpi_high_end": 0.993
+    },
+    {
+      "date": "2026-04-15",
+      "mpi": 0.98236,
+      "mpi_low_end": 1.11385,
+      "mpi_high_end": 0.98063
+    },
+    {
+      "date": "2026-04-16",
+      "mpi": 0.98806,
+      "mpi_low_end": 1.11397,
+      "mpi_high_end": 0.9864
+    },
+    {
+      "date": "2026-04-17",
+      "mpi": 0.99297,
+      "mpi_low_end": 1.10706,
+      "mpi_high_end": 0.99146
+    },
+    {
+      "date": "2026-04-18",
+      "mpi": 0.97739,
+      "mpi_low_end": 1.14872,
+      "mpi_high_end": 0.97513
+    },
+    {
+      "date": "2026-04-19",
+      "mpi": 0.98927,
+      "mpi_low_end": 1.10944,
+      "mpi_high_end": 0.98769
+    },
+    {
+      "date": "2026-04-20",
+      "mpi": 0.94221,
+      "mpi_low_end": 1.10685,
+      "mpi_high_end": 0.94003
+    },
+    {
+      "date": "2026-04-21",
+      "mpi": 0.97316,
+      "mpi_low_end": 1.12984,
+      "mpi_high_end": 0.97109
+    },
+    {
+      "date": "2026-04-22",
+      "mpi": 0.98994,
+      "mpi_low_end": 1.15216,
+      "mpi_high_end": 0.98779
+    },
+    {
+      "date": "2026-04-23",
+      "mpi": 0.99116,
+      "mpi_low_end": 1.1449,
+      "mpi_high_end": 0.98913
+    },
+    {
+      "date": "2026-04-24",
+      "mpi": 1.00012,
+      "mpi_low_end": 1.15888,
+      "mpi_high_end": 0.99802
+    },
+    {
+      "date": "2026-04-25",
+      "mpi": 1.04803,
+      "mpi_low_end": 1.23348,
+      "mpi_high_end": 1.04558
+    },
+    {
+      "date": "2026-04-26",
+      "mpi": 1.11349,
+      "mpi_low_end": 1.21675,
+      "mpi_high_end": 1.11213
+    },
+    {
+      "date": "2026-04-27",
+      "mpi": 1.18927,
+      "mpi_low_end": 1.16841,
+      "mpi_high_end": 1.18955
+    },
+    {
+      "date": "2026-04-28",
+      "mpi": 1.18037,
+      "mpi_low_end": 1.00655,
+      "mpi_high_end": 1.18266
+    },
+    {
+      "date": "2026-04-29",
+      "mpi": 1.16067,
+      "mpi_low_end": 1.11753,
+      "mpi_high_end": 1.16124
+    },
+    {
+      "date": "2026-04-30",
+      "mpi": 1.02602,
+      "mpi_low_end": 1.09655,
+      "mpi_high_end": 1.02509
+    },
+    {
+      "date": "2026-05-01",
+      "mpi": 1.11454,
+      "mpi_low_end": 1.09202,
+      "mpi_high_end": 1.11484
+    },
+    {
+      "date": "2026-05-02",
+      "mpi": 1.05187,
+      "mpi_low_end": 1.10448,
+      "mpi_high_end": 1.05118
+    },
+    {
+      "date": "2026-05-03",
+      "mpi": 1.07314,
+      "mpi_low_end": 1.07968,
+      "mpi_high_end": 1.07305
+    },
+    {
+      "date": "2026-05-04",
+      "mpi": 1.01594,
+      "mpi_low_end": 1.09906,
+      "mpi_high_end": 1.01484
+    },
+    {
+      "date": "2026-05-05",
+      "mpi": 0.97729,
+      "mpi_low_end": 1.08858,
+      "mpi_high_end": 0.97582
+    },
+    {
+      "date": "2026-05-06",
+      "mpi": 0.99109,
+      "mpi_low_end": 1.09934,
+      "mpi_high_end": 0.98966
+    },
+    {
+      "date": "2026-05-07",
+      "mpi": 1.04004,
+      "mpi_low_end": 1.17856,
+      "mpi_high_end": 1.03821
+    },
+    {
+      "date": "2026-05-08",
+      "mpi": 1.03453,
+      "mpi_low_end": 1.20603,
+      "mpi_high_end": 1.03226
+    },
+    {
+      "date": "2026-05-09",
+      "mpi": 1.03253,
+      "mpi_low_end": 1.1447,
+      "mpi_high_end": 1.03105
+    },
+    {
+      "date": "2026-05-10",
+      "mpi": 1.03489,
+      "mpi_low_end": 1.16557,
+      "mpi_high_end": 1.03316
+    },
+    {
+      "date": "2026-05-11",
+      "mpi": 1.01345,
+      "mpi_low_end": 1.19731,
+      "mpi_high_end": 1.01102
+    },
+    {
+      "date": "2026-05-12",
+      "mpi": 0.97918,
+      "mpi_low_end": 1.04717,
+      "mpi_high_end": 0.97828
+    }
+  ],
+  "conflict": [
+    {
+      "region": "Geminate",
+      "isk_destroyed_last3mo_t": 18,
+      "ships_destroyed_last3mo": 66384,
+      "top_ship_groups_by_isk_alltime": "Battleship=21.2T; grp30=17.6T; Cruiser=15.5T; grp29=13.6T; Supercarrier=13.5T; Heavy Assault Cruiser=12.9T"
+    },
+    {
+      "region": "Vale of the Silent",
+      "isk_destroyed_last3mo_t": 12.5,
+      "ships_destroyed_last3mo": 100387,
+      "top_ship_groups_by_isk_alltime": "Battleship=21.6T; Heavy Assault Cruiser=20.1T; Cruiser=20.0T; grp29=15.8T; Strategic Cruiser=13.5T; Dreadnought=13.2T"
+    },
+    {
+      "region": "Tenal",
+      "isk_destroyed_last3mo_t": 1.2,
+      "ships_destroyed_last3mo": 8011,
+      "top_ship_groups_by_isk_alltime": "Cruiser=5.5T; Heavy Assault Cruiser=5.4T; Battleship=4.5T; Strategic Cruiser=3.9T; grp29=3.2T; Combat Battlecruiser=1.8T"
+    },
+    {
+      "region": "Branch",
+      "isk_destroyed_last3mo_t": 3,
+      "ships_destroyed_last3mo": 21089,
+      "top_ship_groups_by_isk_alltime": "Battleship=23.5T; Cruiser=18.0T; Dreadnought=17.2T; Heavy Assault Cruiser=16.2T; grp29=15.1T; grp30=12.7T"
+    },
+    {
+      "region": "Fountain",
+      "isk_destroyed_last3mo_t": 5.2,
+      "ships_destroyed_last3mo": 39026,
+      "top_ship_groups_by_isk_alltime": "Battleship=21.4T; Cruiser=15.6T; grp29=14.2T; Heavy Assault Cruiser=13.7T; Strategic Cruiser=12.9T; Combat Battlecruiser=9.9T"
+    },
+    {
+      "region": "Delve",
+      "isk_destroyed_last3mo_t": 2.4,
+      "ships_destroyed_last3mo": 23830,
+      "top_ship_groups_by_isk_alltime": "grp30=47.0T; Battleship=34.2T; Supercarrier=24.4T; grp29=23.0T; Dreadnought=20.7T; Cruiser=20.3T"
+    },
+    {
+      "region": "Pochven",
+      "isk_destroyed_last3mo_t": 8.3,
+      "ships_destroyed_last3mo": 49315,
+      "top_ship_groups_by_isk_alltime": "Marauder=36.1T; Battleship=28.0T; Strategic Cruiser=11.1T; grp29=10.5T; Interdictor=7.9T; Heavy Assault Cruiser=6.4T"
+    },
+    {
+      "region": "Black Rise",
+      "isk_destroyed_last3mo_t": 1.9,
+      "ships_destroyed_last3mo": 22317,
+      "top_ship_groups_by_isk_alltime": "Frigate=26.9T; grp29=25.9T; Cruiser=24.0T; Battleship=19.7T; Strategic Cruiser=12.7T; Combat Battlecruiser=11.4T"
+    },
+    {
+      "region": "The Bleak Lands",
+      "isk_destroyed_last3mo_t": 0.5,
+      "ships_destroyed_last3mo": 5284,
+      "top_ship_groups_by_isk_alltime": "grp29=13.8T; Cruiser=13.6T; Battleship=12.9T; Frigate=11.8T; Dreadnought=8.2T; Combat Battlecruiser=7.6T"
+    },
+    {
+      "region": "Devoid",
+      "isk_destroyed_last3mo_t": 0.5,
+      "ships_destroyed_last3mo": 3087,
+      "top_ship_groups_by_isk_alltime": "Freighter=10.0T; Battleship=5.8T; Cruiser=5.0T; Frigate=4.8T; Hauler=4.7T; grp29=4.5T"
+    },
+    {
+      "region": "Placid",
+      "isk_destroyed_last3mo_t": 3.6,
+      "ships_destroyed_last3mo": 39195,
+      "top_ship_groups_by_isk_alltime": "Battleship=18.2T; Cruiser=17.9T; grp29=14.7T; Frigate=11.9T; Combat Battlecruiser=10.2T; Dreadnought=9.9T"
+    },
+    {
+      "region": "Geminate",
+      "isk_destroyed_last3mo_t": 18,
+      "ships_destroyed_last3mo": 66384,
+      "top_ship_groups_by_isk_alltime": "Battleship=21.2T; Titan=17.6T; Cruiser=15.5T; Capsule=13.6T; Supercarrier=13.5T; Heavy Assault Cruiser=12.9T"
+    },
+    {
+      "region": "Vale of the Silent",
+      "isk_destroyed_last3mo_t": 12.5,
+      "ships_destroyed_last3mo": 100387,
+      "top_ship_groups_by_isk_alltime": "Battleship=21.6T; Heavy Assault Cruiser=20.1T; Cruiser=20.0T; Capsule=15.8T; Strategic Cruiser=13.5T; Dreadnought=13.2T"
+    },
+    {
+      "region": "Tenal",
+      "isk_destroyed_last3mo_t": 1.2,
+      "ships_destroyed_last3mo": 8011,
+      "top_ship_groups_by_isk_alltime": "Cruiser=5.5T; Heavy Assault Cruiser=5.4T; Battleship=4.5T; Strategic Cruiser=3.9T; Capsule=3.2T; Combat Battlecruiser=1.8T"
+    },
+    {
+      "region": "Branch",
+      "isk_destroyed_last3mo_t": 3,
+      "ships_destroyed_last3mo": 21089,
+      "top_ship_groups_by_isk_alltime": "Battleship=23.5T; Cruiser=18.0T; Dreadnought=17.2T; Heavy Assault Cruiser=16.2T; Capsule=15.1T; Titan=12.7T"
+    },
+    {
+      "region": "Fountain",
+      "isk_destroyed_last3mo_t": 5.2,
+      "ships_destroyed_last3mo": 39026,
+      "top_ship_groups_by_isk_alltime": "Battleship=21.4T; Cruiser=15.6T; Capsule=14.2T; Heavy Assault Cruiser=13.7T; Strategic Cruiser=12.9T; Combat Battlecruiser=9.9T"
+    },
+    {
+      "region": "Delve",
+      "isk_destroyed_last3mo_t": 2.4,
+      "ships_destroyed_last3mo": 23830,
+      "top_ship_groups_by_isk_alltime": "Titan=47.0T; Battleship=34.2T; Supercarrier=24.4T; Capsule=23.0T; Dreadnought=20.7T; Cruiser=20.3T"
+    },
+    {
+      "region": "Pochven",
+      "isk_destroyed_last3mo_t": 8.3,
+      "ships_destroyed_last3mo": 49315,
+      "top_ship_groups_by_isk_alltime": "Marauder=36.1T; Battleship=28.0T; Strategic Cruiser=11.1T; Capsule=10.5T; Interdictor=7.9T; Heavy Assault Cruiser=6.4T"
+    },
+    {
+      "region": "Black Rise",
+      "isk_destroyed_last3mo_t": 1.9,
+      "ships_destroyed_last3mo": 22317,
+      "top_ship_groups_by_isk_alltime": "Frigate=26.9T; Capsule=25.9T; Cruiser=24.0T; Battleship=19.7T; Strategic Cruiser=12.7T; Combat Battlecruiser=11.4T"
+    },
+    {
+      "region": "The Bleak Lands",
+      "isk_destroyed_last3mo_t": 0.5,
+      "ships_destroyed_last3mo": 5284,
+      "top_ship_groups_by_isk_alltime": "Capsule=13.8T; Cruiser=13.6T; Battleship=12.9T; Frigate=11.8T; Dreadnought=8.2T; Combat Battlecruiser=7.6T"
+    },
+    {
+      "region": "Devoid",
+      "isk_destroyed_last3mo_t": 0.5,
+      "ships_destroyed_last3mo": 3087,
+      "top_ship_groups_by_isk_alltime": "Freighter=10.0T; Battleship=5.8T; Cruiser=5.0T; Frigate=4.8T; Hauler=4.7T; Capsule=4.5T"
+    },
+    {
+      "region": "Placid",
+      "isk_destroyed_last3mo_t": 3.6,
+      "ships_destroyed_last3mo": 39195,
+      "top_ship_groups_by_isk_alltime": "Battleship=18.2T; Cruiser=17.9T; Capsule=14.7T; Frigate=11.9T; Combat Battlecruiser=10.2T; Dreadnought=9.9T"
+    }
+  ],
+  "source": "live",
+  "data_dir": "/home/arete/projects/notes/data/raw/eve"
+}
