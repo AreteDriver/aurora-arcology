@@ -4,10 +4,12 @@
  * export. Reads the source corpus (warpath board + news archive) and emits a
  * compact JSON file the client can fuzzy-match in-memory.
  *
- * Title + publisher + date + url + type only — body / excerpt are not
- * included. Manifest stays under 1 MB at the current corpus size (~2.3K
- * sources). Larger corpora can swap to a flexsearch / lunr index when the
- * naive substring scan stops being interactive.
+ * Title + publisher + date + url + type + a truncated excerpt (≤240 chars).
+ * Full bodies are still not stored (IP discipline — click through for the
+ * canonical text); the excerpt is what lets search find a source by *what
+ * it's about*, not just its headline. ~1.5 MB at the current corpus size
+ * (~4.7K sources). Larger corpora can swap to a flexsearch / lunr index when
+ * the naive substring scan stops being interactive.
  */
 import Database from "better-sqlite3";
 import fs from "node:fs";
@@ -30,13 +32,30 @@ interface ManifestRow {
   date: string | null;
   url: string | null;
   type: string;
+  excerpt?: string;
 }
 
-const rows = db
-  .prepare<[], ManifestRow>(
-    "SELECT id, title, publisher, date, url, type FROM sources ORDER BY date DESC, id",
+const EXCERPT_MAX = 240;
+
+const raw = db
+  .prepare<[], ManifestRow & { excerpt: string | null }>(
+    "SELECT id, title, publisher, date, url, type, excerpt FROM sources ORDER BY date DESC, id",
   )
   .all();
+
+const rows: ManifestRow[] = raw.map((r) => {
+  const ex = (r.excerpt ?? "").replace(/\s+/g, " ").trim();
+  const row: ManifestRow = {
+    id: r.id,
+    title: r.title,
+    publisher: r.publisher,
+    date: r.date,
+    url: r.url,
+    type: r.type,
+  };
+  if (ex) row.excerpt = ex.length > EXCERPT_MAX ? ex.slice(0, EXCERPT_MAX - 1).trimEnd() + "…" : ex;
+  return row;
+});
 
 fs.mkdirSync(path.dirname(OUT_PATH), { recursive: true });
 fs.writeFileSync(OUT_PATH, JSON.stringify(rows));
