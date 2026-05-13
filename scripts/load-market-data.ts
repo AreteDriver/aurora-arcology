@@ -1,17 +1,24 @@
 /**
  * load-market-data.ts — pull a fresh market snapshot into data/market/snapshot.json.
  *
- * Reads CSVs from the cron pipeline at MARKET_DATA_DIR (defaults to
- * ~/projects/notes/data/raw/eve), transforms them into a single JSON
- * artifact the /market page reads at build time.
+ * Reads CSVs from the EVE market-intel cron pipeline at the path given by
+ * the MARKET_DATA_DIR environment variable, transforms them into a single
+ * JSON artifact the /market page reads at build time.
+ *
+ * Resolution order for the data dir:
+ *   1. $MARKET_DATA_DIR if set
+ *   2. Vercel build env — skip (no source dir; preserve the committed snapshot)
+ *   3. Local convenience fallback — ~/projects/notes/data/raw/eve IF it exists
+ *      (this is the cron output path on ARETE's laptop; opportunistic, not
+ *      load-bearing)
+ *   4. No source — leave the committed snapshot.json in place and exit
  *
  * Usage:
- *   pnpm market:load                    # read from the default dir
- *   MARKET_DATA_DIR=/path pnpm market:load
+ *   MARKET_DATA_DIR=/path/to/eve pnpm market:load
+ *   pnpm market:load                   # convenience: tries ~/projects/notes/data/raw/eve
  *
- * Vercel builds without MARKET_DATA_DIR fall back to the committed
- * data/market/snapshot.json — the dashboard keeps working with the
- * frozen sample if the script can't find live data.
+ * Refresh ritual:
+ *   bash scripts/refresh-market.sh     # one-shot loader + commit + push when changed
  */
 
 import { existsSync, readFileSync, writeFileSync, readdirSync } from "node:fs";
@@ -23,8 +30,25 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
 const OUT_PATH = join(ROOT, "data", "market", "snapshot.json");
 
-const SOURCE_DIR =
-  process.env.MARKET_DATA_DIR || join(homedir(), "projects", "notes", "data", "raw", "eve");
+const LOCAL_CONVENIENCE_PATH = join(homedir(), "projects", "notes", "data", "raw", "eve");
+
+function resolveSourceDir(): string | null {
+  if (process.env.MARKET_DATA_DIR) {
+    return process.env.MARKET_DATA_DIR;
+  }
+  // Skip the convenience fallback on Vercel / CI — those builds should
+  // use the committed snapshot, not silently look at a path that won't
+  // exist there.
+  if (process.env.VERCEL || process.env.CI) {
+    return null;
+  }
+  if (existsSync(LOCAL_CONVENIENCE_PATH)) {
+    return LOCAL_CONVENIENCE_PATH;
+  }
+  return null;
+}
+
+const SOURCE_DIR = resolveSourceDir();
 
 interface PriceRow {
   type_id: number;
@@ -145,21 +169,16 @@ function loadConflict(conflictDir: string): ConflictRow[] {
   }));
 }
 
-function build(): MarketSnapshot {
+function build(): MarketSnapshot | null {
+  if (SOURCE_DIR === null) {
+    return null; // signal to caller: preserve committed snapshot, exit clean
+  }
   const marketDir = join(SOURCE_DIR, "market");
   const conflictDir = join(SOURCE_DIR, "conflict");
   const haveLive = existsSync(marketDir);
 
   if (!haveLive) {
-    return {
-      generated_at: new Date().toISOString(),
-      snapshot_date: new Date().toISOString().slice(0, 10),
-      prices: [],
-      mpi: [],
-      conflict: [],
-      source: "committed-sample",
-      data_dir: null,
-    };
+    return null;
   }
 
   const prices = loadPrices(marketDir);
@@ -184,9 +203,19 @@ function build(): MarketSnapshot {
 }
 
 const snapshot = build();
+if (snapshot === null) {
+  const reason = SOURCE_DIR
+    ? `source dir ${SOURCE_DIR} exists but has no market/ subdir`
+    : process.env.VERCEL || process.env.CI
+      ? "build env (Vercel/CI) — using committed snapshot"
+      : `no MARKET_DATA_DIR set and ${LOCAL_CONVENIENCE_PATH} not found`;
+  console.log(`[market:load] preserving committed snapshot — ${reason}`);
+  console.log(`[market:load] (set MARKET_DATA_DIR to refresh against live cron output)`);
+  process.exit(0);
+}
 writeFileSync(OUT_PATH, JSON.stringify(snapshot, null, 2) + "\n");
 console.log(
-  `[market:load] ${snapshot.source}: ${snapshot.prices.length} prices, ` +
+  `[market:load] live: ${snapshot.prices.length} prices, ` +
     `${snapshot.mpi.length} mpi rows, ${snapshot.conflict.length} regions ` +
-    `→ ${OUT_PATH}`,
+    `from ${SOURCE_DIR} → ${OUT_PATH}`,
 );

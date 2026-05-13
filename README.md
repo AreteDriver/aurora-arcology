@@ -110,6 +110,38 @@ For curator work, run locally:
 pnpm db:reset && pnpm news:load && pnpm ner:extract && pnpm dev
 ```
 
+## Market dashboard (`/market`)
+
+A companion route that surfaces the EVE market-intel cron pipeline (the daily
+synthesis scripts at `~/projects/notes/scripts/eve-market-*.py`). The pipeline
+is headless by design — it writes CSVs, runs predictions, alerts to Discord.
+`/market` is a thin glance-and-go shell on top of those CSVs.
+
+Architecture:
+- The cron writes CSVs to `data/raw/eve/{market,conflict}/` in the notes repo
+- `scripts/load-market-data.ts` reads them, transforms to JSON, writes
+  `data/market/snapshot.json` (committed — Vercel builds use it as-is)
+- `src/app/market/page.tsx` reads the JSON at request/build time, fully static
+
+```bash
+# refresh against your cron output
+MARKET_DATA_DIR=/path/to/eve pnpm market:load    # explicit
+pnpm market:load                                 # convenience: tries ~/projects/notes/data/raw/eve
+
+# one-shot refresh ritual (loader + commit + push when snapshot changes)
+bash scripts/refresh-market.sh
+```
+
+Suggested cron entry (after the daily 05:30 alerter):
+```cron
+35 5 * * * cd ~/projects/aurora-arcology && /usr/bin/env bash scripts/refresh-market.sh >> /tmp/aurora-market-refresh.log 2>&1
+```
+
+The loader skips automatically on Vercel/CI (preserves the committed snapshot)
+and on any machine without a `MARKET_DATA_DIR` or the convenience path. The
+dashboard footer surfaces the snapshot date so staleness is detectable on
+sight.
+
 ## Spec
 
 The full design document is `aurora-spec-v0.4.md` (root). The Phase 0 execution doc is

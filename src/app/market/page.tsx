@@ -184,14 +184,21 @@ export default function MarketPage() {
         </section>
       )}
 
-      <footer className="text-xs text-zinc-600 pt-6 border-t border-zinc-900">
-        Pipeline:{" "}
-        <code className="text-zinc-400">
-          ~/projects/notes/scripts/eve-market-*.py
-        </code>{" "}
-        (cron, headless). Data: ESI · Fuzzwork · zKillboard · MER. Dashboard is
-        a thin shell over a JSON snapshot — see{" "}
-        <code className="text-zinc-400">scripts/load-market-data.ts</code>.
+      <footer className="text-xs text-zinc-600 pt-6 border-t border-zinc-900 space-y-1">
+        <div>
+          Pipeline:{" "}
+          <code className="text-zinc-400">
+            ~/projects/notes/scripts/eve-market-*.py
+          </code>{" "}
+          (cron, headless). Data: ESI · Fuzzwork · zKillboard · MER.
+        </div>
+        <div>
+          Dashboard is a thin shell over a JSON snapshot. Refresh via{" "}
+          <code className="text-zinc-400">bash scripts/refresh-market.sh</code>{" "}
+          (loader + commit + push when changed). Configure source dir with{" "}
+          <code className="text-zinc-400">MARKET_DATA_DIR=/path</code> if not at
+          the convenience default.
+        </div>
       </footer>
     </div>
   );
