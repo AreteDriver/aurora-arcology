@@ -50,6 +50,7 @@ const STATION_MIN_X_GAP = 20;
 const RELATED_FOCUS_LIMIT = 4;
 
 type DensityMode = "compact" | "balanced" | "roomy";
+type EraMode = "all" | "yc120_and_before" | "yc121_to_yc125" | "yc126_plus" | "undated_only";
 
 const DENSITY_PRESET: Record<
   DensityMode,
@@ -72,14 +73,54 @@ const DENSITY_PRESET: Record<
   },
 };
 
+const ERA_OPTIONS: Array<{ id: EraMode; label: string }> = [
+  { id: "all", label: "all eras" },
+  { id: "yc120_and_before", label: "YC120 and before" },
+  { id: "yc121_to_yc125", label: "YC121-YC125" },
+  { id: "yc126_plus", label: "YC126+" },
+  { id: "undated_only", label: "undated only" },
+];
+
 function asDensityMode(value: string | null): DensityMode {
   if (value === "compact" || value === "balanced" || value === "roomy") return value;
   return "balanced";
 }
 
+function asEraMode(value: string | null): EraMode {
+  if (
+    value === "all" ||
+    value === "yc120_and_before" ||
+    value === "yc121_to_yc125" ||
+    value === "yc126_plus" ||
+    value === "undated_only"
+  ) {
+    return value;
+  }
+  return "all";
+}
+
 function asFocusMode(value: string | null): boolean {
   if (value === "0" || value === "false") return false;
   return true;
+}
+
+function yearFromRawDate(raw: string | null | undefined): number | null {
+  if (!raw) return null;
+  const normalized = normalizeDate(raw);
+  const match = /^(\d{4})/.exec(normalized);
+  if (!match) return null;
+  return parseInt(match[1], 10);
+}
+
+function isNodeInEra(raw: string | null | undefined, era: EraMode): boolean {
+  const year = yearFromRawDate(raw);
+
+  if (era === "undated_only") return year === null;
+  if (year === null) return era === "all";
+  if (era === "all") return true;
+  if (era === "yc120_and_before") return year <= 2018; // YC120
+  if (era === "yc121_to_yc125") return year >= 2019 && year <= 2023; // YC121..YC125
+  return year >= 2024; // YC126+
 }
 
 type Station = {
@@ -138,6 +179,7 @@ export default function ArcsView({ boardId, nodes }: Props) {
   const [focusMode, setFocusMode] = useState(true);
   const [selectedLensId, setSelectedLensId] = useState<string | null>(null);
   const [densityMode, setDensityMode] = useState<DensityMode>("balanced");
+  const [eraMode, setEraMode] = useState<EraMode>("all");
   const [urlInitialized, setUrlInitialized] = useState(false);
 
   const nodeById = useMemo(() => new Map(nodes.map((n) => [n.id, n])), [nodes]);
@@ -247,9 +289,11 @@ export default function ArcsView({ boardId, nodes }: Props) {
       const qsArc = params.get("arc");
       const qsFocus = asFocusMode(params.get("focus"));
       const qsDensity = asDensityMode(params.get("density"));
+      const qsEra = asEraMode(params.get("era"));
 
       setFocusMode(qsFocus);
       setDensityMode(qsDensity);
+      setEraMode(qsEra);
       setSelectedLensId(qsArc);
     };
 
@@ -275,11 +319,13 @@ export default function ArcsView({ boardId, nodes }: Props) {
     const currentArc = current.get("arc");
     const currentFocus = asFocusMode(current.get("focus"));
     const currentDensity = asDensityMode(current.get("density"));
+    const currentEra = asEraMode(current.get("era"));
 
     if (
       currentArc === (selectedLensId ?? null) &&
       currentFocus === focusMode &&
-      currentDensity === densityMode
+      currentDensity === densityMode &&
+      currentEra === eraMode
     ) {
       return;
     }
@@ -288,12 +334,14 @@ export default function ArcsView({ boardId, nodes }: Props) {
     if (selectedLensId) next.set("arc", selectedLensId);
     next.set("focus", focusMode ? "1" : "0");
     next.set("density", densityMode);
+    next.set("era", eraMode);
     const query = next.toString();
     const path = query.length > 0 ? `${window.location.pathname}?${query}` : window.location.pathname;
     window.history.replaceState(null, "", path);
-  }, [densityMode, focusMode, selectedLensId, urlInitialized]);
+  }, [densityMode, eraMode, focusMode, selectedLensId, urlInitialized]);
 
   const densityPreset = DENSITY_PRESET[densityMode];
+  const eraLabel = ERA_OPTIONS.find((opt) => opt.id === eraMode)?.label ?? "all eras";
 
   // Time scale: collect all dates across lensed nodes
   const { tMin, tMax, undatedX, totalW } = useMemo(() => {
@@ -379,8 +427,11 @@ export default function ArcsView({ boardId, nodes }: Props) {
       const rawStations = lens.nodeIds
         .map((id) => nodeById.get(id))
         .filter((n): n is Node => Boolean(n))
+        .filter((n) => isNodeInEra(n.date, eraMode))
         .map((node) => ({ node, x: xFor(node.date) }))
         .sort((a, b) => a.x - b.x);
+
+      if (rawStations.length === 0) continue;
 
       const spread =
         rawStations.length > 1 ? rawStations[rawStations.length - 1].x - rawStations[0].x : 0;
@@ -425,7 +476,7 @@ export default function ArcsView({ boardId, nodes }: Props) {
 
     const height = Math.max(TOP_PAD + BOTTOM_PAD + 120, cursorY - TRACK_GAP + BOTTOM_PAD);
     return { lensTracks: tracks, totalH: height };
-  }, [densityPreset.laneStep, densityPreset.minStationXGap, densityPreset.minTrackH, displayLenses, nodeById, xFor]);
+  }, [densityPreset.laneStep, densityPreset.minStationXGap, densityPreset.minTrackH, displayLenses, eraMode, nodeById, xFor]);
 
   const stationPositionsByNode = useMemo(() => {
     const m = new Map<string, Array<{ lensId: string; x: number; y: number }>>();
@@ -511,7 +562,7 @@ export default function ArcsView({ boardId, nodes }: Props) {
     return { maxLanes, multiLaneTracks };
   }, [lensTracks]);
 
-  const summaryText = `${displayLenses.length} / ${orderedLenses.length} arcs visible · ${nodes.length} board nodes · ${layoutStats.multiLaneTracks} packed tracks · max ${layoutStats.maxLanes} lanes`;
+  const summaryText = `${lensTracks.length} / ${orderedLenses.length} arcs visible · era: ${eraLabel} · ${layoutStats.multiLaneTracks} packed tracks · max ${layoutStats.maxLanes} lanes`;
 
   return (
     <div className="space-y-3">
@@ -559,12 +610,26 @@ export default function ArcsView({ boardId, nodes }: Props) {
             <option value="roomy">roomy</option>
           </select>
 
+          <span className="text-zinc-500">era</span>
+          <select
+            value={eraMode}
+            onChange={(e) => setEraMode(asEraMode(e.target.value))}
+            className="rounded border border-zinc-700 bg-zinc-900 px-2 py-1 text-zinc-300"
+            title="Filter arcs by period to reduce clutter"
+          >
+            {ERA_OPTIONS.map((opt) => (
+              <option key={opt.id} value={opt.id}>
+                {opt.label}
+              </option>
+            ))}
+          </select>
+
           <span className="ml-auto text-zinc-500">{summaryText}</span>
         </div>
 
         <p>
           Stations are lane-packed to prevent overlap; track order is auto-optimized for interchange readability. In
-          focus mode, only the selected arc plus related arcs are shown. Arc, focus, and density are persisted in the
+          focus mode, only the selected arc plus related arcs are shown. Arc, focus, density, and era are persisted in the
           URL for shareable review links.
         </p>
       </div>
@@ -732,26 +797,29 @@ export default function ArcsView({ boardId, nodes }: Props) {
             );
           })}
 
-          {semanticLabels.map((entry) => (
-            <text
-              key={`lbl-${entry.nodeId}`}
-              x={entry.x}
-              y={entry.y - 12}
-              fontSize={10}
-              fontWeight={600}
-              fill="#fafafa"
-              textAnchor="middle"
-              pointerEvents="none"
-              style={{
-                paintOrder: "stroke",
-                stroke: "#0a0a0a",
-                strokeWidth: 3,
-                strokeLinejoin: "round",
-              }}
-            >
-              {entry.name.length > 22 ? `${entry.name.slice(0, 20)}...` : entry.name}
-            </text>
-          ))}
+          {semanticLabels.map((entry) => {
+            const labelX = Math.max(HEADER_W + 20, Math.min(totalW - 20, entry.x));
+            return (
+              <text
+                key={`lbl-${entry.nodeId}`}
+                x={labelX}
+                y={entry.y - 12}
+                fontSize={10}
+                fontWeight={600}
+                fill="#fafafa"
+                textAnchor="middle"
+                pointerEvents="none"
+                style={{
+                  paintOrder: "stroke",
+                  stroke: "#0a0a0a",
+                  strokeWidth: 3,
+                  strokeLinejoin: "round",
+                }}
+              >
+                {entry.name.length > 22 ? `${entry.name.slice(0, 20)}...` : entry.name}
+              </text>
+            );
+          })}
 
           {hoverNodeId &&
             (() => {
@@ -762,22 +830,28 @@ export default function ArcsView({ boardId, nodes }: Props) {
 
               const top = positions.reduce((acc, p) => (p.y < acc.y ? p : acc), positions[0]);
               const lensIds = lensesByNodeVisible.get(hoverNodeId) ?? [];
+              const tooltipW = Math.max(140, node.name.length * 7 + 16);
+              const tooltipX = Math.min(
+                totalW - tooltipW - 8,
+                Math.max(HEADER_W + 8, top.x + 12),
+              );
+              const tooltipY = Math.max(8, Math.min(totalH - 44, top.y - 28));
 
               return (
                 <g pointerEvents="none">
                   <rect
-                    x={top.x + 12}
-                    y={top.y - 28}
-                    width={Math.max(140, node.name.length * 7 + 16)}
+                    x={tooltipX}
+                    y={tooltipY}
+                    width={tooltipW}
                     height={36}
                     fill="#18181b"
                     stroke="#52525b"
                     rx={2}
                   />
-                  <text x={top.x + 20} y={top.y - 14} fontSize={11} fontWeight={600} fill="#fafafa">
+                  <text x={tooltipX + 8} y={tooltipY + 14} fontSize={11} fontWeight={600} fill="#fafafa">
                     {node.name}
                   </text>
-                  <text x={top.x + 20} y={top.y - 2} fontSize={9} fill="#a1a1aa">
+                  <text x={tooltipX + 8} y={tooltipY + 26} fontSize={9} fill="#a1a1aa">
                     {node.type} · {node.date ?? "undated"} · on {lensIds.length} arc
                     {lensIds.length === 1 ? "" : "s"}
                   </text>
@@ -787,21 +861,27 @@ export default function ArcsView({ boardId, nodes }: Props) {
         </svg>
       </div>
 
+      {lensTracks.length === 0 && (
+        <div className="rounded border border-zinc-800 bg-zinc-950 px-3 py-4 text-xs font-mono text-zinc-400">
+          No stations match this filter combination. Try switching era or turning off focus mode.
+        </div>
+      )}
+
       <div className="flex flex-wrap items-center gap-3 px-1 text-xs font-mono text-zinc-500">
         <span>lines{focusMode ? " (focused set)" : ""}:</span>
-        {displayLenses.map((lens) => (
+        {lensTracks.map((track) => (
           <button
-            key={lens.id}
-            onMouseEnter={() => setHoverLensId(lens.id)}
+            key={track.lens.id}
+            onMouseEnter={() => setHoverLensId(track.lens.id)}
             onMouseLeave={() => setHoverLensId(null)}
             onClick={() => {
-              setSelectedLensId(lens.id);
+              setSelectedLensId(track.lens.id);
               setFocusMode(true);
             }}
-            className={`rounded border px-2 py-0.5 ${selectedLensId === lens.id ? "border-zinc-100 text-zinc-100" : "border-zinc-700 hover:border-zinc-500"}`}
+            className={`rounded border px-2 py-0.5 ${selectedLensId === track.lens.id ? "border-zinc-100 text-zinc-100" : "border-zinc-700 hover:border-zinc-500"}`}
           >
-            <span className="mr-1 inline-block h-1.5 w-4 align-middle" style={{ background: arcLineColor(lens.id) }} />
-            {lens.id}
+            <span className="mr-1 inline-block h-1.5 w-4 align-middle" style={{ background: arcLineColor(track.lens.id) }} />
+            {track.lens.id}
           </button>
         ))}
       </div>
